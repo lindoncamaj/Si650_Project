@@ -1,0 +1,272 @@
+{
+    "docid": 68,
+    "Title": "Palace Tang 唐宫",
+    "Type": [
+        "餐馆"
+    ],
+    "Address": "1771 Plymouth Rd ste 104, Ann Arbor, MI 48105",
+    "GPS Coordinates": {
+        "latitude": 42.2983587,
+        "longitude": -83.71956569999999
+    },
+    "Phone Number": "(734) 369-8886",
+    "Rating": 4.8,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 5
+        },
+        {
+            "stars": 2,
+            "amount": 0
+        },
+        {
+            "stars": 3,
+            "amount": 1
+        },
+        {
+            "stars": 4,
+            "amount": 3
+        },
+        {
+            "stars": 5,
+            "amount": 102
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–11 PM"
+        },
+        {
+            "thursday": "11 AM–11 PM"
+        },
+        {
+            "friday": "11 AM–11 PM"
+        },
+        {
+            "saturday": "11 AM–11 PM"
+        },
+        {
+            "sunday": "11 AM–11 PM"
+        },
+        {
+            "monday": "11 AM–11 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–11 PM"
+        }
+    ],
+    "Description": null,
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot"
+            ]
+        },
+        {
+            "offerings": [
+                "Comfort food"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Food was great, price was reasonable, and service was excellent.\""
+            },
+            {
+                "snippet": "\"They have a great selection of soup bases and many hot pot items to choose from.\""
+            },
+            {
+                "snippet": "\"Brand new hot pot place with fresh ingredients.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Chase Ott",
+                "rating": 5,
+                "contributor_id": "107520524115324516294",
+                "description": "This restaurant offers not only delicious food but also exceptional service. I came with my child, and as soon as we walked in, the staff kindly asked if we needed a high chair and prepared it for us, along with a child-friendly fork. When my child started crying during the meal, a staff member quickly noticed and brought over a toy to calm them down, making us feel truly cared for. Besides the attentive service, the food here is also excellent. I’ll definitely bring more friends here, as the food is delicious, and the service is truly thoughtful—a rare combination!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYNDdHRktBEAE!2m1!1s0x0:0xc3c1e1318a6d9b61!3m1!1s2@1:CIHM0ogKEICAgIDX47GFKA%7CCgsIyoyKuQYQ-Iv0Jw%7C?hl=en-US",
+                "date": "a week ago"
+            },
+            {
+                "username": "jessica",
+                "rating": 5,
+                "contributor_id": "116868249457705104182",
+                "description": "I was amazed when I came here for the first time! The environment here is very high-end and the decoration is beautifully Chinese. The hot pot tastes very good. I tried the Chongqing hot pot and the waiter came to confirm the spiciness with me, which made me feel very considerate. The ingredients are very fresh and taste very good! I recommend everyone to come and taste the traditional Chinese delicacy. It is the best hot pot in Ann Arbor!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURiM0tQU0FnEAE!2m1!1s0x0:0xc3c1e1318a6d9b61!3m1!1s2@1:CIHM0ogKEICAgIDb3KPSAg%7CCgsI4MS2tQYQkPXnAw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMktnzWeYUE9qGH0OGgpkCmQJC43EZ-rTCdMxrx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO2xDc6W7nAMz5DUoOE7LU7aNFBtqRcnr_swEcd=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Will Zhang",
+                "rating": 5,
+                "contributor_id": "104603550035270394493",
+                "description": "Didn't expect a hotpot location in Ann Arbor.  It's pretty awesome.\n\nI haven't had hotpot in a while and the food is great. Cost is also pretty reasonable for what you can get. Definitely filled a craving here.\n\nInterior is pretty spacious and the atmosphere is nice.\n\nGreat if you have a group, I highly recommend here. Not downtown, but location is pretty convenient to get to and have plenty of parking.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNyblBleUhREAE!2m1!1s0x0:0xc3c1e1318a6d9b61!3m1!1s2@1:CIHM0ogKEICAgICrnPeyHQ%7CCgwIwbyctAYQyKLangE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOoBER2Tqp1OYBkOhJSp6-jJ-5BzvVeQb6WmmSC=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Yinpei Dai",
+                "rating": 5,
+                "contributor_id": "106912004078353317063",
+                "description": "I can not believe I can find such a nice place in Ann Arbor! It’s so authentic and delicious, reminding me of my home town. Everyone who’s visiting umich should definitely try this out! The beef and fish are pretty fresh, and hot pot will make you experience a truly amazing trip of spicy flavor！",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURiaXBEdFNnEAE!2m1!1s0x0:0xc3c1e1318a6d9b61!3m1!1s2@1:CIHM0ogKEICAgIDbipDtSg%7CCgwIoJO7tQYQsLHbjAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOZqvQHAezcPhyqrWEyqHXQB3u3bO6imJ3mfREd=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQBd-4GcolVscls5Jj9yxXAFoA0V-cFXOtTjPk=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Marcel Elkouri",
+                "rating": 5,
+                "contributor_id": "101416377692865748142",
+                "description": "came during soft launch (May 9) so menu may potentially be different than my photos. On the pricer side, I’ve had similar if not better quality in Chicago for cheaper. Sauce bar is pretty damn delicious, and they have tons of meat delicacies imported from East Asia. All meat and veggies were really delicious. Bean curd sheet tasted like a bandaid. I am hopeful they update that one. Head waitress is extremely personable. Will definitely return for special occasions.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN6aWRURGp3RRAB!2m1!1s0x0:0xc3c1e1318a6d9b61!3m1!1s2@1:CIHM0ogKEICAgICzidTDjwE%7CCgwIm6H0sgYQgM3M5gE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONcvQ-NKtvPvSNvZAZxZtkuGDE-17kqOOq9z1j=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNic5fu2pHcrVjkgQ0JMhbpj7ilg-Zx2tzrl3Gs=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPemmXFguNft7IpA1xU0O9bPx0yjfNAeWTC7JJK=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNaGhQTn9vUfJ63nyaGdNZN9LpzfUNzdcac8gQF=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Caroline Yang",
+                "rating": 5,
+                "contributor_id": "114446863495457951344",
+                "description": "The best place for hot pot! Not far from the campus. Decoration is very good, service is excellent, and dish is served quickly and fresh. Will definitely come again!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3N3BLT3F3RRAB!2m1!1s0x0:0xc3c1e1318a6d9b61!3m1!1s2@1:CIHM0ogKEICAgIC77pKOqwE%7CCgwIufj5tQYQqL-3nQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPAE_bNi64kP8B9oDtflboMdo5yvv7nRgjHSKsv=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMKbGSY07hw3-rBmhISPvAUs_vaOKS1TKf8PuVQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNUTcIMOiUCwfdqIA8IAVElnoU2Tnk9i-ZvdueS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM_hj4zJ4IFFcUZr40-ZUnaugwZnRxDYi1WZLB2=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOFAPU86mGOxDhh7bzR6a21hKNsvJoqybAL3TCL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOVE0LmORFcReJrKU2rYPUIJZ3-uU--2hffDYXm=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN-kekfkTDQCcxJ_IwoIgV27LyQImy1fsS0B8F8=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Chulwon Lee",
+                "rating": 5,
+                "contributor_id": "105416772281571033509",
+                "description": "Very authentic foods, super nice staffs, reasonable price with good portion, fancy and modern atmosphere. One of the best dinner out options in Ann Arbor.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYaHJMLTlBRRAB!2m1!1s0x0:0xc3c1e1318a6d9b61!3m1!1s2@1:CIHM0ogKEICAgICXhrL-9AE%7CCgsIyIi7uAYQ2JCkFA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPKOJb4HVS5KXG4fRxIL1QainiOHeR2UjRueMYl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPCHoTkbaD8-SwWOWGbXnRm3E8bpM0hllBNm3Lp=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO2ZtFEEbtUfYI1V1xllp7Z3nMbIpjvu7GXecNG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNehvOmRn_2GRWO8Fhe-5rbsuJLg6EUiOx4U9lx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOsduL7lg3cPUFoHMI3CenGqJDUv9nLLProxE6h=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Seulki Park",
+                "rating": 3,
+                "contributor_id": "107590944080569160070",
+                "description": "Update (9/14): I've visited five times over the past two months, and it’s disappointing to see the quality of the food decline. The $18 premium Wagyu beef is now thinner, smaller, and more fatty than before. The 1 meter cow has also shrunk and isn't as good as it used to be.\nThe soup tastes different too—it's just very salty without the rich meat flavor, so I had to add water.\nI was really excited when this hot pot place first opened but now I’m quite disappointed.\nI’m giving it 3 stars for its past taste, friendly staff and the clean restaurant.\n------------------------------------------------------------------------------------\nOriginal review:\nI love this place. It's clean, the hot pot is super delicious, and the service is great.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChRDSUhNMG9nS0VJQ0FnSUQ3cUlRahAB!2m1!1s0x0:0xc3c1e1318a6d9b61!3m1!1s2@1:CIHM0ogKEICAgID7qIQj%7CCgwI7qqctwYQ8JvljwM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOjNfckzHsfxboSh09XaJULcM-kcgXFtTkf9lXJ=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            }
+        ]
+    }
+}

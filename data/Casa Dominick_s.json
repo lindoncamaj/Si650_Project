@@ -1,0 +1,307 @@
+{
+    "docid": 22,
+    "Title": "Casa Dominick's",
+    "Type": [
+        "Restaurant"
+    ],
+    "Address": "812 Monroe St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2731485,
+        "longitude": -83.73871779999999
+    },
+    "Phone Number": "(734) 662-5414",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 19
+        },
+        {
+            "stars": 2,
+            "amount": 22
+        },
+        {
+            "stars": 3,
+            "amount": 54
+        },
+        {
+            "stars": 4,
+            "amount": 186
+        },
+        {
+            "stars": 5,
+            "amount": 462
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "10 AM–9 PM"
+        },
+        {
+            "thursday": "10 AM–9 PM"
+        },
+        {
+            "friday": "10 AM–9 PM"
+        },
+        {
+            "saturday": "10 AM–9 PM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "10 AM–9 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "10 AM–9 PM"
+        }
+    ],
+    "Description": "Cozy spot for traditional Italian eats & pizza with cocktails in Mason jars & a patio with fountain.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Great beer selection",
+                "Great cocktails",
+                "Rooftop seating"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Hard liquor",
+                "Quick bite",
+                "Small plates",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Gender-neutral restroom",
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Historic",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "children": [
+                "Kids' menu"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Great food, great price, great atmosphere, great staff.\""
+            },
+            {
+                "snippet": "\"Super comfortable place to have some sangria and pizza on a hot summer day.\""
+            },
+            {
+                "snippet": "\"No table service, drinks served in Mason jars; good bar snacks and sandwiches.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Pierre Horgrow",
+                "rating": 5,
+                "contributor_id": "112808339936778785359",
+                "description": "Beautiful, local ❤️, & 𝓛𝓞𝓥𝓔𝓛𝓨 🌹 environment. Delicious food. Got a vegetable quesadilla & I absolutely love it ❣️",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYamJDOVRnEAE!2m1!1s0x0:0x9662f086c966d774!3m1!1s2@1:CIHM0ogKEICAgIDXjbC9Tg%7CCgwIrY2GuQYQkNXD1QE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOd08V_Hjby0rgBBjXMFNN66ky26ZH85adehg1i=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOnUWZcZ31UX23953i7uOBJoFFQc1u5fYax4ZC9=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a week ago"
+            },
+            {
+                "username": "Rylee Carlton",
+                "rating": 5,
+                "contributor_id": "112925636656197326779",
+                "description": "The best part of this place is the atmosphere. I feel like I'm at a family member's house both because of the building and dishes. The outdoor seating area is very peaceful and charming as well. A very cozy restaurant for sure.\n\nEverything is a bit pricey, that's my only complaint. The food tastes great and the staff are friendly",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNuOW9iRjlBRRAB!2m1!1s0x0:0x9662f086c966d774!3m1!1s2@1:CIHM0ogKEICAgICn9obF9AE%7CCgwIgK3StwYQ-MiU2QE%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "J Albz",
+                "rating": 3,
+                "contributor_id": "105541021789859396595",
+                "description": "As an alumn, Dominick’s is nostalgic. Fun drinks (Constant Buzz/Sangria). However, like everything these days, everything here is overpriced. Employees are not overly friendly. My friend ordered Bosco sticks and received salsa instead or marinara as a side and when asking for marinara because of this mistake they wanted to charge her an extra $1 for the tiniest cup you could imagine. They could improve on the quality of the ingredients they use for the price. The outdoor seating/patio area and drinks, mixed with nostalgia, is what keeps you coming back.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMOUs3NnJ3RRAB!2m1!1s0x0:0x9662f086c966d774!3m1!1s2@1:CIHM0ogKEICAgICL9K76rwE%7CCgwIrrS4swYQ6KS6mAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOfo_Q_rol1fuWfv3msPsV-KuEZEBV6REKoewg5=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Ebru Herzog-Uras",
+                "rating": 5,
+                "contributor_id": "107168213197163261486",
+                "description": "One of Ann Arbor's oldest continually running locales and underappreciated gem. I would definitely contact them for reservations if you're with a large group, but otherwise this is a truly peaceful charming space. People of all ages and backgrounds are warmly welcomed, just read the signs, follow their instructions for how to order and pick up your food and beverages and lean in to the experience. My folks have been coming here since the late 70s, early 80s, and we are so glad that this gem is still around.\n\nMy secret tip? Don't pass on the food - the prices are super affordable and the portions are huge. Plus the food good.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURScU5mQ3F3RRAB!2m1!1s0x0:0x9662f086c966d774!3m1!1s2@1:CIHM0ogKEICAgIDRqNfCqwE%7CCgwIl6vxoQYQ-KWPpAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOrOFnWw7nhh_QOniXonPIKXY5Qz1rAr2n7E7DG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNdzHkuO83ynxP0RrZBHfoeupITtZYq4wEawzfZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMrmHeZ884megyxv35csXwmcVLrTbJU8Dl3mr4C=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPqSxHTgsLuz9zkWTCdfTQ_Z5ke8HrrBw7soprm=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMp0K4TpD-4XtfCA8VqfnMGGrYwzK1pf77Y1nIP=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPFntDfDJjJFJSFdtlgqHp2IFnl620xZc8rWSOo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMWJeU-XyKwoxMWEGY6CuKtV70AYnj7ezf-TXtG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMEvOlOtWbcFja7RLGyll62t2SDebtvb5jRZxKh=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "girl math",
+                "rating": 5,
+                "contributor_id": "117734876234346360721",
+                "description": "I had an excellent experience my first time there ! I went with my mom as a late mother's day treat, and I'm currently on crutches due to a knee injury for context.\n\nFirst, we walked in and were immediately greeted by someone who may have been the owner? Or, a very good manager. He had a dry-but-funny sense of humor, was super helpful in explaining how the restaurant worked typically, and sent us to the counter to order.\n\nThe person at the counter was extraordinary! He was a great conversationalist, had excellent customer service skills, and clearly put a lot of care into his job. I really wish I was better at remembering names, but he was incredibly kind and helpful.\n\nI got the sangria to share with my mom, and I ordered a roast beef sandwich. Pretty sure my mom ordered an egg plant sandwich of some sort, I know she loved it.\n\nBut the thing that really stuck out to me - this restaurant came across as more self-serve, but seeing as I was on crutches, the same person who had taken our order brought our food out to us outside. I thought that was incredibly kind of him, and I hope he knows how grateful we are.\n\nThe food was amazing - normally I'm a very picky eater, but the sandwich was fantastic, and the Sangria was probably the best Sangria I've ever had. I ended up going back for an order of Spinach and Artichoke dip, which I was also impressed with. Another person took my order for the spinach dip, also excellent service skills, and my food was brought out to me again.\n\nTL;DR - Excellent restaurant, excellent food, excellent service. I would recommend this restaurant to any adult.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUemF6UWVnEAE!2m1!1s0x0:0x9662f086c966d774!3m1!1s2@1:CIHM0ogKEICAgICTzazQeg%7CCgsI9cOesgYQ-NTATA%7C?hl=en-US",
+                "date": "5 months ago"
+            },
+            {
+                "username": "MeMyself I",
+                "rating": 5,
+                "contributor_id": "102310907064911213077",
+                "description": "Absolutely the best, old style \"Italian subs\" (larger) and \"Italian sandwiches\" (regular sized) in A2, on fresh, crusty, heated Italian bread. The \"Sub\" size could be shared between two people, or eaten for two separate meals, because it's stuffed high with yummy meat, cheese, shredded cabbage & red onions, covered by an excellent Italian herb (oily) dressing.\n\nYep, several napkins are necessary to eat your \"Italian\", served in a paper-lined, 1950's diner style, plastic basket.\n\nHonestly, in 50+ years, it's the ONLY thing that I've EVER ordered. It's a \"must go eat at\" or pickup/To Go spot, every time I'm in town, except for winter time & annual \"Art Fair week\". They might be closed during some/all of the holiday week in December, once the students are gone. Double check for their hours.\n\nSeveral other types of Italian food,  multiple pizza options, and select Vegetarian items are available on the menu too.\n\n>> Traffic sucks anywhere around downtown, Main St. or State St., S. + N. University, and surrounding areas, which are ALL closed off during annual Art Fair week. This occurs the 3rd Thursday-Saturday of every July, but set up starts at least a day ahead of that. Just don't attempt to park in the area. <<\n\nIn Summer 2024, there's ZERO parking anywhere along Monroe St. in front of the building. It's completely closed off (every parking meter is covered), and many surrounding areas/streets are blocked/partially closed, due to construction. There is limited side street parking in the area though.\n\nHowever style wise, it's like a very dark dive bar, with old style pics and *stuff* hanging on the walls surrounding the handful (LITERALLY) of indoor small table tops. You could comfortably sit 1-3 people MAX, at each. You'll line up to place your order, in between the these few indoor tables. Outdoor patio/garden seating, and To Go orders, are what they're known for.\n\nThere's quite a bit of CASUAL front patio, street view, metal chairs & tables (across from the UM Law Quad) + rear outdoor dining, in the back garden area!\n\nA few long time, not gonna ever change things, which all add to its unique charm:\n\n1. Tables can be reserved (inc. for groups) ahead of time. When you come into the front open patio, look for your party's name on the round cardboard pizza disc, pinned onto the right side of the wall, just before you go inside to order. Pay attention, cuz this hand written round cardboard directs you to YOUR exact reserved table/area. And don't try to slide into anyone's else's Reserved Table. Big No No!!\n\n2. Regardless of what name you give them, you can barely understand anything that's announced over their god-awful speaker system!! KEEP YOUR EARS OPEN, to listen for your order to be called. Then go back in to pick it up, basically in the foot-wide area where you placed your order. LOL\n\n#TIP: give them a ONE SYLLABLE NAME for pickup, even if it's not yours! Anything of 2+ syllables is REALLY HARD to comprehend. Especially when it's crowded (ie. Every Friday afternoon, plus other times I'm sure)!!\n\n3. When you order a drink, (outside of a self contained bottle) it WILL BE SERVED in a little dinky jam/jelly sized glass container (like small canning jars). Yep, for real !! It's always been that way, probably always will be. If you order a full bottle of wine, they'll recork it for you to go/no charge, if unfinished.\n\n4. Their Sangria is excellent. But I definitely don't think the 32-Oz sized container holds 32 ounces. At least it doesn't look like it. The 16 Oz size = \"4 glasses\"!^\n\n5. ^Remember, when they quote the number of \"glasses per\" whatever size you order, it's those dinky little jam jar sized glasses❗️I literally LOL'd when they set the Sangria container on the tray, then set the 2 \"jar/glasses\" beside it. I hadn't had it in many years, but forgot about the \"servings\"!!\n\nAt first I thought, \"No way are you getting 4 glasses out of the small \"pitcher/jar\"... LOL So Ok, I guess you can get 4 dinky jam \"glasses\" out of the 16 Oz sized serving jar of Sangria!! It's pricey, but homemade and delicious!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNiaG95N0dBEAE!2m1!1s0x0:0x9662f086c966d774!3m1!1s2@1:CIHM0ogKEICAgICbhoy7GA%7CCgsI6O2NtQYQsIr1YQ%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "James Goerke",
+                "rating": 5,
+                "contributor_id": "114870547795315215397",
+                "description": "As a visitor to Ann Arbor I was taken here by friends. I found it amazing! It’s exactly the kind of American college town place we all know and love. We all have a Dominick’s of our own and coming here brought back all those feelings of good times.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURKNUxMWDhRRRAB!2m1!1s0x0:0x9662f086c966d774!3m1!1s2@1:CIHM0ogKEICAgIDJ5LLX8QE%7CCgwI2te0pQYQiKvFqwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNqhE5puJW0bYrVlVPoOfXbHx9Z0k2IX7t6qlIq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPwpnsVN9QEhjX5lCnrSv34VM7vAas0n6P0LqVs=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN_SdN5DbSWchX7sF9HMmX6d-zOC0LWbM7cs7qF=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMitEC-cHrCQtine99CKHMz_Ju_LwTptMrUErEl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMSRjwRs8Erf_YDt3MT_deW56-llbnAP71b7Dm-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOIm94a52GR8wze-Wxm1cJGmE0BxtJodC6RCOuN=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPfuVny5CaqtXsmPyCk_dqK3fnlbm8XN6HCKYhB=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPKXteMJ73F4mAQNKQ6nVnGXKJOm1n_ZVASeqYh=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNahRuXBtDhnExmFLmSHxitLjro_yBhStxkPDGe=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP6LcXWxikF4d8_3YrdHUT6yaqWWDkDU76Sc8nN=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPU7i4MuU_4PP_atKDaKTKV3iBj7zOyb-oGrBQ6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMyGdeFXcuEGVvvdxp4cAHwE7q5u_ZPyzI1fFsG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNPxwV12mxTplLHYcCm83MpXlnmKt6yi840vtpA=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Vikram Bala",
+                "rating": 4,
+                "contributor_id": "118263460813448768909",
+                "description": "This place is phenomenal when the weather is nice 🌞 Great seating area outside and good energy all-around! Price is quite high for most of the food items; that was my only knock...",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNqanBqZW53RRAB!2m1!1s0x0:0x9662f086c966d774!3m1!1s2@1:CIHM0ogKEICAgICjjpjenwE%7CCgsIqL21sQYQ8KSbBg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP2Fc8GerqURfR0gJBsJIwwJqbdvFcaUDoheLJs=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            }
+        ]
+    }
+}

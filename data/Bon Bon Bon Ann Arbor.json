@@ -1,0 +1,210 @@
+{
+    "docid": 16,
+    "Title": "Bon Bon Bon Ann Arbor",
+    "Type": [
+        "Dessert shop",
+        "Candy store",
+        "Chocolate shop",
+        "Dessert restaurant"
+    ],
+    "Address": "5 Nickels Arcade, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2783436,
+        "longitude": -83.74164909999999
+    },
+    "Phone Number": "(313) 316-1430",
+    "Rating": 4.7,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 1
+        },
+        {
+            "stars": 2,
+            "amount": 2
+        },
+        {
+            "stars": 3,
+            "amount": 1
+        },
+        {
+            "stars": 4,
+            "amount": 6
+        },
+        {
+            "stars": 5,
+            "amount": 58
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–7 PM"
+        },
+        {
+            "thursday": "11 AM–7 PM"
+        },
+        {
+            "friday": "11 AM–7 PM"
+        },
+        {
+            "saturday": "11 AM–7 PM"
+        },
+        {
+            "sunday": "12–6 PM"
+        },
+        {
+            "monday": "11 AM–7 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–7 PM"
+        }
+    ],
+    "Description": null,
+    "Details": [
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot"
+            ]
+        },
+        {
+            "planning": [
+                "Quick visit"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "NFC mobile payments"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Artisan Chocolate, with amazing decorations and combinations of flavours.\""
+            },
+            {
+                "snippet": "\"Friendly staff, good chocolates in a really cool market.\""
+            },
+            {
+                "snippet": "\"I was around town for work and one of the coworker recommended this place.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Sydney Tran",
+                "rating": 5,
+                "contributor_id": "106195486605344506294",
+                "description": "My absolute favorite shop in the world. It’s a bit pricey but sooo worth it. Their caramel ones are out of this world. Great for gifts and such cute packaging. Also try their bons of the season and month, those are always so good. Swimming Turtle, hazel what, lemon bar none, leo, Boston cooler, and lil hottie are my favs!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNIeGFuWlZREAE!2m1!1s0x0:0xfef117c4670b5e00!3m1!1s2@1:CIHM0ogKEICAgICHxanZVQ%7CCgsI1pfutgYQ8ODhZQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO3sl_UpTU1HgbkDMTlVft_1QkuxrWzvCqwnMef=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPK4aPnV7Js_mnVkmnobhKDRb0SZOCMprwanRk2=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPk_Qju_5bsEHvNh8SpuZ7nwoyhW7qCHtZHaNWm=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOG0NAe7To5mgWLMC05w4vDwYS8ASirKaYFnVHk=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Sherry Fu",
+                "rating": 5,
+                "contributor_id": "114221572268377787847",
+                "description": "Bon bon bon is located at the end of the valley, a little bit hidden but cute inside! The pinky atmosphere is really cute and great to take photos. The chocolate types and styles are various, and it’s great to be a little gift for friends or collection!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYNHJYbTJBRRAB!2m1!1s0x0:0xfef117c4670b5e00!3m1!1s2@1:CIHM0ogKEICAgIDX4rXm2AE%7CCgwIh-PuuAYQuJyHggM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPsnSNaGTSWCik9wifHc6gUb-5ww_EiwMWgqNm4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNPe-Hk0ay0HPAlzHGN-3ca0MnpdTbgc9Mm8Jk3=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a week ago"
+            },
+            {
+                "username": "celadonkim",
+                "rating": 5,
+                "contributor_id": "108060041429008127212",
+                "description": "A very cute shop with a fun flair. There is a counter with roughly a few dozen choices of individually boxed chocolate parcels. Each chocolate rectangular bowl is filled with a thoughtful combination of fillings and textural components highlighting a complementary flavor pairing. Staff are friendly and patient. They take great care to package your selection nicely regardless of the size of your order. Have bought these as unique and locally crafted gifts and they have always been well received.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuXzhyYlNREAE!2m1!1s0x0:0xfef117c4670b5e00!3m1!1s2@1:CIHM0ogKEICAgIDn_8rbSQ%7CCgwI7aunuAYQ0NG42gM%7C?hl=en-US",
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Charity Hoffman",
+                "rating": 5,
+                "contributor_id": "115469778798587134264",
+                "description": "I didn't want to like them-- they're not cheap -- but, my husband bought me my first box for Mother's Day and they're so so good. Each one better than the last. Just delectable. Just tell yourself that for the price, you get all the satisfaction of a great dessert without all the calories 😘",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURUX2JyVWRREAE!2m1!1s0x0:0xfef117c4670b5e00!3m1!1s2@1:CIHM0ogKEICAgIDT_brUdQ%7CCgwItdbPsgYQuKSAuwM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNlaR_TfSVldkMU0OeC076kYf_eBKUC-H8ssEi9=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Emily Simpson",
+                "rating": 5,
+                "contributor_id": "110660507041415218638",
+                "description": "Service was amazing. Staff was so kind, I wish I got the nice ladies name who checked us out, she was amazing and deserves every kind thing in this world. Yesterday was my birthday and we showed up a little late since dinner ran late and the place happened to be closed, however, the kind woman opened back up and served us once she saw we were about to leave. Sweet soul made my day. On top of the wonderful service and kind acts their chocolates are amazing!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3NnF1dXlBRRAB!2m1!1s0x0:0xfef117c4670b5e00!3m1!1s2@1:CIHM0ogKEICAgIC76quuyAE%7CCgsIz4P1tQYQ0KGgHQ%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Lewis Cardenas",
+                "rating": 5,
+                "contributor_id": "106169153330171304040",
+                "description": "Slightly pricey but incredibly tasty. We enjoyed every flavor we tried, particularly the Cereal Killer and S'mores. The service was excellent, and the mini-store was a delightful addition.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEN1lYZ3p3RRAB!2m1!1s0x0:0xfef117c4670b5e00!3m1!1s2@1:CIHM0ogKEICAgICD7YXgzwE%7CCgsIsJulsAYQuMefGg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM-o2yxVpQ-y6PYRUF3PHQeTLxz_t5oklKHfAcv=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNa6P5lBIfP8qKmHIk3Q0tMIUpMr_tXkEsIbXdu=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPymGaGp1QzMQYdzdJyafrCZQoxuQSZkh4XRmnl=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "M Nedloc",
+                "rating": 5,
+                "contributor_id": "103494640570223980121",
+                "description": "If you like small chocolate confections then this can be your new go to place for those chocolate cravings. Plenty of parking, although you must pay up to the designated times unless you know someone I don’t. Located in Nickels Arcade, there is a small shop called Bon Bon Bon and they have a wonderful selection of small chocolates amongst different flavors and aesthetics. They arrange them visibly so you can see each individual chocolate with their name and with a description containing its contents. They have their usual popular flavors and they do switch out and or add more options every so often and holidays to switch up the taste. The workers here are kind and can assist with any questions about the store. After choosing your chocolates they are all grouped and personally packaged, cutesy packaging I might add. After deciding which chocolates you’d like to devour, they do have merchandise they sell as well that range from hats, sweatshirts, accessories and more. I saw this shop randomly on my lunch break and I am glad that I did because after carefully choosing which 6 chocolates I wanted I came back a day or two later to buy more and to get extras to take home. Mind you, I live in a different state so I was a bit worried, but they traveled really well with me. If you like chocolate, do it. Do it.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNSdDlpTmx3RRAB!2m1!1s0x0:0xfef117c4670b5e00!3m1!1s2@1:CIHM0ogKEICAgICRt9iNlwE%7CCgwIr8XcoQYQ4OOl7QE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNyxlX7dou0wQtrjG4KzG6sIo5c6u5y7G1yuCZM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNW7BA3SfB39xl1NVLwZdFqfDZevhpR9hkN35Vg=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO7Jb4o7Z8ekAUiRYmURzuZ63omgcBn8ea88SN5=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "gwen wilson",
+                "rating": 2,
+                "contributor_id": "101319618521578115235",
+                "description": "I visited the Ann Arbor Michigan Store on 7/6/2024. The candy is superb. However, the service was interesting. I was with my friend and when she made her purchase the cashier was warm, friendly, and eagerly invited her to become a points member. When I purchased my candy, I was just given my order and I paid and I was never invited to become a points member. My friend is White, I am Black. The service we both received was very different.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNyX3JtOWxRRRAB!2m1!1s0x0:0xfef117c4670b5e00!3m1!1s2@1:CIHM0ogKEICAgICr_rm9lQE%7CCgsIkcurtAYQ-Pf4bQ%7C?hl=en-US",
+                "date": "3 months ago"
+            }
+        ]
+    }
+}

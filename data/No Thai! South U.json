@@ -1,0 +1,220 @@
+{
+    "docid": 62,
+    "Title": "No Thai! South U",
+    "Type": [
+        "Thai restaurant",
+        "Asian restaurant"
+    ],
+    "Address": "Campus location, 1300 S University Ave #3, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.274738,
+        "longitude": -83.7329666
+    },
+    "Phone Number": "(734) 222-8080",
+    "Rating": 4.1,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 40
+        },
+        {
+            "stars": 2,
+            "amount": 21
+        },
+        {
+            "stars": 3,
+            "amount": 60
+        },
+        {
+            "stars": 4,
+            "amount": 178
+        },
+        {
+            "stars": 5,
+            "amount": 283
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–10 PM"
+        },
+        {
+            "thursday": "11 AM–10 PM"
+        },
+        {
+            "friday": "11 AM–10 PM"
+        },
+        {
+            "saturday": "11 AM–10 PM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "11 AM–10 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–10 PM"
+        }
+    ],
+    "Description": "Local chain spot preparing noodles, stir-fries & other familiar Thai dishes in a low-key space.",
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Comfort food",
+                "Quick bite",
+                "Vegan options",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"This place has tasty food and great portions for the price.\""
+            },
+            {
+                "snippet": "\"Easy walk from work mixed with the delicious food and amazing service.\""
+            },
+            {
+                "snippet": "\"Personal fave is Potato Curry with tofu and brown rice.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Severin Vogt",
+                "rating": 5,
+                "contributor_id": "106171896508600669295",
+                "description": "No Thai was my first ever Thai restaurant I’ve been to. I had the gang pak red curry and rice with shrimp. It came out in just minutes and was absolutely delicious when I took a bite of it. The portions are huge for the prices. It’s a shame that I don’t live here or I’d come here everyday!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNua2RHdHlBRRAB!2m1!1s0x0:0x8d6acd0b9c68e078!3m1!1s2@1:CIHM0ogKEICAgICnkdGtyAE%7CCgsI743YtwYQuLe8IA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOkLVZdZNMUmX9fzfW0g0Qk8Jw3C11Zl6UUCZfu=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Vikram Bala",
+                "rating": 3,
+                "contributor_id": "118263460813448768909",
+                "description": "I'm not sure why this place gets so much hype; maybe because it's one of the few Thai places in Ann Arbor (which is odd in itself). I've had so much better Thai food in so many other places. That being said, the speed 💨 and price 💰 of this place makes it very convenient for college students, thereby raising my overall score.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNqanBTelpnEAE!2m1!1s0x0:0x8d6acd0b9c68e078!3m1!1s2@1:CIHM0ogKEICAgICjjpSzZg%7CCgsI7b-UsQYQuKfXeg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPraUtPEiED8tzieLpBXWs3rHnuiDqVr25pfemx=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "Jim",
+                "rating": 4,
+                "contributor_id": "113174730745082596989",
+                "description": "Food is really good 90% of the time, the other 10% of the time it’s just not cooked right (not enough spice or too much spice, under or overcooked, taste is off by a lot, etc) The employees are friendly enough. They don’t seem super enthusiastic about their job but they aren’t rude or off putting in any way. No Thai is a good once a week lunch for me since it’s really expensive now. I remember when a Pad Thai Curry and spring rolls was under $15. Now it’s $20+ and they throw that tip request at you when paying by card. Hopefully their quality and consistency gets a little better someday but it’s been this way for years so I’m not expecting that to really ever happen.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNIdjlhRFFREAE!2m1!1s0x0:0x8d6acd0b9c68e078!3m1!1s2@1:CIHM0ogKEICAgICHv9aDQQ%7CCgsIzb-CtwYQuNPXBg%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Hasan Ahmed",
+                "rating": 5,
+                "contributor_id": "114409344607715410860",
+                "description": "Friendly staff and EXTREMELY quick service. My order is usually ready within a few minutes of ordering. Sometimes my order is ready before I even have a chance to sit down after ordering. I’d highly recommend the Shrimp Pad Thai. The amount of food you get is incredible for the price, and is delicious. Highly recommend to anyone looking for Thai food in Ann Arbor.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURIN3VlVmVnEAE!2m1!1s0x0:0x8d6acd0b9c68e078!3m1!1s2@1:CIHM0ogKEICAgIDH7ueVeg%7CCgwI5M-ftwYQ-JjCyQM%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "A. Vaidya",
+                "rating": 5,
+                "contributor_id": "117550002776145252814",
+                "description": "Beware, all No Thai! Restaurants are NOT the same. This location (South U.) is the BEST place to get your thai food in town, it’s phenomenal. In contrast, the South Main location has been truly awful. We’ve had Pad Thai and Drunken Noodles from both locations, and it’s shocking how different the quality is between two restaurants. Despite the South U. location being further away from me, I’ll go here anytime compared to South Main.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYbHRMelNREAE!2m1!1s0x0:0x8d6acd0b9c68e078!3m1!1s2@1:CIHM0ogKEICAgIDXltLzSQ%7CCgsIkvf1uAYQ-MCdTA%7C?hl=en-US",
+                "date": "a week ago"
+            },
+            {
+                "username": "John Ainsworth",
+                "rating": 5,
+                "contributor_id": "101122333201753872093",
+                "description": "#14 Sweet & Spicy Chicken, Dim Mak 😛\n\nEDIT: If you’re not from Texas/Louisiana (or Thailand), don’t try the Dim Mak. It’ll ruin your day.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3eWY2WHJBRRAB!2m1!1s0x0:0x8d6acd0b9c68e078!3m1!1s2@1:CIHM0ogKEICAgIC7yf6XrAE%7CCgwIq-D-tQYQ-IGwmgM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPWE5mMjd0RIwDhqdnJbtt8VuMSDkmkplaY3LJ6=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Justin Thomas",
+                "rating": 1,
+                "contributor_id": "100996448739390570359",
+                "description": "The food is great. The only issue is they stiff you on the portion when ordering to go. Sweet and spicy chicken when dining in is a ridiculous amount, but when you get it to go, it's 1/3 of the size. Tested and proven. Not sure why they feel the need to short me on their delicious chicken. Maybe order in, then pack it up to go yourself.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNOamRQWFp3EAE!2m1!1s0x0:0x8d6acd0b9c68e078!3m1!1s2@1:CIHM0ogKEICAgICNjdPXZw%7CCgwImIibrQYQgNTY-gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPO0nZGsSWMr6Ar7W2vjk8b67jpA4f4d6zGOuxW=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "9 months ago"
+            },
+            {
+                "username": "moon",
+                "rating": 3,
+                "contributor_id": "107941603363087964272",
+                "description": "not the worst but so so bland, for a thai place it seriously lacks any spice. i ordered fried rice at yoga flame just to play it safe but it tastes like nothing at all. their pad thai is a saving grace, though, so not horrible. i recommend if you're just looking for something to fill your stomach, but maybe steer clear of their fried rice lol",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURMenFYM1hBEAE!2m1!1s0x0:0x8d6acd0b9c68e078!3m1!1s2@1:CIHM0ogKEICAgIDLzqX3XA%7CCgwIhP72swYQ0NfMrAI%7C?hl=en-US",
+                "date": "4 months ago"
+            }
+        ]
+    }
+}

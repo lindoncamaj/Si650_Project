@@ -1,0 +1,360 @@
+{
+    "docid": 49,
+    "Title": "Mani Osteria and Bar",
+    "Type": [
+        "Italian restaurant",
+        "Bar",
+        "Pizza restaurant"
+    ],
+    "Address": "341 E Liberty St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.279587,
+        "longitude": -83.7442246
+    },
+    "Phone Number": "(734) 769-6700",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 45
+        },
+        {
+            "stars": 2,
+            "amount": 35
+        },
+        {
+            "stars": 3,
+            "amount": 84
+        },
+        {
+            "stars": 4,
+            "amount": 325
+        },
+        {
+            "stars": 5,
+            "amount": 1117
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "4–10 PM"
+        },
+        {
+            "thursday": "4–10 PM"
+        },
+        {
+            "friday": "12–10 PM"
+        },
+        {
+            "saturday": "12–10 PM"
+        },
+        {
+            "sunday": "12–9 PM"
+        },
+        {
+            "monday": "Closed (Veterans Day)"
+        },
+        {
+            "tuesday": "4–10 PM"
+        }
+    ],
+    "Description": "Wood-oven pizza & Italian small plates plus bar with old-world wines & local beer in an open setup.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Great dessert"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Healthy options",
+                "Late-night food",
+                "Small plates",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Romantic",
+                "Trendy",
+                "Upscale"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Dinner reservations recommended",
+                "Accepts reservations",
+                "Usually a wait"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "children": [
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free street parking",
+                "Paid parking garage",
+                "Paid street parking",
+                "Somewhat difficult to find a space"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"The dish comes with a bed of beans cooked with bacon - very flavorful.\""
+            },
+            {
+                "snippet": "\"Service is great and prices go according with the quality of food/service.\""
+            },
+            {
+                "snippet": "\"Yummy pizza and pasta but the real great stuff are the appetizers in my opinion.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Greg S",
+                "rating": 5,
+                "contributor_id": "117642393292032339942",
+                "description": "This place exceeded our expectations. It is spacious, with tables both indoors and outside, well trained staff, and real wood ovens firing within view. Very comfy! We ordered shrimp scampi (6 large shrimp, $18) and pizza with red onions, pistachios, and goat cheese. Pizza was thin-crust, baked just perfectly, cut in 6 large slices, well enough for 2 people ($18). For dessert, we had cannolis (3 with different fillings, $7) and coffee (free, a nice surprise!). The restaurant is in a nice neighborhood. Street parking is available nearby, free after 6pm and on Sundays.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNicXVDWi1BRRAB!2m1!1s0x0:0x9cfcdfd3f86788d6!3m1!1s2@1:CIHM0ogKEICAgICbquCZ-AE%7CCgwIibmKtQYQiNvDygM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOIXsH208RLxqLgvXFxHDSY1bjIMCNRfkJDjD1Y=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNWbuUcoBxIa4aqFlLRpTEE-hmmBqXww3EZFG8W=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMC8rGFOsFy745CfvPb3JH29krITwoqGk93vqkw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNgHgHJu8vhJV-d6uGOr3H0E1NEBxwqLUOA8BsG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPXjSgVOxi4UbK-SVnkLa6q_AqocgT5bLjtJt-b=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Prasanth Ganesan",
+                "rating": 4,
+                "contributor_id": "111227196604666105014",
+                "description": "Good variety of elevated dishes that had their own unique flavor. Definitely one of the better Italian restaurants in Ann Arbor. Their bread had a delicious compound butter dip (seen in picture). Great place to go for a celebration.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURyNTRxVWpRRRAB!2m1!1s0x0:0x9cfcdfd3f86788d6!3m1!1s2@1:CIHM0ogKEICAgIDr54qUjQE%7CCgwIq4nxtAYQsNu3ugM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMWejMYV13_Ixlk9gpBS-_GdzBS2fmYv6yiBtyE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPsiT1D6nnJ-6izJA9STN2ICIo14aB_7vBbI6Sz=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPC191nH05xYb1ptzIrtpvMHV84igyQTVs3fDvC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPJtI9NBsypa6jA22RelOIyU4PPSJ-CYCYKNaBE=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "S Singh",
+                "rating": 4,
+                "contributor_id": "102419840471453034092",
+                "description": "I had a wonderful experience at MANI Osteria in Ann Arbor! Despite being crazy busy, they got the food out on time, and our server Emma was outstanding. She was so pleasant and awesome, making the whole experience even better. If I lived here, I'd definitely be a regular. Maybe next year! 🍕 #GreatService #DeliciousFood #AnnArbor",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNib2F1WkVREAE!2m1!1s0x0:0x9cfcdfd3f86788d6!3m1!1s2@1:CIHM0ogKEICAgICboauZEQ%7CCgwItq2WtQYQ0JrkkgE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPbCWKGV_ce1nVPVAc069E7KbUZxSBKvgijvSBv=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPa-nQ9o5QyvmDmVRh8O_tn5XaeypJ3hLHUV8Yq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPMhhKQxwSJ1dva2HOFg3rNp4uefRVMf23tfjlL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNeVU1rtTA5de9xeA6oYlhaAzf1GOjru4M6qOh_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMplKMFrvR215eYA8HhxyOgYmntff86R-NcVj0-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOaC0tByCM541drRo2WvT_Z5lnTPU9skoaeksp_=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Alexander Baylerian",
+                "rating": 5,
+                "contributor_id": "102595205314062656508",
+                "description": "This place is always a 10/10. My fiancé have never had anything less than a perfect meal here. The food, service, vibe is always great! This time we got the Bronzino, puttanesca pizza, and octopus salad. Each dish was killer and that fish may be the best we have ever had!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR6dHJHX1RREAE!2m1!1s0x0:0x9cfcdfd3f86788d6!3m1!1s2@1:CIHM0ogKEICAgIDztrG_TQ%7CCgwIlZqZswYQ0Ive6QE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPpNnoKTJhKAqC17Wjuv58UCH5UQjhiJ7FMvvp_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPcgbtxgORB-HBRavz_0gbnnljeBtnkO5vq0bik=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Harry",
+                "rating": 4,
+                "contributor_id": "111995896153963207597",
+                "description": "Mani Osteria offers a unique dining experience in Ann Arbor, with standout dishes like the pistachio and onion pizza, which is a cool and flavorful combination. The eggplant appetizer is also a great choice, though the accompanying pizza bread was a bit too burnt for my taste. Despite that, the overall quality of the food and atmosphere makes it a spot worth visiting for a unique twist on Italian cuisine.\n\nStreet parking\nPatio\nLot of food options around",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNId2FhSEdBEAE!2m1!1s0x0:0x9cfcdfd3f86788d6!3m1!1s2@1:CIHM0ogKEICAgICHwaaHGA%7CCgsIvNTntgYQ2NDKHA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMp5R3NM9Ua_PDI8TwbzuAoFbIS5wQDkFsDjYK9=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Grace Fairbanks",
+                "rating": 4,
+                "contributor_id": "106790309083186693125",
+                "description": "I’d give it a 4.5 if I could but they don’t do half stars. But it just wasn’t a 5 star.\n\nService was decent. But the Caesar salad was pretty bad, pretty much all those flavorless middle pieces of lettuce and no croutons and barely any cheese. Pizza was good. Chicken parm was good but the spaghetti that came with it was just ok.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURUN3VYWDBBRRAB!2m1!1s0x0:0x9cfcdfd3f86788d6!3m1!1s2@1:CIHM0ogKEICAgIDT7uXX0AE%7CCgwIs5XEsgYQ6I7X-AE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQoppx2oPqM28Uwgyjpc9WZSA6U0lIpxMenIni=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOFiIG3kqlRHp36eeRqbtEMyX52OaC5bSIOaByA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOhLzIBlkbvSeTi_mS2dwoEKGr8RPZSqC0XlHz6=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Zee Mattingly",
+                "rating": 5,
+                "contributor_id": "106957093267934966603",
+                "description": "One of my favorite restaurants in Ann Arbor! The salad and pizza are both incredible and the atmosphere is lovely. The service is always amazing.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3eS15NEtREAE!2m1!1s0x0:0x9cfcdfd3f86788d6!3m1!1s2@1:CIHM0ogKEICAgID7y-y4KQ%7CCgwI9Om8tgYQ6JipnwM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPAGP7uuDc_4TjzNoBSQilLNjrEkBXKzyVY40cF=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Yoshi Kuronuma",
+                "rating": 5,
+                "contributor_id": "110891120322819999086",
+                "description": "Great food and service.  The restaurant staff is very friendly and professional manner.  Good knowledge and describe foods and drinks.  Each dish was good size portion.  We ordered several foods and shared.  Love the restaurant atmosphere and great place with your friends, family, coworkers, and someone special.  They don't take a reservation, so it better to be there with extra time.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURaeTdQZTdRRRAB!2m1!1s0x0:0x9cfcdfd3f86788d6!3m1!1s2@1:CIHM0ogKEICAgIDZy7Pe7QE%7CCgwIqd6HqQYQyNbAkwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMI-JadvZSu_Qwb2dGyVdWfETFtT6ztewiygKb-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMpsFRdK311P12rWLhcvkJpzFZsAJkmyATA5K22=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN20DZgbaQy4VqxA1E8imoWMtbYTucZ6YZhFGch=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNs7LmOaQWTAqnEBNISMx5Hc802b3gXKgvjcUB-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrbKHbRjBd9j5TlRVoDWnUFRvyod7OgrGwnMeg=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMImUlsXReNunRRSEwfNMMIxPbA_Hg0gNG9QiCm=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOH6wVE71crOYZ926ouDEiGcwwadkU7WNfRVpC3=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM1Vusdm1_W4WKwXiXqMIkxGe7uy7eciHDdw1LD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNGMobW5DwaspYXqyLVE5o2yzjqkF_Eyb6gWsEp=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOvgFSZmw4IZGYYDlyZWtxkXUmcz_6Jb50QywgG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMwvSzM-WQLVeZWMxOvy-j5Kdb7yd9Gjglprcet=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHKuE0AvkIAfPFv3JSbHQuj_cYPo-f_vyMWcyo=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            }
+        ]
+    }
+}

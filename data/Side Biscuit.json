@@ -1,0 +1,293 @@
+{
+    "docid": 85,
+    "Title": "Side Biscuit",
+    "Type": [
+        "Restaurant"
+    ],
+    "Address": "1232 Packard St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2652645,
+        "longitude": -83.7348121
+    },
+    "Phone Number": "(734) 531-6777",
+    "Rating": 4.8,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 3
+        },
+        {
+            "stars": 2,
+            "amount": 2
+        },
+        {
+            "stars": 3,
+            "amount": 4
+        },
+        {
+            "stars": 4,
+            "amount": 4
+        },
+        {
+            "stars": 5,
+            "amount": 179
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "4–10 PM"
+        },
+        {
+            "thursday": "4–10 PM"
+        },
+        {
+            "friday": "11 AM–10 PM"
+        },
+        {
+            "saturday": "4–10 PM"
+        },
+        {
+            "sunday": "4–9 PM"
+        },
+        {
+            "monday": "Closed (Veterans Day)"
+        },
+        {
+            "tuesday": "Closed"
+        }
+    ],
+    "Description": null,
+    "Details": [
+        {
+            "highlights": [
+                "Fast service"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Comfort food",
+                "Late-night food",
+                "Quick bite",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Seating"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "LGBTQ+ friendly",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids"
+            ]
+        },
+        {
+            "parking": [
+                "Free street parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Small place but great food and the owner is a super nice guy.\""
+            },
+            {
+                "snippet": "\"Great chicken fingers with minimal breading tossed in Buffalo sauce.\""
+            },
+            {
+                "snippet": "\"The complex flavors being served out of this corner pickup are insanely tasty!\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Helen Xu",
+                "rating": 5,
+                "contributor_id": "116146223687415597011",
+                "description": "Chef Jordan Balduf is a Buffalo native. More expensive than a chain but well worth it. Think jamaican jerk sauces, szechuan rubs, and the classic Buffalo. He also puts out weekly special flavors for wings/biscuits/sandwiches. Part of @misfitbiscuits, food popups around AA including Lucha Puerco, Basil Babe, Juicy Oistre, and Beautiful Boy Bakery. [Add'l notes if you're from Buffalo: pizza logs on the menu, occassional Old Pink inspired steak sandwiches, Coztanzo's rolls for the sandwiches, and Bills gear plastered all over the shop.] Go bills!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNEeGFYZldBEAE!2m1!1s0x0:0x4585067e1334d336!3m1!1s2@1:CIHM0ogKEICAgICDxaXfWA%7CCgwIjdCgsAYQ0OO43gE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO6zLMUv6qDpFc-c_51H63djjSbSqMre30_GHG0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN1p1ik5-KzRwQGBP6UEGMhsjnfUY5cKqU5M2lM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNdfO8d04u8dNHThnvTqOCaCXEF3DLlkXJCj56e=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMvxX3NfDdXmQkWKegf2lwK1VRZvvxOaAgi9AK-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO4-RAlXMfMeTbQS00rgDrxsyJvuoISyNUUp4SR=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOT8QhgkjQr_IEvhQX2BbtClX7Yx-UUXZmASCu5=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNcVDlaY04Kham3uuMDhqwdJtKg7Y309x8EnUxM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNcLrunCUMWpA9sI20LB8vJTRR8q4YYWqRlxrXa=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "C K",
+                "rating": 5,
+                "contributor_id": "101445933210700716839",
+                "description": "We'd seen this place on a few \"best places to eat in Michigan\" lists on IG, so checked it out yesterday.\n\nFirst of all the vibes are immaculate. They were playing Norwegian folk rock and the general ambiance of all the staff was upbeat and cheerful.\n\nThe wings were DELICIOUS. My partner had the gochuchang and I had the panang. I almost fell out of my seat when they brought our biscuits - aged smoked cheddar, corn, jalapeños, and tajin compound butter. I'm pregnant and have been wild about tajin lately.\n\nUpon hearing this the owner ran in to get me a tajin lime wing they were testing out. It was amazing! He also double checked that I was okay with some of the ingredients in the parang, which was very thoughtful.\n\nI am very inspired by the owners story, and how his business really grew out of this grassroots, community love of food and sharing experiences. We will TOTALLY be back next time we are in town.\n\n10/10 worth every penny!!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6c3Vld2tnRRAB!2m1!1s0x0:0x4585067e1334d336!3m1!1s2@1:CIHM0ogKEICAgIDzsuewkgE%7CCgsI9pGUswYQkIbZFA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPx9iQ2Qa2-XGrBf3RJWP2rFElm41ASvBzn7P6D=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Evan McLean",
+                "rating": 5,
+                "contributor_id": "100001649588934916298",
+                "description": "Their spicy garlic is excellent.. I truly hope they add it permanently to the menu because  it was hands down our favorite out of all five flavors we tried. All of the other wings were excellent, but it was a toss up on what the second favorite was. I'm normally not a fan of dry rub, but the brogarashi was excellent and I loved the spice & flavor on the Gucci gang. I thought the Penang was on the weaker side but still worth trying. I still need to try the biscuits but the wings were ready very quickly and I'm looking forward to trying out more wings in the future.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURPOUlIem9BRRAB!2m1!1s0x0:0x4585067e1334d336!3m1!1s2@1:CIHM0ogKEICAgIDO9IHzoAE%7CCgsI9prulQYQqP3_FQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNLZp9I7JefKaGyvWMCTir3zBmn21VINj_jnD7f=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP72vPI3vt30jgbwI5qRguvcW6GmdKYWGuibJSp=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP1zfXZ-_-GgOIBVGjdgLDUD0w2FWC8w0SLPQ6z=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNTqAWOm--w6sMJeO8n0mdTeTIfkLSx0LJVYgIN=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMUz-yxl8MBf5CVegefCywfI6j6bQEje3Hr-JGI=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            },
+            {
+                "username": "Ethan Zars",
+                "rating": 5,
+                "contributor_id": "115172661089202891051",
+                "description": "This place serves super delicious wings and chicken sandwiches and biscuits. The traditional flavors are done to a very high quality. The chef takes a lot of inspiration from Asian cuisines in crafting some of the other sauces in sometimes surprising and extremely creative ways. The sandwich of the week is always a solid choice.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURMaDQtY2h3RRAB!2m1!1s0x0:0x4585067e1334d336!3m1!1s2@1:CIHM0ogKEICAgIDLh4-chwE%7CCgsI9aWLtAYQyL_XAw%7C?hl=en-US",
+                "date": "4 months ago"
+            },
+            {
+                "username": "Curtis Damon",
+                "rating": 5,
+                "contributor_id": "115426517413954101225",
+                "description": "Chef Jordan always knocks it out of the park. From the driveway, pop-up events, and now his own brick & mortar. If you are looking for a \"large\" Buffalo, NY style wing, this is your place. Flavors are out of bounds and the sides would be relished in a 5* sit-down, let alone a wing joint. Do yourself a favor, and come enjoy the flavor.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNLOE4tOVpnEAE!2m1!1s0x0:0x4585067e1334d336!3m1!1s2@1:CIHM0ogKEICAgICK8N-9Zg%7CCgwI1MD0ggYQ-MTVqAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipODVS5WPhkV8e5hcDvI1YBlPJMv66Vsp6Z8IFeM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN7D6uASCmeZhtXDdLRtG0ppxXPMwccIY7Bes4e=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPFnz5D9g90AVpv4pFlx3CvWZ0SrF2oqSQj3z8O=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPeWMqLjIFlqMFZ7YI5WeC_Q1Dm9f4m3xI1csh_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPtt2k3snjug4EqiyRh8FusqLUPmFu8h083ogIA=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 years ago"
+            },
+            {
+                "username": "Jacob Gutting",
+                "rating": 5,
+                "contributor_id": "106619497826912175080",
+                "description": "I’ve gone to this place for years now and I think it’s time I give a review. The wings here are incredible. The flavors are so unique and interesting. No other wings even come Close to this place in my opinion. The loaded fries are awesome too. The prices haven’t changed in years. Highly, highly, highly recommend.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR6aDQ3c0Z3EAE!2m1!1s0x0:0x4585067e1334d336!3m1!1s2@1:CIHM0ogKEICAgIDzh47sFw%7CCgsI95yoswYQiKKaZw%7C?hl=en-US",
+                "date": "4 months ago"
+            },
+            {
+                "username": "Prathik Hosalli",
+                "rating": 5,
+                "contributor_id": "114626442442953548994",
+                "description": "These are some of the best wings I've had full stop. I got the buffalo wings, the sauce was spicy and vinegary, the chicken was juicy, and the whole thing lasted only five minutes before I cashed it. The miso biscuit was excellent too, it was flaky and salty, perfect with the spicy wings. Can't wait for them to fully open, I already want more right now.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR5MGNXNWlRRRAB!2m1!1s0x0:0x4585067e1334d336!3m1!1s2@1:CIHM0ogKEICAgIDy0cW5iQE%7CCgwI7JalggYQyM-o-gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMq6AU1fRK228Li1GGx-yzCU9TcvQ_CJn_k8-Mf=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNSF1POlMKk-BoKFEGu9odNsbzaCm9Auz3jcDda=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 years ago"
+            },
+            {
+                "username": "Chris Hassett",
+                "rating": 5,
+                "contributor_id": "109784412587187620238",
+                "description": "This place is fantastic. Jordan and the crew are awesome people.  I’ve never had better wings Anywhere. The flavors between the dry rubs and the sauces are super unique. The variety of the different biscuit every week is also fantastic. DON’T SLEEP ON THIS PLACE. #TeamFlats!!!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHOC1HYXdnRRAB!2m1!1s0x0:0x4585067e1334d336!3m1!1s2@1:CIHM0ogKEICAgIDG8-GawgE%7CCgwIsb_GjQYQkPqmnQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOwdXGdDnxsRPrGJZXFFu3YCNh6uvO5NaS3nVkh=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPqa8ALcOSIe44GVfl7Od7-_9knY32hkCswdhZT=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            }
+        ]
+    }
+}

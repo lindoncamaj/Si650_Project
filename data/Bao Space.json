@@ -1,0 +1,299 @@
+{
+    "docid": 10,
+    "Title": "Bao Space",
+    "Type": [
+        "Restaurant",
+        "Asian restaurant",
+        "Bubble tea store",
+        "Chinese restaurant",
+        "Chinese takeaway",
+        "Dim sum restaurant"
+    ],
+    "Address": "205 N Main St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.282592699999995,
+        "longitude": -83.74881859999999
+    },
+    "Phone Number": "(734) 436-8488",
+    "Rating": 4.6,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 2
+        },
+        {
+            "stars": 2,
+            "amount": 4
+        },
+        {
+            "stars": 3,
+            "amount": 15
+        },
+        {
+            "stars": 4,
+            "amount": 15
+        },
+        {
+            "stars": 5,
+            "amount": 123
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–7:30 PM"
+        },
+        {
+            "thursday": "11 AM–7:30 PM"
+        },
+        {
+            "friday": "11 AM–8:30 PM"
+        },
+        {
+            "saturday": "11 AM–8:30 PM"
+        },
+        {
+            "sunday": "11 AM–7:30 PM"
+        },
+        {
+            "monday": "Closed (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–7:30 PM"
+        }
+    ],
+    "Description": null,
+    "Details": [
+        {
+            "from_the_business": [
+                "Identifies as Asian-owned",
+                "Identifies as women-owned"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Coffee",
+                "Healthy options",
+                "Organic dishes",
+                "Quick bite",
+                "Salad bar",
+                "Small plates",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Counter service",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Gender-neutral restroom",
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking lot",
+                "Paid street parking",
+                "Plenty of parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed",
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Friendly staff, tasty food that's very good for the price.\""
+            },
+            {
+                "snippet": "\"Came with my family and ordered a second round of buns bc they were sooo good.\""
+            },
+            {
+                "snippet": "\"The lotus leaf wrapped sticky rice and chicken tasted authentic too.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "D “Juanito” H",
+                "rating": 3,
+                "contributor_id": "114187871045557704407",
+                "description": "I grew up in Ann Arbor, and I still come back once in a while since I left more than 15 years ago.  I like the joints back in the days because they offered good quality food, though old school.  Now everything is just trendy and mediocre.\nThis is a cramped little joint.  Clean.  It was Ann Arbor Air Fair weekend, the joint was at about 60% capacity.  They ran out of the popular Pork Bao and the Hot and Sour soup, maybe those could've helped my rating but too bad.  They ran out before noon, how is it possible?   They make the Bao continuously in the open kitchen.\nI had the Beef and Onion Bao and the Shrimp Bao, the meat core was OK, you can taste the MSG, the dough had the right chew and density.  But they are not $3.50 - $4.00 ea. good.  They are slightly better than the frozen ones you can buy from the Chinese supermarket.  I saw some people even compared this to Ding Tai Fung, I feel bad for people who are still suffering from taste lost post COVID.\nThe most disappointing items are the miso soup and the rice bowls.  Both the braised pork and the braised beef were just OK, nothing like what they should be.  The flavors are too bland, the servings are small for the costs, but you do get a ton of semi-hard rice with it.   The miso soup was absolutely revolting.  It is just miso with some hot water, sea weed and tofu, absolutely no flavor and taste water down.  I had instant miso soup from the convenient store better than that.  Over all,  these food items are cafeteria quality.\nNo alcohol here, just some soft drinks.  I simply cannot give it more than 3 stars.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURydDlYaFJREAE!2m1!1s0x0:0x9f3b79f56aa013f8!3m1!1s2@1:CIHM0ogKEICAgIDrt9XhRQ%7CCgwI5ZPTtQYQkJ6enAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO36LppUm1dciyTmtL3SGVOYNq5XNFC4XY_Z4FV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOUs6VPXVjwS6AeA0VLLqNn9WK2yw8UdmawBGbZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOkoVmcja7bhRGUmcFATlTwMEOXLiC3pGeYdQUM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP78qWbvDo1Tyivd27ILqRgpLqwYvOAgfVVT_NP=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNcwhZwtssnjTbMttKzYDptPGgiKiiXavMLWBwR=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyeKtYoRUJqf_9hjlK9MmproQszRLiQXzCqJfy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQlmUyoyM3-wCE_ErSliMFVishSiEjcVMUmDM8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPV77g4gZAtK3wRjo232XCGX_wnesCmBgO-X8NH=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMJpy2DHMTnHwFHMeqnsvH1Ad0sohkmUrIKoS2V=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO-EavBbXYY4himkaaE5q9ssDUhpUYhCnJvGmAU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOx1e8_eT-qyKAbWqtMkf1mQh9BUErrktFa9Odv=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPukZrxoh3QUlo-r2LtrNScdoIKT2iPRxlZJ77I=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Marli Henderson",
+                "rating": 5,
+                "contributor_id": "118064151287808688589",
+                "description": "Bao space is my one true love. Never had a bad bao here. Food is yummy, atmosphere is chill. Can be a bit cramped when very busy but I’ve found that doesn’t happen often. Their lemon water is so good. Small drink selection but the water is so good that I never order a drink. The shrimp bao is my favorite!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNub0pubDlRRRAB!2m1!1s0x0:0x9f3b79f56aa013f8!3m1!1s2@1:CIHM0ogKEICAgICnoJnl9QE%7CCgwIuvm7twYQqMan7QE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPfWTGlBa2Bh-JDpSnV_6s4IL96MucvUv9jfuQo=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Natasha Flynn",
+                "rating": 2,
+                "contributor_id": "109883540334491402958",
+                "description": "Bao filling was good but dough was dense.\n\nThe hot and sour soup was bland. The cold sour noodles were ok and the cucumber dish was oily and lacking in flavor.\n\nDumplings were the best thing on the menu and were 6/10.\n\nWould not recommend.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNucmJqTVBnEAE!2m1!1s0x0:0x9f3b79f56aa013f8!3m1!1s2@1:CIHM0ogKEICAgICnrbjMPg%7CCgwInLLgtwYQwNXRlAI%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "preston mann",
+                "rating": 3,
+                "contributor_id": "109973750144014633302",
+                "description": "I saw this place after and saw the reviews were good so I thought I would try it. The food was definitely good despite being a little salty, but portion size was small and the bill was big. Strangely it was the cheapest ingredients that they were cheap on, like rice and vegetables. The rice bowl had 3 baby bok choy leaves and about a half a cup of cooked rice 😬. The boa where good, but $3.50 to $4.00 a piece for an ounce of meat/veg in rice bun. Rice is Cheap!!!!!!  Anyways with 3 whole employees they might want to through another boa in, a little more rice/veg and they might have more than a small handful of tables at lunch directly across the street from every municipal building for the city of Ann Arbor.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURIODZQaG5nRRAB!2m1!1s0x0:0x9f3b79f56aa013f8!3m1!1s2@1:CIHM0ogKEICAgIDH86PhngE%7CCgwIspGytwYQgLHiwwI%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Pun Punyasavatsut",
+                "rating": 3,
+                "contributor_id": "109023526755736912588",
+                "description": "These were great quality ingredients that are adjusted to fit the western palette. Not bad by any means, but I would not recommend for the reason that it is not authentic.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqZ1ltRVJ3EAE!2m1!1s0x0:0x9f3b79f56aa013f8!3m1!1s2@1:CIHM0ogKEICAgIDjgYmERw%7CCgwI3OPVsQYQiNT-ywE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN5g-xKARziq35CdxaYFO_rL-3CsvsthsH7A3hP=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP4mLuyXWQkpa_sGA2LJI60w1h0c9MzTekYPB-D=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPBEjf2wam2wns3JVmfWk4_P1AzeihZVUIleGiE=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "EWC",
+                "rating": 5,
+                "contributor_id": "105298368825474386952",
+                "description": "The BBQ bao was my favorite, but also really enjoyed the gyoza as well. Food was ready pretty quick and good service. Also wish there was a hot noodle option, cold ones were OK. Will definitely come back again to try more.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM5ckx2SWl3RRAB!2m1!1s0x0:0x9f3b79f56aa013f8!3m1!1s2@1:CIHM0ogKEICAgIC9rLvIiwE%7CCgwI3sSTrwYQyL_18wE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOiYzjPUB_41W8sRDVgN_O3XNOih5GaSWfBqdoR=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "Taylor Wedekind",
+                "rating": 5,
+                "contributor_id": "105079341582394652097",
+                "description": "I ate the Berkshire pork buns and the beef and onion buns with my fiance. We also had the black sesame buns for our sweet. I came back for the beef rice bowl, and it was AMAZING. Even tho it's summer it wasn't to hot and didn't make you feel uncomfortable. The service is really good and the atmosphere is very friendly. Highly recommend you visit either by yourself or with the family!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6XzlqQzhnRRAB!2m1!1s0x0:0x9f3b79f56aa013f8!3m1!1s2@1:CIHM0ogKEICAgIDz_9jC8gE%7CCgwI9rWtswYQiODDhwI%7C?hl=en-US",
+                "date": "4 months ago"
+            },
+            {
+                "username": "A",
+                "rating": 4,
+                "contributor_id": "118239801137723274149",
+                "description": "It was pretty good. The shumai doesn’t have meat which was disappointing but it was still good! Make sure to get the dumplings pan fried. It’s so good! The sesame noodles are great as well. Don’t forget to get a drink, even though it’s not their speciality, they have good boba that’s worth a try. It’s a open space as well with outside seating.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNaaU1qWDZ3RRAB!2m1!1s0x0:0x9f3b79f56aa013f8!3m1!1s2@1:CIHM0ogKEICAgICZiMjX6wE%7CCgsIye_OpwYQiMrJRQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNFxEqNtuUeJ67FcZlL7NyEcXB44x_Vr5JHxNez=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNVcAwevii1HFSQ3SXnHbAn8GKgFrQHkqEOVv66=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            }
+        ]
+    }
+}

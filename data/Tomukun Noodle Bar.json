@@ -1,0 +1,280 @@
+{
+    "docid": 103,
+    "Title": "Tomukun Noodle Bar",
+    "Type": [
+        "Noodle shop",
+        "Asian restaurant",
+        "Japanese restaurant"
+    ],
+    "Address": "McKinley Towne Center, 505 E Liberty St Suite #200, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2795257,
+        "longitude": -83.7426887
+    },
+    "Phone Number": "(734) 995-8668",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 83
+        },
+        {
+            "stars": 2,
+            "amount": 72
+        },
+        {
+            "stars": 3,
+            "amount": 120
+        },
+        {
+            "stars": 4,
+            "amount": 338
+        },
+        {
+            "stars": 5,
+            "amount": 1138
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11:30 AM–9:45 PM"
+        },
+        {
+            "thursday": "11:30 AM–9:45 PM"
+        },
+        {
+            "friday": "11:30 AM–9:45 PM"
+        },
+        {
+            "saturday": "11:30 AM–9:45 PM"
+        },
+        {
+            "sunday": "11:30 AM–9:45 PM"
+        },
+        {
+            "monday": "11:30 AM–9:45 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11:30 AM–9:45 PM"
+        }
+    ],
+    "Description": "Upmarket noodle house dishes up udon, ramen & Pan-Asian mains amid a rich wood interior.",
+    "Details": [
+        {
+            "popular_for": [
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom"
+            ]
+        },
+        {
+            "dining_options": [
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid parking lot",
+                "Paid street parking",
+                "Somewhat difficult to find a space"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Ordered carry out - two ramen dishes, curry udon and crispy spring rolls.\""
+            },
+            {
+                "snippet": "\"Prices are good for portion size and quality of food.\""
+            },
+            {
+                "snippet": "\"Duck was over cooked and all the vegetables tasted like onion.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Christina Urso",
+                "rating": 5,
+                "contributor_id": "113121285649034746595",
+                "description": "We were traveling through Ann Arbor and found this wonderful place. I got the Butter Corn Ramen which was absolutely amazing and it came in a HUGE portion. My husband enjoyed his ramen as well. We will absolutely be back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN6eHBtNnhRRRAB!2m1!1s0x0:0x2aa46e7609358f5!3m1!1s2@1:CIHM0ogKEICAgICzxpm6xQE%7CCgwIh5btsgYQuODklgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMRibacf9Z0RmQ8oIDhoOyH5uxuiim4Ngib1dNS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOhPhqa22l0Xq0AgrmnNsiSFRWYI51UQZxXJeLO=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNpSXpbuIyQW8pxeyAg_fzrxTwprAarYWYy9Iqt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMRRKbs2LUb9Y6VsO6sseEbAVqoGMylh6o8xMfr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO7pW8x9Uzk3zSxxN73048bN6ymNw4fZb2oMw3P=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Val Brentar",
+                "rating": 5,
+                "contributor_id": "114686914887606179675",
+                "description": "Best ramen ever and the city knows it. The service was amazing our waiter went above and beyond. I had another awesome experience with my husband on date night. And I still have yet to have something from there that I don’t like.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURyekpTSXNRRRAB!2m1!1s0x0:0x2aa46e7609358f5!3m1!1s2@1:CIHM0ogKEICAgIDrzJSIsQE%7CCgwI84XVtAYQ4KbHnQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPIzY9KcpBOfL4VvUDlH2qNzpxKxc79ZMzv7eEm=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNaFqpWBp7bqC0ym5b1yUOacFUe0bkyOLZOJlHw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPwSuqZ_ggLUFFh73PI2IhnjIc6VE7q7cc-JVmB=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNcE8IrnojGCnc-1KHK0F9JW6wQw0HefL0QPGiA=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Agent Chicken",
+                "rating": 5,
+                "contributor_id": "110855240630982352962",
+                "description": "Awesome place. Everything is good. Spicy kimchi noodles were incredible and tempura shrimp buns were excellent. Highly recommend this place!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIM2NfZXp3RRAB!2m1!1s0x0:0x2aa46e7609358f5!3m1!1s2@1:CIHM0ogKEICAgICH3c_ezwE%7CCgwI_8XztgYQ8IT__gE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMcw-GrErlKxKBtPid-g_svK-HNBcW76ckbERl1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP87YEdxC3zOPmOFmwIS_GaA9SKUTpzZ392yvW9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPg2Du7WB_93-ZpRH2kYlEmC2e3Lh0TnS1Y25nS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMA5SVN8N522ScOJCeJDeOym9_VGgyj7ZDwqowe=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Jae Xu",
+                "rating": 1,
+                "contributor_id": "102517387309939479620",
+                "description": "I had a disappointing experience at Tomukun Noodle Bar. The service was very rushed and inattentive. The waitstaff (a lady and a men)hurried us to place our order, brought us iced water without asking if we wanted it, and seemed more focused on getting us to finish and leave rather than providing a pleasant dining experience. They even rushed us through the checkout process and were quick to clear our table before we were done.\n\nPlus, even if the service is bad, there is a 18% gratuity…\n\nOverall, it felt like they were more interested in turning over tables than ensuring a good experience for their customers. I won’t be returning.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURIdk9DRzBRRRAB!2m1!1s0x0:0x2aa46e7609358f5!3m1!1s2@1:CIHM0ogKEICAgIDHvOCG0QE%7CCgsIs9SRtwYQsLjffw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPNIHxlNvUF5LjDkPSgOQAWjB5O_z6zH32KhzGB=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Steven Smeltz-Zapata",
+                "rating": 5,
+                "contributor_id": "103997815468690675971",
+                "description": "Yes! Love this spot! Can’t wait to go back for more ramen! I especially enjoyed the slow cooked beef ramen.\n\nI Uber’ed but believe there’s a deck nearby if you don’t like searching for parking. 🅿️\n\nService was great.\n\nFood was wonderful! 🍜 I had ramen. I’ve never seen slow cooked beef ramen on a menu before. It was fantastic. Though, the dish was massive. I couldn’t finish it sadly.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURiOTR2UTdBRRAB!2m1!1s0x0:0x2aa46e7609358f5!3m1!1s2@1:CIHM0ogKEICAgIDb94vQ7AE%7CCgwI0YfetQYQ0NngsAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPVXVvFNj2C5RCSy1AQHrN__WWd-lkVff7ScwBt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP7P1UrOxTUhUi6K8VxexebiW3Ochlrrr5Rd8dP=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Shraavan Ravindranath",
+                "rating": 3,
+                "contributor_id": "116318249307575629134",
+                "description": "Average ramen place with hits and misses. Long wait times and they don't take small reservations. The shrimp tempura buns were very good and so was the green curry udon. Okokomiyaki is really really good however it CANNOT be an appetizer/starter because it's massive and heavy. The worst of all was the spicy chicken ramen. The chicken was not at all spicy and felt unseasoned. The broth was diluted so much that you couldn't taste it one bit. Couldn't even finish half the portions, wouldn't recommend for small groups at all.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNENjZpNWZREAE!2m1!1s0x0:0x2aa46e7609358f5!3m1!1s2@1:CIHM0ogKEICAgICD66i5fQ%7CCgsIl5essAYQ0MynCA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNx0Q7SdEf6lsJOv-N0uqjj7c0KfBj_vOZB0A7C=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPCnsBSy4g7ipSWd9bUGG0i2luHmlPWZ4hc-Y6v=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO1ExgE4oPIgXStAKVD_n5durVlvJfV4QY0wUNk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMG6QTQFxYnTQP8Vc0y3Ng6fRMmp1rdWXMfjdHf=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "maria wong",
+                "rating": 4,
+                "contributor_id": "110790081657611997683",
+                "description": "Hot Soup Noodle on a cold windy weekend after the farmer’s market.\nThe meat are tender but firm and portion is good for adult.\nPrice is reasonable and friendly service.\nfor me an Asian the taste wise is 60% satisfying as i felt its too sweet for me.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN4NmJTT2hnRRAB!2m1!1s0x0:0x2aa46e7609358f5!3m1!1s2@1:CIHM0ogKEICAgICx6bSOhgE%7CCgwIpOGkowYQ0NnW4AI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNNpCcO0NE4T38gv44TpTNd6qiANn9gtqy_RI5X=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNOekSGTBdC13xq9xqF4KMexeM7_NmVWsmonhKl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOd0uiik9ztxfAykMoXKACV8RdBux2zPSiyIwR3=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM_yqF8JggIOe06wbLxX3mau1yXCoQQXtUMNZV_=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Alicia Korenini",
+                "rating": 5,
+                "contributor_id": "115154146262320008079",
+                "description": "Loved the food, portion sizes on the ramen and binimbop were huge! Staff was friendly and the environment was nice. I loved the music and overall the vibes were great!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNyd096djBBRRAB!2m1!1s0x0:0x2aa46e7609358f5!3m1!1s2@1:CIHM0ogKEICAgICrwOzv0AE%7CCgwIi8iStAYQsOnXkgM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMXATXIRLtN-fo0XfwoQ_ajMMTTbejOb9YptJdW=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            }
+        ]
+    }
+}

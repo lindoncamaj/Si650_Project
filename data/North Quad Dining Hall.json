@@ -1,0 +1,199 @@
+{
+    "docid": 64,
+    "Title": "North Quad Dining Hall",
+    "Type": [
+        "Restaurant",
+        "Cafeteria"
+    ],
+    "Address": "105 S State St, Ann Arbor, MI 48109",
+    "GPS Coordinates": {
+        "latitude": 42.2805179,
+        "longitude": -83.7401692
+    },
+    "Phone Number": "(734) 764-0170",
+    "Rating": 4.3,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 1
+        },
+        {
+            "stars": 2,
+            "amount": 0
+        },
+        {
+            "stars": 3,
+            "amount": 2
+        },
+        {
+            "stars": 4,
+            "amount": 7
+        },
+        {
+            "stars": 5,
+            "amount": 11
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "7 AM–3 PM, 4:30–8 PM"
+        },
+        {
+            "thursday": "7 AM–3 PM, 4:30–8 PM"
+        },
+        {
+            "friday": "7 AM–3 PM, 4:30–8 PM"
+        },
+        {
+            "saturday": "10:30 AM–2 PM"
+        },
+        {
+            "sunday": "10:30 AM–2 PM"
+        },
+        {
+            "monday": "7 AM–3 PM, 4:30–8 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "7 AM–3 PM, 4:30–8 PM"
+        }
+    ],
+    "Description": null,
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "All you can eat",
+                "Coffee",
+                "Comfort food",
+                "Halal food",
+                "Healthy options",
+                "Salad bar",
+                "Small plates",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Lunch",
+                "Dinner",
+                "Dessert"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Probably the best food on campus however the dining ha is small\""
+            },
+            {
+                "snippet": "\"The spring roll days bang tbh as well as the Dutch waffle.\""
+            },
+            {
+                "snippet": "\"So so as a restaurant, but dining in a dorm is nice.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Nick Sarji",
+                "rating": 4,
+                "contributor_id": "111017818697945581469",
+                "description": "Usually there’s at least one choice that’s good, if not more. The spring roll days bang tbh as well as the Dutch waffle. Workers are all cool. However the hours on weekends are terrible so it loses 1 star for that. Overall a slept on dining hall",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMtN09ETW9nRRAB!2m1!1s0x0:0xa17c08a39d015dca!3m1!1s2@1:CIHM0ogKEICAgIC-7ODMogE%7CCgwI-OnymgYQiITyxAM%7C?hl=en-US",
+                "date": "2 years ago"
+            },
+            {
+                "username": "Ishan Sinha",
+                "rating": 1,
+                "contributor_id": "116792300273875476539",
+                "description": "if i could i would give it a 0 star rating",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM5dDhMRm53RRAB!2m1!1s0x0:0xa17c08a39d015dca!3m1!1s2@1:CIHM0ogKEICAgIC9t8LFnwE%7CCgwIl9m5rwYQyK7HnQM%7C?hl=en-US",
+                "date": "7 months ago"
+            },
+            {
+                "username": "Karter Luo",
+                "rating": 4,
+                "contributor_id": "103310766646345967394",
+                "description": "Probably the best food on campus however the dining ha is small",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2dk16Qnd3RRAB!2m1!1s0x0:0xa17c08a39d015dca!3m1!1s2@1:CIHM0ogKEICAgID6vMzBwwE%7CCgsI9LiyigYQ8LesGg%7C?hl=en-US",
+                "date": "3 years ago"
+            },
+            {
+                "username": "Kan Takeuchi",
+                "rating": 4,
+                "contributor_id": "112861586260584384751",
+                "description": "So so as a restaurant, but dining in a dorm is nice.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMtaXFmNnpBRRAB!2m1!1s0x0:0xa17c08a39d015dca!3m1!1s2@1:CIHM0ogKEICAgIC-iqf6zAE%7CCgsI6ouBmwYQsLOPOQ%7C?hl=en-US",
+                "date": "2 years ago"
+            },
+            {
+                "username": "Kelly Munsell",
+                "rating": 5,
+                "contributor_id": "111996420216650213618",
+                "description": "Always fresh",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHc19MR3VnRRAB!2m1!1s0x0:0xa17c08a39d015dca!3m1!1s2@1:CIHM0ogKEICAgIDGs_LGugE%7CCgsI3c7EjQYQwKrPVw%7C?hl=en-US",
+                "date": "2 years ago"
+            },
+            {
+                "username": "Olusegun Okunade",
+                "rating": 5,
+                "contributor_id": "110888864056453832894",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNodXMyaTR3RRAB!2m1!1s0x0:0xa17c08a39d015dca!3m1!1s2@1:CIHM0ogKEICAgIChus2i4wE%7CCgsI_ZacnwYQqIWTcA%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Noah Brooks",
+                "rating": 4,
+                "contributor_id": "116769144244846807599",
+                "description": "Jalepeno Water OG",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURzckphRVZ3EAE!2m1!1s0x0:0xa17c08a39d015dca!3m1!1s2@1:CIHM0ogKEICAgIDsrJaEVw%7CCgwItrnW8gUQuNrWxQI%7C?hl=en-US",
+                "date": "4 years ago"
+            },
+            {
+                "username": "Sean DeGrand",
+                "rating": 4,
+                "contributor_id": "115964367977139203800",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURuc29mTG53RRAB!2m1!1s0x0:0xa17c08a39d015dca!3m1!1s2@1:CIHM0ogKEICAgIDnsofLnwE%7CCgwI8JiBuAYQqMn5-wE%7C?hl=en-US",
+                "date": "a month ago"
+            }
+        ]
+    }
+}

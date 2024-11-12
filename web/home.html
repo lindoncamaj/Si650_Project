@@ -1,8 +1,9 @@
 <!--Author: Prithvijit Dasgupta-->
+<!doctype html>
 <html>
 
 <head>
-    <title>SI 650 Test Bench</title>
+    <title>SI 650 PRoject</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css"
         integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -161,8 +162,11 @@
 </body>
 
 <script>
-    let prev = null
-    let next = null
+    let prev = null;
+    let next = null;
+    let docidToPathMapping = {};
+
+
     document.getElementById('query').onkeypress = function (e) {
         if (!e) e = window.event;
         var keyCode = e.code || e.key;
@@ -183,18 +187,86 @@
     //         id: dict.id
     //     }
     // }
-    async function fetchWikiData(dict) {
-        // Assuming your data contains the necessary text and title
-        console.log('dict:', dict);
-        return {
-            docid: dict.docid,
-            title: 'Hi',
-            // url: `https://example.com/doc/${dict.docid}`, // Placeholder URL for your documents
-            text: `Description or content snippet for docid ${dict.docid}`,
-            // text: dict.Description,
-            id: dict.id
+    async function loadDocidToPathMapping() {
+        try {
+            // Adjust the fetch path to reference directly to the root location of `index.jsonl`
+            const response = await fetch('/static/docs_to_paths.jsonl');
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            const lines = await response.text();
+            console.log("Loaded lines from JSONL:", lines);
+            lines.split('\n').forEach((line, index) => {
+                if (line.trim()) {
+                    try {
+                        const record = JSON.parse(line);
+                        if (record.docid && record.filename) {
+                            docidToPathMapping[record.docid] = record.filename;
+                        } else {
+                            console.error(`Missing docid or filename in line ${index + 1}:`, line);
+                        }
+                    } catch (jsonError) {
+                        console.error(`JSON parse error in line ${index + 1}:`, jsonError, line);
+                    }
+                }
+            });
+            console.log('Mapping loaded:', docidToPathMapping);
+        } catch (error) {
+            console.error('Error loading JSONL file:', error);
         }
     }
+
+    (async function() {
+        await loadDocidToPathMapping(); // Load the JSONL mapping file when the page loads
+    })();
+
+    async function fetchWikiData(dict) {
+        console.log('Fetching data for:', dict);
+        const filePath = docidToPathMapping[dict.docid];
+
+        if (!filePath) {
+            console.error(`No file path found for docid: ${dict.docid}`);
+            return {
+                docid: dict.docid,
+                title: `Title for docid ${dict.docid}`,
+                url: `https://example.com/doc/${dict.docid}`, // Placeholder URL for missing data
+                text: `Description not available.`,
+                id: dict.id
+            };
+        }
+
+        const fullFilePath = `/static/${filePath}`;
+        console.log(`Attempting to fetch file at path: ${fullFilePath}`);
+
+        try {
+            const response = await fetch(fullFilePath);
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            const data = await response.json();
+
+            console.log(`Data fetched for file path (${fullFilePath}):`, data);
+
+            return {
+                docid: dict.docid,
+                title: data.Title, // Assuming Title is the correct key
+                url: `https://example.com/doc/${dict.docid}`, // Adjust URL pattern as needed
+                text: data.Description, // Assuming Description is the correct key
+                id: dict.id
+            };
+        } catch (error) {
+            console.error(`Error fetching data for docid: ${dict.docid} from file path: ${fullFilePath}`, error);
+            return {
+                docid: dict.docid,
+                title: `Title for docid ${dict.docid}`,
+                url: `https://example.com/doc/${dict.docid}`, // Placeholder URL for error cases
+                text: `Description not available due to error.`,
+                id: dict.id
+            };
+        }
+    }
+
+
     // function doSearch(url, method) {
     //     let startTime = (new Date()).getTime()
     //     let footer = document.getElementById('footer-mid')
@@ -273,44 +345,42 @@
     //         })
     // }
     async function doSearch(url, method) {
-        let startTime = (new Date()).getTime()
-        let footer = document.getElementById('footer-mid')
-        const displayBox = document.getElementById('results')
-        displayBox.setAttribute('hidden', true)
-        footer.setAttribute('hidden', true)
-        document.getElementById('load-spinner').removeAttribute('hidden')
+        let startTime = (new Date()).getTime();
+        let footer = document.getElementById('footer-mid');
+        const displayBox = document.getElementById('results');
+        displayBox.setAttribute('hidden', true);
+        footer.setAttribute('hidden', true);
+        document.getElementById('load-spinner').removeAttribute('hidden');
         if (method == 'POST') {
-            document.getElementById('prev').setAttribute('hidden', true)
-            document.getElementById('next').setAttribute('hidden', true)
+            document.getElementById('prev').setAttribute('hidden', true);
+            document.getElementById('next').setAttribute('hidden', true);
         }
-        const query = document.getElementById('query').value.trim()
+        const query = document.getElementById('query').value.trim();
         let options = {
             method,
             body: method == 'POST' ? JSON.stringify({ 'query': query }) : null,
             headers: {
                 'Content-Type': 'application/json'
             }
-        }
+        };
         try {
-            let response = await fetch(url, options)
-            let data = await response.json()
+            let response = await fetch(url, options);
+            let data = await response.json();
 
-            // Update pagination links
+            console.log('API Response:', data);
+
             prev = data.page.prev;
             next = data.page.next;
 
-            // Update UI based on results
             if (data.results.length > 0) {
-                // Hide "no results" message
                 document.getElementById('no-res-text').setAttribute('hidden', true);
 
-                // Create a new list of results
                 const olElement = document.createElement('ul');
                 olElement.setAttribute('id', 'search-results');
 
-                // Fetch additional data for each result and create list items
                 let results = await Promise.all(data.results.map(fetchWikiData));
                 results.forEach(item => {
+                    console.log('Item:', item);
                     const liElement = document.createElement('li');
                     const textNode = document.createElement('p');
                     const nameAnchor = document.createElement('a');
@@ -327,44 +397,42 @@
                     olElement.append(liElement);
                 });
 
-                // Clear old results and append new ones
                 const oldNode = document.getElementById('search-results');
                 if (oldNode) displayBox.removeChild(oldNode);
                 displayBox.append(olElement);
 
-                // Display pagination controls
                 if (prev) document.getElementById('prev').removeAttribute('hidden');
                 else document.getElementById('prev').setAttribute('hidden', true);
 
                 if (next) document.getElementById('next').removeAttribute('hidden');
                 else document.getElementById('next').setAttribute('hidden', true);
             } else {
-                // Show "no results" message
                 document.getElementById('no-res-text').removeAttribute('hidden');
                 document.getElementById('prev').setAttribute('hidden', true);
                 document.getElementById('next').setAttribute('hidden', true);
             }
 
-            // Hide the loading spinner and show results
             document.getElementById('load-spinner').setAttribute('hidden', true);
             document.getElementById('results').removeAttribute('hidden');
         } catch (err) {
-            console.log('Search API failed', err)
-            let noResNode = document.getElementById('no-res-text')
-            document.getElementById('load-spinner').setAttribute('hidden', true)
-            noResNode.removeAttribute('hidden')
+            console.log('Search API failed', err);
+            let noResNode = document.getElementById('no-res-text');
+            document.getElementById('load-spinner').setAttribute('hidden', true);
+            noResNode.removeAttribute('hidden');
         } finally {
-            let timer = document.getElementById('timer')
+            let timer = document.getElementById('timer');
             if (timer) {
-                footer.removeChild(timer)
+                footer.removeChild(timer);
             }
-            let newTimer = document.createElement('h4')
-            newTimer.setAttribute('id', 'timer')
-            let totalTime = (new Date()).getTime() - startTime
-            newTimer.textContent = `Time taken: ${totalTime}ms`
-            footer.append(newTimer)
+            let newTimer = document.createElement('h4');
+            newTimer.setAttribute('id', 'timer');
+            let totalTime = (new Date()).getTime() - startTime;
+            newTimer.textContent = `Time taken: ${totalTime}ms`;
+            footer.append(newTimer);
         }
     }
+
+
 
 </script>
 

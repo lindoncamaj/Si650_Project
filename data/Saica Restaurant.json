@@ -1,0 +1,276 @@
+{
+    "docid": 79,
+    "Title": "Saica Restaurant",
+    "Type": [
+        "Sushi restaurant",
+        "Japanese restaurant"
+    ],
+    "Address": "1733 Plymouth Rd, Ann Arbor, MI 48105",
+    "GPS Coordinates": {
+        "latitude": 42.298730899999995,
+        "longitude": -83.721458
+    },
+    "Phone Number": "(734) 769-1212",
+    "Rating": 4.1,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 31
+        },
+        {
+            "stars": 2,
+            "amount": 9
+        },
+        {
+            "stars": 3,
+            "amount": 24
+        },
+        {
+            "stars": 4,
+            "amount": 66
+        },
+        {
+            "stars": 5,
+            "amount": 156
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–9 PM"
+        },
+        {
+            "thursday": "11 AM–9 PM"
+        },
+        {
+            "friday": "11 AM–9 PM"
+        },
+        {
+            "saturday": "12–9 PM"
+        },
+        {
+            "sunday": "12–9 PM"
+        },
+        {
+            "monday": "Closed (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–9 PM"
+        }
+    ],
+    "Description": "Casual, contemporary restaurant specializing in Japanese & Korean fare with a focus on sushi.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Great tea selection"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Comfort food",
+                "Healthy options",
+                "Small plates",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"I ordered Combo E, contain California Roll, Agashi tofu, and chicken curry don.\""
+            },
+            {
+                "snippet": "\"Good food Superb service Good prices\""
+            },
+            {
+                "snippet": "\"They were also kinda small in diameter for the price paid and quality.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Gabriel Heinemann",
+                "rating": 2,
+                "contributor_id": "103274218513805690462",
+                "description": "Walking in, the atmosphere was comfortable but the dining area was outdated and a bit dusty. I ordered the Curry Chicken Katsu for $18. A lot of rice and sauce, but not much chicken. The veggies were very soft to the point of mushy, and the curry was just okay. I might come back to try the sushi, but I will not have my hopes up.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURydGZXOXZRRRAB!2m1!1s0x0:0xf65397ed80f318a4!3m1!1s2@1:CIHM0ogKEICAgIDrtfW9vQE%7CCgwI3vTmtAYQqK3puwI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOuypz0dXrsDihdnpIC2aQL2FwdykcrVBt1C4Gy=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Dae Lee",
+                "rating": 2,
+                "contributor_id": "116849487081955743787",
+                "description": "On the front of the store, it says a Korean restaurant, and they do serve Korean food, however, they don’t serve Banchan (Korean side dish) with Korean food. I ordered Soondubu and this is what I received without any banchan. weird.  And this cost me $21 with tip.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYNU9UcDBRRRAB!2m1!1s0x0:0xf65397ed80f318a4!3m1!1s2@1:CIHM0ogKEICAgIDX5OTp0QE%7CCgwIjYeEuQYQqJfErgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPWSy1EdvHMw2FuMMFvNnfDdOKEf0YuVzHMXgwQ=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a week ago"
+            },
+            {
+                "username": "Maurielle C",
+                "rating": 5,
+                "contributor_id": "102013884837832721376",
+                "description": "Really good Asian food!! Would definitely recommend trying the sushi- its great! Portion sizes are medium size, I’d say pricing is on the more expensive side. However, the service and food is good so it’s alright. Would recommend stopping by!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURwanEzcFRBEAE!2m1!1s0x0:0xf65397ed80f318a4!3m1!1s2@1:CIHM0ogKEICAgIDpjq3pTA%7CCgwIjrOQpwYQiO6b9wE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMs8YnXqA6H8k8HFAGjTtb65GBT6p_ig_zhp97b=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPwy-uXZH8mZsQfX6AQxAvJSdGvpvOmyWm5IAXQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPyTi0_HcjkMEKeBfTmKuW4olP3QOnkb8SxXXd-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPn2oMMCtXT1k3MBSspfarFQioy1IJx5YCSPMGj=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO3dSnw0KqP-kc9-fTNnz9K2VV7JLtU3EE9vURA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOuWKeF2Q4eOQC7dqdwiKrjE4xQE4qSykPPUXE8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPyBTr5v0sk-sG8pfqgK3QDQFt7Uxd2ceYokiNT=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMoSZhZr79fDmjdZ-1acqmSmlfQx1Z5R6NPSgAI=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "hyunseoungduk",
+                "rating": 5,
+                "contributor_id": "111408244519168355229",
+                "description": "Under new leadership, Saica has dramatically improved!  They have the best local bento box with a wide variety of tempura and their curries rival the best local Thai restaurants.  Our new favorite local Japanese-Korean-Thai fusion restaurant!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURILUtyMFRBEAE!2m1!1s0x0:0xf65397ed80f318a4!3m1!1s2@1:CIHM0ogKEICAgIDH-Kr0TA%7CCgwI9ZqLtwYQ4KnaxgE%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "K C",
+                "rating": 1,
+                "contributor_id": "107747423198993757956",
+                "description": "If I could rate it 0 stars, I would. But since that’s not an option, they get 1 star. Avoid this place!!! They combine orders on the same plate / package multiple orders with no regard to the fact that some patrons have allergies or dietary restrictions that need to be honored. And when you approach them about the need for separate orders to be plated / packaged separately, they stutter, stammer, and do nothing- no apologies, no offer to remake or correct their mistake, and no return credit either. Horrible customer service and disgusting food preparation & service.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURudUxiNWJnEAE!2m1!1s0x0:0xf65397ed80f318a4!3m1!1s2@1:CIHM0ogKEICAgIDnuLb5bg%7CCgsI-MX3twYQyI3WeA%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Theodore Hynes",
+                "rating": 5,
+                "contributor_id": "114510401886857724023",
+                "description": "Nestled in probably the best food strip mall I\"ve ever been to is Saica. This place is amazing! It has exceptional service. With a main dish you receive a delicious bowl of miso soup with tofu. It is well balanced and refreshing, even on a hot day. The chuka salad is also light and fresh. The star here is their curry. I had the katsu curry don which was incredible. It was perfectly cooked and the portion is generous. Once again everything was balanced. Truly a great experience, thank you.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURKdXRITWtRRRAB!2m1!1s0x0:0xf65397ed80f318a4!3m1!1s2@1:CIHM0ogKEICAgIDJutHMkQE%7CCgwI2q3KpQYQyOm9gQI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOKdiyTA7r6Npp2nPXzVc4rwXclUWV226A0AFMb=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPmtcQ5h8YpP1dAtLNBH2SG3-hlzY4v4NdMFmBi=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "A A",
+                "rating": 1,
+                "contributor_id": "102478916433534060757",
+                "description": "I ordered stir fry chicken with vegetables and I literally see no viggis!! It’s really spicy and they didn’t even ask me if I want it less or more spicy, I paid $20 for a hot sauce chicken! Also, bought 6 small veggie rolls that barely have viggis in it for $7! I’ll never go there again so cheap",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURwZ01hSUhREAE!2m1!1s0x0:0xf65397ed80f318a4!3m1!1s2@1:CIHM0ogKEICAgIDpgMaIHQ%7CCgwIvYXlpgYQ6PHrkAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOddbyrrQJUFIVkzDDFUn9BxXoBVr85pdOarD28=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPNiMpuO7XdIFHJIFFOj5_F614OwjDhLRNRgWnD=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "C. I. Smith",
+                "rating": 5,
+                "contributor_id": "100454048344856788665",
+                "description": "They customized my sushi for me and brought us fresh food very quickly. The staff was kind and the food was delicious. One of my favorite spots around North Campus.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMbzVfWTZBRRAB!2m1!1s0x0:0xf65397ed80f318a4!3m1!1s2@1:CIHM0ogKEICAgICLo5_Y6AE%7CCgwI1bTcswYQqOisqgM%7C?hl=en-US",
+                "date": "4 months ago"
+            }
+        ]
+    }
+}

@@ -1,0 +1,263 @@
+{
+    "docid": 51,
+    "Title": "Mediterraneo Restaurant",
+    "Type": [
+        "Mediterranean restaurant",
+        "Italian restaurant",
+        "Lebanese restaurant",
+        "Middle Eastern restaurant"
+    ],
+    "Address": "309 Pisgah Church Rd, Greensboro, NC 27455",
+    "GPS Coordinates": {
+        "latitude": 36.1307262,
+        "longitude": -79.7938133
+    },
+    "Phone Number": "(336) 288-2848",
+    "Rating": 4.3,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 30
+        },
+        {
+            "stars": 2,
+            "amount": 20
+        },
+        {
+            "stars": 3,
+            "amount": 31
+        },
+        {
+            "stars": 4,
+            "amount": 97
+        },
+        {
+            "stars": 5,
+            "amount": 337
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–9 PM"
+        },
+        {
+            "thursday": "11 AM–9 PM"
+        },
+        {
+            "friday": "11 AM–9 PM"
+        },
+        {
+            "saturday": "11 AM–9 PM"
+        },
+        {
+            "sunday": "12–8 PM"
+        },
+        {
+            "monday": "11 AM–8 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–9 PM"
+        }
+    ],
+    "Description": "Relaxed, family-owned fixture preparing handcrafted pizza along with Italian & Lebanese specialties.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Great coffee",
+                "Great dessert"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Coffee",
+                "Comfort food",
+                "Healthy options",
+                "Quick bite",
+                "Small plates",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "Groups"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"This a Great Restaurant , Excellent Baked Dishes & Very Tasty Pizza !!\""
+            },
+            {
+                "snippet": "\"NO FLAVOR, & garlic bread was literally a piece of sub bread with butter!\""
+            },
+            {
+                "snippet": "\"Good service, decent Italian, Greek, and Middle Eastern food.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Sofia W",
+                "rating": 5,
+                "contributor_id": "109118040421895770521",
+                "description": "Delicious salad and complimentary bread. I wish the tomatoes and cucumbers were cut smaller, though. Our waiter was very kind.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNib3BDQ0ZREAE!2m1!1s0x0:0xec767e77bdeef020!3m1!1s2@1:CIHM0ogKEICAgICbopCCFQ%7CCgwI8deGtQYQiOShhAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM4zbzTEzFdnatPvuSwXz8uKP5-0niXuCtTV6jR=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Siri W",
+                "rating": 5,
+                "contributor_id": "100345711678702896293",
+                "description": "I and my husband usually come here if we crave Italian but to be honest they are more Lebanese-Italian.\n\nI always order their risotto which tastes pretty good to me despite the rice isn't al dente. Both their signature risotto and salmon are good. For first timer I'd recommend trying their signature.\n\nMy husband got stromboli. I've never had any stromboli but according to him he said something about the crust makes it the best he has ever had.\n\nThe other times we came here, I order their chicken salad which was great as well. Fried calamari was so-so to me just because it lacks good dipping sauce. However they deep fried them good. I couldn't remember the name of the pasta in the picture it was something with lemon and I thought it was gonna be like creamy lemon chicken but I could only tasted pure tanginess so the whole plate was a meh for me.\n\nTheir tiramisu is to die for. It's a must so save some space for it.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNsdHJDWnR3RRAB!2m1!1s0x0:0xec767e77bdeef020!3m1!1s2@1:CIHM0ogKEICAgICltrCZtwE%7CCgwIgr_gqgYQiO3qvgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN9FkYsVFcb91v42vRdxXl78JBSQ0kPGzMxgXNV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN3qkPQGXvHZZCrGBgUN_HwKl-NSXc4J5tzb7nH=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMhNbAqIkJOsu0LcWJsYoyH_sj9fo2D7C8-7FE2=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "11 months ago"
+            },
+            {
+                "username": "Randall McCorquodale",
+                "rating": 5,
+                "contributor_id": "107811959603085586402",
+                "description": "I had the antipasto.  It was really good and was enough for two people.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURIaXFHNWtRRRAB!2m1!1s0x0:0xec767e77bdeef020!3m1!1s2@1:CIHM0ogKEICAgIDHiqG5kQE%7CCgsIi7qWtwYQ6KL2KQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPleJ5b2w0MZtQcisgfRVTBrOjTiCplqJIMM0tK=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Emily Razo",
+                "rating": 3,
+                "contributor_id": "100008329429561524347",
+                "description": "I don’t usually post bad reviews but the food and the service here were disappointing. First, the fries were really dry and flavorless and tasted like they came out of an air fryer, the bread had way too much garlic, and the lamb shawarma I ordered had a dry, crispy flatbread it almost felt like I bit into a crunchy taco shell. I was also really excited to try shawarma for the first time but they took really long to bring it to our table since they somehow got something mixed up in the kitchen—hey, that’s understandable. But when it was finally brought to us, it just wasn’t good. I tried so hard to like the food but again, I was very disappointed.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3OWRDXzBRRRAB!2m1!1s0x0:0xec767e77bdeef020!3m1!1s2@1:CIHM0ogKEICAgIC79dC_0QE%7CCgsIm--DtgYQ8KrjFw%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "ee k",
+                "rating": 1,
+                "contributor_id": "115457546554461184766",
+                "description": "I visited the restaurant for the first time, excited to try both Lebanese and Italian cuisine in one place. Unfortunately, it turned out to be one of the worst dining experiences I've had. The shawarma was terrible, the fries were either air-fried or rushed, resulting in an undercooked texture, and the pasta was extremely soggy, clearly not given enough time to cook properly. The restaurant had a great concept, appealing location, and a nice atmosphere, but sadly, the food did not live up to expectations. I left feeling very sad and disappointed.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3NWQtRFZnEAE!2m1!1s0x0:0xec767e77bdeef020!3m1!1s2@1:CIHM0ogKEICAgID75d-DVg%7CCgwIocKytgYQgPTL3wI%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Janice Kivett",
+                "rating": 1,
+                "contributor_id": "110198363834876899504",
+                "description": "Mediocre food. Poor service. You may experience unexpected charges. Be aware that prices listed on the menu are cash. If you choose to use a credit card, you will be charged a 4% fee. Also, be aware that if your check is over $50, a 15% gratuity is automatically added. We typically tip much higher than 15% for good service, so we were surprised that this had been added. These policies are not clearly stated in easy to find locations such as your menu. We felt that we had been overcharged on items that we had ordered. When we complained the manager was very rude and unwilling to address our concerns. I would not recommend this particular restaurant, especially as Greensboro, has several other excellent Italian restaurants to choose from.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNUNTRxYTV3RRAB!2m1!1s0x0:0xec767e77bdeef020!3m1!1s2@1:CIHM0ogKEICAgICT54qa5wE%7CCgwI37aqsgYQoOjqlAI%7C?hl=en-US",
+                "date": "5 months ago"
+            },
+            {
+                "username": "Terry R",
+                "rating": 5,
+                "contributor_id": "102462262504674827842",
+                "description": "We live over in Burlington and travel to this restaurant. The food is so good and the service is just as good. They've always been accommodating and they serve very large portions.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNuOHFubDNRRRAB!2m1!1s0x0:0xec767e77bdeef020!3m1!1s2@1:CIHM0ogKEICAgICn8qnl3QE%7CCgwIzvPLtwYQyI2KtQM%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Palazoloup",
+                "rating": 5,
+                "contributor_id": "113160192885421148586",
+                "description": "Great spot for lunch. Got very busy and service got a little slow. But it was well worth the wait. Great food and very large menu. Fried chips with Ranch dressing was awesome.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURoX1o3amFREAE!2m1!1s0x0:0xec767e77bdeef020!3m1!1s2@1:CIHM0ogKEICAgIDh_Z7jaQ%7CCgwI3LjJoAYQ6NLY_gE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNI8-wx0Of08lc84sGsYkhtQhTj8VL8b4DH5Cw1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOdBbPteBz6vMmVZn4Yj97qX4tC7huzMXquUn22=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOAAFD4s-V6O0sQkuvrr-FJPx3FDwJnhUe4fa7l=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            }
+        ]
+    }
+}

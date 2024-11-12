@@ -1,0 +1,291 @@
+{
+    "docid": 43,
+    "Title": "Knight's Steakhouse & Grill",
+    "Type": [
+        "Steak house",
+        "Restaurant"
+    ],
+    "Address": "2125 Horton Rd, Jackson, MI 49203",
+    "GPS Coordinates": {
+        "latitude": 42.1996123,
+        "longitude": -84.4392678
+    },
+    "Phone Number": "(517) 783-2777",
+    "Rating": 4.3,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 45
+        },
+        {
+            "stars": 2,
+            "amount": 56
+        },
+        {
+            "stars": 3,
+            "amount": 81
+        },
+        {
+            "stars": 4,
+            "amount": 216
+        },
+        {
+            "stars": 5,
+            "amount": 684
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–10 PM"
+        },
+        {
+            "thursday": "11 AM–10 PM"
+        },
+        {
+            "friday": "11 AM–11 PM"
+        },
+        {
+            "saturday": "11 AM–11 PM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "11 AM–10 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–10 PM"
+        }
+    ],
+    "Description": "Old-school outfit serving a variety of steaks, seafood & burgers in a comfy setting with a full bar.",
+    "Details": [
+        {
+            "highlights": [
+                "Fireplace",
+                "Great coffee",
+                "Great dessert"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Healthy options",
+                "Small plates",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Romantic",
+                "Trendy",
+                "Upscale"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "Groups"
+            ]
+        },
+        {
+            "planning": [
+                "Dinner reservations recommended",
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "children": [
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"A large variety of burgers, steaks, and quality cut fish to choose from.\""
+            },
+            {
+                "snippet": "\"Great place for food and drinks Experience and friendly Waite staff .\""
+            },
+            {
+                "snippet": "\"Great atmosphere, everything was cooked as ordered and many options on the menu.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "darthvader7676",
+                "rating": 5,
+                "contributor_id": "111691590532105712805",
+                "description": "We've dined here several times and the food has been very good every time. Service was prompt and attentive. My personal favorites are the spicy chicken sandwich and the onion rings. Also recently tried the pork chops on special with caramel sauce and they were cooked perfectly. The only dish we didn't care for was the meatloaf, but may have been due to our preference of taste and texture. I need to save room for dessert next time because it looks amazing.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURiX2YzanZnRRAB!2m1!1s0x0:0x473226f745069536!3m1!1s2@1:CIHM0ogKEICAgIDb_f3jvgE%7CCgwI_efTtQYQoM7IwQE%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Kris Speers",
+                "rating": 5,
+                "contributor_id": "102737566640492245951",
+                "description": "First time here, great restaurant.  Got the prime rib, was a bit pricey, but would definitely recommend and will be back.  Service was above and beyond and the food was amazing.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYbHJDa0tREAE!2m1!1s0x0:0x473226f745069536!3m1!1s2@1:CIHM0ogKEICAgIDXlrCkKQ%7CCgwIoOT1uAYQ-KHwlQE%7C?hl=en-US",
+                "date": "a week ago"
+            },
+            {
+                "username": "James Good",
+                "rating": 5,
+                "contributor_id": "112600018142532772020",
+                "description": "This was my second visit, dining at Knight's in the last month. As with the previous visit, my Son & I had the 6 & 9oz Filet's. My two friends had the Pork Chops & the Lake Perch. Everything was cooked perfectly, and was absolutely delicious! For dessert, we had the Creme Brule & Blueberry Cobbler Ala Mode..... Over the top delicious....\nOur server was Dayna. She was very polite, professional & just a Sweetheart. Our every need was met with a smile. Great friends & Great food!!!!\nWe will be back!!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURwZ2NpeHh3RRAB!2m1!1s0x0:0x473226f745069536!3m1!1s2@1:CIHM0ogKEICAgIDpgcixxwE%7CCgsIjOiVpwYQ0MjgLQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipODauAxtjKdO3gE3kmE_FhgBJAZ-OUwt9Hd9kSZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN00awWMjbsSt--KyZY5_o_1biVwqyiHC2tMNA6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMAbknYDwNXT_bTRvlJ6IN7nMnk430-t59PsDH2=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMAwgxlYjoNpQbwi6bhB4AddH_cEYFFlza4MKwc=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNY0WCEeMG7tPOW6WaOKiTcHse3yGU7wc2egf7E=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMBghdJ_dd74p7KMRnPeAVImdDcZhlX3JQJ3sKU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP2kw3UX-gioLCfcmjcg9QbeP2jVbim0SUg8tFq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOm3lCdg1l51y4sXWixM10qhj7cEPZ4mc0KkIZt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP3AgwFwIJLvJ5yCUlATQxIC2s_yhgbROseWA2U=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNhyGpI8NctAyZjFPy4bfwOpSkcSOlikPao-T21=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPdLc-oEn6aThI1eOXjV8AGAKeQA9yUPaoC2cY4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNJrs8Y5oIi2ICEInHePRdOXtgpovoBn73vyT3X=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNRbwSmCkuywlaIy_wctEYlQhGKlC6TGHjPW4Uq=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Kathleen H",
+                "rating": 5,
+                "contributor_id": "106255249831537446445",
+                "description": "It might sound weird but… I have to say… I love their liver and onions. It’s prepared perfectly. I know most people don’t like liver but… if you are a liver person… you should go to Knights!  Also, the wait staff if very friendly and helpful. Attentive but not overbearing…. Just right!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIXzdheHFnRRAB!2m1!1s0x0:0x473226f745069536!3m1!1s2@1:CIHM0ogKEICAgICH_7axqgE%7CCgsIxoGDtwYQsLewcw%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Patrick Babcock",
+                "rating": 5,
+                "contributor_id": "106183472016512617425",
+                "description": "Very nice place! The hostess was a bit surly and overworked. Had to finally approach her to get any attention (restaurant was EXTREMELY busy, and she was doing double duty, wrapping silverware with her back to her host station).\n\nFood was good; not great. Their table bread appears to be a high-hydration Italian - it was tasty and had FANTASTIC gluten development, but was baked in too hot an oven, leaving a nice browned, chewy crust, but leaving the crumb a bit doughy. Seasonings on the bread were nice. Dinner salads were unremarkable. The vegetables served with our steaks were way overcooked, and my baked potato had been held a bit long based on its interior color and texture. My wife’s potato was not held as long and had a nice, fluffy white interior. My steak, ordered rare, was received medium rare (very common), but was nicely seasoned and buttery-tender, so I did not turn it back (rarely do, anyway). My wife’s steak was ordered and received medium. Her steak was nowhere near as tender as mine - a bit tougher than the higher degree of doneness would justify.\n\nMy wife’s Riesling was unpalatable - not a very good Riesling at all - avoid. My Guinness was as Guinness generally is: good! The hot fudge cream puff for dessert was delightful.\n\nLisa, our server was personable and attentive. Service was slower than one would have hoped for at a restaurant at this price point (moderate), but it was a Friday night, but they were clearly being hammered. Reservations are definitely recommended!\n\nWe’ll try it again midweek when they may not be so busy.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIcy1TbzhRRRAB!2m1!1s0x0:0x473226f745069536!3m1!1s2@1:CIHM0ogKEICAgICHs-So8QE%7CCgsIpYf3tgYQkKP1Pw%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Running ThePeralta Household",
+                "rating": 5,
+                "contributor_id": "118010228030063518822",
+                "description": "Our first time visiting this unique steakhouse & grill. Seat yourself and even though it was quite busy, our lovely server was very attentive to us and everyone she served.\nThe food was hot and delicious, sadly we couldn't finish it all.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM3cmVQSFRREAE!2m1!1s0x0:0x473226f745069536!3m1!1s2@1:CIHM0ogKEICAgIC7rePHTQ%7CCgwIpc6FtgYQoLS74QI%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Tina L (Blackcat travel)",
+                "rating": 5,
+                "contributor_id": "115638745472336832964",
+                "description": "You know you are in the right spot when it’s busy on a Thursday night. We had their sauté burger and meatloaf (Thursday special $17) comes with a  side). Amazing quality meat! The burger for a price of $14 that’s gooood quality. Server was lovely and the atmosphere was great and classy style.\nQuality/taste: 8/10\nQuantity: 8/10\nPrice: $$",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR4cE9TcGhRRRAB!2m1!1s0x0:0x473226f745069536!3m1!1s2@1:CIHM0ogKEICAgIDxpOSphQE%7CCgwIqI7lowYQyO6IoAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMTQdnt9zGYC0Eqwm-27gF8v0a242UDEb3BoP3S=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMfO3G4ycumMImqQoIfc2CbVj8ESbl44NUUgc-p=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMspXkstZO3E57MfsJ6L4pLHT3BNMV-AoDbO9pG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOOZ3aVzoZj90KiTPOC5Xt6CgQdhMDwYxV6J6Lx=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Lisa Pape",
+                "rating": 3,
+                "contributor_id": "117899199995375316061",
+                "description": "We recently visited what used to be our favorite restaurant in Jackson, and we are sad to report a significant decline in both customer service and food quality.\n\nThe shrimp scampi, priced at a hefty $24, came with a mere five shrimp and maybe 50 cents worth of pasta. This was a shocking disappointment considering the price. The drinks, which were previously a highlight of our visits, have noticeably shrunk in size and no longer offer the generous “knight’s pour” we once enjoyed.\n\nOur waitress, Dana, was inattentive and seemed indifferent to our dining experience. She removed an entire plate of pasta without even asking if everything was alright. To add to the frustration, she brought the bill without providing a pen to sign.\n\nOverall, this visit was a huge disappointment, especially considering this used to be our favorite spot in Jackson. I hope they can turn things around, but for now, I can't recommend it.\n\nWe would like add that the hostess, Paige, is always friendly and welcoming.  We also do appreciate the new paint and artwork to “modernize “ the restaurant.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURyMnBQWmFnEAE!2m1!1s0x0:0x473226f745069536!3m1!1s2@1:CIHM0ogKEICAgIDr2pPZag%7CCgsIzr7ftAYQ6MvIGA%7C?hl=en-US",
+                "date": "3 months ago"
+            }
+        ]
+    }
+}
