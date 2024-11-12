@@ -1,0 +1,297 @@
+{
+    "docid": 83,
+    "Title": "Seva Ann Arbor",
+    "Type": [
+        "Vegetarian restaurant",
+        "Bar",
+        "Gluten-free restaurant",
+        "Restaurant",
+        "Vegan restaurant"
+    ],
+    "Address": "Westgate Shopping Center, 2541 Jackson Ave, Ann Arbor, MI 48103",
+    "GPS Coordinates": {
+        "latitude": 42.279674899999996,
+        "longitude": -83.7827343
+    },
+    "Phone Number": "(734) 662-1111",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 30
+        },
+        {
+            "stars": 2,
+            "amount": 23
+        },
+        {
+            "stars": 3,
+            "amount": 76
+        },
+        {
+            "stars": 4,
+            "amount": 201
+        },
+        {
+            "stars": 5,
+            "amount": 774
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–9 PM"
+        },
+        {
+            "thursday": "11 AM–9 PM"
+        },
+        {
+            "friday": "11 AM–9 PM"
+        },
+        {
+            "saturday": "11 AM–9 PM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "11 AM–9 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–9 PM"
+        }
+    ],
+    "Description": "Vegetarian & vegan spot serving diverse comfort fare & smoothies in a casual atmosphere.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Great coffee",
+                "Great dessert",
+                "Great tea selection"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Happy hour food",
+                "Hard liquor",
+                "Healthy options",
+                "Private dining room",
+                "Small plates",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Lunch",
+                "Dinner",
+                "Counter service",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Amazing vegan food, excellent atmosphere (laid back), and great service.\""
+            },
+            {
+                "snippet": "\"I was able to eat gluten free appetizers and main course as well as drinks.\""
+            },
+            {
+                "snippet": "\"Tasty, but small patty \"lost\" in the pretzel bun , tomato, lettuce.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Susan Willett",
+                "rating": 5,
+                "contributor_id": "104490793070397858385",
+                "description": "Taahirah was our server. My sister and her husband had had her before. She’s very pleasant and very conscientious. The ambience is beautiful lots of live plants. In fact the front area in the big windows that face the outs are so full of plants. I didn’t realize it was a restaurant!!!\nHopefully, that was just me as I would hate to think anybody else wouldn’t see it and therefore wouldn’t have a meal there.\nWe shared an appetizer that was bruschetta -I was advised it was the best ever and indeed it was. The garlic crisp bread with hummus, and very finally chopped black olives pico de gallo it was just incredibly good all of it. I would order it again in a heartbeat as my meal!\nWe all had something different. My sister enjoyed the taco salad, which is her go to there. It looked delicious but yet so healthy. My brother-in-law had enchiladas made with sweet potato frankly I’ve never had a vegetarian menu that was so diverse.!!!\nI had a Italian pizza sandwich. It had delicious pizza sauce with fresh mozzarella, fresh basil all on a delicious grilled sourdough bread.\nWe were all too far for dessert, but will have to try it next time. I am able to get there. It will definitely be a go to when I’m in A2!!!!!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYc29ETG1BRRAB!2m1!1s0x0:0x2d246c7850072102!3m1!1s2@1:CIHM0ogKEICAgIDXsoDLmAE%7CCgwI8NjvuAYQgK-coAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP_dRptbcyhtJ-6i6l1WnppIOZeY_IKsIryL_2o=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPH7mw7MKA5DgFAuRUqEtH5vXv-JOs0Ee0tr70D=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNhCkGIeuWy_H_ylNt7gFUpofnrLyyzQfDgXS5M=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a week ago"
+            },
+            {
+                "username": "Emily Blanchard",
+                "rating": 5,
+                "contributor_id": "110331190365764382535",
+                "description": "My friend and I dined in prior to UM hockey game. The atmosphere was comfortably relaxed and inviting. Service was prompt and attentive. Dinner? Absolutely delicious. We shared General Tso’s cauliflower appetizer. Our main meal was the TLT and the Tempeh Reuben. I greatly appreciate all the vegan options across the menu. It was so hard to make a choice. We will definitely visit again to try everything else on the menu.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURuOWVHdDJnRRAB!2m1!1s0x0:0x2d246c7850072102!3m1!1s2@1:CIHM0ogKEICAgIDn9eGt2gE%7CCgwI0LOUuAYQwK6v-gE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNZd5lR1xr2iXXMXVKoU56lfD_PbML_toUfFY1a=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOIwtMSjL3m-18Vr535FzOiKaBVDwukodMc6Kyu=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 weeks ago"
+            },
+            {
+                "username": "Victoria Lee",
+                "rating": 3,
+                "contributor_id": "100269340034948831566",
+                "description": "If you are a vegan or vegetarian I most definitely recommend Sava. The food is delicious, my meat eater son who's 13, loved the quesadilla. I love the enchiladas and sweet potato fries. I get that every time. The only thing I do not like is that every time we dine, the customers are super loud. I will have to get take out from now on. 😔",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURUa0lDbVVREAE!2m1!1s0x0:0x2d246c7850072102!3m1!1s2@1:CIHM0ogKEICAgIDTkICmUQ%7CCgwI_ZaysgYQ6LC-vwM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNs8swSHvH5ybuuIxuCcJikO1FYz3V4vVPMjnG8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMzAiH05Ngm5vm8gQp8_StAxa--Zbdht5h3jgrI=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMwenhz52q0VKdkDR9se2Vrd7pLBnjAQn4fOiX2=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Girlie Kulp",
+                "rating": 5,
+                "contributor_id": "114039357057750578122",
+                "description": "The first time I tried Seva in Ann Arbor, Michigan, I ordered the spicy green curry. While I'm not a vegetarian, I have a gluten allergy, so this dish was safe for me. I enjoyed it, but I felt it was missing some spices, so I added salt and pepper. My husband ordered the portabella caprese on a gluten-free bun. When the order arrived, we double-checked, and it turned out the bread was not gluten-free. We've had similar experiences at other restaurants, so we always ask twice. Since my husband and I often switch dishes to taste each other's food, we make sure everything is gluten-free. We had to wait an additional 15 minutes for them to correct the order. Despite this hiccup, I still recommend Seva, especially if you're vegan, vegetarian, or have a gluten allergy. It's a safe place to eat.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURycGNINXdnRRAB!2m1!1s0x0:0x2d246c7850072102!3m1!1s2@1:CIHM0ogKEICAgIDrpcH5wgE%7CCgsInOzltAYQkMrcQw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNWlK0MHdc-Zo2WLYnFXUrPtIho-QedAMuZogKu=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOTJATq-uh8kPikE5Q9ZdObN48o_9NLFG-_d2wc=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Elle W",
+                "rating": 3,
+                "contributor_id": "106882765764893155286",
+                "description": "I hadn’t been since Covid, but I wasn’t surprised that prices went up while portion size went down. What did surprise me was that at 4:30 pm, the half off happy hour appetizer deal doesn’t apply if you’re not sitting at the bar. My back doesn’t do high top seating. The Detroit location honors happy hour apps as long as it’s during happy hour; I don’t know why there was no indication of a bar-only deal. I don’t like stressing out my servers, so I didn’t bring it up. But paying $90 during happy hour when you’re expecting $50 just seems wrong when the other location honors it.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYeHJYMUZ3EAE!2m1!1s0x0:0x2d246c7850072102!3m1!1s2@1:CIHM0ogKEICAgICXxrX1Fw%7CCgwI6PG7uAYQuNytkAE%7C?hl=en-US",
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "B Lipka",
+                "rating": 5,
+                "contributor_id": "108872382602555333393",
+                "description": "A wonderful place to eat if you are vegetarian, vegan and gluten free. A large variety of dishes to choose from the menu. The food is delicious. The lemonade is home made and absolutely fantastic. Alcohol is served such as wine and ciders. The staff were friendly and helpful as well. The atmosphere is enjoyable.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNkNHFmSTd3RRAB!2m1!1s0x0:0x2d246c7850072102!3m1!1s2@1:CIHM0ogKEICAgICd4qfI7wE%7CCgwIwuawrgYQgJfk5AE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMA5fPvTbE45Jj4vzNK1zvsf_HOgB-MoPM7EALo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPhXASVYSQ0fdjQcPrmxbRU7rY662i3w66N-sIP=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPrqK4wBw19fBzlCM9JH1K6fmDaRtJVOjizz4xp=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNIElIGfiaoyWhOt8XolB6tx-VWYhvIumTLX60y=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "Thomas Deren",
+                "rating": 5,
+                "contributor_id": "110435672925493389268",
+                "description": "An incredible vegetarian experience, never knew meatless could taste so good!  Loved them since their old location downtown, and they've brought their charm with them to Westgate.  Wonderful vegan options as well, and a shiny new cookbook!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYaXFyQVpREAE!2m1!1s0x0:0x2d246c7850072102!3m1!1s2@1:CIHM0ogKEICAgIDXiqrAZQ%7CCgwInNTwuAYQwM3p_AI%7C?hl=en-US",
+                "date": "a week ago"
+            },
+            {
+                "username": "Sally Eder",
+                "rating": 4,
+                "contributor_id": "114484067564240868248",
+                "description": "We had delicious food at our most recent visit to Seva, and the service was excellent.  They have a very creative, well-executed vegetarian menu.  The rosemary potatoes were tasty enough but were possibly microwaved (from frozen?) We were seated back by the kitchen with most of the other diners (fewer steps for the server, which is nice) but it is very noisy.  I’ll ask for a different table next time.  The prices seem high for what you’re getting - I realize food prices have gone up but compared to other restaurants, the prices seem off to me.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3LXJfVGlnRRAB!2m1!1s0x0:0x2d246c7850072102!3m1!1s2@1:CIHM0ogKEICAgID7-r_TigE%7CCgwIibejtgYQiJnAggI%7C?hl=en-US",
+                "date": "2 months ago"
+            }
+        ]
+    }
+}

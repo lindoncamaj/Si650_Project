@@ -1,0 +1,290 @@
+{
+    "docid": 40,
+    "Title": "HOMES Brewery - Brewpub",
+    "Type": [
+        "Brewery",
+        "Asian restaurant",
+        "Bar",
+        "Brewpub",
+        "Restaurant"
+    ],
+    "Address": "2321 Jackson Ave, Ann Arbor, MI 48103",
+    "GPS Coordinates": {
+        "latitude": 42.2802709,
+        "longitude": -83.7784607
+    },
+    "Phone Number": "(734) 954-6637",
+    "Rating": 4.7,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 19
+        },
+        {
+            "stars": 2,
+            "amount": 13
+        },
+        {
+            "stars": 3,
+            "amount": 33
+        },
+        {
+            "stars": 4,
+            "amount": 127
+        },
+        {
+            "stars": 5,
+            "amount": 796
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "4–10 PM"
+        },
+        {
+            "thursday": "4–10 PM"
+        },
+        {
+            "friday": "11 AM–11 PM"
+        },
+        {
+            "saturday": "11 AM–11 PM"
+        },
+        {
+            "sunday": "11 AM–9 PM"
+        },
+        {
+            "monday": "Closed (Veterans Day)"
+        },
+        {
+            "tuesday": "4–10 PM"
+        }
+    ],
+    "Description": null,
+    "Details": [
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Gender-neutral restroom"
+            ]
+        },
+        {
+            "crowd": [
+                "LGBTQ+ friendly",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "payments": [
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Great vibe, friendly service, yummy beer and food.\""
+            },
+            {
+                "snippet": "\"Their food draws from Asian styles, such as Korean kimchi fries and Thai curry.\""
+            },
+            {
+                "snippet": "\"Love the outdoor seating options, great decor and cool atmosphere.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Clari- Net",
+                "rating": 5,
+                "contributor_id": "115908983233079761683",
+                "description": "Great brewery with an incredibly nice staff!!!\nThank you for taking care of me! You guys are the best! I forgot to get the name of the lady in the first picture, but she was incredibly nice. Thank you so much.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNudG9iOWpBRRAB!2m1!1s0x0:0xddd9880e2f2e12a6!3m1!1s2@1:CIHM0ogKEICAgICntob9jAE%7CCgwIjPDRtwYQuPnj2QI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNonWgyA9t-jV8k4o2sdgKRhmLEHyldlUAwtbmO=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM5JNOPK4PxuVelUC30CbzkX0rAcd1FVH7sVQx8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPcx-ggR07X-wqepvCH7yJiDudAELxxm2PL8wOw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrBRjsTVIcbi4NezYWK9VsPYNQASahpT4xGyUD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOOpKW3gETTk2zZVxbVidJr3RZZ8B7qeJPm_H-m=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Trevor",
+                "rating": 5,
+                "contributor_id": "110259699737585759826",
+                "description": "Super chill atmosphere with great tunes. Love the layout and outside seating option. Solid variety of beers, the Crumple was wonderful. Bulgogi fries can be split with someone, at the half size. For $10 it was worth it, delicious, and satiating. Merch is available and they have a membership available. Pokebowl is a delicious option I would recommend. Bulgogi burrito is solid to split between two people.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNqcnJMaGRBEAE!2m1!1s0x0:0xddd9880e2f2e12a6!3m1!1s2@1:CIHM0ogKEICAgICjrrLhdA%7CCgsI8pjTtgYQsLqjdw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNQQNphPvq3Np8hZ0ThcNDUgm2vg834iPHTDFjD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMaK-TkqTtRjEGwsYPW7a1zy-Apt03YdXC0QWTy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMU5FckcaeSEjmToNpoj0iXmVS7IKmNhjBOxt7M=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipORNDFy_4ODeohRXiYXsvssIg3q4IySw4hzs4aT=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPwTXZsiUFLo0-OtInr3U9a5yjPROQNoYSRYPbd=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOF1vnybzIAo8LI9HAGssmGqheUSJbOLPXHRuhW=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMPcv6idgE_I44gy4MDhD-W0QPcm-jYGu4QYtzC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPgr-Nxy_dSDLyG6Ff5MkZ3PO5jn9_3eNHkt3Og=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMA40uGqiBmceX7kmCdUFgrD1_3ZAX83UtrU0M-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN-dPyGjXw8xyJ6cOiSmKo4xPtXrU_iPeRW9j7e=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "R",
+                "rating": 5,
+                "contributor_id": "111053636218639042566",
+                "description": "Great brewery stop in your in the Ann Arbor area. The food offering are very solid. Look forward to visiting again to try more. The taplist was great but I wish there were more of their other style offering available. That said the ipas I tried were great.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURUcUlqcEtBEAE!2m1!1s0x0:0xddd9880e2f2e12a6!3m1!1s2@1:CIHM0ogKEICAgIDTqIjpKA%7CCgwIj-G0sgYQ6M_MrwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMEI0Z4vy3faOpRNVlEV2nB4MbCqoomn7ruT0t8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP6E_5nHh8OSkbh_BPAJPU3r8oddLJq0lsUR52I=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOeOIdDe7MLHyeBRrqqjjIcmLpNaV4TbT3uUZvA=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Lauren Bareiss",
+                "rating": 5,
+                "contributor_id": "116386142312742468973",
+                "description": "I apparently never posted my original reciew, so this is a combination of then and now!\n\nIncredible beer and super helpful staff. I stopped by for my first time on Sunday and had already ordered a few things online, but I was recommended to try a few other things but wasn't fully sure what I wanted. The guy at the front was very helpful, gave me recommendations and some small pours to taste a few different sours.\n\nIn all I went home with like $140 worth of beer and I am already tempted to put in another order to bring more back to the UP with me.\n\nSince then I always try to stop at HOMES when I can and am very excited that I can get Smooj in the Upper Peninsula now!\n\nGreat atmosphere with outdoor seating and covered outdoor seating, fire pits and heaters.\n\nThe Kimchi fries were very good, but the Bulgogi fries were even better!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURTMnJ5Q0ZREAE!2m1!1s0x0:0xddd9880e2f2e12a6!3m1!1s2@1:CIHM0ogKEICAgIDS2ryCFQ%7CCgwIzOzjuAYQ6MHA9wI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMwG5TYh4e9IxSBrOamYfQljIKBTuPwC9KikWD7=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMXMLLv5ORNp7v_vU8rj6aSxd6inlosBFU3W_kw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOD5ymjnrkSRV0dblFt84g3vhi--_EUwe51ogoU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNw5pucKaaEx8HWNi1HMnS3ULPtL1KA6VDYjwAF=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP7e3nmN8H3RxLXfmeus8qa4MhfAeLHgFKTEDqR=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "John Burke",
+                "rating": 5,
+                "contributor_id": "110953672479587905488",
+                "description": "I wanted to give them 6 stars! Here is the reasons.. 1. Customer service- not only was the staff spot on, they were very courteous. I own a catering business and I’m very picky about staff interaction. I must say the staff made our experience excellent. 2. The food was amazing. Great flavor profiles and cooked to perfection. 3. The brews were original and the bartender’s were fast, and mixed very good drinks.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURXNE5MQ3lRRRAB!2m1!1s0x0:0xddd9880e2f2e12a6!3m1!1s2@1:CIHM0ogKEICAgIDW4NLCyQE%7CCgsIyeexkQYQuLyQPA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQvQkJ4_Dx15TJbFrzfPH_5Nyjuorur1FME9sD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyevtfKemUoGHfxQVNQvwvuSdC33iRYqCZjXs-=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            },
+            {
+                "username": "Meghana S",
+                "rating": 5,
+                "contributor_id": "116182362742593971972",
+                "description": "HOMES has some of best IPAs in Michigan. The customer service was spot on and the staff were very friendly too. The food was exceptional with great flavor profiles and cooked to perfection.\n\nMust Try: Toga Fries (the spice blend is phenomenal), Tofu Sandwich\n\nIf you’re an IPA fan, then you gotta try Paradox",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNKdUpTcWdnRRAB!2m1!1s0x0:0xddd9880e2f2e12a6!3m1!1s2@1:CIHM0ogKEICAgICJuJSqggE%7CCgwIseHGpAYQ6NL6yQE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMAB21X1MT5bGEcABKrZJprChPJ5w45PSsAbQl9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMHoP9K67I5K6dfrvvinW-iRc4jXtw6sEIp-J9S=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOW2fHk1rrvixL-T4nTAB9qu_aYXEAmepbL0N9T=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Trevor Davenport",
+                "rating": 5,
+                "contributor_id": "108598967880685878257",
+                "description": "Visiting family from out of town and they suggested I would like HOMES. Now I've been to a lot of breweries that have beer and food and undoubtedly, they only tend to get 1 out of 2 right. HOMES seems to have figured out how to have amazing food served quickly with a high quality bar AND pairing it with a delicious selection of beers.\n\nThe line to order looks deceptively long but everyone was quick, friendly and eager to help you get your grub (and drink) on! We had just about everything on the menu - the bulgogi fries and burrito were the stars. I was less impressed with the coconut ranch edamame and the brussel Caesar salad but they were still satisfying.\n\nI would be here every weekend if I lived in Ann Arbor!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNSOWRMLTVRRRAB!2m1!1s0x0:0xddd9880e2f2e12a6!3m1!1s2@1:CIHM0ogKEICAgICR9dL-5QE%7CCgwI3r7AoQYQ-IT3ggM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMfjXNX5H_bgEhb6p-L9Lo04cZu9iNKK3VNeesm=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPhyl3YcQadszbiGnOSOgtOti7YmW640fX87SUq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOuAftSQWxefP8x5gu-LyuCLjKuVeZHVysgtk_a=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Amanda LaVictoire",
+                "rating": 5,
+                "contributor_id": "112513902898341096480",
+                "description": "Great atmosphere and outdoor patio area! Smooj is delicious and although I haven't tried any food, it looks interesting. My out of town guests loved it here!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNINy1uRUJ3EAE!2m1!1s0x0:0xddd9880e2f2e12a6!3m1!1s2@1:CIHM0ogKEICAgICH7-nEBw%7CCgwI45aBtwYQ4PWi7AE%7C?hl=en-US",
+                "date": "a month ago"
+            }
+        ]
+    }
+}

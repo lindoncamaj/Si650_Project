@@ -1,0 +1,286 @@
+{
+    "docid": 95,
+    "Title": "The Great Greek Mediterranean Grill & Catering - Ann Arbor, MI",
+    "Type": [
+        "Greek restaurant",
+        "Mediterranean restaurant",
+        "Middle Eastern restaurant"
+    ],
+    "Address": "3268 Ann Arbor-Saline Rd, Ann Arbor, MI 48103",
+    "GPS Coordinates": {
+        "latitude": 42.239636,
+        "longitude": -83.7712495
+    },
+    "Phone Number": "(734) 373-7000",
+    "Rating": 4.6,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 10
+        },
+        {
+            "stars": 2,
+            "amount": 7
+        },
+        {
+            "stars": 3,
+            "amount": 20
+        },
+        {
+            "stars": 4,
+            "amount": 42
+        },
+        {
+            "stars": 5,
+            "amount": 296
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–8 PM"
+        },
+        {
+            "thursday": "11 AM–8 PM"
+        },
+        {
+            "friday": "11 AM–8 PM"
+        },
+        {
+            "saturday": "11 AM–8 PM"
+        },
+        {
+            "sunday": "11 AM–8 PM"
+        },
+        {
+            "monday": "11 AM–8 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–8 PM"
+        }
+    ],
+    "Description": null,
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Comfort food",
+                "Halal food",
+                "Healthy options",
+                "Quick bite",
+                "Small plates",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Counter service",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "crowd": [
+                "Groups"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Lamb was cooked to perfection, juicy and flavorful, I also enjoyed the rice.\""
+            },
+            {
+                "snippet": "\"The food and service are top notch, and you get huge portions for the price.\""
+            },
+            {
+                "snippet": "\"There are a good selection of soup choices and mouth watering desserts.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Vazir Fatehi",
+                "rating": 5,
+                "contributor_id": "105246849326058307266",
+                "description": "Bright and airy restaurant with quick table service and a fine Mediterranean menu. We loved the chicken-lemon soup, gyro pita-sandwich and the feta fries, and, if desired, the kids menu has many options; (the chicken tenders were good). Portions are good and fountain drinks included in the combos. Also conveniently located in the busy shopping area near the Lohr Circle area.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURuMXUtOF9RRRAB!2m1!1s0x0:0xd50f6767201e667c!3m1!1s2@1:CIHM0ogKEICAgIDn1u-8_QE%7CCgsIq8qFuAYQuP20DQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOtQZIbJSIFHvSp3rSAhfUiu5bsjKXih2X9pR6N=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMN7vaVL4xCkbrjPz5HU2FqSddykdM-6473hS9S=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMD5phWnHmBWZlY24Kf2vCTPa3X8nHmBEqfmHyZ=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Carolina Rollins",
+                "rating": 5,
+                "contributor_id": "112186669666699308284",
+                "description": "We ordered 8-10 person Combo Gyro Tray + 1/2 tray Greek Salad for carry out.  It was hot, fresh and delicious!  I love the dips and desserts.🥰\nOn a separate occasion, we ordered catering for a birthday celebration.  Everyone enjoyed the food.  It was a big hit!\nOne of the managers, Jessie is super nice.  The dips were not in the bag.  He offered to bring them to me.  Thank you so much, Jessie for your customer service.\nI will definitely go back and tell friends!✔",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYekxUQ2dnRRAB!2m1!1s0x0:0xd50f6767201e667c!3m1!1s2@1:CIHM0ogKEICAgIDXzLTCggE%7CCgwI-OfquAYQ8PrM8QI%7C?hl=en-US",
+                "date": "a week ago"
+            },
+            {
+                "username": "Odette Pantoja",
+                "rating": 5,
+                "contributor_id": "116107457280762358508",
+                "description": "I was pleasantly surprised by the food. Lamb was cooked to perfection, juicy and flavorful, I also enjoyed the rice. I had to try a classic lamb and beef gyro, extremely yummy. Funny thing is this is the only way I'll eat tomatoes. Baklava was missing some syrup but we will be trying the rice pudding next time. It looks like a fast food restaurant but with the taste of a nice Mediterranean restaurant. I can't wait to go back and try more of the menu.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURWaWJHdGZBEAE!2m1!1s0x0:0xd50f6767201e667c!3m1!1s2@1:CIHM0ogKEICAgIDVibGtfA%7CCgwIoNn-qwYQkPPf8gE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN5sILyRIdw6EQm3RNiKbVhniIM-_ivcWVyHfM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPhSqxY8sCQSHJbvAjHWwKHiHboVDRzvFZ7A3E=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMwfSC4oez_FM9xbF6wdreLsRtyrnRuBYwC0zA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN3yWnUrB5rJbC1VW0AAMy5GH8LWlu6QkkkSZk=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "10 months ago"
+            },
+            {
+                "username": "Shelby D. Garland",
+                "rating": 5,
+                "contributor_id": "102685326700698176090",
+                "description": "Ordered 4-5 person gyro platter for carry out. It was delicious! Ready in no time at all. So much food!!! We will definitely be eating here again.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURMNTl5azdBRRAB!2m1!1s0x0:0xd50f6767201e667c!3m1!1s2@1:CIHM0ogKEICAgIDL59yk7AE%7CCgwIhMaMtAYQyKKyzwM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNAI4I2nRExX8MbIa3J_qZv3tCIBIidNDyhnyZX=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Lauren Peterson",
+                "rating": 5,
+                "contributor_id": "107146485258613915966",
+                "description": "Get the kafta burger 🍔 & feta fries 🍟. They're out of this world good.\nSo happy I found this place, it's a weekly lunch time staple now.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNibXV2NVZREAE!2m1!1s0x0:0xd50f6767201e667c!3m1!1s2@1:CIHM0ogKEICAgICbmuv5VQ%7CCgwI8ZH-tQYQ4PbEowM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP3u-v15ZNHD2gzgon6Zr68h534h0TSDMmn03eU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMpxDexUC1NZ1TEuj2-b3sNpP00aglhV3DaGJ0A=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Lola B",
+                "rating": 5,
+                "contributor_id": "115852208990433622988",
+                "description": "This was my first time trying. I can honestly say I thought this place would not taste as good as the big Mediterranean restaurants…but let me tell you! I was in for a rude awakening! The salad was delicious, the dressing was not the usual overbearing Mediterranean flavor, it was made perfect for my tastebuds! The salmon was delicious and seasoned just right; the feta fries were everything!! Absolutely delicious..I squeezed lemon all over the feta fries which made it even more flavorful. The staff was friendly and knowledgeable about each item. This is my new spot when I am in the area.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNwXzl6d1hBEAE!2m1!1s0x0:0xd50f6767201e667c!3m1!1s2@1:CIHM0ogKEICAgICp_9zwXA%7CCgwI8pzkpgYQ-KCCmAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPv0JJXwtTrwxAu8YqxLqVBiUU2V1jem3CzJNp9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNpgqCn9fU9IDaeu5T3u-n7OfNPu9bBwXjSXQOa=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPEdudlQ9l2DfB8eKZkeLF7M9dMorByJRbt8QCu=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM6YeLN6SVxwsrBUHav1hObfxFePQCAP60gl7S0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN8004U35B137yse_n6KWvMbcVieqs7--cA0JTK=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Bruce B",
+                "rating": 5,
+                "contributor_id": "103509047964718568466",
+                "description": "I ordered the gyro platter with fries.  It came with a salad and pitas.  The gyro meat tasted good and was tender.  The salad was good and the fries were great - crispy and not greasy.  Portions were generous and service was prompt.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNqeGZqcjdRRRAB!2m1!1s0x0:0xd50f6767201e667c!3m1!1s2@1:CIHM0ogKEICAgICjxfjr7QE%7CCgsIkvugsQYQoKaAGw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP8Tbu0G_OoE4bzC72Mo8yf9o0qjuMB1HKdQibL=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "Lydia Browning",
+                "rating": 5,
+                "contributor_id": "105786243430643241595",
+                "description": "My waitress was super friendly and took care of our dishes after we were done and the food came out fairly quick and it was really good!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqejl6WmFBEAE!2m1!1s0x0:0xd50f6767201e667c!3m1!1s2@1:CIHM0ogKEICAgIDjz9zZaA%7CCgwI1-_vsQYQoJ7KnAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPIx8X5bzAcgObjNyFpeT3FOFDytDKv4BS1SWS5=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            }
+        ]
+    }
+}

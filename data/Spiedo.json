@@ -1,0 +1,330 @@
+{
+    "docid": 87,
+    "Title": "Spiedo",
+    "Type": [
+        "Restaurant"
+    ],
+    "Address": "307 S 5th Ave, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2791719,
+        "longitude": -83.74587269999999
+    },
+    "Phone Number": "(734) 548-6969",
+    "Rating": 4.7,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 2
+        },
+        {
+            "stars": 2,
+            "amount": 4
+        },
+        {
+            "stars": 3,
+            "amount": 9
+        },
+        {
+            "stars": 4,
+            "amount": 5
+        },
+        {
+            "stars": 5,
+            "amount": 117
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–9 PM"
+        },
+        {
+            "thursday": "11 AM–9 PM"
+        },
+        {
+            "friday": "11 AM–10 PM"
+        },
+        {
+            "saturday": "11 AM–10 PM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "Closed (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–9 PM"
+        }
+    ],
+    "Description": null,
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Great cocktails"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Comfort food",
+                "Happy hour drinks",
+                "Hard liquor",
+                "Healthy options",
+                "Quick bite",
+                "Small plates",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Gender-neutral restroom",
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking lot",
+                "Paid street parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Cute small restaurant with tasty options and great quick service.\""
+            },
+            {
+                "snippet": "\"Super high quality ingredients, creative flavor combinations, and nice staff.\""
+            },
+            {
+                "snippet": "\"I felt the food served and services were subpar for the price.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Ben Blue",
+                "rating": 5,
+                "contributor_id": "103954947471376750790",
+                "description": "Fun design. Fast service. Tasty food. They allowed us to bring our own wine and charged $20 corkage. Lots of plant based options. Vegans welcome!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYN0pPZDF3RRAB!2m1!1s0x0:0x6c827c0539b3a79a!3m1!1s2@1:CIHM0ogKEICAgIDX7JOd1wE%7CCgwI4sjruAYQ0JL2-QI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMOCyeA6BPzUh64sBFbiCxaHp4xPwNQFd37oZSU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOkOBGbb3rYzobwUCHbcAqK6Vrg5HIXoHf1hfNk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP-OCsCOf0YiLjgz_Y8Yb8cQ1n82mzEbD8U7VnA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN7imltHRafsV_ctp4Xmn6GwDibyZCNZ19NEMsW=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMlXj89gLOO7BMwjlKWkOW80xd2bY5ed26Xtb8f=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNH0ofSuPkiYEIFa2oFf9AXnYxiVZUg1k1224Ai=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNbLl6LhYEESKcs68tHkY4BSs7QnK4aU8mYIQJm=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNcfEMOedE7DnSQIHs5fNS_FoUhnrFrOamMANVq=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a week ago"
+            },
+            {
+                "username": "Carrie G",
+                "rating": 5,
+                "contributor_id": "107551295299818923137",
+                "description": "Loved this cute little place! Ian was super friendly and patient as I asked multiple questions regarding the menu, excellent customer service. Food was delicious! We had Reverse Johnson in a rice bowl, and  Knight with a flat bread, both very tasty. The snap peas were so fresh and yummy! We will definitely be back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURybXI2am1nRRAB!2m1!1s0x0:0x6c827c0539b3a79a!3m1!1s2@1:CIHM0ogKEICAgIDrmr6jmgE%7CCgwIvYvctAYQ0JC3sAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOX2g7bbYq5kHOuczzzAQNLlIllDaGDS6xp830k=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Ahmed",
+                "rating": 5,
+                "contributor_id": "109902249534369525206",
+                "description": "Such a cool spot-\n\nFirst off, the interior of this place is just nice. It’s hard not to appreciate good design, and this restaurant is just nicely laid out and designed. The food here was pretty good. Went for the Zhoug Knight and just devoured the whole thing. Portion sizes are generous and the speed of service was just impressive. We got our rolls out within just 10 minutes of ordering. Glad I found this restaurant cus I’d definitely want to come back and explore more of the menu!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNyOXNhYWF3EAE!2m1!1s0x0:0x6c827c0539b3a79a!3m1!1s2@1:CIHM0ogKEICAgICr9saaaw%7CCgwIoeentAYQkMy32gE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONfymHT6TbgSx4flsT0oOoKu5q7YVHlj67xlg1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOVCz3C_V9ttiGU5npYwDpTXZxzmpS2Vb74ksN8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP-6eI5b8r35OLNPcu0pNeUvGzkWq2AVemdOxaA=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Robert Ernst",
+                "rating": 5,
+                "contributor_id": "107319786042486740453",
+                "description": "We always look for non-standard, highly rated, food options whenever we take trips no matter how short or long they are. A quick search of Ann Arbor helped locate Spiedo and we were extremely pleased. The food was as delicious as the pictures looked. Don was extremely helpful and patient in reviewing the menu options and his recommendations. The place is small, cozy, well lit, and had plenty of parking options. My wife asked if I'd get the same thing again to which I replied \"No, but only because I want to try everything else\".",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUbFBINUtBEAE!2m1!1s0x0:0x6c827c0539b3a79a!3m1!1s2@1:CIHM0ogKEICAgICTlPH5KA%7CCgwImK39sQYQuLLfhAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNBjmp1hp3rN9WDM8dEHOjSCA5bUqbjsP3pLXUx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMEYqz7XqbTYEsmz5s38uNcv3LQHlhZAkNq7Q4w=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPwR5UneiBjdNsRbhO4CWtiHi7zAwJ47sKSkfjo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOUug3bKGAkykFcUb6Pn1GpYY2qpiKZagM8ivbM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPE97MGspbIPTErcrxHifH_IAWb-OKv-_qjz7bb=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMDSfr0xPW-oeQPDhz75dEvxT8TYCLsfRwExlX8=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Jacob Haas",
+                "rating": 5,
+                "contributor_id": "114704623021711979381",
+                "description": "Spiedo is putting out the most exciting, innovative, and (most importantly) delicious food in the area. I highly recommend this restaurant for a casual dinner (or a great lunch). I cannot express enough how thoughtful their food is.\n\nSpiedo does rotating menus of wraps, rice bowls, and sides. The wraps and rice bowls are amazing (the spicy pork, walleye, chicken, kielbasa, and spicy tofu are all really, really great. The falafel’s the only one I’d forgo for the others).\n\nAs good as the main dishes are, the sides are even better. The farmer’s cheese is amazing. They had a lemon chicken rice soup for a while that was one of the best soups I’ve ever had. Other ones I’ve loved from past and current menu rotations are the roasted cabbage, griddled potatoes, eggplant, phkali (carrot puree) dip, smashed cucumber, and heirloom tomato. It’s hard to go wrong with the sides - I suggest you prioritize them when deciding what to order. The creativity is just phenomenal - dishes are packed with fresh herbs, lots of texture, and flavor combinations that work very well.\n\nThe chocolate tahini milkshake is amazing as well.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6cHNhMmpRRRAB!2m1!1s0x0:0x6c827c0539b3a79a!3m1!1s2@1:CIHM0ogKEICAgIDzpsa2jQE%7CCgsIz5PCtwYQ0KbpEg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNaJ2JLPVkW2e7sw2N-2qtTN9kI3XlLmSBvACsw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM-a69ojjsrJU_NA8bFrUiSdtICjVmR06np8-W8=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Tara Clapper",
+                "rating": 5,
+                "contributor_id": "101649827623416399884",
+                "description": "A nice and quick, tiny, casual restaurant with kind workers and tasty food. A bit on the pricier side. Unique and flavorful. Some ingredients are super spicy, so check if you are unsure.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNiNnRxTDN3RRAB!2m1!1s0x0:0x6c827c0539b3a79a!3m1!1s2@1:CIHM0ogKEICAgICb6tqL3wE%7CCgsIloyLtQYQ4OrXJw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP3i14vC_sTb5nhnzJwvUMsvqlmX-0FAn_LdB59=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOBIX5rcnh8bu11dqlmmKDOO0zA8y95Doe9t2pD=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Hank Putter",
+                "rating": 4,
+                "contributor_id": "110004903601536251886",
+                "description": "I wasn’t particularly blown away tbh but it was good. Meat was a little boney here and there and it could use some spice. It’s pricey man like I feel like for the price of the wrap it should at least come with fries or chips or something. Outdoor seating is pretty nice vibs",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURyXzQ2d093EAE!2m1!1s0x0:0x6c827c0539b3a79a!3m1!1s2@1:CIHM0ogKEICAgIDr_46wOw%7CCgwIhor2tAYQsO2FpQE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN2cMqURnoy5Zr52m7UDWy_LL88G575Vv2emh03=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOCv8_GbsvAUQt6_lgCHIioMQVd9ThWntilOsMn=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Kevin Tan",
+                "rating": 5,
+                "contributor_id": "111790687473840619006",
+                "description": "Dropped by Spiedo for a meal and the vibe was just right. They’ve got a super convenient barcode system for ordering, which made grabbing a table and diving into the menu a snap.\n\nWe tried a range of vegan dishes, each with its own unique twist.\n\nThe Charred Cabbage was a standout, topped with a tangy tahini ranch and sweet pomegranate molasses.\n\nThe Cauliflower dish was fresh and zesty, and those Griddle Potatoes? Cheesy, herby, and just plain delicious.\n\nDon’t even get me started on the Tofu Mafia Rice Bowl – it was a flavor-packed punch with a kick from the chili crisp.\n\nEven snagged a bite of the Zhoug Knight chicken – tender and perfectly spiced.\n\nService was friendly and fast. For anyone looking for great vegan food (and a bit more), Spiedo’s a winner. Would totally recommend!\n🤤",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREN2VXM0RBEAE!2m1!1s0x0:0x6c827c0539b3a79a!3m1!1s2@1:CIHM0ogKEICAgIDD7eW3DA%7CCgsI5ObxsAYQoNzybA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMh8hfucqiH6TVEQiXLCSRFQkl4WIVZIRpEivOx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM_iN1L1grYW_XpbMWa0h3XBo93KlIFgHb_6-zN=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMkpQuhI3RWl1W-uqxVNN3FQixlYuCAs22sHqHO=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPuo_w23Z6Poxx_ZJS_YaEBMnjzHaEDOoMHM7C6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO3Bpb_ndrK-tZbbb3u-Ix-Yc2Nj5ok_gE0kh-t=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            }
+        ]
+    }
+}

@@ -1,0 +1,323 @@
+{
+    "docid": 74,
+    "Title": "Plate Sushi & Chicken",
+    "Type": [
+        "Restaurant",
+        "Japanese restaurant",
+        "Sushi restaurant"
+    ],
+    "Address": "1133 Broadway St, Ann Arbor, MI 48105",
+    "GPS Coordinates": {
+        "latitude": 42.2905429,
+        "longitude": -83.7373351
+    },
+    "Phone Number": "(734) 369-6127",
+    "Rating": 4.7,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 5
+        },
+        {
+            "stars": 2,
+            "amount": 3
+        },
+        {
+            "stars": 3,
+            "amount": 11
+        },
+        {
+            "stars": 4,
+            "amount": 34
+        },
+        {
+            "stars": 5,
+            "amount": 284
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–3 PM, 4–9 PM"
+        },
+        {
+            "thursday": "11 AM–3 PM, 4–9 PM"
+        },
+        {
+            "friday": "11 AM–3 PM, 4–9 PM"
+        },
+        {
+            "saturday": "11 AM–9 PM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "11 AM–3 PM, 4–9 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–3 PM, 4–9 PM"
+        }
+    ],
+    "Description": "Informal, industrial-chic restaurant serving Japanese specialties along with chicken wings.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Comfort food",
+                "Healthy options",
+                "Quick bite",
+                "Small plates",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Incredible place with super friendly staff and terrific Korean Fried Chicken.\""
+            },
+            {
+                "snippet": "\"The food was amazing, service was great, and prices were surprisingly great!\""
+            },
+            {
+                "snippet": "\"Really enjoyed this small sushi restaurant that just opened up in Ann Arbor.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "A",
+                "rating": 4,
+                "contributor_id": "117892731373797784815",
+                "description": "Cool spot for sushi in Ann Arbor! They do not serve alcohol!\n\nVery intimidate cafeteria type set up inside, staff is super friendly and quick. Street parking was plentiful with tons of nearby shops to check out. We got a few rolls for the table- salmon on the beach, U of M and Tokoyo roll plus the chicken wings with soy garlic/honey butter.\n\nSushi was a hit- loved the flavors and was able to see the sushi chefs at work. 10/10. Pictures on the menu so it was easy to pick out what we liked. The chicken was flavorful and very crunchy. Would definitely order again!\n\nWe also had the house barley tea which tasted heavy like oats as well as the miso soup which was the best miso soup of my life. Definitely stop in!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYMjdEc2JnEAE!2m1!1s0x0:0x9d340aa72f0fc49b!3m1!1s2@1:CIHM0ogKEICAgICX27Dsbg%7CCgwIo9_VuAYQqJnX4gE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOmtVrN5KzruVO15bMrPtMzBPJHzL9Bzxfy5TCh=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMbAElNxE8qlXTopGSTQVxMJ-T2oFncF-U3NUxS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNTopLnG71lhDUBuUrSNT---pzzKNPRbgiIIZcS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOacDo0Lw0jP3pIUCfUafYNTjIviNkZNCbDH3Oy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPK_3W8Cih9NbriupAEK6jF-412GsJWFXYXwmwZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMxsHI8x0di1frQgI6hggUNxK0j4yJxf6R8iCzB=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNqTrOFTRo4uPgWE_Ag-W8JQ9Aulz10cAe6DQC1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN4xlpkCo1OA60CCXdV8HkxDPf1ukN6EdtaJjca=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPmkifas8ZUJWFtEw8ktycdvt5XgTsA4mXZiPCm=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "K Johnson",
+                "rating": 5,
+                "contributor_id": "116937815404291266154",
+                "description": "It's rare for any place to get 5 stars from me.  This place is fantastic.  The best wings I may have ever had in my life.  How you get them so sticky and crunchy is magic. My Tempura Udon soup was full of veggies and umami.  Very friendly service.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURqdGNiZWdnRRAB!2m1!1s0x0:0x9d340aa72f0fc49b!3m1!1s2@1:CIHM0ogKEICAgIDjtcbeggE%7CCgsIxYPgsQYQgOb-Hg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMT95QyEHGJM-EB_1jN72AgShmgSxW84tO79_zy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP54C-YB9rsJ9347UJwXKWJtqM_ydbqNnV638dX=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPQTiYc2BsMMIFdGGkwlhlFFhQw25A1ugbkxN3W=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMTPTVXel2pbZKp8RCpPoQaUsn77JvaiMVYNRJ9=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "Malina Pasek",
+                "rating": 5,
+                "contributor_id": "105796599786634219603",
+                "description": "I always enjoy coming here when I am in town! It was a place I was introduced to by my ex, and it’s fairly inexpensive.\nThe cucumber salad is refreshing and the soup is always delicious.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqbXBTdmNBEAE!2m1!1s0x0:0x9d340aa72f0fc49b!3m1!1s2@1:CIHM0ogKEICAgIDjmpSvcA%7CCgsIgrTqswYQ6KarCg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHJnK98iDLh5UXIr7TVtYORJtNIdo8LhkNGQJI=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Daria E",
+                "rating": 5,
+                "contributor_id": "116536312956990718144",
+                "description": "Great place! Miso soup was delicious, normally you dont pay attention to it but when you have a really good cup of miso - you can’t leave it unnoticed. Amazing sushi and bento, super delicious, polite and respectful staff. Highly recommend.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMeF83YTJ3RRAB!2m1!1s0x0:0x9d340aa72f0fc49b!3m1!1s2@1:CIHM0ogKEICAgICLx_7a2wE%7CCgwIwpbhswYQ-LuWuAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOUjzT_NVrUjcxZc5G-_cSPfBE1bgETdbIsZmc5=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "M W",
+                "rating": 5,
+                "contributor_id": "107532515751014554363",
+                "description": "I love this place friendly staff, server was on point with everything, great food for the price point, and the food was prepared quickly, but courses were not rushed. Please keep up the great work. Thank you for a great experience at your establishment.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURWNS0yZE9REAE!2m1!1s0x0:0x9d340aa72f0fc49b!3m1!1s2@1:CIHM0ogKEICAgIDV5-2dOQ%7CCgsIhL79qwYQoOaeeQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQ0pLRomyw8rNX_EmsnMC9RhhvF_QRXxiaiOY5=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMKOP5VlQGd6pCXCyaEQv6si15q8NXTkHaDwU2V=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "10 months ago"
+            },
+            {
+                "username": "Julia Han",
+                "rating": 5,
+                "contributor_id": "113868960040867445297",
+                "description": "I had the Beef Teriyaki Bento for lunch at Plate Sushi and Chicken, and it was a delightful experience! The interior of the restaurant was not only aesthetically pleasing but also quite comfortable, which was perfect for our group dining outing. The best part was that our food came out surprisingly fast!\n\nThe Beef Teriyaki Bento was a real treat. The teriyaki sauce was just the right balance of savory, not too sweet, and not too salty - it hit the spot perfectly. I’m already looking forward to my next visit, as I can’t wait to try all the other bento options on the menu. A great place for a delicious and satisfying meal! I had a fantastic experience at Plate Sushi and Chicken in Ann Arbor. I ordered the ‘Salmon on the Beach’ and the ‘Popcorn Chicken Bento.’ The meal started with a pleasant surprise - cucumber and crab for the appetizer, along with a bowl of miso soup before the main course. The portion size was generous, so I had leftovers for dinner, which was a bonus. The sauces were delicious, and the shumai was quite tasty. I’m looking forward to returning for another delightful meal!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURabmZiTFRBEAE!2m1!1s0x0:0x9d340aa72f0fc49b!3m1!1s2@1:CIHM0ogKEICAgIDZnfbLTA%7CCgsI8sOxqQYQ2J35Eg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNBjux6GUyWjxvKhke8HtSp2Rv-prqUTuWATZuy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOTWTap2v0HqIC19Z6GEk9dgRH6uisr4ib_M_4R=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOzFnqrrwDv4AdSIUo2NSy2EyVHIIpIrsNBmCPY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMcFb1oqGgpbzWReKJmsSBUk42Wndtnn__AOYwZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMbrHENqz5legN-hW8XqxUjMkFKjgwOAT8zvDJj=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNbEZ-E--lrRNhaqyMIfkFN0j6xBvOsN7jiGa8j=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP6IaxjKJ49gIpbMa-Twu3DEBy-ce-uBf8lo6UG=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Sam Hicks",
+                "rating": 5,
+                "contributor_id": "105953480752300175360",
+                "description": "This place was RAD. We sat outside with a group of 6, EVERYTHING was top notch in food quality and temperature. These guys know what’s up. It’d be a crime to not come here if you’re looking for some of the best Asian food in the city. Sushi, Bento, and noodles were perfect. We’ll be back :)",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNwNzczRTZ3RRAB!2m1!1s0x0:0x9d340aa72f0fc49b!3m1!1s2@1:CIHM0ogKEICAgICp773E6wE%7CCgwIkObhpgYQ-Mim0AI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMLPf4_mEuaLQsZZkUu0UiV8T8PXG3jLd2AHG6N=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMbKoJzqETccoGXAbejeG-4HA0IahmwOSEuBUO0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM5uiz4sv6CtyQxQTTROsFhJYfTtti3H72G2tQV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM7Z1-2QG_cgZUn2b0fWuB721Q0UUhNLfaUC_fN=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Andrew Kim",
+                "rating": 4,
+                "contributor_id": "101655357944269785777",
+                "description": "Very nice and kind waitress and the food was decent!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYX3Y2MWp3RRAB!2m1!1s0x0:0x9d340aa72f0fc49b!3m1!1s2@1:CIHM0ogKEICAgIDX_v61jwE%7CCgwI9Pj6uAYQsKKOzgM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPoOxADZY0SCJ1QDfP2ZJ5VjLcZOru2tnGB9MGa=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP71nx3FpFe32HNFYt_d7vfUVt40vYKG8QL6v1x=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMOiMHNrZ6B7DOCgv_0JcMAEVmgOoNWT5rSlHm7=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMGZTHitNB3p3VDRB2KS9-OFuenKWU52bn6vMsH=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a week ago"
+            }
+        ]
+    }
+}

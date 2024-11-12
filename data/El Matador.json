@@ -1,0 +1,287 @@
+{
+    "docid": 34,
+    "Title": "El Matador",
+    "Type": [
+        "Mexican restaurant"
+    ],
+    "Address": "4316 Chamblee Tucker Rd, Tucker, GA 30084",
+    "GPS Coordinates": {
+        "latitude": 33.8819326,
+        "longitude": -84.22000849999999
+    },
+    "Phone Number": "(770) 414-9291",
+    "Rating": 4.1,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 80
+        },
+        {
+            "stars": 2,
+            "amount": 45
+        },
+        {
+            "stars": 3,
+            "amount": 95
+        },
+        {
+            "stars": 4,
+            "amount": 218
+        },
+        {
+            "stars": 5,
+            "amount": 498
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–10 PM"
+        },
+        {
+            "thursday": "11 AM–10 PM"
+        },
+        {
+            "friday": "11 AM–10 PM"
+        },
+        {
+            "saturday": "11 AM–10 PM"
+        },
+        {
+            "sunday": "11 AM–10 PM"
+        },
+        {
+            "monday": "11 AM–10 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–10 PM"
+        }
+    ],
+    "Description": "Standard Mexican meals are served alongside margaritas & beer at this informal eatery with a patio.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Live music"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Hard liquor",
+                "Quick bite",
+                "Small plates",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy"
+            ]
+        },
+        {
+            "crowd": [
+                "Groups"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Great place to eat tasty mexican american food with family and friends.\""
+            },
+            {
+                "snippet": "\"We love the chips with salsa or queso and the salad in a round taco bowl.\""
+            },
+            {
+                "snippet": "\"Best Mexican food for the price, best margaritas, good service👍.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Be J",
+                "rating": 3,
+                "contributor_id": "114943582261381016208",
+                "description": "The food was good but not as good as it used to be, which is the reason I chose this place. Unfortunately, the waitress decided we didn't need her and left us to service a table on the patio and never came back. I had to send another waitress to get her. Overall, I'd visit again",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYM3RfZ0hnEAE!2m1!1s0x0:0x8579a22276476802!3m1!1s2@1:CIHM0ogKEICAgICX3t_gHg%7CCgwI0_DBuAYQkLvbvwI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN-08SwCOnUQaWEuO928chn10ue0EVJoRn_8mJ7=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMB8O-1ktEjQAxfwDPc0zqPMvygRl0zziUCeHFA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOhA76jwwYdCF0B0CoWmisG8eGDDk3OUCFbXZwz=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Lady Joka",
+                "rating": 3,
+                "contributor_id": "114774261558097884511",
+                "description": "OK, so everything was all right. It just was missing a little flavor. I think they need to revisit the seasoning. Department was nice and tender that my mom had but it was just missing flavor for me. The chicken that I had in the fajitas were dry along with the burritos that my son had Ordered a Margarita when it first came to me. It was weak, but was I told him my drink was weak and he gladly gave me a shot to save my drink overall the service food seasoning needs to be adjusted.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREcEwzcEVBEAE!2m1!1s0x0:0x8579a22276476802!3m1!1s2@1:CIHM0ogKEICAgIDDpL3pEA%7CCgwIrcbBsAYQ8NHwtQE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMpPM13oUo-5gsHEe108BZkjai347X7ZeLf78c_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMXX-boiqo98nGpA8459IBe-HeTE7CIcqAp61Cu=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPvFl93wRR43Jx_M3qtl7k77vkUIBmEZ4joylLi=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "La Peliroja",
+                "rating": 5,
+                "contributor_id": "115974957170844798091",
+                "description": "Been going here for many, many years, and my favorite has always been the Chicken Crazy Taco.  It did not disappoint, and food was received promptly.  Keep up the good work!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuMGM2WUR3EAE!2m1!1s0x0:0x8579a22276476802!3m1!1s2@1:CIHM0ogKEICAgIDn0c6YDw%7CCgwI5qKMuAYQ-L671QM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOXpnFQKR5PWTZhbRzpSJDZWMvw1KgzFWt2-zq8=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Kaidon Jorn",
+                "rating": 5,
+                "contributor_id": "105654872183817428695",
+                "description": "Very good Mexican fare. This was actually my third time here and decided to try the Pollo Loco (chicken with chorizo), which was excellent 👌. Only thing I would suggest is that they should think about serving it with pico de gallo (tortilla toppers!).\nVery tasty and filling. Will come back to try other dishes!\n\nEdit: Burrito Al Carbon is delicious! 🤤",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR0ODViMDBnRRAB!2m1!1s0x0:0x8579a22276476802!3m1!1s2@1:CIHM0ogKEICAgIDt85b00gE%7CCgsI346HtAYQ6MLLGA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO6MYpQJqrd02e4SDaIVBqUSuaE7KNy3cYBDVHS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNXWcHZCS1PgyNyXcBuhP1GRFT6sK0aV1Lkso-p=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Keith Harris",
+                "rating": 5,
+                "contributor_id": "113474182816248368605",
+                "description": "I have been coming to this great tasting authentic Mexican Restaurant for over 2 decades. The food that I ordered over twenty years still tastes as good as if the chef when I first came across this place when I moved into my house never left. It’s a shame that I never considered writing a review about the food, the customer service and the friendly atmosphere. I usually dine alone so I cozy up to the bar and place my order. Don’t wait until Cinco de  Mayo each year to eat great tasting Mexican cuisine just don’t take my place in the long line of satisfied customers that become loyal patrons. Start out with the chips and salsa with your favorite beer.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREaFlxeWVREAE!2m1!1s0x0:0x8579a22276476802!3m1!1s2@1:CIHM0ogKEICAgIDDhYqyeQ%7CCgwIg7HhsAYQ2IyTpQE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNdrwvqLbwNeYL0p0IiOcMQgFIHqIfBaqDtMpEJ=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "S",
+                "rating": 5,
+                "contributor_id": "112753665393624378970",
+                "description": "Came for dinner one night because my friend wanted to celebrate taco Tuesday. Neither of us got tacos but I did get a really good dish with chicken, cheese and rice. It was tasty and allowed me to stay on my diet. I would definitely come back for a flavorful and healthy dish.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQyb29DbFZBEAE!2m1!1s0x0:0x8579a22276476802!3m1!1s2@1:CIHM0ogKEICAgID2ooClVA%7CCgwImojokwYQgMnLxQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOZbfyUCiMRTepL2pI1gva5yjTUXQTLLVJNlKSx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOGTfAhh8VvgWqXKxDMlWxhz5P66N5p6k6q5ot_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPVOWlplLQjn5o90TlIikak_obLbTAumzD0R3Nr=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            },
+            {
+                "username": "Emily Scharf",
+                "rating": 4,
+                "contributor_id": "108865353555136619055",
+                "description": "This restaurant makes delicious rice and chicken fajitas. They also make a good taco salad. They have a large menu with all sorts of options. Great service. They can be slightly inconsistent with food quality, but I get the same thing every time so I can't speak to the other dishes.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR6NU5MeE5BEAE!2m1!1s0x0:0x8579a22276476802!3m1!1s2@1:CIHM0ogKEICAgIDz5NLxNA%7CCgsIp5qNswYQsMWsVw%7C?hl=en-US",
+                "date": "4 months ago"
+            },
+            {
+                "username": "Corey Willis",
+                "rating": 5,
+                "contributor_id": "116862028609512000087",
+                "description": "Super super good food here!!! Nice and tucked away in the plaza next to QT. I had the “Pollo Loco” that came with chorizo on top of a grilled chicken breast and queso cheese dip. I also ordered the chicken burrito with rice and veggies for my son. He ate it UPPP!!!\nThe margaritas here were good too. I had just a small one, frozen, no salt or sugar and it was pretty decent. I want to come back and try the “Mar-cona” one next time. It looks like it’ll get you riiiiiight.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM2X3FPb0F3EAE!2m1!1s0x0:0x8579a22276476802!3m1!1s2@1:CIHM0ogKEICAgIC6_qOoAw%7CCgwI4IjViQYQ4NuOuwI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPYabNAvCY3JV9ShPlHtLsG2HiMHnIU9bMVBSZx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNK1_q2a-LuPLMgSfAgwgE-vKWUoPwmHI6ea7Mw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOHW3heSPJoR9wdCaPHXNO7dGO38p-XLHX4_PBt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNDF6-DEVudXilleJ-0yEo7mBETmBghMCSxRmvn=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 years ago"
+            }
+        ]
+    }
+}

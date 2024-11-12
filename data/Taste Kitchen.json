@@ -1,0 +1,363 @@
+{
+    "docid": 90,
+    "Title": "Taste Kitchen",
+    "Type": [
+        "New American restaurant"
+    ],
+    "Address": "521 E Liberty St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2795439,
+        "longitude": -83.74232409999999
+    },
+    "Phone Number": "(734) 369-4241",
+    "Rating": 4.6,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 14
+        },
+        {
+            "stars": 2,
+            "amount": 8
+        },
+        {
+            "stars": 3,
+            "amount": 30
+        },
+        {
+            "stars": 4,
+            "amount": 77
+        },
+        {
+            "stars": 5,
+            "amount": 386
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "4:30–10 PM"
+        },
+        {
+            "thursday": "4:30–10 PM"
+        },
+        {
+            "friday": "5–11 PM"
+        },
+        {
+            "saturday": "5–11 PM"
+        },
+        {
+            "sunday": "5–9 PM"
+        },
+        {
+            "monday": "4:30–10 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "4:30–10 PM"
+        }
+    ],
+    "Description": "Refined, intimate restaurant & bar offering sophisticated American dishes with an Asian twist.",
+    "Details": [
+        {
+            "highlights": [
+                "Great dessert"
+            ]
+        },
+        {
+            "popular_for": [
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Happy hour drinks",
+                "Hard liquor",
+                "Healthy options",
+                "Organic dishes",
+                "Small plates",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Gender-neutral restroom",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Cozy",
+                "Romantic",
+                "Trendy",
+                "Upscale"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Dinner reservations recommended",
+                "Accepts reservations",
+                "Usually a wait"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid parking lot",
+                "Paid street parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Super hip menu, super delicious flavors, great service, great atmosphere.\""
+            },
+            {
+                "snippet": "\"We ordered salmon sashimi, crab soba, duck breast, and sea food.\""
+            },
+            {
+                "snippet": "\"Yummy food and wine, absolutely incredible desserts!\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Dan Shoemaker",
+                "rating": 5,
+                "contributor_id": "114847648954913741701",
+                "description": "It seems like every time I eat on Ann Arbor, I come back raving about the place. But Taste is a truly unique experience . It's  a fusion restaurant, so the dishes are eclectic and perfectly prepared and presented, I might add. The miso soup, in particular, is a preview of the depth and creativity of the chef. The atmosphere is surprisingly  sophisticated for what amounts to a storefront. If you sit facing the windows, you can watch campus streetlife pass, which is a show in itself, plus graffiti alley is next to the building.\nLong story short... if I had one place to pick it would be Taste",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNMaVlDZlNBEAE!2m1!1s0x0:0x93504081e1a02e79!3m1!1s2@1:CIHM0ogKEICAgICLiYCfSA%7CCgwIrIfRswYQ6NST9gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPIsq9_QI4YonKVDUwwjnlwdgD_1cdp0dLUA68d=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM8yG517yRqxdB3VAgn6GyvGyquTW9iTj4d_b-A=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP9p7Y0d-DITMZNqflWFXAKdmhgkpQFEwEYhAR4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMAVTjGSE5-6z82e3ya0vT6ONwVkdDklz-qeI4O=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNzcA5cxSes4jR_449egDy7MYCvv4Iq_4S0mO7I=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPq38fpgX6SmD4BI8u-uX6l6AqdJ2A_obI1H7WW=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMK4kEUe07s2xrYAe-H5ThOYvL8dsF5La97kuqO=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Peter Feng",
+                "rating": 5,
+                "contributor_id": "108687411742489942795",
+                "description": "Food was delicious. The scallops taco was simply amazing. Portions were fair although would have liked a bit more for the price. Overall great experience!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURyczZybHh3RRAB!2m1!1s0x0:0x93504081e1a02e79!3m1!1s2@1:CIHM0ogKEICAgIDrs6rlxwE%7CCgsI5rnstAYQkL6MXw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNT1LzTkYlkAjOzO5R84UR-OI3KsA5OgMhAN386=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMEhze8tZiI2mfy50oAp8O67_clln4oivAfEkyU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPIQ5cx9ismcgmDemkIXC6N0fueRMz5r1bKKTQQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP7t6PlQb79coHWVk42GYwMv-q381t4ZjFuHYdd=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN3z6xuMvzRIiNpvV7ZVTJZZuN0AnFPWOTgurLt=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Alex Hall",
+                "rating": 5,
+                "contributor_id": "106413241000341214176",
+                "description": "Taste Kitchen: An Exquisite Culinary Journey (with a Spicy Surprise!)\n\nTaste Kitchen was the crown jewel of our recent celebratory dinner in Ann Arbor. From the moment we stepped into the intimate, warm space, we knew we were in for a treat. The atmosphere was sophisticated yet inviting, perfect for a special occasion.\n\nThe menu, as advertised, showcased a delightful rotation of seasonal dishes. While I had my heart set on the lamb chops, their absence presented an exciting opportunity to explore new territory. Our knowledgeable server guided us through the options, highlighting the freshest local ingredients and the chef's masterful pairings. We ultimately opted for a shared selection of starters and entrees, each bursting with flavor and beautifully presented.\n\nNow, let's talk about the wine. We indulged in a bottle that, yes, did push the budget, but it was undeniably worth it. It perfectly complemented the food and elevated the entire experience. It's important to note that Taste Kitchen caters to a refined palate, and the price point reflects that commitment to quality.\n\nBut the true star of the show, the unexpected hero of the night, was the jalapeno drink for dessert. Don't let the name fool you – this wasn't a fiery gimmick. It was a masterfully crafted cocktail, a symphony of sweet, savory, and smoky notes that lingered on the palate long after the last sip. It was the perfect ending to an unforgettable meal.\n\nWhile the missing lamb chops were a slight disappointment, it did lead us to discover other amazing dishes. And hey, that just gives us another reason to return! Taste Kitchen is more than just a restaurant; it's an experience. It's a place where you can savor exquisite food, impeccable service, and a touch of delightful surprise. If you're looking for a truly special occasion spot in Ann Arbor, look no further. Just be prepared to treat yourself – and your taste buds.\n\nHighly recommended for: Special occasions, foodies, adventurous palates, those seeking an upscale dining experience.\n\nNote: Be prepared for potentially high prices, but the quality and experience justify the cost for a special occasion.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR0NFpEeklBEAE!2m1!1s0x0:0x93504081e1a02e79!3m1!1s2@1:CIHM0ogKEICAgIDt4ZDzIA%7CCgwI45eBrgYQgNLvvgE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPqKrxo5hXuba-9w8SNRQtwEm6b9BzfLmvD0_hE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNQkGdGSc9Ww19lKQ9jTpVQiPXySNuaHsquClh6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNpskylKk-CJrIO1GN_vKIwYFmqca09v5jYHJnm=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO5lpCFSDcj3pTruksB2IyXaqqOMtO242_7zdNw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOCUB5aietTs4XaodP-e7UU9mLDb0GIzLpgcD1p=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPaAwkNFdglaF08W3iICTECDjUgzMQXnHhBtyXf=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO2iFB_UOpe8UUycgqRSxQSf-2h-UpUqRwf8Ri1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM7g8ah4OaLipuBycLNGAclEFiRcqFo38g7aPys=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "9 months ago"
+            },
+            {
+                "username": "Laura",
+                "rating": 4,
+                "contributor_id": "102619440479154790282",
+                "description": "The food is 7.5/10;  there’s no surprises dishes. The steak is not soft enough while choosing medium cooking is less cooked than average level. Fish dishes were good. I think there can be more types of vegetables sides for the main plates. The speed of serving was super slow, lower than average fine dining restaurants. They changed utensils frequently.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNGanFYdndBRRAB!2m1!1s0x0:0x93504081e1a02e79!3m1!1s2@1:CIHM0ogKEICAgICFjqXvwAE%7CCgsIpJPyqQYQiJWLKA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN63iFcQfJfdqZfTSGOsizkBBnz_DqrYAS7LR-9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0nbzyj9qeleegwJXluwztKu34Zyai70Lt3AhA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM68OXhy75kve1xzypdah6O4DYWTaAMwcO4IpCq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPyrEHnkvD5jlb8fVJJiW-u3_rAM73iPw2GWW2g=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Jen R",
+                "rating": 5,
+                "contributor_id": "118330210191287405033",
+                "description": "We ate at a new to us restaurant last night, Taste Kitchen. It did not disappoint. The atmosphere had a cool vibe, service was great, the food was excellent AND we were given fresh silverware and plates between each course! So important. We got a great wine recommendation from our server (in a section of the menu we usually don't choose from - light and delicate) but it turned out to be a wonderful pairing with the range of foods we had. We will definitely go back and I do recommend it if you're ever in the area!\n* Summer rolls\n* Mussels\n* Seafood bisque\n* Shrimp and mushroom risotto\n* Le Orme Italian wine",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCOGZfeEZnEAE!2m1!1s0x0:0x93504081e1a02e79!3m1!1s2@1:CIHM0ogKEICAgIDB8f_xFg%7CCgsIv6W1ngYQgNWwLA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNeMfACkyg5GxPvREKmBFnfYykggigPZWT67wnS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPB8MZFmFMHuT2kOwLBj4d_VoV2FdBAlZZj6Zgk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM_gYb5qrwQE9xi4681xSAdx703vLKfyZ8PtDzw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPot1XZQCGHDemx6CjNVNyMcL3Flk7399LpUWwr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOlpis20a0tittYTsq1EKRAoudVXce0tDPSQD6J=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Matthew Gault",
+                "rating": 2,
+                "contributor_id": "115851574439902457920",
+                "description": "The food is very overpriced for the tiny portions they give you.\n\nThe bigger issue, though, was that I called ahead (twice) to ask and confirm they could bring dessert to my wife with a candle on it for her birthday. They assured me they had it covered.\n\nThe waiter had no idea it was her birthday and apparently didn’t check the notes, so I had to remind him twice that we had ordered dessert ahead of time.\n\nOverall, the service was incredibly slow and dinner took 2.5 hours and was extremely expensive for mediocre food with small portions. Do not recommend.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURINXZmdnNRRRAB!2m1!1s0x0:0x93504081e1a02e79!3m1!1s2@1:CIHM0ogKEICAgIDH5vfvsQE%7CCgsI1NebtwYQiPjsUA%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Rebekah Brown",
+                "rating": 5,
+                "contributor_id": "109237657655890114081",
+                "description": "Such an amazing experience at Taste Kitchen on Valentine’s Day! The food was flavorful and the wine pairings went perfectly with each dinner. Our waiter Alex explained everything in detail which helped and made us look into trying to new wines in the future. The energy was calm and beautifully done/set up! I would definitely recommend this place for special occasions! We will be back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNoc2JtOXdnRRAB!2m1!1s0x0:0x93504081e1a02e79!3m1!1s2@1:CIHM0ogKEICAgIChsbm9wgE%7CCgwIo5u0nwYQgMfwsQE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNp4600KPVEIjXerWU7ZWfX7bKEH52Q08IXeA1k=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPYJs8Tfc9j1bdbEQ6BJVxUS70jgvfxYAc1K1Co=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMGv0VI3WFW51JTJwaAlEh--dB0CGa0pHaxlNRo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOKFKc5xta6Nji2SnFwiHwe-0YiJPsqhEDkCCh5=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN53gMQI2OXoi5j40V5wPpTH6GuHTZXAIVr3Tpk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPX1Xok5a6Wbe4TL3QXrkLHNqHKCmK5AlTliQNZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNMNrb6C4lzQuMweJLQvXW8Z0KO0pdDZfEb0-gT=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOtPKaFdKBGLI_xieesZbz8eHKVu8OcgzsWyhi4=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Maggie Smith",
+                "rating": 5,
+                "contributor_id": "114454685220098725840",
+                "description": "AJ!! This guy is the BEST!! You can see it in his eyes and proves it in his service.  Like going home service!! Thanks everyone you were all friendly and welcoming. See you next time.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURid0tUbFVnEAE!2m1!1s0x0:0x93504081e1a02e79!3m1!1s2@1:CIHM0ogKEICAgIDbwKTlUg%7CCgsI-baqtQYQsJbxYQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPFdsYb-yANRP-HyPNZnCuz6IW1XXn0LQ431kPh=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            }
+        ]
+    }
+}

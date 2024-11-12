@@ -1,0 +1,342 @@
+{
+    "docid": 94,
+    "Title": "The Earle Restaurant",
+    "Type": [
+        "Italian restaurant",
+        "Cocktail bar",
+        "French restaurant",
+        "Restaurant",
+        "Wine bar"
+    ],
+    "Address": "121 W Washington St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2803592,
+        "longitude": -83.7497135
+    },
+    "Phone Number": "(734) 994-0211",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 15
+        },
+        {
+            "stars": 2,
+            "amount": 26
+        },
+        {
+            "stars": 3,
+            "amount": 60
+        },
+        {
+            "stars": 4,
+            "amount": 167
+        },
+        {
+            "stars": 5,
+            "amount": 639
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "5–8:30 PM"
+        },
+        {
+            "thursday": "5–8:30 PM"
+        },
+        {
+            "friday": "5–9:30 PM"
+        },
+        {
+            "saturday": "5–9:30 PM"
+        },
+        {
+            "sunday": "5–8 PM"
+        },
+        {
+            "monday": "Closed (Veterans Day)"
+        },
+        {
+            "tuesday": "5–8:30 PM"
+        }
+    ],
+    "Description": "Cozy underground spot for classic French-Italian fare, an extensive wine list & regular live jazz.",
+    "Details": [
+        {
+            "highlights": [
+                "Great coffee",
+                "Great dessert",
+                "Live music"
+            ]
+        },
+        {
+            "popular_for": [
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Hard liquor",
+                "Small plates",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Cozy",
+                "Historic",
+                "Romantic",
+                "Trendy",
+                "Upscale"
+            ]
+        },
+        {
+            "crowd": [
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Dinner reservations recommended",
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid parking lot",
+                "Paid street parking",
+                "Somewhat difficult to find a space"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Love the atmosphere, food, wine list, music, service!\""
+            },
+            {
+                "snippet": "\"Husband ordered veggie linguine, it was served in an appetizer bowl.\""
+            },
+            {
+                "snippet": "\"This place provided me the best salmon in a puff pastry I have ever tasted.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Alissa K.",
+                "rating": 4,
+                "contributor_id": "113645637834048364624",
+                "description": "Went here for a birthday dinner and had a good time.\n\nTricky to navigate for any person with mobility issues, so keep that in mind.\n\nFewer TRUE vegetarian options (no Parmesan or chicken broth) than expected. I enjoyed my eggplant dish after requesting extra sauce. The sauce was AMAZING! other members of the party reported that the meals were enjoyable but nothing to crave.\n\nThe service was good, but not exceptional or impressive.\n\nNice atmosphere. I’d visit again, but not on as a regular occurrence.\n\nMy party REALLY liked Risotto balls and got 3 orders.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYM2V1cXZRRRAB!2m1!1s0x0:0x30c39ccb5cf959c9!3m1!1s2@1:CIHM0ogKEICAgICX3euqvQE%7CCgwI18DPuAYQiJKYngI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOxkafQCQLxynBkCkRtBzw5qfNil6wPQHObSfE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN_RmR5uKFudPJTGODG8D0Iefxo53JjtOH134k=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNMw7U-j-3o4OPmOvA6ye8NbN2R1Jev7SPFyWY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNibVNNNa_fliFkDLrCpVAtZjz8_jgvJe_y9t0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPVVGE-c7zctGtZcz1WcdI1g9hcsc7ckFnnhws=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Lydia Song",
+                "rating": 4,
+                "contributor_id": "107542614105033958026",
+                "description": "Love the ambience! Its dark but very relaxing and interior of the place makes it classy! Our favorites were ginger shrimp and duck breast. Both flavorful and cooked well. It is smaller for the price. We did not enjoy the pasta as much so i recommend getting a different entree! The wine is lovely here as well.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURkeE83bjdRRRAB!2m1!1s0x0:0x30c39ccb5cf959c9!3m1!1s2@1:CIHM0ogKEICAgIDdxO7n7QE%7CCgsIiqfVrgYQkMSkAw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNegHGaRQ5n_RyK5t36s2liB2XJ2eXUP35_9pdZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPrazYfKPHxg-e_PWLFvNQrLDueNc9kZjW7szGL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMCdToCnZWWKepT5GdDlIP79b3GycUaognZIPJd=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "Jeffrey Cohen",
+                "rating": 4,
+                "contributor_id": "103571841744656683897",
+                "description": "Very cozy, literally underground spot (no windows.). Great atmosphere, live jazz.  Service was acceptable but inattentive, we had to flag other servers to get things.  Food was very good.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNydEw2N0FREAE!2m1!1s0x0:0x30c39ccb5cf959c9!3m1!1s2@1:CIHM0ogKEICAgICrtL67AQ%7CCgwItqCatAYQiNuXtQE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMgopVkW-yhwiaNKXsKD0S_IQb0kiwmSjV1UyMF=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMVOwAXTloAKpOPEhlZfdSIedPQANVQMTLharxn=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNTTCk-1GAwtrriOUA7plDHFZaRPrQWru4iwQxr=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Blake Hammond",
+                "rating": 5,
+                "contributor_id": "114926717755705412299",
+                "description": "This is the best French cuisine restaurant in Ann Arbor. The have amazing servers, bar tenders and their sommelier is top notch. Her name is Caitlin, she is very knowledgeable about not only the wine list they offer but wine in general. I have been here many times and have never been disappointed.\n\nThe last time I went was for my birthday 🎂 and I got the beef tenderloin with Roquefort and it was Devine!! The pumpkin cheesecake cake I got was just as good and the wines we had were spot on!!\n\nThis is going to be a little pricey then some restaurants but pretty on par for the better places in Ann Arbor, about 25-45 a plate 🍽️. If you are going in the weekend, make a reservation. Definitely give this place a go though!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURWNUtlczVRRRAB!2m1!1s0x0:0x30c39ccb5cf959c9!3m1!1s2@1:CIHM0ogKEICAgIDV5Kes5QE%7CCgwIpIWnrQYQsKiD0QM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMtfYP1YL4pwmaYpGCN_UuzPyVqcqEm3VEZGhMI=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNjaXJTJC8WrNPIx0pkpudWPPufDWKCGXWSNS5X=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMrEC0YABo_-hNFsp_RgMm0sj4tywopgpCVjDKG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPItv4IT1BZuQOeQum0inmk5b3y2Jj8CMW_b3ZU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOqZAh2caIF9-RjG8nR1vp0z7rrtCq1vVjJamqO=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO476IjSXwfjfF6r3NPw_USZKX2fOb3cgIvPhpJ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNJdWB_E1CTSuelTWYhMacyA__7OdONtgd9J4lY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNcacRWa3egw8Z69OB85wOpnposebyLlD4cwRF_=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "9 months ago"
+            },
+            {
+                "username": "Jacqui Blue",
+                "rating": 5,
+                "contributor_id": "102977131620299476140",
+                "description": "We visited The Earle for our anniversary and it was the perfect spot for such occasion! The food was innovative and delicious, it was very hard to settle on what dish to order. That's usually my first clue I'm going to love it and return for the other options! The cocktails were unique and delicious. Our server Marisa was perfectly knowledgeable, attentive, and sweet. The jazz music was sublime and tended towards love songs my partner and I recognized. Complete 10/10!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURicnNqNzJBRRAB!2m1!1s0x0:0x30c39ccb5cf959c9!3m1!1s2@1:CIHM0ogKEICAgIDbrsj72AE%7CCgsIm7bDtQYQ2K7mTg%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Edward Wee",
+                "rating": 5,
+                "contributor_id": "108755135472296644231",
+                "description": "Always enjoy stopping in here when I'm in town.  Through the years, it's always been great.  The duck is delicious.  I tried the mushroom scallops recently, and it was excellent (just make sure you like rich creamy mushroom flavor).  Great service every time as well, and a nice atmosphere.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN4anRIM3FBRRAB!2m1!1s0x0:0x30c39ccb5cf959c9!3m1!1s2@1:CIHM0ogKEICAgICxjtH3qAE%7CCgsIs-mTowYQ6Jb8Ug%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM9NBcZ_YdUIsYMlkV7VvPh3HDQikOyK-Dn7IVe=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSMK1Mk6RUUKQgfUC_zY5nbP25ovp5_50BC3s8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNO-mXaJrK2so_TRfUBvkUDYq_Is98OdzWRwID-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPorcu9XNy_iVPDFmIW1mNiFX3PkZG0dCOdW0P7=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Sean Nicol",
+                "rating": 5,
+                "contributor_id": "116144370483457540366",
+                "description": "We’ve eaten here several times over the years - first time writing a review. The Earle is just a solid restaurant. We’ve never had a bad experience, either in service or victuals.  The entertainment is always a great addition to a wonderful dinner. Last night was no exception. I had the Delmonico steak and my wife had the salmon puff pastry. Wow. My steak was amazingly seasoned and cooked perfectly. My wife’s dish was equally as good…she compared it to the Hells Kitchen Beef Wellington we had some years back, and it was much better.\nThis should be your go-to restaurant if you want a great dining experience.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNKb04zd2tnRRAB!2m1!1s0x0:0x30c39ccb5cf959c9!3m1!1s2@1:CIHM0ogKEICAgICJoN3wkgE%7CCgwI3fftpwYQ2LGeuQE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM5mYFbrfThWWBlvkgmb3dq9iieyqSs6cA5Q7ZT=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOZDE0P811mkPX5swCVoPWuHLPWfCt3sOjC3DhS=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Martial Canine",
+                "rating": 5,
+                "contributor_id": "106276583238218830858",
+                "description": "Excellent all the way around. Phenomenal food and an atmosphere that is relaxing while still engaging. All the benefits of a high class restaurant without the \"stress\" or intensity of some places.\n\nThe menu offers diverse, sophisticated choices but is still simple...quality, not quantity. My favorites are the duck breast (the sauce is OUT OF THIS WORLD & I don't even like fruit!), escargot puffed pastry, risotto appetizer, and salmon puffed pastry, though there's a lot I still have yet to try.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQybnJpS1ZREAE!2m1!1s0x0:0x30c39ccb5cf959c9!3m1!1s2@1:CIHM0ogKEICAgID2nriKVQ%7CCgwItM-ElAYQsM783wI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPtogoah_1FwmdWIgU5t70fgaUG17roL-quFWjW=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPcIfH17E22Ngv3eZPgl3qW1m8S9zj03MsQhT-_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMRwD9JdcU0TvPZM5tOpIZoRWvjqwSq97PwNVsH=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPQLkehAI1BEgZPUozjU2YKLQ6l1pvyhUDHmx0h=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            }
+        ]
+    }
+}

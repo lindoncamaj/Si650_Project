@@ -1,0 +1,377 @@
+{
+    "docid": 111,
+    "Title": "Zingerman's Roadhouse",
+    "Type": [
+        "American restaurant",
+        "Bar",
+        "Barbecue restaurant",
+        "Coffee shop",
+        "Takeout Restaurant",
+        "Restaurant"
+    ],
+    "Address": "2501 Jackson Ave, Ann Arbor, MI 48103",
+    "GPS Coordinates": {
+        "latitude": 42.279986099999995,
+        "longitude": -83.7809722
+    },
+    "Phone Number": "(734) 663-3663",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 163
+        },
+        {
+            "stars": 2,
+            "amount": 195
+        },
+        {
+            "stars": 3,
+            "amount": 403
+        },
+        {
+            "stars": 4,
+            "amount": 961
+        },
+        {
+            "stars": 5,
+            "amount": 3223
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "8 AM–9 PM"
+        },
+        {
+            "thursday": "8 AM–9 PM"
+        },
+        {
+            "friday": "8 AM–10 PM"
+        },
+        {
+            "saturday": "9 AM–10 PM"
+        },
+        {
+            "sunday": "9 AM–9 PM"
+        },
+        {
+            "monday": "8 AM–9 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "8 AM–9 PM"
+        }
+    ],
+    "Description": "Bustling locale offering hearty American comfort fare, local draft beers & a gourmet food shop.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Fireplace",
+                "Great coffee",
+                "Great dessert",
+                "Great tea selection"
+            ]
+        },
+        {
+            "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Healthy options",
+                "Organic dishes",
+                "Small plates",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Lunch reservations recommended",
+                "Dinner reservations recommended",
+                "Accepts reservations",
+                "Usually a wait"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"They offer high quality food like a grass fed burger and a variety of oysters.\""
+            },
+            {
+                "snippet": "\"Enjoyed the free bread, BBQ beef sandwich, mashed potatoes and fries\""
+            },
+            {
+                "snippet": "\"Service was great, atmosphere was comfy, and price was questionable.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Weiqiu Cheng",
+                "rating": 5,
+                "contributor_id": "110094900037902871479",
+                "description": "Absolutely fantastic experience! The food was incredible – the BBQ ribs, in particular, are a must-try. Perfectly tender and flavorful! The service was just as impressive! Our waiter was wonderful—he gave us a warm welcome and provided a perfect introduction to the menu, making sure we had all the details we needed to choose the best dishes. This place is popular over the weekend, so I’d recommend booking a reservation to avoid waiting.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMzNUpMTHlBRRAB!2m1!1s0x0:0xcf83b2ba8dfc7fe8!3m1!1s2@1:CIHM0ogKEICAgIC35JLLyAE%7CCgwI3LCbuQYQ6IiTvAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMH3pEDQEU60MSbeZEohFjLMwtB1uTBkF1lCt4J=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONJHgAFtiYtgufqscg8btcpwEcQTfL2anF9BZ6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP8vbhH6_BlySpOuyJFhETYedy9oNe9n3aiwed6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNQNoTZXcbuakrVlr-qj_BruDHKFZ683W9V90dq=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 days ago"
+            },
+            {
+                "username": "Chad Brown",
+                "rating": 4,
+                "contributor_id": "117164984160829800774",
+                "description": "The best Cajun fries I've ever had. Super friendly staff. My waitress brought a sample of their. Mac and Cheese with chicken. It was great. My only issue was with my blackened fish. One piece was well seasoned, but the other two were not. Otherwise I would give them a 5 stars",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNIOU1IUk9BEAE!2m1!1s0x0:0xcf83b2ba8dfc7fe8!3m1!1s2@1:CIHM0ogKEICAgICH9MHROA%7CCgwIppTTtgYQ6J7OmAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOYGHFFdUeoZ_8jfo_zVanyuHIWHtvT4EvRyIx2=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNYlnQbGk7pVs11IH-Yk5cjRXv5VwtUDSBTssw0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN3zxTMt4kv57-n1YGR3Mcm82L9I_qc3RmspGg7=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO50AovHc9_iLlhCtfBJaCfmsOnEsC7jXqMrC0F=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Alex Studd",
+                "rating": 5,
+                "contributor_id": "101705882167677538302",
+                "description": "Zingerman's Deli has been a place my family has been coming to for many years, so it was finally the time to try the Roadhouse! We were very impressed by how large the restaurant is (even so, get a reservation!), and how it strikes a perfect balance between casual & upscale. The food was delicious, and the staff was very understanding of our dietary restrictions. If you enjoy BBQ are in the area, this place is a must!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNudWFfaDlRRRAB!2m1!1s0x0:0xcf83b2ba8dfc7fe8!3m1!1s2@1:CIHM0ogKEICAgICnua_h9QE%7CCgwIsdfbtwYQ2Lz2zwI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPk0G9cHO0PHmnXoQpjvwKDvCRCVbpgALt1JCfH=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMVgcZz55bKRWF0AOxFG3ikzD_ENlmYOJjGMWLV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP1m1lrwIjna9wi0Yp-9rdc86Sws14Zjmm9L6Mj=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPCp1pKwr59Yy3Kh5hQr1g5akq2JoVq-EKw6FQ3=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNdbz9OibeH4JvPxuZpeHZke5v5LZE0jeLlEKVE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNamCdiugk1O-zDlS7gSiPVgNFKBNghCcttEdiv=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMudoLz97BjZVmbiqtPOmu8phAmOxl6eJrnm7xz=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNHgLgUXp4yxr6Js5_er94MeFPBmm4Hnw3cxuqO=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNkCEbADLHY5x0ZBKJvUBGdEGxsTk5MkQjleeVL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP6T66XboHT1bxXH6lgCSK7CdSrpT1gwbXfBaiD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM79Gv_FA3OXByA9o8bCpUZ6LZdcaCOW-5FQMT4=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "suzanne tuinier",
+                "rating": 1,
+                "contributor_id": "112414729499210441963",
+                "description": "Absolutely the worst and most expensive lunch I ever had sever was very unfriendly\nHad a burger 🍔 ordered medium WELL. Asked if the fries were Crispy fries  she said yes\nFries were cold and soggy   She immediately replaced them and didn’t come back again for another 20 minutes\nBurgers 🍔 were medium rare I would say a good vet could have revived it. My son also asked for medium well. His was even worse wish I had gotten a picture\nThe cloth napkins were greasy and the water tasted like fish\nThe server did offer to bring another hamburger but we have a two hour drive home and didn’t have the time to wait.  After having made the 2 hour drive for a doctors appointment at Mott’s children hospital\nDid Not offer to make an adjustment for the inconvenience\nDid not apologize  in fact acted quite off putting After asking for a box she took my plate without a word and boxed it herself. Which I really don’t care for people touching my food\nPlease find another place to dine. I have no idea 🤷‍♀️ how they have such a high rating",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYLXQzaWRBEAE!2m1!1s0x0:0xcf83b2ba8dfc7fe8!3m1!1s2@1:CIHM0ogKEICAgICX-t3idA%7CCgsIweO6uAYQuIv4Aw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO1dTKMEejOyvO3hVCKuCXbBq1sBNEEyzz5duEu=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOX0aekuFqx-csvlCPi23geNbfZhWScOYrwrUcd=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0uiakUcxKJeh9dzniONfMx6NwPjntwc3vb2pT=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOTYuWOfYEdX4_zHOmWPz-FcaWZ2469uucGcKmH=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "JP Claussen",
+                "rating": 5,
+                "contributor_id": "112676492139011238368",
+                "description": "This place was next level in many levels. There were so many gluten free options I had a tough time choosing. The pimento mac and cheese (with bacon) was so creamy and delectable, you don't miss the gluten at all. The same can be said for the gluten free fried chicken.\n\nIt was apparent that the folks working there love this place, and are huge fans of the food. Lots of local, or specialized sourcing really shines through.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNMakpDS2RREAE!2m1!1s0x0:0xcf83b2ba8dfc7fe8!3m1!1s2@1:CIHM0ogKEICAgICLjJCKdQ%7CCgsIl-i4swYQ2IW3fg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPp1RyOzXex3dqdcvw1qOSoj6SJtygiXIkr0Nmr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP7l_nowPLSLBkyot9zj79VqhAKzrBOQ9gU17GJ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM2mXBS-tvkjSGxu7obVQ4nCDAPnaIJ5PEr_APd=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Faith Evans",
+                "rating": 5,
+                "contributor_id": "106347365010588298153",
+                "description": "Amazing food! Staff was attentive and personable. Best collard greens I've ever had. Steaks were perfect. We will definitely be coming back",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURielBLRkpREAE!2m1!1s0x0:0xcf83b2ba8dfc7fe8!3m1!1s2@1:CIHM0ogKEICAgIDbzPKFJQ%7CCgwI1aG0tQYQ-OnMlgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPdZ2nAI4-r_uuEo6aIVUTZEnlmapburgEDVObk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMhPRaHnqQ-bciVRJggc94Op4J8NIKvmOkI8nRT=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOJIyER_gTd7-QWDuS5tZ3y93NJub_j9SjaRvd6=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "W. Bee",
+                "rating": 4,
+                "contributor_id": "111142262182918943290",
+                "description": "We enjoyed a lovely lunch here outside on the patio. Our waiter was incredibly friendly, attentive and very pleasant. The food is super yummy and the portions are huge. The prices are somewhat high. However, the quality of the food outweighs the price.\nThey have lots of Gluten Free/Friendly options on their menu.\nI highly recommend Zingerman's. I always take family and friends here who are visiting from out of town and they love it.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURUMGVIWHBBRRAB!2m1!1s0x0:0xcf83b2ba8dfc7fe8!3m1!1s2@1:CIHM0ogKEICAgIDT0eHXpAE%7CCgsI5L7HsgYQ2OjNQg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMGzJWQncE5JWd57uu9UjqyddalC5w30-Qhwad0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP0m0eEQir8sY9tsfvriMPxJErldyir04dw8uNL=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Jason Kennedy",
+                "rating": 5,
+                "contributor_id": "104460517926199247658",
+                "description": "This was a really cool place with great food! I wish we had been there for dinner because the oysters looked great and this is one of the only places in Michigan I've seen a choice of oysters.\n\nThe fries were fantastic and the bbq was great to.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURMN2VmWEt3EAE!2m1!1s0x0:0xcf83b2ba8dfc7fe8!3m1!1s2@1:CIHM0ogKEICAgIDL7efXKw%7CCgwI5pqBtAYQkMHOnAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPr96kP7XPoj0jDsDPxEmQosIitB4Be4ak1ctEG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP_vsmqJPdE297D-wk-c6wXYE8JQL4z3fsia5vb=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQQJKKx1N1uXO_sxJ8Mxq0UUv1NqpeG_bno55h=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOCxVMIAj73lAALKcceEizLqa0f5newzbSx_hT-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO00u17O4p4wd_UVj4qsh5kjLsaI19Bq671OLIo=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            }
+        ]
+    }
+}

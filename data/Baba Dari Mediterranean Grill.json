@@ -1,0 +1,278 @@
+{
+    "docid": 8,
+    "Title": "Baba Dari Mediterranean Grill",
+    "Type": [
+        "Mediterranean restaurant",
+        "Lebanese restaurant"
+    ],
+    "Address": "601 Packard St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.271682,
+        "longitude": -83.7410489
+    },
+    "Phone Number": "(734) 998-0131",
+    "Rating": 4.2,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 36
+        },
+        {
+            "stars": 2,
+            "amount": 22
+        },
+        {
+            "stars": 3,
+            "amount": 47
+        },
+        {
+            "stars": 4,
+            "amount": 101
+        },
+        {
+            "stars": 5,
+            "amount": 318
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–9 PM"
+        },
+        {
+            "thursday": "11 AM–9 PM"
+        },
+        {
+            "friday": "11 AM–9 PM"
+        },
+        {
+            "saturday": "11 AM–9 PM"
+        },
+        {
+            "sunday": "11 AM–9 PM"
+        },
+        {
+            "monday": "11 AM–9 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–9 PM"
+        }
+    ],
+    "Description": "Casual Middle Eastern restaurant with outdoor seating, catering & delivery.",
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Comfort food",
+                "Halal food",
+                "Healthy options",
+                "Quick bite",
+                "Vegan options",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Paid street parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Fresh and tasty food, prompt service, clean restrooms and free parking.\""
+            },
+            {
+                "snippet": "\"Received a ripped pita with burnt crunchy chicken inside.\""
+            },
+            {
+                "snippet": "\"Awesome place for a quick bite of Middle Eastern food with friendly staff\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Vikram Bala",
+                "rating": 4,
+                "contributor_id": "118263460813448768909",
+                "description": "Amazing food and they have so many different options for whatever you desire 🥙🧆!! I'd come here over and over again, it's just that good. It is a bit pricey so keep that in mind. The chicken shawarma and baklava are both a must-try!\n\nEDIT: Went again and it was nowhere near as good as the first time. Service was slower and the food just didn't hit the same - there was definitely something that was off about it.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNGLWVqRHRnRRAB!2m1!1s0x0:0xb686bb66b28b8d56!3m1!1s2@1:CIHM0ogKEICAgICF-ejDtgE%7CCgwIoYzksQYQgJzAqgE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPGp4_HBxBtLP9UZuD-pgMNK-5nls8BW-WNd0E-=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "SarahandChelsey",
+                "rating": 5,
+                "contributor_id": "103029179512959815813",
+                "description": "My girlfriend, Sarah, and I came here for a late lunch. We split a small order of the grape leaves and a side of pita, and I got the chicken shawarma bowl with hummus and added feta, and Sarah got the build your own falafel salad bowl with hummus and garlic sauce. The grape leaves weren’t our favorite just because they were a bit on the slimey side, and that is not our preference, but the pita was soft and warm. The chicken shawarma bowl was great. The only thing I would change is to have more hummus, but this was an option to add more, so I will do that in the future. Overall, the food was great, and the meals were very filling. We would recommend this spot for a quick lunch or dinner.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNseXVHTGpBRRAB!2m1!1s0x0:0xb686bb66b28b8d56!3m1!1s2@1:CIHM0ogKEICAgIClyuGLjAE%7CCgsI0vDUqgYQwLvvBQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMtFHC0gtTBcYI4Vo_vfnDkWhp9939Hzak9WL_V=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOvyhQssLdie4826zmfwLr6VYm2h8tjJ6JZvshe=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMUsecPu_8Jg-jqHpXF-5ihyCHnSs8QztF-YmOf=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSuzKOZyRHUCkamte-9BouEMw9N7jyCZ70kqJe=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "11 months ago"
+            },
+            {
+                "username": "Rachna Chandra",
+                "rating": 5,
+                "contributor_id": "100968331151150783524",
+                "description": "Simple tasty Mediterranean food, quick service.\nOrder at the kiosk and pay and pick up the food.\nIn the UFM campus area, it’s so convenient for students and parents visiting.\nIf you want a quick bite, it’s a good place reasonable priced.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNackt1dkpBEAE!2m1!1s0x0:0xb686bb66b28b8d56!3m1!1s2@1:CIHM0ogKEICAgICZrKuvJA%7CCgwIo6bepwYQ-Iip5AI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipON364I9n02pmtXop32awbooawS4ByY7ClsFzXT=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMgmBWNzS7Ncjj_PF-J2cphRrkO7sv8OjfO0A-h=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM21UddJQX0f9VOvI0Z22W3mHvP-TFujiqMCt9E=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPC1Rye-N1sFh-pcmQhqSRBdK89P__DITftSBAp=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Saran Saalai",
+                "rating": 5,
+                "contributor_id": "116667151022553582234",
+                "description": "Super... simple, fast and economical,,, friendly helpful staff. Dedicated parking (may be 6 spots). But lot of street parking near by\n\nWent here for weekend lunch. They were busy with lot of to go orders, took a minute to take my order.\n\nLot of vegetarian option, average 7-8 bucks per head not a bad deal. Decent quantity. We liked everything that we got..\n\nWe got the\nFalafel wrap- very good, crunchy falafel, longer than usual .\n\nHummus bowl, plenty full. Amazing free topping option with pita.\n\nWe also got side of hummus, I thought it was way too little for 4 bucks. See picture.\n\nThe vegetarian grape leaf was good too.\n\nThe only off was - pita was little old.\n\nThey have self serve pop machine and the place was clean.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNJcnFtSFhBEAE!2m1!1s0x0:0xb686bb66b28b8d56!3m1!1s2@1:CIHM0ogKEICAgICIrqmHXA%7CCgsIs7e33wUQ4MLBFw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMGkTt1jNM4XleneCQPuON6KVfUSBo3MpzpE6Kb=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPAYSsXT0APXOOGcJ-ytI3mq8lTWjvH53mUjmcD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrAwErV3Um2-CxyZygC0nQXhUtXir9qRKUyHQR=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPvBEz6c4oDlTrA9GQ4-QsDkyLtYc2oTrf3Io1s=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPeaSmSj2EfZkog1DZ0P2yenmXuK8i0LuLn_VZ5=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 years ago"
+            },
+            {
+                "username": "Fey Fishy",
+                "rating": 1,
+                "contributor_id": "118269143690860015778",
+                "description": "-Expensive\n-Tasty wraps\n-Abysmal, tiny portions\n-Disinterested, distracted employees\n\nFood was good, but as you can see very little food for $91. Small baba ganoush costs $4 and literally was just a sauce cup worth. Rice was $5 and wasn't impressive size wise and wasn't even garnished. The largest portion of food was the fattoush salad.\n\nI ordered my food over 2 hours early for pickup at 4:15, I had to wait 17 minutes for it to be ready with only two other customers eating in the store. I'm all for employees to be comfortable at work(they had earbuds in), but they were talking with family/off the clock employee behind the counter. Didn't apologize for my wait, and if I hadn't checked through my order then they would have let me walk out without two $6 drinks. They were pretty uninterested and distracted. Upgraded my drinks for free($1 value) but didn't apologize for forgetting them in the first place.\n\nThis place is best for takeout-lunch, look somewhere else if you want decent service, or fair food portions for money. Inside of the restaurant is pretty boring looking and undecorated, wouldn't suggest dining in.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR4Nks3MzBBRRAB!2m1!1s0x0:0xb686bb66b28b8d56!3m1!1s2@1:CIHM0ogKEICAgIDx6K730AE%7CCgsIt7niowYQkJ2tLg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN8avD1fIKxvOsLUcAopopMY1n3XG8-mCKp8-LB=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMmsHuXEbi0bVA6hnWQCaGdSFdtIMPb2SzJKNZj=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOQu4gPsEiSuK2Dg9CgHn99RWSdUOrwiQgfM1h7=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Doris Moton",
+                "rating": 5,
+                "contributor_id": "116973288596943650163",
+                "description": "The falafel is absolutely amazing! I have traveled a great distance to get a decent falafel and I no longer have to travel to Dearborn Heights Michigan to get my falafel. I can come right here to Baba Dari! Also, the container that they use to put our food in is made out of compostable material and the lid is made out of plants not petroleum plastics! I am in love with Baba Dari, Mediterranean Grill and I can’t wait to try everything on the menu!😃♥️✌🏽",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNWc1ozdTJnRRAB!2m1!1s0x0:0xb686bb66b28b8d56!3m1!1s2@1:CIHM0ogKEICAgICVsZ3u2gE%7CCgwIo7LWqwYQyO74zgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNWQ_-fQbFWiLILFQvJZ1iv8en8otZ7x-57omi9=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "10 months ago"
+            },
+            {
+                "username": "Alexander Plavljanich",
+                "rating": 5,
+                "contributor_id": "112340023510719217455",
+                "description": "10/10 best Shawarma in the city hands down. All they need now is to have an option to add fries to the sandwich 😁",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYOTYyNzNRRRAB!2m1!1s0x0:0xb686bb66b28b8d56!3m1!1s2@1:CIHM0ogKEICAgICX96273QE%7CCgsIwIDbuAYQwLbwIQ%7C?hl=en-US",
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Felipe Furtado",
+                "rating": 5,
+                "contributor_id": "110549159353461535678",
+                "description": "Love the chicken shawarma - juicy like no other! The staff is very friendly even at busy times. I'm a regular.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYaHNmUTh3RRAB!2m1!1s0x0:0xb686bb66b28b8d56!3m1!1s2@1:CIHM0ogKEICAgICXhsfQ8wE%7CCgsIlLG7uAYQ0O_VVg%7C?hl=en-US",
+                "date": "3 weeks ago"
+            }
+        ]
+    }
+}

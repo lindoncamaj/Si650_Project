@@ -1,0 +1,328 @@
+{
+    "docid": 67,
+    "Title": "Paesano Restaurant & Wine Bar",
+    "Type": [
+        "Italian restaurant",
+        "Bar",
+        "Caterer",
+        "Wine bar"
+    ],
+    "Address": "3411 Washtenaw Ave, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.256298,
+        "longitude": -83.6912686
+    },
+    "Phone Number": "(734) 971-0484",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 65
+        },
+        {
+            "stars": 2,
+            "amount": 44
+        },
+        {
+            "stars": 3,
+            "amount": 112
+        },
+        {
+            "stars": 4,
+            "amount": 340
+        },
+        {
+            "stars": 5,
+            "amount": 1225
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11:30 AM–9 PM"
+        },
+        {
+            "thursday": "11:30 AM–9 PM"
+        },
+        {
+            "friday": "11:30 AM–9 PM"
+        },
+        {
+            "saturday": "12–9 PM"
+        },
+        {
+            "sunday": "12–9 PM"
+        },
+        {
+            "monday": "11:30 AM–9 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11:30 AM–9 PM"
+        }
+    ],
+    "Description": "Homey space for Italian cuisine offers weekly wine tastings, a romantic patio & gluten-free options.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Fireplace",
+                "Great coffee",
+                "Great dessert"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Healthy options",
+                "Small plates",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Romantic",
+                "Trendy",
+                "Upscale"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Dinner reservations recommended",
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"My plate was packed with salmon, shrimp, Italian beef, vegetables....glorious!\""
+            },
+            {
+                "snippet": "\"Great food, great portions, well priced, great service and relaxed ambiance.\""
+            },
+            {
+                "snippet": "\"I had chicken parmesan, chicken and sauce was great... pasta way over cooked.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Mena K",
+                "rating": 5,
+                "contributor_id": "114029695111161953158",
+                "description": "Paesano Restaurant & Wine Bar in Ann Arbor is a wonderful option for dining in! Their gluten-free bread, pasta and even Tiramisu are simply outstanding—deliciously soft and full of flavor. It's refreshing to find a restaurant that caters so well to gluten-free diets without compromising on taste. The ambiance is warm and inviting, making it a perfect spot for a cozy dinner. The staff was attentive and knowledgeable, ensuring a delightful dining experience.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3dTdPOHZBRRAB!2m1!1s0x0:0xa6ce6f902548fac1!3m1!1s2@1:CIHM0ogKEICAgID7u7O8vAE%7CCgwI25G_tgYQiKSApAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP83-t0KTZ-NaVNWuGk4__C9gR-x0mBfnpv0cc=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMu_mh8CSMAKwfp24WxVUGFDBXUDBtcaVu9UyY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMsyVdNUdOwfIiw6ndllTZco7oiCCEIEJPFakE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMOEzyQ52lMy77gEb-1M5sdWTqykWL170VwW_U=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOhotalFuX1Ji4ORIVko_wpRkYxtJTsIvNZpI0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMaBsbMrayiiq2Hr5xKeYwx6P2MXk6ctqevuL4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPXvEi76e09tKTnAeO9jXVnojjP0ymBmU91PP4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP_f2dWvDdXjIrokKYSLBBZmBetyjE_MN9wW-U=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Rachel",
+                "rating": 4,
+                "contributor_id": "101496017575627545425",
+                "description": "Lunch on a Saturday was great. Not too busy, we were able to sit on the patio and have a relaxed lunch. Would recommend the Calamari.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6OXZiamRREAE!2m1!1s0x0:0xa6ce6f902548fac1!3m1!1s2@1:CIHM0ogKEICAgICz9vbjdQ%7CCgwIn_fusgYQoJXAxwI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNr9Wq2Wz2rD9Wk-Pfm8YElllHJMXYH2dF8-yme=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPVYU49GiM93fT_K5URObwaz4SAiwbXCBpxg2S1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP6-otsRAF6Au9hdJxXUT3Pv1BRLlXJlj66nZvC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOFaTUUmrWuoDhLhVKORMHbniy7Y-LJ7e3HAm18=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Armin Shakry",
+                "rating": 5,
+                "contributor_id": "100477535320822407460",
+                "description": "Went there for my nieces graduation party and everything went great. Can’t want to actually try some of the other foods. Lasagna and chicken parmigiana were selected and it didn’t disappoint. Minestrone and chicken soup was also great. Thank you for the great service. Great wine selections.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURqMUt1bTdBRRAB!2m1!1s0x0:0xa6ce6f902548fac1!3m1!1s2@1:CIHM0ogKEICAgIDj1Kum7AE%7CCgwIwuvAsQYQuKKBsAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSjqOly7dQ8J8RpdygSEKXQpHO8cqHIBi1Zy2x=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOcIlQouBk1G8oJnDVyuowXXACfqr9AP_0whCpK=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "Bridgette Roberts",
+                "rating": 4,
+                "contributor_id": "110460821631412475393",
+                "description": "As my husband says \" I would say it's all good. I liked it\" He has short ribs which are tasty, braised  in Coca-Cola. I had an arugula salad with salmon, and a flight flying from Friuli. The food tasted fresh. The salmon was delicious.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUREazctYXhnRRAB!2m1!1s0x0:0xa6ce6f902548fac1!3m1!1s2@1:CIHM0ogKEICAgIDDk7-axgE%7CCgwI-Y7ssAYQiNXK-AE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPG9zcNCH5fFuPap982eNIWuYvw_ZT_kcpo-gJv=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNLHQ4bPPMayRwTX_D3X_XYrQMZuHSTTGM6pHxx=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "Jim Mazurek",
+                "rating": 5,
+                "contributor_id": "112074001685282324380",
+                "description": "This is a very good Italian restaurant that I never knew existed. Recommend the Pork Chops as well as Short Ribs were phenominal.as well as large, You will bring some leftovers home. The Mushroom Ravioli will depend heavily on you like of mushrooms. Expensive but great food and solid service. Definitely get a reservation.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMxbUt6VnFBRRAB!2m1!1s0x0:0xa6ce6f902548fac1!3m1!1s2@1:CIHM0ogKEICAgIC1mKzVqAE%7CCgsIwsuTrAYQuJr1LA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNra7RrlY_ijUGolO2oj2xcwddrvtISNDiqhhhQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOo_u4IYYFOnY0DROddZgXogoRSSJO-LtqHmTyt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPi-GlU7tpPLrWVwsvXVixWBEN22i6ow2FkC-0E=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNUIHn_-K1poBDVxBdPKmLb3gYm9dbRiTpZevXC=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "10 months ago"
+            },
+            {
+                "username": "Laura",
+                "rating": 5,
+                "contributor_id": "102619440479154790282",
+                "description": "Delicious 🤤 The pastas are so good. Also Balance between the flavors. Good environment.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM3a2Vlell3EAE!2m1!1s0x0:0xa6ce6f902548fac1!3m1!1s2@1:CIHM0ogKEICAgIC7keezYw%7CCgwIr639tQYQsPe0sAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPejXsveXaR5i56fzWZ44Za_BQL3RXq5MT2mJ8R=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMMidFYoPxE6-CfntZr3LpFQeSk3fcttVIOid3-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOx5uoDGDhtPAVZncRG2-RbFiZLp9faN6TGHdQL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOAL_ATcyToZuNdnbX0rdtsXSmGOUrZTagmCnZN=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Maria Malaveci",
+                "rating": 4,
+                "contributor_id": "113499273014145182470",
+                "description": "Really love the food and atmosphere. Was a bit disappointed in our last visit with service. It was a busy week day. Everything took a long period of time. Getting waters, getting bread... Our salads came a few minutes prior to our lunch. Server said they would be back with water, but did not come back, and also did not check to see how our meal was or if we needed anything.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYbE9IazJBRRAB!2m1!1s0x0:0xa6ce6f902548fac1!3m1!1s2@1:CIHM0ogKEICAgIDXlOHk2AE%7CCgwIlrvpuAYQyMWYuAM%7C?hl=en-US",
+                "date": "a week ago"
+            },
+            {
+                "username": "Eva Hedwig Schueler",
+                "rating": 5,
+                "contributor_id": "110848434678717966933",
+                "description": "My husband and I celebrated had an utterly lovely one-year anniversary dinner here. The food was delicious as was the wine, service was wonderful and we really enjoyed our cozy booth in the bar. The dark chocolate mousse was divine, and I could not get enough of the bread that came with dinner! That bread alone is worth coming here for.\n\nI also appreciate that the menu is rotationally changed, and that there is more than just salad for vegetarian options.\n\nThis is definitely one of the best restaurants in Ann Arbor. Cannot recommend it enough!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3NUt2c3dnRRAB!2m1!1s0x0:0xa6ce6f902548fac1!3m1!1s2@1:CIHM0ogKEICAgIC75KvswgE%7CCgsI0srptQYQ4MfcRQ%7C?hl=en-US",
+                "date": "2 months ago"
+            }
+        ]
+    }
+}

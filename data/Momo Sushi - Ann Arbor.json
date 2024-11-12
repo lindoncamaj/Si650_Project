@@ -1,0 +1,309 @@
+{
+    "docid": 56,
+    "Title": "Momo Sushi - Ann Arbor",
+    "Type": [
+        "Sushi restaurant"
+    ],
+    "Address": "895 W Eisenhower Pkwy, Ann Arbor, MI 48103",
+    "GPS Coordinates": {
+        "latitude": 42.245325,
+        "longitude": -83.75895899999999
+    },
+    "Phone Number": "(734) 800-4909",
+    "Rating": 4.6,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 15
+        },
+        {
+            "stars": 2,
+            "amount": 4
+        },
+        {
+            "stars": 3,
+            "amount": 24
+        },
+        {
+            "stars": 4,
+            "amount": 61
+        },
+        {
+            "stars": 5,
+            "amount": 305
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11 AM–9 PM"
+        },
+        {
+            "thursday": "11 AM–9 PM"
+        },
+        {
+            "friday": "11 AM–9 PM"
+        },
+        {
+            "saturday": "11 AM–9 PM"
+        },
+        {
+            "sunday": "4–9 PM"
+        },
+        {
+            "monday": "11 AM–9 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11 AM–9 PM"
+        }
+    ],
+    "Description": "Sushi with fusion preparations including burritos, creative rolls & poke bowls plus bibimbop.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Great tea selection"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Coffee",
+                "Healthy options",
+                "Quick bite",
+                "Small plates",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"The other dish we ordered was a vegetable bowl with fried tofu.\""
+            },
+            {
+                "snippet": "\"Better priced, excellent service, and good quality fish, custom sushi options.\""
+            },
+            {
+                "snippet": "\"Second time we have been here because the food is tasty, price is reasonable.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "nick sisneros",
+                "rating": 5,
+                "contributor_id": "104939353040197356555",
+                "description": "Came to this place on a Sunday at 4:15 pm. We got a seat almost immediately. Got to sit where ever we wanted. By 4:22 we had our server chat with us. Ordered a plethora of rolls and they came out by 4:35 pm. Perfect place. The food is prepared fresh here. Everything is made to perfection. Unbelievable place for sushi. Even the appetizers didn't taste like they came from a box. Maybe they just have a better fryer than most. Servers checked on us at 4:38 for refills. My cup was never empty. The place was not too full on this Sunday afternoon.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNiNmNXRW9BRRAB!2m1!1s0x0:0x3ca667df07065b11!3m1!1s2@1:CIHM0ogKEICAgICb6cWEoAE%7CCgwIotuatQYQ6OTvngI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPboAy8VdCAhfQi3OFf_gE466pcjx7WCAa8Ol-S=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Samuel Rose",
+                "rating": 5,
+                "contributor_id": "102124435887070760928",
+                "description": "I've been going to Momo's for years, and I absolutely love it. I always get the sushi burritos. My personal favorites are the Momo Burrito and the Dragon Burrito. I picked up my order this time, but if you're dining at the restaurant, I would definitely recommend getting the firecracker appetizer (think sushi jalapeño popper) and a kettle of one of their teas. Honestly, I cannot recommend Momo's enough.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIb29pVjdBRRAB!2m1!1s0x0:0x3ca667df07065b11!3m1!1s2@1:CIHM0ogKEICAgICHooiV7AE%7CCgwI0eXYtgYQ2MSWggE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNuPIw-QzLce23UQkoHRUlLcQn2y43rkeSFiT4M=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPKHUSLDEdYxN6GhBK-YfmMxDOnKRfaGhj7NE0q=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "G Argentini",
+                "rating": 5,
+                "contributor_id": "116084552931660688305",
+                "description": "Awesome little spot with very tasty food. The service was very attentive and the staff was also nice and welcoming. The food arrived MAYBE 2 minutes after ordering. The place also looked clean and there weren’t any funky odors. The Philadelphia roll, salmon lover poke bowl and seaweed salad I ordered were all delicious. Definitely worth it if you’re looking for some quick quality sushi.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNPLXVEWnN3RRAB!2m1!1s0x0:0x3ca667df07065b11!3m1!1s2@1:CIHM0ogKEICAgICO-uDZswE%7CCgwI0t7_lAYQgOqUsAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPAQsOZ9ARpITjJSubyqd7QWgro0odplepWEwpC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPiKE5Kt27aWonp85RhaWhX8LiI7kZ5ZulHkou9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPUTRDRCpOLyYcz_caANWM37qrQHOPkcphhva8C=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHDpmrQcBKDgv7sRNGVHKDUCss_LIrJasxXa99=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            },
+            {
+                "username": "Cassandra Johnson",
+                "rating": 4,
+                "contributor_id": "107358919752028323492",
+                "description": "My husband & I dropped in for dinner after a quick Christmas shopping trip at Briarwood Mall. The place is small, but clean and we were able to get a table right away. The staff was friendly and the service was good.\n\nWe started out with an order of pork gyoza, which came out quickly. They were hot and crispy, but a little underwhelming. For dinner, we were intrigued by the \"sushi burritos\" on the menu. We love sushi and poke bowls, but have never tried anything like that. When we asked what the difference was, our server said they are the same, but the burritos are larger. The Fireball Burrito was actually a dollar cheaper than the Fireball Sushi Roll, so I gave it a try. It was tasty, but I think I'd go with the sushi roll next time as it just didn't feel like sushi eating it like that. I think I prefer the bite-size pieces and the crunch lost its crunch when mixed in like it was. My husband tried the Dragon Burrito and he enjoyed it, but felt eating it burrito-style was definitely messier!\n\nOverall, we felt like the food was good and the prices were reasonable. This is a casual and quick place to go for some fairly priced sushi (and sushi-like) dishes.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQtaDZYa0J3EAE!2m1!1s0x0:0x3ca667df07065b11!3m1!1s2@1:CIHM0ogKEICAgID-h6XkBw%7CCgwIoJXVnAYQ2Jy-hAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNemW2emCQwzId5H2vrckNU26x7PuwjSesMBstq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN6XlBC_Qiwze6JPoD5DuFkDqjzqvIKXXQexU7Y=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN-PNwVBOKLqMWu9GUTwX5Rzz7xoUFZsyGoHn3L=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP9-yy2YBJsNRwC-pLTCvLU1a0nEZ279NqrT6AD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPL2mt-wyLgvYvvAnVukaK7u3WJc2Wmd9xIZ3Am=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Tiffany Walerych",
+                "rating": 5,
+                "contributor_id": "107267397810577938110",
+                "description": "Drove into Ann Arbor from out of town and happened upon this place on Google. We gave it a shot and the food was great, the server was very nice, and it was just overall a great addition to our day! I really missed the mango rolls I would get in Florida and these were actually better. What an awesome surprise!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR4bF82QkJ3EAE!2m1!1s0x0:0x3ca667df07065b11!3m1!1s2@1:CIHM0ogKEICAgIDxl_6BBw%7CCgwI9vmxpAYQ0MPtwgE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN6l1tEriTIU1gsrFK5VrFSyQi2acMb7gdgG1Tk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO7kQgb6hZ_h8Sk-p761934pkX86t9Jg0_b29HJ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOkkF2_HQdcd_tYTxmqrL1TTkKs4hDNBufhC85y=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOPKPIsqoKbmOYudpzzajDdk50_xC2uQbX_ifvW=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Rusty",
+                "rating": 5,
+                "contributor_id": "116058480972784499078",
+                "description": "Great little sushi spot!  Extremely impressed with the quality of the food for the price.  $26 bucks for 2 salads and 3 rolls that were filling, delicious, and overall very satisfying.  Service was excellent.  Waitress was attentive and kind, as were the chefs.  I would highly recommend this spot.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEeU1IMzBnRRAB!2m1!1s0x0:0x3ca667df07065b11!3m1!1s2@1:CIHM0ogKEICAgICDyMH30gE%7CCgwI8fz8rwYQwMaRqAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNPLi6qAoqcY_2QL8W4_Y0kw_O9a3JwZUOvRiPa=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "Thomas Deren",
+                "rating": 5,
+                "contributor_id": "110435672925493389268",
+                "description": "A beautifully authentic local spot, highly recommended by friends of ours!  Wide selection of rolls and you can taste the love in every bite.  Awesome relaxing vibes and cheery staff!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYa28tUHVRRRAB!2m1!1s0x0:0x3ca667df07065b11!3m1!1s2@1:CIHM0ogKEICAgIDXko-PuQE%7CCgwI0qPvuAYQwI_a-gI%7C?hl=en-US",
+                "date": "a week ago"
+            },
+            {
+                "username": "Ally K",
+                "rating": 5,
+                "contributor_id": "111175233894001058570",
+                "description": "The best sushi I’ve ever had, the mango roll is out of this world!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMOS03QXN3RRAB!2m1!1s0x0:0x3ca667df07065b11!3m1!1s2@1:CIHM0ogKEICAgICL9-7AswE%7CCgwIiffiswYQqOXq7wE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPZDy0-zOxo9sIyF8VaaDpWhikm0CTdCUQ3k-g=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOnqINdtpMiko-d-CdkB2Cj63-rGXI3yQMfIPQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMdq1hfV7acQuMlju-9lObH6WcPYDsJVFbmZ8s=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM_hwh4RfSRmAYyfSqV2nDIsWqExIccr37mtD4=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            }
+        ]
+    }
+}

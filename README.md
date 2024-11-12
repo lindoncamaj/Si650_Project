@@ -1,139 +1,90 @@
-## General strategy for Assignment 3
+## How to run the Search Engine
 
-1. Implement the doc2query part (in `document_preprocessor.py`)
+This is a Python 3.11 FastAPI project with the necessary requirements added to the `requirements.txt`.
 
-2. Implement the `VectorRanker` (in `vector_ranker.py`)
+### Environment Setup
 
-3. Do the bi-encoder experiments from the paper
+After downloading the `HW1.zip` file from canvas, you will unzip the file, which gives you a `HW1` folder. You will also download `multi_word_expressions.txt` from canvas. Put it in the `HW1` folder. 
 
-4. Implement the `CrossEncoderScorer` in `ranker.py`
+Now, we will create a virtual environment for your search engine project.
 
-5. Integrate all of these into the IR system.
+1. Install Python 3.11
 
-6. Perform the full IR system experiments
+    Follow the link [Python 3.11](https://www.python.org/downloads/release/python-3112/) to install Python 3.11. After installation, you can check the version of your Python by running the following command.
 
-## Changes from Assignment 2
+    For macOS and Linux, you will be running this in Terminal.
 
-### Data Changes
+    For Windows, you will be running this in Command Prompt.
 
-- We will continue using the 'wikipedia_200k_dataset.jsonl' for HW3 as our base corpus.
+    ```
+    python --version
+    ```
 
-- We will continue using the relevance dataset from the previous homework.
+2. Create a virtual environment
 
-- (**NEW**) We have added a new file called `doc2query.csv` which has the queries generated for all of the 200k documents using `doc2query/msmarco-t5-base-v1`. *This should be used while indexing and not in document preprocessor.*
+    Get the path of your python installation.
 
-- (**NEW**) We have added a new file called `wiki-200k-vecs.msmarco-MiniLM-L12-cos-v5.npy` which has all the document embeddings meant to be used in your `VectorRanker`. Use `numpy.load` to load the numpy matrix and the embedding insertion order follows the document order in the `wikipedia_200k_dataset.jsonl`.
+    Use the following command to create a virtual environment specifically for SI 650.
 
-- For convenience, we've added the document ids for the 200K articles in the same order as in the JSON in `document-ids.txt`. You can use this in your experiments, if needed (e.g., the bi-encoder tests).
+    ```
+    <path of your python installation>/python -m venv si650
+    ```
 
----
+    If you installed Python 3.11 without overwriting the default Python version, use the following command:
 
-### `document_preprocessor.py`
+    ```
+    python3.11 -m venv si650
+    ```
 
-There are no changes to the `Tokenizer` classes. `Doc2QueryAugmenter` has been added.
+    This will create a folder `si650` inside the folder you navigated to. In the example above, this will create a virtual environment (a folder) inside `my_project`.
 
-#### `Doc2QueryAugmenter` class
+3. Activate the environment 
 
-- _General Comment_: This class should be a functional piece of code which takes in a doc2query model and can generate queries from a piece of text. **DO NOT** waste your time generating queries for all 200k documents. It would take days to finish on your laptop. Rather, this is to check your skills with HuggingFace transformers and pre-trained models. For downstream tasks such as index augmentation with the queries, use `doc2query.csv`.
+    - For Windows, run
+    ```
+    si650/bin/activate
+    ```
 
-**Check the code comments for more clarity on what to do**
+    - For Mac and others, run
+    ```
+    source si650/bin/activate
+    ```
 
----
+4. Install the requirements
 
-### `indexing.py`
+    After activating the virtual environment, navigate to the `HW1` folder by using the cd command. 
 
-There are no changes to `InvertedIndex` classes. `Indexer` has an additive change.
+    Run the following command:
 
-#### `Indexer`
+    ```
+    python -m pip install -r requirements.txt
+    ```
+    This will install the libraries you need to start the server.
 
-- `def create_index(index_type: IndexType, dataset_path: str,
-                     document_preprocessor: Tokenizer, stopwords: set[str],
-                     minimum_word_frequency: int, text_key="text",
-                     max_docs: int = -1, doc_augment_dict: dict[int, list[str]] | None = None)`
-  * This function now has an *optional* argument `doc_augment_dict`. This dict should be created from the `doc2query.csv` The keys are the document id and the values are the list of queries for a particular document. The augmentation of the document should happen before all of the preprocessing steps, i.e., before stopwords removal or minimum word filtering. Note that index-builders do not need to augment their documents so your code should support the cases where `doc_augment_dict` is or isn't provided.
+### Start the Server
 
----
+After you have all of these files and the necessary Python requirements installed in your environment, run 
 
-### `ranker.py`
-
-There are no changes to `RelevanceScorer` and `Ranker` classes. 
-
-#### `CrossEncoderScorer` class
-
-- _General Comment_: This class uses a pre-trained cross-encoder model from the Sentence Transformers package to score a given query-document pair. Since our cross-encoder model can process a maximum of 512 tokens, you need to create a dictionary that maps the document ID to a text (string) with the first 500 words in the document as instructed in Section 5 of the specification before working on this part. Then, you should pass the dictionary to the class as an argument. Note that the cross-encoder model receives raw strings as input; you should neither filter stopwords nor tokenize a query or document text before feeding them into the model.
-
----
-
-### `l2r.py`
-
-There are no major changes in `l2r.py`. However, one small change is that we won't be using `RelevanceScorer` in the L2R initialization. This has been removed in favor of using a `Ranker` object. This `Ranker` can be your traditional `Ranker` or the new `VectorRanker` or even another `L2RRanker`. 
-
-What the `RelevanceScorer` used to do was essentially find and initial ranking of the documents and then, L2RRanker reranked those documents using `LambdaMART`.
-
-But this can be done more easily with `Ranker` objects as they are supposed to find lists of relevant documents
-
-- ` def __init__(self, document_index: InvertedIndex, title_index: InvertedIndex,
-                 document_preprocessor: Tokenizer, stopwords: set[str], ranker: Ranker,
-                 feature_extractor: 'L2RFeatureExtractor')`
-  * the `scorer` has been replaced with `ranker`
-
-## New code files in Assignment 3
-
-### `vector_ranker.py`
-
-#### `vector_ranker.py` implements a vector-based ranker that utilizes pre-trained models from the HuggingFace Transformers library to generate document embeddings and query embeddings.
-
-`VectorRanker` Class inherits from the Ranker class and contains the following:
-- `def __init__(self, bi_encoder_model_name: str, encoded_docs: ndarray, row_to_docid: list[int]) -> None`:
-    - Instantiates the Sentence Transformer model and accepts the following parameters:
-      - bi_encoder_model_name (str): The name of a HuggingFace model used to initialize a Sentence Transformer model.
-      - encoded_docs (ndarray): A matrix where each row represents an already-encoded document using the same encoding as specified by `bi_encoder_model_name`.
-      - row_to_docid (list[int]): A list that maps row numbers to the document IDs corresponding to the embeddings.
-
- -  `def query(self, query: str) -> list[tuple[int, float]]`:
-    - Takes a query string as input, encodes the query into a vector, and calculates the relevance scores between the query and all documents.
-    - Returns a sorted list of tuples, where each tuple contains a document ID and its relevance score, with the most relevant documents ranked first.
-    - You will be computing the dot product between the query vector and document vectors.
----
-
-## How to use the public test cases
-
-- To run individual test cases, in your terminal, run:
-  * `python [filename] [class].[function]`
-  * ex: `python test_relevance_scorers.py TestRankingMetrics.test_bm25_single_word_query`
- 
-- To run one class's tests from file, in your terminal, run:
-  * `python [filename] [class] -vvv`
-  * ex: `python test_indexing.py TestBasicInvertedIndex -vvv`
-
-- To run all the tests from file, in your terminal, run:
-  * `python [filename] -vvv`
-  * ex: `python test_indexing.py -vvv`
-
-
-- To add your own test cases, the basic structure is as follows:
-  
 ```
-import unittest
-
-class TestStringMethods(unittest.TestCase):
-
-    def test_upper(self):
-        self.assertEqual('foo'.upper(), 'FOO')
-
-    def test_isupper(self):
-        self.assertTrue('FOO'.isupper())
-        self.assertFalse('Foo'.isupper())
-
-    def test_split(self):
-        s = 'hello world'
-        self.assertEqual(s.split(), ['hello', 'world'])
-        # check that s.split fails when the separator is not a string
-        with self.assertRaises(TypeError):
-            s.split(2)
-
-if __name__ == '__main__':
-    unittest.main()
-  
+python3 -m uvicorn app:app
 ```
-More information can be found [here](https://docs.python.org/3/library/unittest.html).
+
+to start the server.
+
+It will give you an address that starts with `http://`. Copy and paste it in your browser. 
+
+NOTE: To get a functioning search engine, you need to implement at least one of the preprocessor, indexer, and ranker. Otherwise you would get an empty page with no search results. 
+
+
+### Deactivate the virtual environment
+
+After you are done running the server, you can use this command to deactivate the virtual environment:
+
+```
+deactivate
+```
+
+After running the deactivate command, your virtual environment will be deactivated, and you'll return to the global Python environment. You'll see that the virtual environment's name (in our case, `(si650)`) disappears from your command prompt, indicating that you are no longer in the virtual environment.
+
+
+More comments are present in the code files themselves. And if you have trouble understanding parts of the code, please ping any of the GSIs for the course on Slack or create a post on Piazza. 

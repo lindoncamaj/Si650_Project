@@ -1,0 +1,241 @@
+{
+    "docid": 63,
+    "Title": "Noori Chicken Ann Arbor",
+    "Type": [
+        "Chicken restaurant"
+    ],
+    "Address": "1317 S University Ave, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.275186,
+        "longitude": -83.7325085
+    },
+    "Phone Number": "(734) 780-7068",
+    "Rating": 4.9,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 2
+        },
+        {
+            "stars": 2,
+            "amount": 3
+        },
+        {
+            "stars": 3,
+            "amount": 3
+        },
+        {
+            "stars": 4,
+            "amount": 10
+        },
+        {
+            "stars": 5,
+            "amount": 217
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "11:30 AM–9 PM"
+        },
+        {
+            "thursday": "11:30 AM–9 PM"
+        },
+        {
+            "friday": "11:30 AM–9 PM"
+        },
+        {
+            "saturday": "11:30 AM–9 PM"
+        },
+        {
+            "sunday": "11:30 AM–9 PM"
+        },
+        {
+            "monday": "11:30 AM–9 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "11:30 AM–9 PM"
+        }
+    ],
+    "Description": null,
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot"
+            ]
+        },
+        {
+            "offerings": [
+                "Comfort food",
+                "Quick bite",
+                "Small plates"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Seating"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "crowd": [
+                "College students"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards"
+            ]
+        },
+        {
+            "children": [
+                "High chairs"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Great service, great staff, great tasting Korean-style fried chicken wings.\""
+            },
+            {
+                "snippet": "\"Quick service, fresh food that tastes amazing, and all at a fair price.\""
+            },
+            {
+                "snippet": "\"Delicious fried chicken, fast service, great fries, highly recommend\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Crystal Shen",
+                "rating": 5,
+                "contributor_id": "111342024044181632699",
+                "description": "The food, for one, was so delicious! Freshly made and steaming hot when biting into each chicken wing. Secondly, the owner was so sweet and made us feel so welcome: I’ve been here twice in the last two days because it’s that good. Always looking forward to coming back :)",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3bE9hNFlREAE!2m1!1s0x0:0x2deee2cc135633f!3m1!1s2@1:CIHM0ogKEICAgID7lOa4YQ%7CCgwI26-YtgYQ0OmotgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPU7CrPxV4YxLcEkg4bsRqfb2coLkTR38TbBvty=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOuQGNUHC_CiQY9Yc4pvUkBCHhMBnvHZjHl5A1p=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Jessica Wiegand (Jessie)",
+                "rating": 5,
+                "contributor_id": "105294443991858417488",
+                "description": "10 minutes from order to dine in. Excellent, friendly service, and hot, fresh, flavorful food.\n\nSuper clean inside. Small, but it worked for us to sit at the counter. We got jumbo boneless chicken and garlic soy dumplings. So good! Would def visit again!\n\nWe recommend eating with your hands using the gloves. Why? Because you never get to do that.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNidDhHMVl3EAE!2m1!1s0x0:0x2deee2cc135633f!3m1!1s2@1:CIHM0ogKEICAgICbt8G1Yw%7CCgsIjPSltQYQ6J7qZQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPH9vmOl4tYL3DbFeh-ybKwrFO7IMmwnwcMhoLt=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Yixiao Zhou",
+                "rating": 5,
+                "contributor_id": "107084753339989643284",
+                "description": "The fried chicken here is delicious! My friend and I ordered boneless chicken nuggets. Two people are good for lunch. It's also very close to the school! 5 minutes' walk!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNucF9IQnZnRRAB!2m1!1s0x0:0x2deee2cc135633f!3m1!1s2@1:CIHM0ogKEICAgICnp_HBvgE%7CCgsIjtzrtwYQ2PybCw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPD3kT-PUJdlOyLHuUeAAYI4v_cIuXw-Chz5FS4=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "nali kwon",
+                "rating": 5,
+                "contributor_id": "102245686483252052222",
+                "description": "Delicious. If you haven’t tried their new menu, I highly recommend you trying them!! My favorite was tteokbbokki. Reasonably priced for the portion and it was so tasty. Chicken wrap with gochujang sauce would be a good choice for a quick lunch! Everything came out quickly and the service was top notch!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEdEpLam9BRRAB!2m1!1s0x0:0x2deee2cc135633f!3m1!1s2@1:CIHM0ogKEICAgICDtJKjoAE%7CCgwIiICDsAYQiMr-1wI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMBALzVJ0fQFVzytxgdxGH8uuBWtmHamNGjJJsr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMsPyZeYP2MaHSzw-yIhVCvCwhmiOdxpI6LVbyl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO---huk5gGiYSOEdH3jt5I76l2mwoEGcwFv9-8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO7hbn5jEmqnamP-AD7Nr3SjQdMBj0YuEbxw4K9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOolqwMa4ClQyrZUX7aUhK3RDorddHScrrzr89c=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "Chen Zhang",
+                "rating": 5,
+                "contributor_id": "112933424679490991199",
+                "description": "Very tasty and juicy fried chicken! It must be the best one in Ann Arbor. It’s near my apartment and I will visit again.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURuNFlieThRRRAB!2m1!1s0x0:0x2deee2cc135633f!3m1!1s2@1:CIHM0ogKEICAgIDn4Yby8QE%7CCgsIrraLuAYQ2JfIIw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNKvYRFTB4b8NRO8Zt2wEG-VKob44bFgV_RlhSY=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Memo Francis",
+                "rating": 3,
+                "contributor_id": "115051456867659614144",
+                "description": "The wings and dumplings are very greasy, not very good. They forgot to add the rice to my takeout order. They have fake 5-star reviews because they encourage customers to give 5 stars in exchange for a soda.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNiNmEzTnR3RRAB!2m1!1s0x0:0x2deee2cc135633f!3m1!1s2@1:CIHM0ogKEICAgICb6a3NtwE%7CCgwIgeCatQYQwJXuyQI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNS1XqnjxPDMo_BnPZNt2zJ9ty07DOpf7WCpUAV=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Mauricio Valadez",
+                "rating": 5,
+                "contributor_id": "105275924182012987941",
+                "description": "Came here for the first time, I told them I was from out of town and it was my first time there. The gentleman there was beyond helpful and super patient with us while explaining the menu and having us try some sauces to see what we like. The staff here was super friendly and fast. He also recommended a cool little spot on campus to sit and eat.\n\nThe food was very good but be warned the portions are pretty big. We had more than enough food for 2 of us and still had left over. A bit pricey but like I said it's quite a bit of food. Wings were crunchy and the sauces were very good my favorite was the Chile Soy..",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3MllxYTF3RRAB!2m1!1s0x0:0x2deee2cc135633f!3m1!1s2@1:CIHM0ogKEICAgID72Yqa1wE%7CCgsIq6uvtgYQ2IDTFA%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Dawn",
+                "rating": 4,
+                "contributor_id": "109613064685893682504",
+                "description": "This was really good! I loved the fries, probably one of my favorite fried ive tried anywhere. The wings were good I got the sweet, and mild. I definitely want to try more sauces though. The corndog was good but I was expecting better! I definitely will give this place another chance! Thank you!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURkeExpcU9nEAE!2m1!1s0x0:0x2deee2cc135633f!3m1!1s2@1:CIHM0ogKEICAgIDdxLiqOg%7CCgwI-JnVrgYQgLXHkQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOmdU0lPK45oorQ574l8zlLHLc_AMPEXhC7OfZ0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNs6caUvWaPH7U-CtFT1-6QMIgAuXGn-KkbrUQQ=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            }
+        ]
+    }
+}

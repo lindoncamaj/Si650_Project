@@ -1,0 +1,372 @@
+{
+    "docid": 81,
+    "Title": "Sava's",
+    "Type": [
+        "Restaurant"
+    ],
+    "Address": "216 S State St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2796832,
+        "longitude": -83.7411838
+    },
+    "Phone Number": "(734) 623-2233",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 105
+        },
+        {
+            "stars": 2,
+            "amount": 76
+        },
+        {
+            "stars": 3,
+            "amount": 141
+        },
+        {
+            "stars": 4,
+            "amount": 496
+        },
+        {
+            "stars": 5,
+            "amount": 1511
+        }
+    ],
+    "Opening Hours": [
+        {
+            "wednesday": "10 AM–10 PM"
+        },
+        {
+            "thursday": "10 AM–10 PM"
+        },
+        {
+            "friday": "10 AM–11 PM"
+        },
+        {
+            "saturday": "9 AM–11 PM"
+        },
+        {
+            "sunday": "9 AM–10 PM"
+        },
+        {
+            "monday": "10 AM–10 PM (Veterans Day)"
+        },
+        {
+            "tuesday": "10 AM–10 PM"
+        }
+    ],
+    "Description": "Contemporary bi-level eatery serves eclectic, locally sourced fare & a large Sunday brunch buffet.",
+    "Details": [
+        {
+            "from_the_business": [
+                "Identifies as women-owned"
+            ]
+        },
+        {
+            "highlights": [
+                "Great beer selection",
+                "Great cocktails",
+                "Great coffee",
+                "Great dessert",
+                "Great wine list"
+            ]
+        },
+        {
+            "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Halal food",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Healthy options",
+                "Late-night food",
+                "Organic dishes",
+                "Private dining room",
+                "Small plates",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Romantic",
+                "Trendy",
+                "Upscale"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Lunch reservations recommended",
+                "Dinner reservations recommended",
+                "Accepts reservations",
+                "Usually a wait"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid street parking",
+                "Somewhat difficult to find a space"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"The vibe, the cocktails, the food the people and the service were all top notch.\""
+            },
+            {
+                "snippet": "\"We ordered 3 options from their event menu: beef, salmon, and mushroom risotto.\""
+            },
+            {
+                "snippet": "\"My only knock is that the portion size was small for the price I paid 💰.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Nicole Pangas",
+                "rating": 5,
+                "contributor_id": "112400478978716204279",
+                "description": "I love this restaurant more and more with each time I go. My friend and I came for dinner. The service here is excellent and you feel like you are always well taken care of. We ordered dishes to share and we loved all of them. The winner was the beet salad. We also had Brussels sprouts, lots of French Fries, which I love there, bang bang shrimp, and split a cheeseburger. Great burgers. Great cocktails. Our server was awesome even with it being really busy that night.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYMG9uVVhBEAE!2m1!1s0x0:0xf0e988472e2ae840!3m1!1s2@1:CIHM0ogKEICAgIDX0onUXA%7CCgwI0cTvuAYQ2OLAxAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN2fEcJrLli3yGz7kFdtR4v-uhjEYsSMBoEGr-d=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOTxjhp7wewygLZqOvSOAa7Bi7drkuNSFh7tC8U=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a week ago"
+            },
+            {
+                "username": "Sushi Mellon",
+                "rating": 5,
+                "contributor_id": "107474156140099202885",
+                "description": "A Lady’s and Gentleman's Delight: A Healthy Haven in Ann Arbor\nSava’s in Ann Arbor's Downtown offers a refined dining experience for the health-conscious lady and  gentleman. The ambiance is a perfect blend of sophistication and comfort, making it an ideal spot for a leisurely meal.\nThe menu showcases a delightful array of dishes that celebrate the natural flavors of quality ingredients. Each bite is a testament to the chef's commitment to wholesome, yet delectable cuisine.\nWhether you're seeking a light lunch or a satisfying dinner, Sava’s caters to discerning palates without compromising on taste or nutritional value.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYOS1fQTlBRRAB!2m1!1s0x0:0xf0e988472e2ae840!3m1!1s2@1:CIHM0ogKEICAgIDX9-_A9AE%7CCgwI9IeRuQYQ0P3mqgM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPY3ys5h0VTVk2pUYFPiTQTOYBTia5rW9uBgh-O=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMCyRvt-_y-5fxtYp1VoT09P_AJ71cS7ZuljY0D=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 days ago"
+            },
+            {
+                "username": "Naz N",
+                "rating": 5,
+                "contributor_id": "110947388268093261910",
+                "description": "Great vibes at this classic, staple restaurant of Ann Arbor. Food was extremely tasty; had the Lemon Za’atar Fish and Chips, Fish Tacos, and the Little Gem Lettuce salad. The salad sauce was a very nice addition. Same for the tacos’ sauce. Nice location of the restaurant on State Street as well. Service was great, Madison was our server and she was quick and courteous. I highly recommend Sava’s for anyone in A2 and hope to come back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURib0tEbjR3RRAB!2m1!1s0x0:0xf0e988472e2ae840!3m1!1s2@1:CIHM0ogKEICAgIDboKDn4wE%7CCgwI7OqqtQYQsNO-hAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOr2lkkvkSF1WwvsRGwkHaMC60A4aBzxJyWvLz7=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMhERuwffqLWGG6L36JutmkiFppTrHaj4wax417=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMEB_osmIgt8CeIlGZs4qVqRLq2q406TtQA7dnu=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNtddG69YrfPkmBcseUaFTRRxEtluEYpi7y8J95=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPV10OP3-Voq81x53Rakckrn5ZfIP3sLjjGFKcT=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOhY_vpYkORc1Z5E4L7F2DqUjZQ7uWNdLpFIMDg=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0jF8VPby8aFg8zIj-39lA8yLmQNW0ytKWhVsv=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONwsw-wOtOk9KNSvIE-UQU8b3eUVoFiREphQ4x=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOi9qXgvlReHsbFeRh9oQkqXVbSEeLcdiwTG59N=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPgStqVZ1NRgCd2kPi1bYEVxDTYGQSkG3o4PHAJ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP-14W1UZp-sp78KeW-1RXk4hwjGUzysWV9rsVh=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOGH-rZav3p9-3Gwk07HtI2bW72_FF7leaSUd39=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Elizabeth",
+                "rating": 5,
+                "contributor_id": "114770535501813602799",
+                "description": "Sava’s is always fabulous. The harvest sangria was delicious and the food is always fresh. Highly recommend the new artichoke and feta dip! So warm and perfect for fall. Our server Keeley was super kind and knowledgeable.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYMWZxYlNREAE!2m1!1s0x0:0xf0e988472e2ae840!3m1!1s2@1:CIHM0ogKEICAgIDX1fqbSQ%7CCgwIj5SFuQYQuN3j6gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMAtO-8pK_w2Rsed2k8RgH695CiCLOSGVDo21Hd=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOEYM-oZrTZ75PjCnkq9rTnrmeu27uMbR2hiedO=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a week ago"
+            },
+            {
+                "username": "India Barnes",
+                "rating": 5,
+                "contributor_id": "101382337860507597528",
+                "description": "One of the many restaurants on/near campus. A little bit of a wait but worth it. It also was move-in week so I'm sure that contributed to the wait. The bang bang shrimp was a 10! Definitely getting that again for my meal and not an appetizer. Everyone else seemed to really enjoy their food. Drinks were delicious.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3ZzhXOUx3EAE!2m1!1s0x0:0xf0e988472e2ae840!3m1!1s2@1:CIHM0ogKEICAgID7g8W9Lw%7CCgsI2M-4tgYQyJuibA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNXK8PrZW45DzMC00M1Oi-Q3QkAvpLFJmrn6TBs=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP0dQqD72Hs5BfSxOclTtnglQSRuYpPaD3Jw0x8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMxvQMqScXGjm88ljPVmHOO499AqEPlzw5ZZRF_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOS7-e2j_vQgh90gtdVGwVLcL3ZP3xMJvDarive=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPXLq1B74-7WkiBhvCPyjgZAUL13zzCShbU2wNj=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMrkqPhZJgQNj_DCud-M3dRbTVnSwM3lIqp2l3c=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Buster Cat",
+                "rating": 5,
+                "contributor_id": "110609011115472359910",
+                "description": "A very nice place to die and especially with friends and loved ones. Great atmosphere and great tasting food. Full of flavours.  We ordered the Reuben sandwich which was supposed to be their most amazing item on the menu according to the waitress. Also ordered the Hievos Rancheros which was also excellent! Highly recommend this place to catch a good meal. A friend also ordered the Shrimp and Grits. Overall very happy with the experience",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURiM3U2UUtBEAE!2m1!1s0x0:0xf0e988472e2ae840!3m1!1s2@1:CIHM0ogKEICAgIDb3u6QKA%7CCgsIm_zEtQYQqPu4Hw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNIABqIkKmcyw8MsHOp-liobtTVTI9kc3wK3C62=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNyHaurTW4XyYnj96_WzwPJR9NgC6H9TMsfi9nM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPfna81WFg91laaLf4gJ0ACAWXyX8Gx35onsOrz=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPcRXeu_JByWGOBpubkCjXviqjQtIDhPLFq3G0P=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMGVnXw05nW7GKNdEdX2gm9BwovvZ1fmhS0BLl6=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Island Ewert",
+                "rating": 5,
+                "contributor_id": "112788240047492908976",
+                "description": "Service was great! Server was knowledgeable about gluten allergy concerns they walked me through the menu and the appropriate things that could be substituted so I could make a decision. There was more than just salad options. And they even had a dedicated fryer for French fries! I got a side of fries with my chicken and did not have any adverse reactions. I'd recommend when you make a reservation that you indicate any allergies they need to be aware of so they can be prepared and begin with that in mind. I would recommend them! Also it's not explicitly fancy, but definitely a snappy casual or higher kind of place. Plan accordingly!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNMX015YmZBEAE!2m1!1s0x0:0xf0e988472e2ae840!3m1!1s2@1:CIHM0ogKEICAgICL_MybfA%7CCgwIhva8swYQqKmCwgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNjt3EDwcjHSDahIZ0JSyJwTyeDLhYljkIxF9dS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP_VQlNQHrp1a2P9pk8RZ50rYogc63L7I8QY-bi=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Robyn",
+                "rating": 5,
+                "contributor_id": "103318812194348031376",
+                "description": "On our way home back to 🇨🇦 from a cross-country road trip. This restaurant is Chic and I loved the high ceilings and atmosphere. Highly recommend the Brunch buffet deal (especially for kids)  The food is so high quality with options like Jumbo shrimp cocktail, smoked salmon, pasta, eggs, and desserts! We also ordered Al a Carte for a couple dishes.yummy!!!  Presentation was so nice! The portions were quite large, so keep that in mind…we wished we shared… We will definitely be back, when passing through again. Highly recommend this place!!! I found this on Google! So glad I did!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3bGZqc0NnEAE!2m1!1s0x0:0xf0e988472e2ae840!3m1!1s2@1:CIHM0ogKEICAgID7lfjsCg%7CCgsIpMiytgYQ6KDaeA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOV9daUOGSYo9PhsKLkbdFUakK294U34KOY-uzJ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOY-7fLyzgmqUU6DdiHyLiWSeiXl4qExFlu2I_k=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            }
+        ]
+    }
+}
