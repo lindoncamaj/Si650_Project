@@ -1,0 +1,301 @@
+{
+    "Title": "ArborTree Lounge",
+    "Price": [],
+    "Place ID": "ChIJ8ZehdRusPIgR4HEOOMAKEbA",
+    "Type ID": [],
+    "Type": [
+        "American restaurant",
+        "Bar & grill",
+        "Family restaurant",
+        "Restaurant"
+    ],
+    "Address": "3600 Plymouth Rd, Ann Arbor, MI 48105",
+    "GPS Coordinates": {
+        "latitude": 42.3043159,
+        "longitude": -83.6898973
+    },
+    "Phone Number": "(734) 769-9800",
+    "Rating": 3.6,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 25
+        },
+        {
+            "stars": 2,
+            "amount": 22
+        },
+        {
+            "stars": 3,
+            "amount": 56
+        },
+        {
+            "stars": 4,
+            "amount": 66
+        },
+        {
+            "stars": 5,
+            "amount": 81
+        }
+    ],
+    "Opening Hours": [
+        {
+            "tuesday": "5–10 PM"
+        },
+        {
+            "wednesday": "6:30–9:30 AM, 5–10 PM"
+        },
+        {
+            "thursday": "6:30–9:30 AM, 5–10 PM"
+        },
+        {
+            "friday": "6:30–9:30 AM, 5 PM–12 AM"
+        },
+        {
+            "saturday": "6:30–10:30 AM, 5 PM–12 AM"
+        },
+        {
+            "sunday": "6:30–10:30 AM"
+        },
+        {
+            "monday": "5–10 PM"
+        }
+    ],
+    "Description": "Laid-back morning-to-night cafe offering burgers, beer & American fare, plus weekly live music.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Fireplace",
+                "Sports"
+            ]
+        },
+        {
+            "popular_for": [
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Late-night food",
+                "Quick bite",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Dinner",
+                "Catering",
+                "Counter service",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "crowd": [
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Convenient location, nice service, tasty bar foods\""
+            },
+            {
+                "snippet": "\"Plenty of fruit, yogurt, white and chocolate milk, juices and pastries.\""
+            },
+            {
+                "snippet": "\"Delicious, homemade, amazing breakfast, lunch, dinner and brew selection.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "John Brugge",
+                "rating": 5,
+                "contributor_id": "106775894317420442270",
+                "description": "What can I say? Amazing food, staff was very pleasant. Our waiter Danny was tremendous… I tend to be a jokester to people and he rolled with the punches and joked back. If we venture back here from Ohio we will definitely be eating here again!!! Keep up the great job!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNMMWZ5ZUxBEAE!2m1!1s0x0:0xb0110ac0380e71e0!3m1!1s2@1:CIHM0ogKEICAgICL1fyeLA%7CCgwIkYTYswYQsNK4kQM%7C?hl=en-US",
+                "date": "4 months ago"
+            },
+            {
+                "username": "Sophina Taitano",
+                "rating": 4,
+                "contributor_id": "113065226425712616764",
+                "description": "We got the nachos and steak fajitas, they were delicious and the nachos were huge. The pricing was normal for Ann Arbor. The service was great.\nIt's nothing special but the food was tasty.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURRck1lcmhBRRAB!2m1!1s0x0:0xb0110ac0380e71e0!3m1!1s2@1:CIHM0ogKEICAgIDQrMerhAE%7CCgwIqYqezgUQgKnXjQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP6raVnW8F28I95M-o1FaPNCIDsWuJFY70YvOsY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPCHQ-RJNg22xp4Kb_zcEle1YXm9xl-jg2rPVBs=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 years ago"
+            },
+            {
+                "username": "Luis Pacheco",
+                "rating": 5,
+                "contributor_id": "106798444158731046658",
+                "description": "Great bar , attached to the holiday inn, buffalo wings were great, so was the seafood, excellent service.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURVdGIydjd3RRAB!2m1!1s0x0:0xb0110ac0380e71e0!3m1!1s2@1:CIHM0ogKEICAgIDUtb2v7wE%7CCgwIruam6wUQkO_LhAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNaVLUbSgitWs-pYBJKleX6aG7PqsTfMB_GheA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipObsS4df0Oc39yAT1-YUdV0xiC_JIiyj5Qp4LU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMViUD3BYL6yXwEOj6DM4RzWhwqJ7ZGDoGNk0w=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNWOHGNNGOX6kheJHOm89zavqq4mZXfBr9sK10=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNqEehkljmStW5lmisOm2AHJO9bJQzVzYJQLmY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPMNcASdatkm1CEkAXxxot9Y-9NTVNRSR-YAnU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyDPFu0a_qNRuNixpwX3EFx27y5M1HxCKztTg=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNlQZmBstIh9rQv6ZPNYSkugg6EMN2Nf_qZvBE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPUPqZ2aJVRs9BnOS9LuNx9ewMe-8xmmll-IOg=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN_Wr-Wx0iuHAAK-10bXn_vMDjLxnUO6uKnNnM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOCtqpLQCcsOJ-te4WYSiI5nUBz4lWxIw9kk14=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN0vupDA2ouXFV0C00ieg_E17mPSZcj8norK_Q=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 years ago"
+            },
+            {
+                "username": "Marie Lenhardt",
+                "rating": 4,
+                "contributor_id": "110167893793944409657",
+                "description": "Live music, Downriver Dan, was great! Food was good. Our server, Amber, was very attentive.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURRbjdqeDJnRRAB!2m1!1s0x0:0xb0110ac0380e71e0!3m1!1s2@1:CIHM0ogKEICAgIDQn7jx2gE%7CCgwIxOu72QUQgK398gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOsyfzYWEZCDDOP7EKUYIaiPGBr3smHqyCYARcq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOASRMgEi-4ZyPkfa2shfyaIHQLMxwmWqlQUeYx=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 years ago"
+            },
+            {
+                "username": "Nick Smirnov",
+                "rating": 5,
+                "contributor_id": "100807817658831823113",
+                "description": "Great food and drink here. I had the Buffalo chicken wings and they were nice and spicy and crispy throughout. I had the Wolverine Blueberry Wheat and it was slightly sweet and enjoyable.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNwci03ZVBREAE!2m1!1s0x0:0xb0110ac0380e71e0!3m1!1s2@1:CIHM0ogKEICAgICpr-7ePQ%7CCgwI5a7gpgYQwI_fqAE%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Climbing Kitten",
+                "rating": 5,
+                "contributor_id": "113489834400064932494",
+                "description": "Breakfast is great. Had Fish n chips for dinner.  That was tasty too. Bri is a wonderful server.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURVM2RMRnRnRRAB!2m1!1s0x0:0xb0110ac0380e71e0!3m1!1s2@1:CIHM0ogKEICAgIDU3dLFtgE%7CCgsIlvGu6wUQ-NvlMQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOvjqIEYpVNJ9RapJ-pONelHJXIxpNdl0ukQbKB=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 years ago"
+            },
+            {
+                "username": "Katie D",
+                "rating": 5,
+                "contributor_id": "111212876433854911766",
+                "description": "We stopped in for a drink the past weekend. Shaun the bartender remembered us from the last time we were in back in March. He was the perfect mix of friendly and sarcastic. Then Danny walked by and remembered my husband from Christmas Eve breakfast. Definitely impressed with the staff!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKeEphemJnEAE!2m1!1s0x0:0xb0110ac0380e71e0!3m1!1s2@1:CIHM0ogKEICAgICJxJazbg%7CCgwIrpzJpAYQuI3DwwM%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Ed Cott",
+                "rating": 3,
+                "contributor_id": "107895476941341651465",
+                "description": "There was only one server, a young lady who was trying desperately to keep up. In the meantime the bartender who was not terribly busy did nothing to assist her. As a result the service was slow but not because of a lack of effort on the part of the one young lady on the floor. The restaurant manager needs to rethink the assignment of duties. The food was good.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURocS1YNVBREAE!2m1!1s0x0:0xb0110ac0380e71e0!3m1!1s2@1:CIHM0ogKEICAgIDhq-X5PQ%7CCgwIk9vUoAYQ4OiCgwM%7C?hl=en-US",
+                "date": "a year ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true
+    }
+}

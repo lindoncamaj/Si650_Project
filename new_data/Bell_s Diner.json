@@ -1,0 +1,290 @@
+{
+    "Title": "Bell's Diner",
+    "Price": [],
+    "Place ID": "ChIJnZv1cc-xPIgRHA2gkcdbyG4",
+    "Type ID": [],
+    "Type": [
+        "Diner",
+        "Breakfast restaurant",
+        "Korean restaurant",
+        "Lunch restaurant",
+        "Takeout Restaurant",
+        "Sandwich shop"
+    ],
+    "Address": "2167 W Stadium Blvd, Ann Arbor, MI 48103",
+    "GPS Coordinates": {
+        "latitude": 42.2733736,
+        "longitude": -83.7764456
+    },
+    "Phone Number": "(734) 995-0226",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 36
+        },
+        {
+            "stars": 2,
+            "amount": 19
+        },
+        {
+            "stars": 3,
+            "amount": 47
+        },
+        {
+            "stars": 4,
+            "amount": 155
+        },
+        {
+            "stars": 5,
+            "amount": 700
+        }
+    ],
+    "Opening Hours": [
+        {
+            "tuesday": "8 AM–8 PM"
+        },
+        {
+            "wednesday": "8 AM–8 PM"
+        },
+        {
+            "thursday": "8 AM–8 PM"
+        },
+        {
+            "friday": "8 AM–8 PM"
+        },
+        {
+            "saturday": "8 AM–8 PM"
+        },
+        {
+            "sunday": "8 AM–8 PM"
+        },
+        {
+            "monday": "8 AM–8 PM"
+        }
+    ],
+    "Description": "Functional restaurant offering traditional diner fare & Korean specialties in an unassuming space.",
+    "Details": [
+        {
+            "highlights": [
+                "Great coffee"
+            ]
+        },
+        {
+            "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Coffee",
+                "Comfort food",
+                "Healthy options",
+                "Quick bite",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Great American and Korean dishes served in a safer strictly takeout environment.\""
+            },
+            {
+                "snippet": "\"Good place to eat, chef is very efficient and the food and service is great\""
+            },
+            {
+                "snippet": "\"They serve it in a bowl of gravy with a homemade biscuit on the side.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Nickie M. Robb",
+                "rating": 5,
+                "contributor_id": "117212779022220759198",
+                "description": "O dear Lord! If you are hungry, come here! When you walk in you get the feel of a \"hole-in-the-wall\" diner, and the nice people of Bell's Diner will not disappoint you no matter what you order! The food is so delicious I can't put it into words. Plus, it's a nice quiet, comfortable atmosphere to enjoy your food. I ordered the veggie omelet and hash browns. Now I'm too full to move. PLEASE stop by and give this A2 diner a try.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYNVlyMEV3EAE!2m1!1s0x0:0x6ec85bc791a00d1c!3m1!1s2@1:CIHM0ogKEICAgIDX5Yr0Ew%7CCgsIrsSEuQYQ-NmuDA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0wdsBKC2k8jPylMVGkycVuCbCE2Q0g4cvbjSY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPs-OmL_NeYeJXlqq6vTADLf64NcQ9zNTwY4nQs=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPb8S37RPaag1GmGM_Y34Q09zMgGbPo6-9kzBpJ=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Jeffrey Farell",
+                "rating": 5,
+                "contributor_id": "112073457896694460041",
+                "description": "This is a small, family run restaurant that has an interesting mix of traditional diner/Coney Island offerings, and Korean food. Our recent visit included someone having blueberry pancakes, another a breakfast sandwich on sourdough, and a third with beef bulgogi, which can be ordered as part of a stirfry with vegetables, or a sliced bulgogi option that is just slices of seasoned beef on a bed of white or brown rice and a side of kimchi.\n\nPlenty of parking on the side of the building, interior features homey decorations and an atmosphere that really brought me back to family restaurants from the last century. Start with mandoo dumplings and go from there.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3d2R2TmVnEAE!2m1!1s0x0:0x6ec85bc791a00d1c!3m1!1s2@1:CIHM0ogKEICAgID7wdvNeg%7CCgwItreqtgYQkN64qwI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOGMobJRSO5nYF2Ey_HGl6O8RVf7EY49S9LVypq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNYzz2En7z_IoaUq1JKkYqP8NoIFkO0vnlS2bbR=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "David Obregon",
+                "rating": 4,
+                "contributor_id": "106404745483605720837",
+                "description": "Looks like a diner, but has some awesome Korean food, the bulgogi was amazing, the sliced bulgogi was amazing, and the mandoo (dumplings) were really good too, also served with a side of cucumber kimchi, which tasted great, I cannot wait to go back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqbE9XVUVnEAE!2m1!1s0x0:0x6ec85bc791a00d1c!3m1!1s2@1:CIHM0ogKEICAgIDjlOWUEg%7CCgsIsPO_sQYQiL_5Ug%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN1LxmWjiwVUd_DayiuC-kGCUTUggkMWIOAZFTt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOoXtQW3Tdu25IuJ1O6lXV982s3g7dd9MY9QBD6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNc-UtjL3XTFVCNN-Jae8YVlGQpbXNavkruNoK6=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "Laura Eliza",
+                "rating": 5,
+                "contributor_id": "105951984329686471468",
+                "description": "First time here for a late brunch/lunch and we enjoyed the food we got. It is a conveniently located diner with a small town family feel. I think it’s unique they serve Korean food along with the standar American diner food you would expect. We didn’t order any Korean dishes, but will have to be back again to try those. My husband enjoyed the homemade biscuits and gravy. I loved my tuna melt, which was grilled to perfection with the best crispy crunch on the bread. The tuna salad was delicious and tasted homemade. Generous portions and attentive service!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURsd3JHUkhBEAE!2m1!1s0x0:0x6ec85bc791a00d1c!3m1!1s2@1:CIHM0ogKEICAgIDlwrGRHA%7CCgsI1dGkqwYQkOOLdw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN7cXAzhlXNCMQKUkmxOLEM_X3r2q7tR1EAfUyU=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "11 months ago"
+            },
+            {
+                "username": "Bella C",
+                "rating": 2,
+                "contributor_id": "103267155592361466203",
+                "description": "Walked in and felt like I was walking into a library it was so quiet. With small children I felt like we should’ve went somewhere else more lively. The diner is small, maybe less than 10 tables though 2 were for larger parties. High chairs are available (2). I ordered the beef ramen for “brunch”. It lacked flavour, beef and noodles were chewy, wasn’t very tasty. My family ordered regular breakfast and said it was good, though pricey for the amount and quality of food.\nA single toilet bathroom is located through the kitchen. Not enough space to walk through. We won’t revisit.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURkc1lxbDBnRRAB!2m1!1s0x0:0x6ec85bc791a00d1c!3m1!1s2@1:CIHM0ogKEICAgIDdsYql0gE%7CCgwIzMLqrgYQ2JqE3QI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOeu98fw1BhZJZz1BRn3K7itJA9pbNJj2c3xAcD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPFig3sohJZO185acGtWz7se1TZ04Zq3DdJy-K6=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "Lily Lee",
+                "rating": 5,
+                "contributor_id": "116634703802744507575",
+                "description": "Dec 2023\nOrdered the beef bulgogi bento box and spicy chicken today with brown rice! Sharing a few more pics! Love the food and great service. Friendly staff and busy on a Sunday for lunch!\n\nOct 2023\nExcellent food! All around good selection of items for breakfast, lunch and dinner. However, it's really a local hidden gem for their yummy limited Korean dishes on the menu, especially the bibimbap, spicy chicken and beef bulgogi! 😋\n\nFamily business that has been in Ann Arbor a very long time.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNRcmRLQXlBRRAB!2m1!1s0x0:0x6ec85bc791a00d1c!3m1!1s2@1:CIHM0ogKEICAgICQrdKAyAE%7CCgwI3KriqwYQ-KqmgAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMgdOnrUDXVtDD8MNBVthCOKjZoKbIzL8JVZHqU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPD7udaNrg3hzVysl42wDpkYmXipFN2CFgj3SbN=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "11 months ago"
+            },
+            {
+                "username": "Alysia Bulluck",
+                "rating": 5,
+                "contributor_id": "117479542104598601728",
+                "description": "I really love that it is Korean owned and there is a menu on the back that allows people to try Korean options! The food was very excellent to be honest! I got a Tofu Bibimbap bowl and all the vegetables were so fresh! The tofu was marinated and silky, just how I like it! My son got the Bulgogi with rice and cucumber kimchi, and my husband the Udon noodles.\n\nOne special thing about the diner is the fact that it has normal American breakfast options and sandwiches. I feel the prices here can’t be beat! I highly recommend.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChRDSUhNMG9nS0VJQ0FnSUNIelB0bxAB!2m1!1s0x0:0x6ec85bc791a00d1c!3m1!1s2@1:CIHM0ogKEICAgICHzPto%7CCgwI68nUtgYQ6LihsgE%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Evan McLean",
+                "rating": 5,
+                "contributor_id": "100001649588934916298",
+                "description": "Their spicy pork & chicken are really delicious. It's a great amount of heat and it's a huge quantity of food. Their house made hot sauce is quite sweet and mildly hot, I love the flavor. I've mainly stuck with the Korean dishes at the restaurant and they have always been delightful.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR1aGRUTUxBEAE!2m1!1s0x0:0x6ec85bc791a00d1c!3m1!1s2@1:CIHM0ogKEICAgIDuhdTMLA%7CCgwIx5mbmAYQ8K-0qwM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNUfTFwLIwq6sPAsfKUOmmavH103WWqf0Hwq2p2=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNFDPrcE14G3b5w1UVBsOQD4IHob3KkojC5OcS0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMJa48634iZHvgiCdcyyLwcku0jEvU32migqfLb=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMXdm8fopfkJTOrt8nDCvdIab58HWbD6KHWK5cS=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+    }
+}

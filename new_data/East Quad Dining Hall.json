@@ -1,0 +1,230 @@
+{
+    "Title": "East Quad Dining Hall",
+    "Price": [],
+    "Place ID": "ChIJp8iDQJqvPIgRuheX_gdEhco",
+    "Type ID": [],
+    "Type": [
+        "Restaurant"
+    ],
+    "Address": "701 E University Ave, Ann Arbor, MI 48109",
+    "GPS Coordinates": {
+        "latitude": 42.2729285,
+        "longitude": -83.73514589999999
+    },
+    "Phone Number": "(734) 764-0136",
+    "Rating": 4.2,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 0
+        },
+        {
+            "stars": 2,
+            "amount": 0
+        },
+        {
+            "stars": 3,
+            "amount": 4
+        },
+        {
+            "stars": 4,
+            "amount": 6
+        },
+        {
+            "stars": 5,
+            "amount": 8
+        }
+    ],
+    "Opening Hours": [
+        {
+            "tuesday": "7 AM–3 PM, 4:30–8 PM"
+        },
+        {
+            "wednesday": "7 AM–3 PM, 4:30–8 PM"
+        },
+        {
+            "thursday": "7 AM–3 PM, 4:30–8 PM"
+        },
+        {
+            "friday": "7 AM–3 PM, 4:30–8 PM"
+        },
+        {
+            "saturday": "9 AM–2 PM, 4:30–8 PM"
+        },
+        {
+            "sunday": "9 AM–2 PM, 4:30–8 PM"
+        },
+        {
+            "monday": "7 AM–3 PM, 4:30–8 PM"
+        }
+    ],
+    "Description": [],
+    "Details": [
+        {
+            "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "All you can eat",
+                "Coffee",
+                "Comfort food",
+                "Halal food",
+                "Healthy options",
+                "Quick bite",
+                "Salad bar",
+                "Small plates",
+                "Vegan options",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Staff is friendly and the food tastes great!\""
+            },
+            {
+                "snippet": "\"They always have a unique variety of foods\""
+            },
+            {
+                "snippet": "\"Food option from multiple counters once you are inside the dining hall.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "kaitlyn",
+                "rating": 5,
+                "contributor_id": "113831142756031547505",
+                "description": "One of the best dining halls imo, the sandwich station is always a go-to. Taco night was really great.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURkOWU3ck1nEAE!2m1!1s0x0:0xca854407fe9717ba!3m1!1s2@1:CIHM0ogKEICAgIDd9e7rMg%7CCgwIk7rvrgYQoJbr_gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNsfVZu9L4dNXxAVJVEfNJbs1TGhc1A-aJ6YC0x=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOpmGbROFckqN0mEtBsHhJg4_JjpQKH26AvrNJ4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0PZuRlnu67HdsNTE0JTt5m8QrNJ7Z9kzQdCDO=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "Jayant",
+                "rating": 4,
+                "contributor_id": "109404312596338761291",
+                "description": "Food option from multiple counters once you are inside the dining hall. It's available to anyone provided you have access to the East Quad building. Lunch cost around $13 on MCard and $16 if you pay by Credit card. The options are good with salad bar, chicken dishes, pizza, desserts, soda, coffee, and vegetarian options. The place is worthwhile and good if you are looking for a filling meal but if you just want a snack there may be other better options.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNlMm9mUFB3EAE!2m1!1s0x0:0xca854407fe9717ba!3m1!1s2@1:CIHM0ogKEICAgICe2ofPPw%7CCgwI943wnwYQiMu54AI%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Mehek Gupta",
+                "rating": 3,
+                "contributor_id": "107358607273230133504",
+                "description": "This dining hall advertised “nacho cheese” on their dinner menu on 3/26/24, yet there was no nacho cheese. Wildly disappointing.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNEcW9QRDFnRRAB!2m1!1s0x0:0xca854407fe9717ba!3m1!1s2@1:CIHM0ogKEICAgICDqoPD1gE%7CCgsIxqKNsAYQ-OKHGA%7C?hl=en-US",
+                "date": "7 months ago"
+            },
+            {
+                "username": "Matan Marcus-Neuman",
+                "rating": 3,
+                "contributor_id": "100866839787608806791",
+                "description": "South Quad is better, sometimes the frosted mini wheat's are stale and they don't have grilled cheese.... b tier",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNla29LeHlRRRAB!2m1!1s0x0:0xca854407fe9717ba!3m1!1s2@1:CIHM0ogKEICAgICekoKxyQE%7CCgwI7d7vmAYQ0JSazwM%7C?hl=en-US",
+                "date": "2 years ago"
+            },
+            {
+                "username": "Anthony S",
+                "rating": 5,
+                "contributor_id": "113226857993618577087",
+                "description": "East Quad Dining Hall is great!! They have a good variety of food for you to choose from. Staff is friendly and the food tastes great!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNHbzVUYjF3RRAB!2m1!1s0x0:0xca854407fe9717ba!3m1!1s2@1:CIHM0ogKEICAgICGo5Tb1wE%7CCgwI2L-ijAYQoOm6kwM%7C?hl=en-US",
+                "date": "3 years ago"
+            },
+            {
+                "username": "Philip Rentschler",
+                "rating": 5,
+                "contributor_id": "107723961040212851615",
+                "description": "My personal favorite residence hall on campus. They always have a unique variety of foods",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2X0lYeWdnRRAB!2m1!1s0x0:0xca854407fe9717ba!3m1!1s2@1:CIHM0ogKEICAgID6_IXyggE%7CCgwIoe-zigYQuPTDgwI%7C?hl=en-US",
+                "date": "3 years ago"
+            },
+            {
+                "username": "Amirali Danai",
+                "rating": 5,
+                "contributor_id": "101114282347401763705",
+                "description": "best dining hall on campus",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQtN1lYQlVnEAE!2m1!1s0x0:0xca854407fe9717ba!3m1!1s2@1:CIHM0ogKEICAgID-7YXBUg%7CCgwIq_e-nAYQ-NWlxAE%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Tim Bryant",
+                "rating": 5,
+                "contributor_id": "116919205105210164349",
+                "description": "Great",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNwMnNQUTVRRRAB!2m1!1s0x0:0xca854407fe9717ba!3m1!1s2@1:CIHM0ogKEICAgICp2sPQ5QE%7CCgwI98qnpgYQ2PjynQM%7C?hl=en-US",
+                "date": "a year ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+    }
+}

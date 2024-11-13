@@ -1,0 +1,41 @@
+{
+    "Title": "Bahamma breeze",
+    "Price": [],
+    "Place ID": "ChIJp_djYgCvPIgR_IcRW-Qz4uA",
+    "Type ID": [],
+    "Type": [
+        "Seafood restaurant"
+    ],
+    "Address": "Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2808255,
+        "longitude": -83.7430176
+    },
+    "Phone Number": [],
+    "Rating": [],
+    "Rating Summary": [],
+    "Opening Hours": [],
+    "Description": [],
+    "Details": [
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids"
+            ]
+        }
+    ],
+    "User Reviews": [],
+    "Services": {
+        "dine_in": true,
+        "takeout": true
+    }
+}

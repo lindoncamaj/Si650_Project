@@ -1,0 +1,335 @@
+{
+    "Title": "Conor O'Neill's Irish Pub",
+    "Price": [],
+    "Place ID": "ChIJCzlHZzyuPIgRzjVrwaV1lUs",
+    "Type ID": [],
+    "Type": [
+        "Irish pub",
+        "European restaurant",
+        "Sports bar"
+    ],
+    "Address": "318 S Main St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2789395,
+        "longitude": -83.7488166
+    },
+    "Phone Number": "(734) 665-2968",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 45
+        },
+        {
+            "stars": 2,
+            "amount": 38
+        },
+        {
+            "stars": 3,
+            "amount": 114
+        },
+        {
+            "stars": 4,
+            "amount": 388
+        },
+        {
+            "stars": 5,
+            "amount": 957
+        }
+    ],
+    "Opening Hours": [
+        {
+            "tuesday": "3–11 PM"
+        },
+        {
+            "wednesday": "3–11 PM"
+        },
+        {
+            "thursday": "3–11 PM"
+        },
+        {
+            "friday": "11:30 AM–2 AM"
+        },
+        {
+            "saturday": "11:30 AM–2 AM"
+        },
+        {
+            "sunday": "11:30 AM–11 PM"
+        },
+        {
+            "monday": "3–11 PM"
+        }
+    ],
+    "Description": "Traditional Irish pub built with imported wood & stone features regular trivia nights & live music.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Fireplace",
+                "Live music",
+                "Live performances",
+                "Sports",
+                "Trivia night"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Food",
+                "Food at bar",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Late-night food",
+                "Quick bite",
+                "Small plates",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Counter service",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Free street parking",
+                "Paid parking garage",
+                "Paid parking lot",
+                "Paid street parking",
+                "Plenty of parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Good service, the food is as expected, wide selection of liquor and beer.\""
+            },
+            {
+                "snippet": "\"Small but tasty dessert selection (strawberry rhubarb pie and chocolate cake!).\""
+            },
+            {
+                "snippet": "\"Menu has a nice variety of appetizers, sandwiches, burgers and dinners.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "BattlerTrunks",
+                "rating": 5,
+                "contributor_id": "112685851033529714495",
+                "description": "This place is a great restaurant to eat in the area. Dinning outside is superb when the weather is great and the waiters were very nice. The prices are reasonable for anyone wanted well made food.  I would recommend anyone to eat here if they are looking for a pub specifically.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUdV9IMU9nEAE!2m1!1s0x0:0x4b9575a5c16b35ce!3m1!1s2@1:CIHM0ogKEICAgICTu_H1Og%7CCgwIwa2osgYQqNfQmAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOqFVpGwOX4t9IgTk_txQ0zY_n9IFC5oaueEAMm=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Paul",
+                "rating": 5,
+                "contributor_id": "111173309149263772385",
+                "description": "This place hasn't changed in the 20years I have been visiting when in town, and it doesn't need too either. Friendly staff and great bar food.  Not seen as much live music there as I use too, but probably more a case of timing.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYN3Z2c1FREAE!2m1!1s0x0:0x4b9575a5c16b35ce!3m1!1s2@1:CIHM0ogKEICAgICX7vvsQQ%7CCgwIz-vAuAYQ6M-V6wE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOA18GTrqKGC4vbPFd-ZclhSSQDGOS9Gpe-WrbO=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPtz3dCvc5ldUSGa_gp46egRsXwu4v6fQifNG3H=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Vikram Bala",
+                "rating": 5,
+                "contributor_id": "118263460813448768909",
+                "description": "O'Con's is a really nice Irish ☘️🇮🇪 Main Street bar. Our server was very pleasant to interact with, however, she refused to tell us which employee loved the bread 🍞 pudding the most, so we were a little disappointed by that. That being said, the Guinbobs were phenomenal and we will surely be coming back in the future just for those!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqMkxIdFR3EAE!2m1!1s0x0:0x4b9575a5c16b35ce!3m1!1s2@1:CIHM0ogKEICAgIDj2LHtTw%7CCgwIh7G8sQYQ-IXW_wI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNow2uCajflD1C6c7ez0i9P0ydp58UtYbSkz_oc=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "Albert Emery",
+                "rating": 5,
+                "contributor_id": "118060960572241022489",
+                "description": "Fun, upbeat place. While the place is somewhat of an older building, the decor is very modern.\n\nI came here to watch the U of M college football national championship game. It is was very hype.\n\nOverall, this is a very nice place. I'd like to try their food at some point",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQxOWV5NHlRRRAB!2m1!1s0x0:0x4b9575a5c16b35ce!3m1!1s2@1:CIHM0ogKEICAgID19ey4yQE%7CCgwIkf3yrAYQoNHV4wI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOvFO7HdH_HAXKKjfw1Bwk3tb-3op5FdxDrzUAi=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOHEkmO-rBzOAiXnQybwOoFjNc41_U3NFmAmIU_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM0Ef4CF1UmibozP9cU8okntc3fCt1ooULtm2RD=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "10 months ago"
+            },
+            {
+                "username": "James Hines",
+                "rating": 5,
+                "contributor_id": "100225074796620020116",
+                "description": "This was my third stop of my tour of Ann Arbor. I sat at the bar. The bartender was really cool. He showed me the different beers to drink that are brewed locally. Met some cool people had a great conversation. But I noticed most of the girls were on edge. They had massive frowns. They didn’t want to look around or make eye contact with anyone. odd. Especially the female bartender.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURiLXRLSmJ3EAE!2m1!1s0x0:0x4b9575a5c16b35ce!3m1!1s2@1:CIHM0ogKEICAgIDb-tKJbw%7CCgsI3d6-tQYQ4Ju0cw%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Levon Hanlon",
+                "rating": 5,
+                "contributor_id": "117126057481234699605",
+                "description": "We were here for the UA Block Party night and I  had my first American Hamburger and it was amazing. Staff was quick, and the food was fantastic. Thanks for making my first trip to the United States of America a memorable one! 🇺🇸 🇨🇦 🍁\nHighly recommended the American Burger Medium Rare! (Didn't know this was an option)",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3MG9XUElBEAE!2m1!1s0x0:0x4b9575a5c16b35ce!3m1!1s2@1:CIHM0ogKEICAgID70oWPIA%7CCgwI1ZWftgYQ-JfdzgM%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Cathy Morris",
+                "rating": 5,
+                "contributor_id": "117563310950092553247",
+                "description": "Wonderful Irish Pub atmosphere. We only had drinks and appetizers, but everything was top notch and delicious. We had a fabulous spinch, artichoke dip that everyone was fighting over. We also had the deep fried Brie with a peach - cherry chutney. Fantastic! Our wait staff was attentive and knowledgeable. Very fun place!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNBb3Rtb3Z3RRAB!2m1!1s0x0:0x4b9575a5c16b35ce!3m1!1s2@1:CIHM0ogKEICAgICAotmovwE%7CCgwI3o2yrQYQwOmSiwI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPONa-Afw5tPOp5_IoN1-5NR0mnh2FKz4vgEvNk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN-EXf_CkdxmD2dZABWQAP_bPjYxPSy6GR9S5Na=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPdFzeqi-FDQYUNhzvEqvTmKx2fBZ7mCpklLi2x=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPEy0BgL9LIoLWwKKy0UJAArGW4BzkcN5jADwxy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPFNYIvjuNPzYgVQoxbnymX2cGXffRHgNppH3jQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP5E0GUP-XrYD0fLM4f_Y4dunx7ZprQrqyWE6sd=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "9 months ago"
+            },
+            {
+                "username": "Kate Knight",
+                "rating": 5,
+                "contributor_id": "110752559979049382426",
+                "description": "The food was amazing, the service was amazing.  Try the pretzel bites.  Seriously good Irish Pub that was worth visiting.  And the fish and chips were perfect.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURwcW82TzhnRRAB!2m1!1s0x0:0x4b9575a5c16b35ce!3m1!1s2@1:CIHM0ogKEICAgIDpqo6O8gE%7CCgwIwPyEpwYQiNfIswE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNwkTTBsI-Spz7W80XBA9iOV2w4miPlp6dxGWvG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPDeftVd3j5GNNAnSDPT4op89wXli6U4342sFNp=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOMzkyXKGV8X6Dj3aezg3G88LGkJAepg3MeQ3qJ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOxl4-1CHBwNwPI9gwJxAIHUpztLp6mOk0vGeSl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOY9Fzz7T81fbHOQPCg7vxNOjQf97RV9nMJKZ8T=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM_eioKJOAFSZeoeuxWRx1FSDqdd9RiJd2cmkJn=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNmVYKOGkASNpiifMJbWZvd_mjTYxL1m4tqJCkW=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOdj3pXsmcaKXBuCdHVCQ5J9LQnjW-sUNmNZF1l=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSPfQsH26zb_lW_LHLUU6yeYuC-nAm1Or6Ycmu=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+    }
+}
