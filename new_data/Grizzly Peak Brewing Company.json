@@ -1,0 +1,364 @@
+{
+    "Title": "Grizzly Peak Brewing Company",
+    "Price": [],
+    "Place ID": "ChIJxQJ1BD2uPIgRImhX8j3gap0",
+    "Type ID": [],
+    "Type": [
+        "Restaurant",
+        "Bar",
+        "Brewery",
+        "Pub"
+    ],
+    "Address": "120 W Washington St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2807081,
+        "longitude": -83.7495206
+    },
+    "Phone Number": "(734) 741-7325",
+    "Rating": 4.2,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 50
+        },
+        {
+            "stars": 2,
+            "amount": 53
+        },
+        {
+            "stars": 3,
+            "amount": 88
+        },
+        {
+            "stars": 4,
+            "amount": 271
+        },
+        {
+            "stars": 5,
+            "amount": 507
+        }
+    ],
+    "Opening Hours": [
+        {
+            "tuesday": "11:30 AM–10 PM"
+        },
+        {
+            "wednesday": "11:30 AM–10 PM"
+        },
+        {
+            "thursday": "11:30 AM–11 PM"
+        },
+        {
+            "friday": "11:30 AM–12 AM"
+        },
+        {
+            "saturday": "11:30 AM–12 AM"
+        },
+        {
+            "sunday": "11:30 AM–10 PM"
+        },
+        {
+            "monday": "11:30 AM–10 PM"
+        }
+    ],
+    "Description": "Century-old space with stone walls sets a warm tone for site-made craft beer & a seasonal menu.",
+    "Details": [
+        {
+            "from_the_business": [
+                "Identifies as Latino-owned"
+            ]
+        },
+        {
+            "highlights": [
+                "Fast service",
+                "Sports"
+            ]
+        },
+        {
+            "popular_for": [
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Comfort food",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Late-night food",
+                "Private dining room",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Gender-neutral restroom",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "Has changing table(s)",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid parking lot",
+                "Paid street parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed",
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Nice vibe, good service, great food, not too pricy for its location.\""
+            },
+            {
+                "snippet": "\"Our table ordered the pizzas, fried fish, salads and sandwiches.\""
+            },
+            {
+                "snippet": "\"The polenta fries (with homemade spicy ketchup) are unbeatable!\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Vikram Bala",
+                "rating": 4,
+                "contributor_id": "118263460813448768909",
+                "description": "It was fine. Food was average, nothing special. I did like the outdoor seating 🪑. One of our turkey 🦃 avocado 🥑 sandwiches had brown avocado (likely a few days old). The cheese 🧀 curds were really good though. It's an alright place to try, but not super worth it when considering the price 💰\n\nEDIT: I went back a second time and the service was so much faster. Also, we had no problems with the turkey 🦃 sandwich 🥪 this time around 😊",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURqdmNhOGlRRRAB!2m1!1s0x0:0x9d6ae03df2576822!3m1!1s2@1:CIHM0ogKEICAgIDjvca8iQE%7CCgsInpPftQYQ-IymMw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN63R2DBLzzxWf1wF9fkZXbTyo8rvFk7mi_Ndpq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPwgObO2X5WnIJCBLP9PrpaK0SO_YPPyiJjCfa4=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Allie Warner",
+                "rating": 5,
+                "contributor_id": "106436060210193651877",
+                "description": "Grizzly Peak Brewing Company is a fantastic spot for both food and drinks. I recently visited and was blown away by their crispy chicken sandwich. The chicken was perfectly cooked, and the garlic aioli sauce added just the right amount of tangy richness. Paired with their sweet potato fries, it made for a seriously satisfying meal.\n\nBut the experience doesn’t stop at the food. If you’re a beer lover, you’ve got to try their beer flights. They offer a great variety, allowing you to sample different brews and find your favorite. Whether you’re there for a quick bite or to unwind with some friends over drinks, Grizzly Peak Brewing Company has you covered!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3dEt1YnVBRRAB!2m1!1s0x0:0x9d6ae03df2576822!3m1!1s2@1:CIHM0ogKEICAgIC7tKubuAE%7CCgwIqY_rtQYQ0PD5swM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONuwvUS1LRtetg35FWTT3YRLMnmfXl2R8Uy4bf=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM9A5cQYUeQI0ZWinbvzq1SCHi9iJkpj6GAVFTh=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Danielle Nicole",
+                "rating": 4,
+                "contributor_id": "114524574194327464172",
+                "description": "Cute spot! Loved the \"Were here, were beer\" seasonal drink. Very refreshing. Also got the hummus and onion dip app. Hummus was a bit dry with sourdough and would be better with some veggies. Onion dip was really good though. Service was great too!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNMdExtYkJBEAE!2m1!1s0x0:0x9d6ae03df2576822!3m1!1s2@1:CIHM0ogKEICAgICLtLmbBA%7CCgsIs_S3swYQ6JnmWQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPZ6BwcO8KHGaoTDWk_5KJkTSolq9KgyrmlygyB=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Chris Bearss",
+                "rating": 3,
+                "contributor_id": "113924794442560935768",
+                "description": "Overall, we were underwhelmed. Service was good and prompt. Menu was pretty limited, in my opinion. Our menu choices are pictures below. Restaurant was echoey - high ceilings and brick walls - bad for chatting across the table. Craft beer was tasty, but pricey. With tip, our party of 4 was over $200.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM5Ni1lWnVnRRAB!2m1!1s0x0:0x9d6ae03df2576822!3m1!1s2@1:CIHM0ogKEICAgIC96-eZugE%7CCgsIwKa0rwYQ8Ku4QQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO8UlMlOS5fEJAcpmkcP-iuWX1PSYykl6SoxUnb=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0_MgMlExivZnY0XmSMHuVVgPV-XltwxiNAWdz=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOsgyIj3_2bRMflkpDelhs9IR2kLwq5DyZ59UaW=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOjRwEoH_R_qcRRdXCcFsWyZLCF31r_K62dr4HT=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNLzjXkR1wMiTxEYoX2x8b5MDt7jyiJMsPCVW6k=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMaXb50zeRF3mZDHDKG16kuSNxJBL5UfkYDPav_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPZWqaT9ian8HnBKBtcD4B4Gwbs-SRYB8ob-aUq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOMr85MJnL4j8easNwa4mAJkdk2OLTkvvEaW4dV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN-N-i4Tu61xUJ2-oRcTxWWxdukJCLjrtx6k6V6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOkiH6PqlcNEvbzkWIZFpJ-6kXAHSF9NnVXuqFO=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "Rana Siroosian",
+                "rating": 5,
+                "contributor_id": "111124744728664323934",
+                "description": "First time here.\nI ordered smash burger with chips and it was absolutely delicious. What I liked about the burger was the bun, it wasn’t thick to fill you up after a few bites.\nThe chips were seasoned perfectly and they were so crispy.\nMy husband got the cheesesteak and he liked it so much.\nThe mac and cheese was also really good.\nI highly recommend this place.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURocGVuWllBEAE!2m1!1s0x0:0x9d6ae03df2576822!3m1!1s2@1:CIHM0ogKEICAgIDhpenZYA%7CCgsIwpK9oAYQkMrmFg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN6zDExpDR6JAhwCiHmfjE9ma0OP-4wFQ8VBAsq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNcXqo9AMa2chtCUkYvWdr9UzQd8LV-6LHdLP3E=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPt71zJOWwF722mQ9R3roymki7mmnjq-3qek7cY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOBfK_Vcf2GyyyRH0gC9c7QABIwbowB4xTXEhP7=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNb7bA51P8E3LlKvC88bxSPr7JD2nQm7HpENYRV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMdOl_Og_qDYi8lGXuhkmqiKSmmqkj2hJ8sAJQo=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Gerson Balza",
+                "rating": 5,
+                "contributor_id": "107222384348065849291",
+                "description": "Great seasonal beers. Hand pulled beers are the best. Their BLT salmon sandwich is amazing",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIOGJ6WWlBRRAB!2m1!1s0x0:0x9d6ae03df2576822!3m1!1s2@1:CIHM0ogKEICAgICH8bzYiAE%7CCgwI-NzptgYQgO6QnQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNx6oG_TT0JxYkpbJ49-X_zkjpqffPbBuSpdQHc=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP2PXJLdQiKejZAM-F9Ls92p3WkPNcECTDGxpoa=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Gustavo Duluc",
+                "rating": 4,
+                "contributor_id": "116109268916935574780",
+                "description": "Nice location. Great service! The Brewers Steak was good but steak was just 4oz. The Crispy Walleye was generous and good but a little greasy. The BBQ Ribs good amount very tasty, pull of bone. The Salmon sandwich was the king of the day! Very generous portion and will seasoned! The nachos were so so could have been or loaded. The seating could have had more umbrella. All in all good place. Price were good for the area. 2 glasses of wine+food for $35 per person.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURxOHEyRlVBEAE!2m1!1s0x0:0x9d6ae03df2576822!3m1!1s2@1:CIHM0ogKEICAgIDq8q2FUA%7CCgsI-tWGhwYQqJjVSg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOuUAm-u9usSiR9W6mjPdTPKXdULZm5G1FexR2Y=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN1-CSeSvXSbigCLV77K9QCXg7q__X-OxAEmJCm=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN4F4ozUQIw6646gLL1uMNOZi9IiMMyejxPPhLo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOX189ZQk4DvmpaxdCt_ICZgLAfSBqMQmHLtjEF=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPTlffHwrhcnKwZXETePBcnq9ZpNH-fN8_ZKKQl=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 years ago"
+            },
+            {
+                "username": "Tre D",
+                "rating": 5,
+                "contributor_id": "110736753757791835508",
+                "description": "Please bare with me.... I can't say enough about this place. We were in a very hairy situation trying to accommodate 15 hungry preadators on one of the wildest nights in Ann Arbor.  We just couldn't snare a spot.  But one call to Grizzly Peak, and they gave us no paws for concern about where to eat.  There is also a convenient parking lot right across the street. Atmosphere is family friendly (we had several hungry cubs with us, so that was a must!) Bench seating is available for 4, and tables can seat 9.\n\nI was surprised at how tasty the food was. I had the buttermilk fried chicken sandwich & sweet potato fries. They both needed a few less minutes of fire..but were still delicious.\n\nThe batter in beer-battered fries was a bit overbearing. It was literally 70% batter & 30% fry.  No real substance to them, and its hard to tell where the batter ends and fry begins. Maybe steak fries would be a better filling.  Or, maybe combine onion rings and french fries somehow.\n\nI must admit i almost went into an uproar over the bill for 4 with 2 drinks was about $200 (incl tip) but the food is well worth it! Food was phenomenal. I apologize for any misspellings. Grizzly Peak just has beary good food!\n\nPlease poke the thumbs up if u like this review!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURSMVlhcENnEAE!2m1!1s0x0:0x9d6ae03df2576822!3m1!1s2@1:CIHM0ogKEICAgIDR1YapCg%7CCgwIg4C6ogYQuKTfxQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNuC5m56O3QoVRMnU9mrRCNC_A9n71TdLNmt2D4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNDw2yJmJJUD5pr_Lk_qBGN_-iGbs2c9cyPy3ny=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNsmrbtN90_rkBKqresXJ3g2tfIibKsI7UOVKAz=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "Title": "Ben & Jerry’s",
+    "Price": "$$",
+    "Place ID": "ChIJCVm4nECuPIgRkjc368SEm2Y",
+    "Type ID": [],
+    "Type": [
+        "Ice cream shop",
+        "Bakery",
+        "Candy store",
+        "Caterer",
+        "Snack bar"
+    ],
+    "Address": "304 S State St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.279075999999996,
+        "longitude": -83.7410659
+    },
+    "Phone Number": "(734) 665-4440",
+    "Rating": 4.1,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 32
+        },
+        {
+            "stars": 2,
+            "amount": 5
+        },
+        {
+            "stars": 3,
+            "amount": 26
+        },
+        {
+            "stars": 4,
+            "amount": 79
+        },
+        {
+            "stars": 5,
+            "amount": 176
+        }
+    ],
+    "Opening Hours": [
+        {
+            "tuesday": "12:30–10:30 PM"
+        },
+        {
+            "wednesday": "12:30–11 PM"
+        },
+        {
+            "thursday": "12:30–11 PM"
+        },
+        {
+            "friday": "12–11 PM"
+        },
+        {
+            "saturday": "12–11 PM"
+        },
+        {
+            "sunday": "12:30–10:30 PM"
+        },
+        {
+            "monday": "12:30–10:30 PM"
+        }
+    ],
+    "Description": "Iconic Vermont-based ice cream parlor chain, known for its creative, cleverly named flavors.",
+    "Details": [
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance"
+            ]
+        },
+        {
+            "amenities": [
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "LGBTQ+ friendly"
+            ]
+        },
+        {
+            "planning": [
+                "Quick visit"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Loads of flavors and dairy free options (if that's more your speed).\""
+            },
+            {
+                "snippet": "\"Great ice cream, and the fastest service I've ever experienced.\""
+            },
+            {
+                "snippet": "\"Love waffle cones, and the kids love the selection here, too.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Nina Ayers",
+                "rating": 5,
+                "contributor_id": "107318552924143045716",
+                "description": "Ben & Jerry's is a delightful ice cream parlor that offers a wide variety of decadent flavors. From classic favorites to unique creations, there is something for everyone. The custom cone options add a personalized touch to your sweet treat experience. The abundance of indoor seating makes it a comfortable place to enjoy your ice cream, whether alone or with friends. Conveniently located near a parking garage, getting to Ben & Jerry's is a breeze. The staff is not only welcoming but also friendly, providing top-notch customer service that enhances the overall experience.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURMdHNPeGNnEAE!2m1!1s0x0:0x669b84c4eb373792!3m1!1s2@1:CIHM0ogKEICAgIDLtsOxcg%7CCgwI05_2swYQiNvzwAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPRB-I07W0x5d2Ht7kZ7B2GRC2lzvci96Fq2KFw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOWTQK9DBjqoSTEaFloUw_PUNCJrwiWLdoki9TY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMbNCTLPq0qgWgojkV8LBtxUq5tEmXjcPCpm2O2=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMeUyQyyVY9cJO2SrdKuI_7SjmDR-Oxj-6DrcjA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONemZ3i5ktIN_l_N7BxhLwsMJE3yFoalxUCtUC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM-oExO9-KBIFtaTrKrjw6JGHzULUOtiDUMip0w=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMO1O5Wxxny2lmqVpwEY8h7l750WYiMSxheHsCl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMj4pyaOcxrHDztxBfUvomVAbIAARMtUgBnLLvf=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Mark Landriau",
+                "rating": 4,
+                "contributor_id": "110480612191317995201",
+                "description": "Good ice cream and sundaes. Very cartoonish, colorful atmosphere, and nice staff. The flavor selection is pretty standard but you still have plenty of options to choose from.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNiektlTjh3RRAB!2m1!1s0x0:0x669b84c4eb373792!3m1!1s2@1:CIHM0ogKEICAgICbzKeN8wE%7CCgsIw8KCtQYQiL3_bA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOQieYUVEc9ohdp1XChYTL6E5tng9cLweMKWLdw=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Manda Poll",
+                "rating": 5,
+                "contributor_id": "115400810176485226568",
+                "description": "Shift manager went over and beyond yesterday. We received a Partial uber order and the manager called us before we even got the order to report that he would be delivering this himself.\n\nHonestly the best customer service we have ever received.\nThanks so much to him !!\n\nAlso we purchase ice cream almost weekly from uber eats with B+J. our order is ALWAYS correct and receive fresh ice cream and nice portions. we love ben and jerrys in A2.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYOC1lZ1FBEAE!2m1!1s0x0:0x669b84c4eb373792!3m1!1s2@1:CIHM0ogKEICAgIDX8-egQA%7CCgwI28qLuQYQkJH64wI%7C?hl=en-US",
+                "date": "a week ago"
+            },
+            {
+                "username": "Maurielle C",
+                "rating": 5,
+                "contributor_id": "102013884837832721376",
+                "description": "Great experience with even better ice cream flavors and tastes. Would recommend again and again. Clean space. Extremely friendly and accommodating employees. Good I’ve cream. Portions good for price. And lots of variety! Come by for a good treat- right next to the Michigan creamery so there’s competition but Ben and Jerry’s is so good.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNlLUtEOHBBRRAB!2m1!1s0x0:0x669b84c4eb373792!3m1!1s2@1:CIHM0ogKEICAgICe-KD8pAE%7CCgwIjofamAYQkJH-uwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO4cxDRmj5myTxFo1p5lvUqMhIF4tW-bCLUbN3M=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM0d7y__xcj3qTZQ_OVQ_go_tlTWE-9-kEwGZC9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM__25bJqFAOZxPDfcVR4ZEoGnlBujidDiY_A80=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPvn9tbf1eIz-go0AZUVDErT6b5SEADM7lK-HSZ=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            },
+            {
+                "username": "AJ Jero",
+                "rating": 2,
+                "contributor_id": "108465704782826917131",
+                "description": "They didn't have the oce cream i wanted, and the staff was neither helpful nor were they remorseful. They basically ignored me after they told me they didn't have my ice cream. Boo!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYMFllcHdRRRAB!2m1!1s0x0:0x669b84c4eb373792!3m1!1s2@1:CIHM0ogKEICAgIDX0YepwQE%7CCgwIger9uAYQyOr-igE%7C?hl=en-US",
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Jason Shen",
+                "rating": 5,
+                "contributor_id": "108627937796265149756",
+                "description": "The staff is really nice! Love the ice cream here. Had cookies and cream but it was a bit too sweet for me, will try a different flavor next time.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM5bm9qUldnEAE!2m1!1s0x0:0x669b84c4eb373792!3m1!1s2@1:CIHM0ogKEICAgIC9nojRWg%7CCgwI6e6erwYQqNbA0gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNJ2LNlKxs0WdXZkf00FOT7hWaeyP-DfpwhxfWe=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "Victor Santana Jr.",
+                "rating": 5,
+                "contributor_id": "117506240420033956821",
+                "description": "This Ben & Jerry's was a great little late night treat! They have all the classic favors there to pick from! The Tonight Dough is still my favorite out of them all!  You can also get it in a waffle bowl or cone here!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNaMlp5VFhREAE!2m1!1s0x0:0x669b84c4eb373792!3m1!1s2@1:CIHM0ogKEICAgICZ2ZyTXQ%7CCgsI8--HqAYQuMyfUQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOo5pRvoQUjkJqoT5aDUBlMjfmCWthSJw5pwERw=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Vikram Bala",
+                "rating": 4,
+                "contributor_id": "118263460813448768909",
+                "description": "Nothing special, but definitely above average. The line was long and moved kinda slow. The ice cream 🍦 was a tad bit expensive but it was really good (I got the dirt cake flavor - highly recommend). I devoured it in a jiffy 💨💨",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURqMk5tMTdBRRAB!2m1!1s0x0:0x669b84c4eb373792!3m1!1s2@1:CIHM0ogKEICAgIDj2Nm17AE%7CCgsIm7W8sQYQwJjveA%7C?hl=en-US",
+                "date": "6 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+    }
+}

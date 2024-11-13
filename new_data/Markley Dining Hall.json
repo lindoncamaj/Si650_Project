@@ -1,0 +1,198 @@
+{
+    "Title": "Markley Dining Hall",
+    "Price": [],
+    "Place ID": "ChIJ_VXe_wevPIgRrusKwHlig9M",
+    "Type ID": [],
+    "Type": [
+        "Restaurant",
+        "Cafeteria"
+    ],
+    "Address": "1503 Washington Heights, Ann Arbor, MI 48109",
+    "GPS Coordinates": {
+        "latitude": 42.280889099999996,
+        "longitude": -83.7288791
+    },
+    "Phone Number": "(734) 764-1151",
+    "Rating": 4.6,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 0
+        },
+        {
+            "stars": 2,
+            "amount": 0
+        },
+        {
+            "stars": 3,
+            "amount": 1
+        },
+        {
+            "stars": 4,
+            "amount": 1
+        },
+        {
+            "stars": 5,
+            "amount": 5
+        }
+    ],
+    "Opening Hours": [
+        {
+            "tuesday": "7 AM–3 PM, 4:30–8 PM"
+        },
+        {
+            "wednesday": "7 AM–3 PM, 4:30–8 PM"
+        },
+        {
+            "thursday": "7 AM–3 PM, 4:30–8 PM"
+        },
+        {
+            "friday": "7 AM–3 PM, 4:30–8 PM"
+        },
+        {
+            "saturday": "10:30 AM–2 PM"
+        },
+        {
+            "sunday": "10:30 AM–2 PM"
+        },
+        {
+            "monday": "7 AM–3 PM, 4:30–8 PM"
+        }
+    ],
+    "Description": [],
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "All you can eat",
+                "Coffee",
+                "Comfort food",
+                "Halal food",
+                "Late-night food",
+                "Quick bite",
+                "Salad bar",
+                "Small plates",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Dessert"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Make your own pizza station is undefeated\""
+            },
+            {
+                "snippet": "\"Pretty good food, though not open as often as MoJo.\""
+            },
+            {
+                "snippet": "\"You can serve yourself\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Andrew Yap",
+                "rating": 5,
+                "contributor_id": "115873903347739825846",
+                "description": "The most underrated dining hall at UofM. Make your own pizza station is undefeated",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURld2VlU2V3EAE!2m1!1s0x0:0xd3836279c00aebae!3m1!1s2@1:CIHM0ogKEICAgIDeweeSew%7CCgsIyujHsQYQsNzySw%7C?hl=en-US",
+                "date": "6 months ago"
+            },
+            {
+                "username": "Robert Moore",
+                "rating": 4,
+                "contributor_id": "108514635790655277477",
+                "description": "Pretty good food, though not open as often as MoJo.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNHZzhERkR3EAE!2m1!1s0x0:0xd3836279c00aebae!3m1!1s2@1:CIHM0ogKEICAgICGg8DFDw%7CCgwIwdefjAYQoMvliwI%7C?hl=en-US",
+                "date": "3 years ago"
+            },
+            {
+                "username": "Daniel Politi",
+                "rating": 5,
+                "contributor_id": "113435880426432423514",
+                "description": "Good stuff. You can serve yourself",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2enRqcDF3RRAB!2m1!1s0x0:0xd3836279c00aebae!3m1!1s2@1:CIHM0ogKEICAgID6ztjp1wE%7CCgwIv7zSigYQuM-zxAI%7C?hl=en-US",
+                "date": "3 years ago"
+            },
+            {
+                "username": "Daniel N.",
+                "rating": 5,
+                "contributor_id": "116922277746977960722",
+                "description": "Straight gas",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURwX19tMHRRRRAB!2m1!1s0x0:0xd3836279c00aebae!3m1!1s2@1:CIHM0ogKEICAgIDp__m0tQE%7CCgsI__HHpwYQgJD7bg%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Ruby Arciga",
+                "rating": 5,
+                "contributor_id": "104610780382717007676",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURKLU5QcG9RRRAB!2m1!1s0x0:0xd3836279c00aebae!3m1!1s2@1:CIHM0ogKEICAgIDJ-NPpoQE%7CCgwIpryxpQYQyMPytgM%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "tamara sallot",
+                "rating": 5,
+                "contributor_id": "103157528514452587032",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR4NzctU0JBEAE!2m1!1s0x0:0xd3836279c00aebae!3m1!1s2@1:CIHM0ogKEICAgIDx77-SBA%7CCgwIqc-3pAYQoP2SsgE%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Stef Reamer",
+                "rating": 3,
+                "contributor_id": "105211529219487296853",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURDbE4ySklnEAE!2m1!1s0x0:0xd3836279c00aebae!3m1!1s2@1:CIHM0ogKEICAgIDClN2JIg%7CCgwIyuuE-wUQuOedogE%7C?hl=en-US",
+                "date": "4 years ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "Title": "Amadeus Restaurant",
+    "Price": [],
+    "Place ID": "ChIJfSDQsz2uPIgRnJ1c1BFp_s0",
+    "Type ID": [],
+    "Type": [
+        "Polish restaurant",
+        "Restaurant"
+    ],
+    "Address": "122 E Washington St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.280316,
+        "longitude": -83.747554
+    },
+    "Phone Number": "(734) 665-8767",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 10
+        },
+        {
+            "stars": 2,
+            "amount": 11
+        },
+        {
+            "stars": 3,
+            "amount": 22
+        },
+        {
+            "stars": 4,
+            "amount": 59
+        },
+        {
+            "stars": 5,
+            "amount": 279
+        }
+    ],
+    "Opening Hours": [
+        {
+            "tuesday": "5–9 PM"
+        },
+        {
+            "wednesday": "5–9 PM"
+        },
+        {
+            "thursday": "5–9 PM"
+        },
+        {
+            "friday": "5–10 PM"
+        },
+        {
+            "saturday": "5–10 PM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "Closed"
+        }
+    ],
+    "Description": "Polish, Hungarian & Austrian fare served in an old-world cafe with live classical music on weekends.",
+    "Details": [
+        {
+            "highlights": [
+                "Great coffee",
+                "Great dessert"
+            ]
+        },
+        {
+            "popular_for": [
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Hard liquor",
+                "Healthy options",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Dinner",
+                "Dessert"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Historic",
+                "Romantic",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Dinner reservations recommended",
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking lot",
+                "Paid street parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Unique atmosphere, warm service, affordable price, and after all, tasty food\""
+            },
+            {
+                "snippet": "\"A bit of an odd, but quaint vibe from the mishmash collection of decor.\""
+            },
+            {
+                "snippet": "\"Small eating area, staff erythromycin friendly, food is ok.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Vazir Fatehi",
+                "rating": 5,
+                "contributor_id": "105246849326058307266",
+                "description": "Had the Red Caviar for starters accompanied by 313 Polish Lager and the main course of Polish Plate with pork pierogi, finishing up with the delicious Dark Chocolate Mousse.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYejQzaXdRRRAB!2m1!1s0x0:0xcdfe6911d45c9d9c!3m1!1s2@1:CIHM0ogKEICAgICXz43iwQE%7CCgwI05PcuAYQiIGbjgM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPaELYNxnN6w0-tVEn3A5EpQUUacrgIdSIjfe7L=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNJQ8NZWJm7cqTOUOYQdqdpwGd5Q5yypN3oyF8q=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM9Gsa101qlkgkHFlQW6avLQgfFZ7CSxvyA9CK7=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN4aVhIXZOSPHmmKapnjb30YGuPOPBzaqXMpbFI=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Blake Hammond",
+                "rating": 5,
+                "contributor_id": "114926717755705412299",
+                "description": "This is one of my top 5 favorite restaurants in Ann Arbor. I have been going for years and I have never, I mean never, had a bad meal. It is a Polish restaurant and you can tell that everything at this place is made from scratch cooking and made with love 💞!! You will be paying $20-30 a plate but it is well worth it, plus it is a very hearty portion. They have a good wine selection and make sure you leave room for dessert, whatever you get, it will be good.\n\nI have worked my way through most of the menu and nothing has tasted bad, so whatever you feel like on the menu I feel confident in its taste. The service is the best in Ann Arbor, Michael is one of the greatest servers I have had at any restaurant. He is attentive, kind, always seems to come back when you need something, and is not overbearing!\n\nI seriously cannot recommend this place enough, give it a shot!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNOaHBuT0pREAE!2m1!1s0x0:0xcdfe6911d45c9d9c!3m1!1s2@1:CIHM0ogKEICAgICNhpnOJQ%7CCgsIpPiMrQYQwOLjWA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOLFUOVq7tiYW8_T--7s9dEKR79YnsOknBA6MNx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM_iSFdkmiiYTdWDNdNWfvtB6Dg4P8GFv2dIY9Q=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN-_cWChbturLuQcaG9ZCse7TfmkIbZ9J04jf-6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPt_2x6pAHMUZATd8kwAeq9CVAg5XniH0l7oPj3=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMvQ0KRXJsX_FdIZoAclm4j0xFA-EIBaXB8_-tD=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "9 months ago"
+            },
+            {
+                "username": "Tejas Dakve",
+                "rating": 5,
+                "contributor_id": "109653804138783414975",
+                "description": "Small but cozy restaurant that throws old European vibes. We had a three-course meal there for dinner and loved every item served to us.\nI would recommend their Budapest Pancake and Salmon Ski from the main menu. Limited options for vegetarian people though.\n\nService is a bit slow but no major complaints around it since the food turned out to be delicious.\n\nReserving a table ahead of time is highly recommended.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURkeHVxYW1nRRAB!2m1!1s0x0:0xcdfe6911d45c9d9c!3m1!1s2@1:CIHM0ogKEICAgIDdxuqamgE%7CCgwI7LvgrgYQsLGwwQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOS9jDClp_tXMO5HqAtw5kzr2M_w9u9bjBMBfS_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMZzgJCQrks3OZsZbdbJEZgJ6VeQJfk5PxxVCEb=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "Sarah Brennan",
+                "rating": 4,
+                "contributor_id": "118123101462593720382",
+                "description": "It was an interesting atmosphere, very old and European feeling. Food was good but not great. Intimate atmosphere, worth a try especially if you keep walking by and wondering.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYNXZLYWd3RRAB!2m1!1s0x0:0xcdfe6911d45c9d9c!3m1!1s2@1:CIHM0ogKEICAgIDX5vKagwE%7CCgwIs7P1uAYQkJ-jvAE%7C?hl=en-US",
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "i'd rather not say",
+                "rating": 2,
+                "contributor_id": "101834246340804794654",
+                "description": "the food i ordered was not bad, but the other foods my family ordered was very salty and lacked depth and flavor. one of the dishes had a pasta side dish, and the pasta honestly tasted like it had been sitting out for a solid five days. the service was alright, but the waiting time for food and appetizers was longer than expected, considering the dishes really weren’t large, and there was no one else in the restaurant. the waiter was polite, but he took away our sauces (our butter) even though we weren’t finished with it. i would prefer if he had asked if he could take anything away. unfortunately, the atmosphere was the only thing that received a better score, only because the interior design was pleasant. i did notice that the music repeated over and over again, which isn’t the biggest deal but doesn’t add to the atmosphere. i would rate this restaurant a two, most of the points earned because of the atmosphere. i will not be coming here again.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMb0tLX3h3RRAB!2m1!1s0x0:0xcdfe6911d45c9d9c!3m1!1s2@1:CIHM0ogKEICAgICLoKK_xwE%7CCgsIybOuswYQ0IizUQ%7C?hl=en-US",
+                "date": "4 months ago"
+            },
+            {
+                "username": "Salim Khoso",
+                "rating": 5,
+                "contributor_id": "102912019745587758772",
+                "description": "This restaurant is one of my top favorite places in Ann Arbor. The ambience of this restaurant is phenomenal and the decoration inside is antique with many beautiful artifacts. It is a polish style restaurant where you could find variety of food and desserts. Have visited this place multiple times and will go again if I get chance. Highly recommended place and you will never regret spending money there for good food and great environment.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQyN0xPclZ3EAE!2m1!1s0x0:0xcdfe6911d45c9d9c!3m1!1s2@1:CIHM0ogKEICAgID27LOrVw%7CCgwI85zgkwYQ4NGzkQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP5zkoYMLB6c1Hvp0_spsqsQ3rAD0f2ZztAPHuU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPvo4npTGe_sd1qubbgI1nscjMpfO7QUhysLYZK=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOApGXN9GQa9jm7i6Efx8vbCyGtsKcd5ei9eUlr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNtO2fxcIqfSLl8ombolVWe2X1Mgrxix0nJCl8S=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN-G4i3OivMcykPaMXfLo_IGLjGma1vYV4dM7O_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNqcl3J_rSRWAOK9KVnblTQgf28AUYEjyL84fps=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOGY39TwL29j0HOvGbnM0utp6VBIQdZRZXuq3JU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN8nRwBCOnbUwT1MW2Gf8-trSKUtIEiK8QZJsoO=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            },
+            {
+                "username": "Akira CA",
+                "rating": 2,
+                "contributor_id": "116495113121542964604",
+                "description": "I feel sorry for giving such a low rating, but that’s just how their food was… Kielbasa (4.5/5) tastes wonderful but the portion size was so small ($12 for a single piece of sausage). The rest of the dishes are meh (2/5). Meat lacks the depth of flavors and noodles are overcooked; at this price point I was expecting more, much more actually.\n\nThe owner was super friendly so I guess I will give them a second chance after a while.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNocUt2WEJREAE!2m1!1s0x0:0xcdfe6911d45c9d9c!3m1!1s2@1:CIHM0ogKEICAgIChqKvXBQ%7CCgwI_ff3ngYQgOG6yAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOrMCX2LXJnwsfD5BaRVpxfafDZpV7lPDu5wK8b=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP1QwbE7wKIIu1ihlo8xCS4Ymwm7aFMk3UYBvNo=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Amit P",
+                "rating": 5,
+                "contributor_id": "111525393559990283767",
+                "description": "Time travel back in time for some great food and price points. Enjoyed the perogies, paprikash, and poppysee cake. The portions are perfect for the richness of the food. Very professional service. The chairs were not the most comfortable but fit the time period.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ1aXNmYkRREAE!2m1!1s0x0:0xcdfe6911d45c9d9c!3m1!1s2@1:CIHM0ogKEICAgID5isfbDQ%7CCgwI7LPUqQYQqPzF3QE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPb_R-w0-PtRhNSpibRu2qIq45Z-p43iMe0xaf7=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNQX9FPFRb4tN_y96kzc9skcUpv7H_gUqwjfvUR=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM60qd_Zl5pcnfsdoohsUlmWeKrCTD3Tp7x-kJ8=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+    }
+}

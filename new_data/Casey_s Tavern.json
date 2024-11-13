@@ -1,0 +1,295 @@
+{
+    "Title": "Casey's Tavern",
+    "Price": [],
+    "Place ID": "ChIJv3u0hBOuPIgRLUh0a7-KhQQ",
+    "Type ID": [],
+    "Type": [
+        "Bar & grill",
+        "Bar"
+    ],
+    "Address": "304 Depot St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2878399,
+        "longitude": -83.74437449999999
+    },
+    "Phone Number": "(734) 665-6775",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 14
+        },
+        {
+            "stars": 2,
+            "amount": 20
+        },
+        {
+            "stars": 3,
+            "amount": 56
+        },
+        {
+            "stars": 4,
+            "amount": 214
+        },
+        {
+            "stars": 5,
+            "amount": 557
+        }
+    ],
+    "Opening Hours": [
+        {
+            "tuesday": "11:30 AM–10 PM"
+        },
+        {
+            "wednesday": "11:30 AM–10 PM"
+        },
+        {
+            "thursday": "11:30 AM–10 PM"
+        },
+        {
+            "friday": "11:30 AM–10 PM"
+        },
+        {
+            "saturday": "11:30 AM–10 PM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "11:30 AM–10 PM"
+        }
+    ],
+    "Description": "Relaxed pub with a laid-back vibe for French dip sandwiches, burgers & beers in a historic building.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Sports"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Food",
+                "Food at bar",
+                "Happy hour food",
+                "Hard liquor",
+                "Late-night food",
+                "Quick bite",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Historic"
+            ]
+        },
+        {
+            "crowd": [
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Paid street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Food is standard bar food but the atmosphere is quite warm and cosy.\""
+            },
+            {
+                "snippet": "\"Nice neighborhood tavern, great place for a beer and a bowl of chilli.\""
+            },
+            {
+                "snippet": "\"Great service and tasty burgers cooked to perfection !!!\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "M Bob",
+                "rating": 4,
+                "contributor_id": "110253453429783458463",
+                "description": "Very tasty (and properly cooked) cheeseburger. Guinness was at the perfect temp as well, and they know how to pour it. Grossly overpriced, but that is the norm these days. ($40.00 for a burger, shot, beer and tip).",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURibFp1VDJnRRAB!2m1!1s0x0:0x4858abf6b74482d!3m1!1s2@1:CIHM0ogKEICAgIDblZuT2gE%7CCgwI_unKtwYQ0JLZ1gM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO49Y5wtTke6rhBKpS6bUl3ojLStO23i1HfVLtz=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Andy B",
+                "rating": 5,
+                "contributor_id": "106033594632013581658",
+                "description": "Efficient service and a very good hamburger. Their hamburger ordering system is good because they let you pick 3 items from a large selection of toppings without the price of the burger changing. They let you order it to your own doneness preference which is a big attraction to me because I like my burgers on the underdone side. I found my burger to be very very good. I'm significantly less impressed with their other items. In general I had been negative about the place for years, but consistently told I was wrong about it because it's a burger place and I should get the burger before judging it. The service ranges from excellent to impatient and a bit rude, but the place is often packed to the gills and they're always efficient so I can't knock them for the service. The hamburger there is indeed very very good. The atmosphere is pretty much just like a Midwest bar. In fact the whole restaurant is dominated by a bar that runs nearly the entire length of the restaurant. They also have TVs mounted in the corners of the room. Overall it's a pretty nice atmosphere, but it has often been uncomfortably crowded at peak times in the past.\n\nIf you want a great burger, go when they're not busy. It's still a fantastic burger when they're busy, but you may have to wait and you'll be eating it in a loud crowded place. If you don't want a hamburger, my advice is to skip it altogether. It's not bad. It's not in any way bad. But there is no reason to fight the crowds for the food unless you're really looking for a good big hamburger.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYMi1haGtBRRAB!2m1!1s0x0:0x4858abf6b74482d!3m1!1s2@1:CIHM0ogKEICAgICX2-ahkAE%7CCgwI48fkuAYQuNCTlAM%7C?hl=en-US",
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Nathan Dunaj",
+                "rating": 5,
+                "contributor_id": "103335393542490090196",
+                "description": "Great classic styled tavern! Great fast friendly service! Now the food was amazing! Recommend the \"Dip\" and any build a burger seasoned and cooked to perfection! And the great drinks!!!!! Unfortunately did not get pictures of the meal as of they would even do the food justice!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM5eS0tN1FBEAE!2m1!1s0x0:0x4858abf6b74482d!3m1!1s2@1:CIHM0ogKEICAgIC9y--7QA%7CCgwI-J2zrwYQ6PTN7QI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNQ2Q2n4OT4Q9rlnEUBQ10lC-zo19aDFlNQ2vOo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONyuNE11ZdPfZgqLxby9TXwwnDtwUYZ0pw7MKr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNGXFxbdGi47_oYlQGtD2FAw0i5CHaxR_yrsjjH=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "JJ Bechtel",
+                "rating": 5,
+                "contributor_id": "118176918115795501025",
+                "description": "One of my all time favorite sandwich Pubs in Ann Arbor!      The food hasn't changed in 25 years of patronizing this establishment.  It was fantastic the first time I went and it remains consistently the same, today.  Best burgers anywhere!  Best steak fries and great options on the tap!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM3M3RpWlpREAE!2m1!1s0x0:0x4858abf6b74482d!3m1!1s2@1:CIHM0ogKEICAgIC73tiZZQ%7CCgwIseT6tQYQwIDfgAE%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "David Innis",
+                "rating": 5,
+                "contributor_id": "115567005697293402727",
+                "description": "I used to come here as a kid, 15 years later that hamburger is still so good. I have a lot of good memories and they've done a great job of keeping the history while staying modern.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYZzR5X0pREAE!2m1!1s0x0:0x4858abf6b74482d!3m1!1s2@1:CIHM0ogKEICAgIDXg4y_JQ%7CCgwIgPSIuQYQoPjU3AM%7C?hl=en-US",
+                "date": "a week ago"
+            },
+            {
+                "username": "Kenneth Kosal",
+                "rating": 5,
+                "contributor_id": "108416673996543027619",
+                "description": "Visited 2x in 3 days, I found the food to be great, the atmosphere revitalizing, and service to be second to none.  Both visits my wive and I had sandwiches and burgers, both occasions they were great.  We went there on a recommendation while visiting CS Mott Childrens hospital and so glad we did.  The atmosphere and service was just what we needed!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURiN0xERGdBRRAB!2m1!1s0x0:0x4858abf6b74482d!3m1!1s2@1:CIHM0ogKEICAgIDb7LDDgAE%7CCgsIsIK1tQYQ0KiWZQ%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Lionel Wallace",
+                "rating": 5,
+                "contributor_id": "109829714012243595205",
+                "description": "Updating my review to say Casey's has the best burger  in AA. In my opinion of course. The Nashville hot chicken sandwich(new to the menu) is mighty tasty too!! 😊\n\nIts been two years but Finally! So glad to be able to visit Casey's again and get one the best if not the best burgers not only in Annarbor but the entire detroit metro area . I took one bite of my burger and It was just like old times !! Glad your back !!😊😊",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2Z1pLLXNRRRAB!2m1!1s0x0:0x4858abf6b74482d!3m1!1s2@1:CIHM0ogKEICAgID6gZK-sQE%7CCgwI3LbbrgYQwJ_54wE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO2dC3aSQ-XspfepXYdAVbfVbILfnRKmJVPhswv=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPxFfnHVXyRQQiQZqZqkpGDta6qJm73kkPMYE0u=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMYz22DG-aWLv1NPeYYOlhoQAN1uQT5tlm2mVN6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOezJuoVpdigxG3LkZxYzNY3xBSPMhFLAv-EyF2=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMiW_ihBVA0NR0VzHvZ0zQSbMkD0sCgQRyvG3z0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPV5DcjknSML1aSp5q1Ib0spM927Xe698xr8iv1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMoE1NPtZPTmvNm0Kzw3CKxDUo9xU-YSldKYeKC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO-20meAWX5rI9egSeLdulrpbScHkO2wXkmXJNF=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOnTixqEfHDONBaOMYADqYQae-T2t0quhWbbU4c=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN9yvwXtPNnyF7rsuMAH2rAwhGB91mMylLKHyXd=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "Greg Cook",
+                "rating": 5,
+                "contributor_id": "118402708099666628695",
+                "description": "I never heard of this place before, it has to be one of those best kept secrets. A friend invited me there. So glad he did. You could put this place anywhere and it would be the best burger place. Seriously I was planning on eating healthy, but just the smell from parking walking to the building was like ok I am going to have to try the burger. Literally the best burger. The fries are not special, if they did fresh cut fries or even skin on frozen would be better. Nonetheless regardless of fries, the burger will be one of the best if not the best you’ll ever have. I would not even try anything else on the menu, if you get the chance to go there, you will not be disappointed in their burgers.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKei1PRGN3EAE!2m1!1s0x0:0x4858abf6b74482d!3m1!1s2@1:CIHM0ogKEICAgICJz-ODcw%7CCgwInLGgpQYQgIPbhQI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPtJlg6EOAbu8UO6giQxs6DZxytqIbPmxOzPNMS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMJnDqbdphiYBPp5fZOuvnSGRDbHJf4Pbo9wAXz=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+    }
+}

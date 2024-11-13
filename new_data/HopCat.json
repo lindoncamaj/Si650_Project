@@ -1,0 +1,301 @@
+{
+    "Title": "HopCat",
+    "Price": [],
+    "Place ID": "ChIJ-6EpZD-uPIgR0O9Zn3hKH_I",
+    "Type ID": [],
+    "Type": [
+        "Bar",
+        "American restaurant"
+    ],
+    "Address": "311 Maynard St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.278948799999995,
+        "longitude": -83.7417341
+    },
+    "Phone Number": "(734) 436-2875",
+    "Rating": 4.3,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 140
+        },
+        {
+            "stars": 2,
+            "amount": 100
+        },
+        {
+            "stars": 3,
+            "amount": 330
+        },
+        {
+            "stars": 4,
+            "amount": 1052
+        },
+        {
+            "stars": 5,
+            "amount": 2302
+        }
+    ],
+    "Opening Hours": [
+        {
+            "tuesday": "11 AM–11 PM"
+        },
+        {
+            "wednesday": "11 AM–11 PM"
+        },
+        {
+            "thursday": "11 AM–12 AM"
+        },
+        {
+            "friday": "11 AM–12 AM"
+        },
+        {
+            "saturday": "10 AM–12 AM"
+        },
+        {
+            "sunday": "10 AM–11 PM"
+        },
+        {
+            "monday": "11 AM–11 PM"
+        }
+    ],
+    "Description": "Woodwork-filled brew pub with a massive beer list offering creative pub fare & brunch items.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Great beer selection",
+                "Great cocktails",
+                "Sports"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Food",
+                "Food at bar",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid parking lot",
+                "Paid street parking",
+                "Plenty of parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Huge selection of delicious beer, tasty burgers and great service.\""
+            },
+            {
+                "snippet": "\"Service midweek was a bit slow, but they had minimal staff.\""
+            },
+            {
+                "snippet": "\"Got food poisoning from the \"crack fries\" and a frat boy threw up on my shoes.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Neha Yadav",
+                "rating": 5,
+                "contributor_id": "101206610691090530264",
+                "description": "One of the best times to visit this place is at night.\nChill with your friends, drink with your partner or just hang alone at the bar, this place offers it all.\nI tried lobster mac, and it tasted good.  Creamy a little but overall it was worth the money. The drink was too strong, that is a good thing. 😂\nPaloma was good.\n\nI think they were short-staffed at night.\nGood place, with chill vibes.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNqLU9hTk5REAE!2m1!1s0x0:0xf21f4a789f59efd0!3m1!1s2@1:CIHM0ogKEICAgICj-OaNNQ%7CCgwI6K-BsQYQkPPUxgM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMxLJMZgmGdPjrFNBqejiWtd8D1tnWWHxyDFp4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOp_AoebPT7U7SDMmnmqyprsZR9JnazOiBkaQA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMv-ZFiy9xSTcoGZuDfUFuA_znOFmf3T6vFI28=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPbE-ZqeTLXRgIQgm2PcwcvfZEAX7fsbkva1Us=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPPcdi-TRknHu0Y1cBXmGftu7d1ueVhCZ8kB5w=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMoOYNfQIVE8f4hDYgKH_dHJ5U6peHBdi5yTEM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPXRYVDwafH6rp7gjVnndzdYH61iYzuYKMvTi0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPIfoe9n3CsfM62gJd3CbpFQOhim5CIuObTDrU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNafPKNW975OsSNJc3I3PTgrWWDGErbD9h-Ti8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNP8pRACZ_cXFQ3MVbdY82qeqFES8NL_Bhq34I=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMhxLVOpgS1Jaa-uCDHsLardesrbobFwMSnyms=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN9WaOk8F7HOtYeulVeeqY6VWS5PZ6qHCPvu4o=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "Ahmed",
+                "rating": 5,
+                "contributor_id": "109902249534369525206",
+                "description": "Chill ambiance with really good food-\n\nHopcat’s food ever disappoints. The Nashville hot chicken sandwich is just… wow. Juicy, fried, tasty, probably not healthy, but it tastes so good. Always loved the service over here too. You won’t be disappointed.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURUalAySXNBRRAB!2m1!1s0x0:0xf21f4a789f59efd0!3m1!1s2@1:CIHM0ogKEICAgIDTjP2IsAE%7CCgwI9u66sgYQ8Lfy0AI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNwlkyVX0WIyOT9EMEUgd6atVPiu-9AD8yPr1TH=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Paul",
+                "rating": 4,
+                "contributor_id": "111173309149263772385",
+                "description": "Had several visits here, serves good bar food and great selection of ales and ciders. Service midweek was a bit slow, but they had minimal staff.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYN3Vub0RBEAE!2m1!1s0x0:0xf21f4a789f59efd0!3m1!1s2@1:CIHM0ogKEICAgICX7unoDA%7CCgwIt9zAuAYQkMS88gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN_XySjE5z2bd6DppXK_iYbsqvXaXIHwj0u4DRb=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPaldIiyG8kdFS43j4NvXMx9aSlUNQZ5p0eBG4G=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Aria Savadkouei",
+                "rating": 4,
+                "contributor_id": "108483467423952890636",
+                "description": "The food is generally very good and hearty. Perfect for the cold midwestern weather. The fries, in particular are worth the price of admission. They are very crispy, soft on the inside, and perfectly seasoned.\nThe portions are also generous.\n\nThe last couple of times, the service was a bit slow and disappointing, but nothing to be too worried about. Overall a good reliable restaurant for pub-style food and good beer.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUROZ2ZYN0hnEAE!2m1!1s0x0:0xf21f4a789f59efd0!3m1!1s2@1:CIHM0ogKEICAgIDNgfX7Hg%7CCgwI8JW8rQYQuJW__gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPged49E_zDv4BRMWGY5hUuk1HodMLVhzfxJphU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMp5lPYQL3yHKN3_o1r8xMbCLSOcbksiEXQV1Re=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "9 months ago"
+            },
+            {
+                "username": "Vikram Bala",
+                "rating": 1,
+                "contributor_id": "118263460813448768909",
+                "description": "Very disappointed... I had high expectations going in because of my previous visit and the reputation of this establishment 🍺 That being said, the service 🔧 was ATROCIOUS. We got in at 6:30 and left at 8:30 because of how slow 🦥 it was. The place wasn't even busy! It took forever to order and even longer for the food 🍗 to eventually come out. On top of that, the waitress didn't even know the cost of add-ons! That's awful! The fries 🍟 were the only redeeming part of this experience...",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3M3VfdWJnEAE!2m1!1s0x0:0xf21f4a789f59efd0!3m1!1s2@1:CIHM0ogKEICAgID73u_ubg%7CCgsIzYSptgYQiLz8ew%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMLT6z8Ybvkai6iboQxyN5iPDtI6dVsOpo22BCs=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Abby Browne",
+                "rating": 5,
+                "contributor_id": "107474744001669434256",
+                "description": "I came in the other night and had Kaylee as my server. She was the best! She was very cheerful and made sure we were taken care of all night. She went above and beyond all night. She even suggested we try the cookie dough cheese cake, and it was the best decision I made all week. 100% will be returning and asking for Kaylee!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYLUlUNHV3RRAB!2m1!1s0x0:0xf21f4a789f59efd0!3m1!1s2@1:CIHM0ogKEICAgIDX-IT4uwE%7CCgwI6dbmuAYQwInZ-wI%7C?hl=en-US",
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Emily Buck",
+                "rating": 5,
+                "contributor_id": "115978714519486711618",
+                "description": "Drove from toledo ann harbor and it was worth it the food was great and the drinks . I would get the elote queso and the tropical blue drink . Burgers and chicken sandwiches were great . Tried the pickleback and wasn't sure about everything pickle flavored, but it was great .",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUaHVqY0RBEAE!2m1!1s0x0:0xf21f4a789f59efd0!3m1!1s2@1:CIHM0ogKEICAgICThujcDA%7CCgsI1-CKsgYQ0KrnLg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMltY8xykaM007LuIuLKY1r8DCAzyUFtIzFQ5Gy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOXi-c6SowAFkD_FN2u1SBNklB_WWcAW1n8myHi=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNaKDwduomlXkQl6UQpvVhaezGN4zP5ILtmc-q5=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM-TdybIcfnnaeyJRSsDqa5K33PqUZH1tcZ27s3=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Michelle McAlpine",
+                "rating": 5,
+                "contributor_id": "106336064284991913308",
+                "description": "It was super busy today, so things took a bit longer than usual. But our server Monica remained super upbeat and made sure we all got everything we needed. The food too a bit, but was amazing once we got it. Highly recommend!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURIem96UkR3EAE!2m1!1s0x0:0xf21f4a789f59efd0!3m1!1s2@1:CIHM0ogKEICAgIDHzozRDw%7CCgwI5pKetwYQgNzW2wM%7C?hl=en-US",
+                "date": "a month ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+    }
+}

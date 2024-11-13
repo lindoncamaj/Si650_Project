@@ -1,0 +1,266 @@
+{
+    "Title": "Bao Boys",
+    "Price": [],
+    "Place ID": "ChIJ9xdlyuqxPIgRcmQHn5p-5ac",
+    "Type ID": [],
+    "Type": [
+        "Restaurant",
+        "Asian fusion restaurant",
+        "Fast food restaurant"
+    ],
+    "Address": "1928 Packard St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2575965,
+        "longitude": -83.7284596
+    },
+    "Phone Number": [],
+    "Rating": 4.8,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 6
+        },
+        {
+            "stars": 2,
+            "amount": 1
+        },
+        {
+            "stars": 3,
+            "amount": 9
+        },
+        {
+            "stars": 4,
+            "amount": 22
+        },
+        {
+            "stars": 5,
+            "amount": 267
+        }
+    ],
+    "Opening Hours": [
+        {
+            "tuesday": "Closed"
+        },
+        {
+            "wednesday": "11 AM–7 PM"
+        },
+        {
+            "thursday": "11 AM–7 PM"
+        },
+        {
+            "friday": "11 AM–7 PM"
+        },
+        {
+            "saturday": "11 AM–7 PM"
+        },
+        {
+            "sunday": "11 AM–5 PM"
+        },
+        {
+            "monday": "Closed"
+        }
+    ],
+    "Description": "Unpretentious mobile eatery with outdoor seats preparing inventive, Asian-inspired buns.",
+    "Details": [
+        {
+            "highlights": [
+                "Fireplace",
+                "Live music"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Comfort food",
+                "Quick bite",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Somewhat difficult to find a space"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Bao dough was perfect texture and the filling options have great flavor.\""
+            },
+            {
+                "snippet": "\"If you're interested in Korean inspired food you need to check this place out.\""
+            },
+            {
+                "snippet": "\"My first experience with Bao boys was eating and ordering from their food truck.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Allie Krueger",
+                "rating": 5,
+                "contributor_id": "114762677454729698291",
+                "description": "Love this space so much! The food is incredible! Had a variety of the available buns, and the fries with brisket is worth it! I like that there is an outdoor bar, and also a wine bar next door. It was perfect sitting outside with shade off the main road. Will be back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNIeXN6SVhnEAE!2m1!1s0x0:0xa7e57e9a9f076472!3m1!1s2@1:CIHM0ogKEICAgICHyszIXg%7CCgwIwc_ctgYQ2JmAlgM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMdH8Dlam9F4-RWMKUUQzNiKUo6-_uDpPDbjoO2=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOGok0fFR3jJA58FzKjL1L5Rm5rUV3jtfG_8_f_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMOL4wGsPJ1so1Tws-efSpVV1z0DGOvZ1ctky2R=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOOn6GSEVxilgN3XoBwIUCyCyQNmIa_0OsFtWPs=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "JL (BeyondBookends)",
+                "rating": 4,
+                "contributor_id": "101547645801201503371",
+                "description": "Food truck behind York Food and Wine...cute outdoor dining area and would be fun with friends!  Baos were good but flavors could use more depth/nuance (I felt the shorty and spicy chicken tasted pretty much the same).  Our favorite was the bao mi.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNuaU1qblZREAE!2m1!1s0x0:0xa7e57e9a9f076472!3m1!1s2@1:CIHM0ogKEICAgICniMjnVQ%7CCgwI966-twYQ6MP2xgM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPo1TPmBrOsJnD39TomXSDkvnoySgSaP3XpHwEx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMtaaGDsRpuz1oajqWXQjDALC1tofrmjXn6CyYb=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Esther Galletta",
+                "rating": 5,
+                "contributor_id": "110585261698923983058",
+                "description": "Friendly staff and incredibly fresh, flavorful food. Pictured left to right are bao mi, spicy pork, and shorty. All were fantastic.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChRDSUhNMG9nS0VJQ0FnSUNIZ080WRAB!2m1!1s0x0:0xa7e57e9a9f076472!3m1!1s2@1:CIHM0ogKEICAgICHgO4Y%7CCgwI3djHtgYQiLnWhQI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN6l6n9etXc7fUxoc-ktTx_MwzFhqv054J7lBy7=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Amber Potes",
+                "rating": 5,
+                "contributor_id": "112549648429249936221",
+                "description": "I tried the Shorty, Spicy Chicken, and Bao MI, all three were excellent and full of flavor! We sat at the picnic tables nearby and enjoyed our meal outside with beautiful weather. Highly recommend!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNub1o2MkxnEAE!2m1!1s0x0:0xa7e57e9a9f076472!3m1!1s2@1:CIHM0ogKEICAgICnoZ62Lg%7CCgwIiNjWtwYQ-PGEuwI%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "M Nedloc",
+                "rating": 5,
+                "contributor_id": "103494640570223980121",
+                "description": "I am glad that I have bumped into this place and gave it a shot. It is perfect if you don’t want a big heavy meal, but if your super hungry then buy more food. Bao buns here are always great, soft, fluffy and just the right texture, I have never gotten a bad bun. They have several boa buns that can be picked with their options of meats, masubi, bowls and even fries. Everything is made to order so it will take a little bit of time especially if theres a lot of people here. Ahh, I forgot to mention this isn’t a standard restaurant facility but more like a food truck. But the parking isn’t too bad and it’s free. Everything that I’ve tried so far has been delightful and steaming with flavor. I’m sure you won’t be able to buy just one bun, try them all. They even have a vegetarian option with mushroom and that was pretty good as well. I’m seen this place slightly busy to full on get in line now busy. I think it can be worth the wait and if you want to hang around, there are plenty of seats situated outside.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNSdk9iWS1nRRAB!2m1!1s0x0:0xa7e57e9a9f076472!3m1!1s2@1:CIHM0ogKEICAgICRvObY-gE%7CCgwI4JSIoQYQgL7X4QI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMplt6EUpfw0aaqLxMlUNkOqlWY6iZmhfatqFMl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOa3KHFb8K6RZobgN-gJa_R3cilTfq3T2ErbjNw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONYJj0bomwDUaUMteN5DYlJoyjnewJUwFjwVjG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM0DIHz52QGtTUsb8aw1lv67rBQpZvbLJzeonl6=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Reona Anderson",
+                "rating": 1,
+                "contributor_id": "103650228639393912954",
+                "description": "I think it would be nice for them to add a number to call and check if  they actually have items. We drove a nice distance and two different occasions and they were out of all meat menu items. We could at least call to make sure they have it.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYbTVXWHB3RRAB!2m1!1s0x0:0xa7e57e9a9f076472!3m1!1s2@1:CIHM0ogKEICAgICXm5WXpwE%7CCgwIgcjVuAYQsP7O7AE%7C?hl=en-US",
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Brian P",
+                "rating": 5,
+                "contributor_id": "116342167068293600659",
+                "description": "Wow this food truck was amazing. We ordered everything of the bao menu and every one of them was great. The bao itself was about 5 inches in length and easy to eat. There are 2 vegetarian options and 4 meat options. Definitely stopping back here next time we are in Ann Arbor. The location is kinda weird with it hiding behind a building. On-site parking is decent.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNydi1ES2lnRRAB!2m1!1s0x0:0xa7e57e9a9f076472!3m1!1s2@1:CIHM0ogKEICAgICrv-DKigE%7CCgsI1NTEtAYQyOHHSg%7C?hl=en-US",
+                "date": "4 months ago"
+            },
+            {
+                "username": "Angel Chen",
+                "rating": 5,
+                "contributor_id": "113101649721080151373",
+                "description": "Very nice street food! This was my first time there, and they introduced their menu with enthusiasm! Bao and fries made a good combo, spicy pork bowl was great too! The rice underneath was cooked so well that even my 2 yo liked it (despite the spicy sauce on top). Highly recommended!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNUb3RXU3R3RRAB!2m1!1s0x0:0xa7e57e9a9f076472!3m1!1s2@1:CIHM0ogKEICAgICTotWStwE%7CCgwIltiDsgYQyJSuxwI%7C?hl=en-US",
+                "date": "6 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+    }
+}

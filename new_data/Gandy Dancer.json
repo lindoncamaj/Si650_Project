@@ -1,0 +1,466 @@
+{
+    "Title": "Gandy Dancer",
+    "Price": [],
+    "Place ID": "ChIJZbsiYBOuPIgRwBPyXagDZuw",
+    "Type ID": [],
+    "Type": [
+        "Seafood restaurant",
+        "Family restaurant",
+        "Restaurant"
+    ],
+    "Address": "401 Depot St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2872135,
+        "longitude": -83.74168089999999
+    },
+    "Phone Number": "(734) 769-0592",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 98
+        },
+        {
+            "stars": 2,
+            "amount": 82
+        },
+        {
+            "stars": 3,
+            "amount": 186
+        },
+        {
+            "stars": 4,
+            "amount": 456
+        },
+        {
+            "stars": 5,
+            "amount": 2052
+        }
+    ],
+    "Opening Hours": [
+        {
+            "tuesday": "11:30 AM–9:30 PM"
+        },
+        {
+            "wednesday": "11:30 AM–9:30 PM"
+        },
+        {
+            "thursday": "11:30 AM–9:30 PM"
+        },
+        {
+            "friday": "11:30 AM–10 PM"
+        },
+        {
+            "saturday": "11:30 AM–10 PM"
+        },
+        {
+            "sunday": "11 AM–9 PM"
+        },
+        {
+            "monday": "11:30 AM–9:30 PM"
+        }
+    ],
+    "Description": "Elegant restaurant in a restored 1886 building serving seafood options, as well as steak & pasta.",
+    "Details": [
+        {
+            "highlights": [
+                "Great coffee",
+                "Great dessert",
+                "Great tea selection"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Cozy",
+                "Historic",
+                "Romantic",
+                "Trendy",
+                "Upscale"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Lunch reservations recommended",
+                "Dinner reservations recommended",
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking lot",
+                "Paid street parking",
+                "Valet parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"The food and service are really good though portion is small given its price.\""
+            },
+            {
+                "snippet": "\"Nice happy hour with good selection of beer, wine and cocktails.\""
+            },
+            {
+                "snippet": "\"Just ordered carry out for the family Of 4 meal for the crab stuffed salmon!\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Samuel “Sam I Am” Kline",
+                "rating": 5,
+                "contributor_id": "101787366704718866278",
+                "description": "Excellent high-quality service. Our waiter is the best and he was very professional, timely, thoughtful and explained everything very well. He even shared a story about his daughter and career goals, felt like family.\nWe were their celebrating my father's last day at UofM Cancer Hospital. Our waiter was so kind and even prepared a special complimentary dessert in celebration of my father beating cancer.\nThank you for that.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYanZLNHRnRRAB!2m1!1s0x0:0xec6603a85df213c0!3m1!1s2@1:CIHM0ogKEICAgICXjvK4tgE%7CCgsI1p-_uAYQ4LDdYw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOy4joewhCvQ5ndgfVtdMrLc7ojr2h6LQ5GLJnK=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPAXaSJYTQnYRVkZWy3RgD2kCySsTosKh67iviq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMZqvIKnRlY5oAXFRRY4M00l2-eopU0orV4R2tX=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipObNOk4kjPW8XXOqEAm2umx9GzpznrG-jp1d6k_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNdk6dwZpZo28GyoGz5lYI3VqDRU5jc7-kP5Gmp=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOu0M_X8JHH0dKCE9NOZKIMIBwO860knXv1TIBR=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Wen Lopez",
+                "rating": 5,
+                "contributor_id": "114338605628591323248",
+                "description": "Spent our wedding anniversary here last night. Came in as a walk-in. Staff were very kind. Wasn’t sure what to think about it at first. Is it casual? Fine dining? A mix?  When the train would pass by people would start clapping. Lots of big groups were present but even then, we had quick service. The fish was amazing and coconut rice was amazing! They had run out of steak my husband wanted but he loved  his chicken and tortellini dish!  Paul our server was very kind! He certainly made our anniversary dinner worth it! Kudos to the chef! Everything was great! We would definitely come again!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM3MnVPaE1REAE!2m1!1s0x0:0xec6603a85df213c0!3m1!1s2@1:CIHM0ogKEICAgIC72uOhMQ%7CCgsI7bj-tQYQgOXwBw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMcWMduL6_57sCP0zwvqLSCETeZ29i2F7NqZGg_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNak0JEn-M1CoD4bjL0wIVkm2BctlCGBH1e4YBe=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNvqf7tv_85sZtm2mrsNKjnLhygS4B0s_8NLYON=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Philippa Pham Hughes",
+                "rating": 5,
+                "contributor_id": "116167761350844690214",
+                "description": "Very cute place with really nice service. I liked the food, too. Was the food the best ever? No. But it was really good and I’d go back for a special occasion. Our server was very sweet.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNublpUeDJBRRAB!2m1!1s0x0:0xec6603a85df213c0!3m1!1s2@1:CIHM0ogKEICAgICnnZTx2AE%7CCgsIoaPhtwYQ0NO9bw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPZfZWRMkpZVD7hsnwpWIaoIrl3I9Pszr8VGe7F=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMREv10YUvcTaSeCfYI5JO0EtMBgFIO6AfI-5gU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOBDi428qPIG_s58ZrKsnwxaC8Omyd2MY9tR58R=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Nalini V",
+                "rating": 4,
+                "contributor_id": "107905904369912567036",
+                "description": "Beautiful cozy restaurant right beside a railway track and Amtrak station, with amazing food. We ordered blackened fish and scallops for dinner which was delicious and the coconut shrimp was decent.\nWe tried few cocktails out of which the mango mojito tasted better.\n\nOur server seemed very lifeless and he didn’t even bother to ask us if we would like to have any drink or appetizers. We had to ask him for a drink and again he didn’t bother to ask if we needed anything.\nHe seemed to be rushing when we weren’t ready to order and when we were ready, he was ignoring us and taking care of the table next to us.\nWhile reserving I had mentioned that we were there to celebrate my husband’s birthday but they didn’t even bother to ask about it.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURucHBmNzdRRRAB!2m1!1s0x0:0xec6603a85df213c0!3m1!1s2@1:CIHM0ogKEICAgIDnppf77QE%7CCgwI68-EuAYQuOvFrQI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNCVBt7XvWHtOf351jug0x8qGiI5L4GwCqXt-Vn=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMmhXbjvCnmkbRwJFH0J_wkZp1dL4cenDEhwY5y=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Maryam Shulgan",
+                "rating": 5,
+                "contributor_id": "101782774774733274149",
+                "description": "Came for an anniversary dinner. We were well taken care of throughout the meal. Our server gave dish recommendations, one of which my husband ordered and loved (blackened fish with dynamite topping). I’m not a huge seafood person, so I opted for the Cajun tortellini. It was delicious, but very greasy, so beware of those empty calories. I felt very full having eaten just half of my dinner. Definitely a pricier dining location but the Gandy Dancer is a must try in Ann Arbor for fresh seafood dishes. You’ll get a more upscale dining experience, without a chophouse price tag! The bread and dessert alone are enough to bring me back to dine here again.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURMbDdHRFdREAE!2m1!1s0x0:0xec6603a85df213c0!3m1!1s2@1:CIHM0ogKEICAgIDLl7GDWQ%7CCgsIwp-NtAYQ2LP_Uw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQCtfZgP9xrPqTADbBc41R3wxgRd-nSWQIuuL1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN7iRZQRYr-YwZ1zM88Kb8FulDeK5UTgarSYaiE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNS_rqmq_d9GmRZbQTTjV-Tzm9HmAY24KSf5V0x=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOsJegfuG8Pt94WcHmfFngaF4hUdSYvn7NOaczU=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "John Church",
+                "rating": 5,
+                "contributor_id": "100039819047096601640",
+                "description": "My brother-in-law and sister-in-law treated us to a five star meal. But I would’ve given it 10 stars. Zoe, our waitress was a highly trained professional that was on the ball, good natured and surprised us with her attentiveness to detail. Her surprise was to have head chef Lauren, congratulate my wife and I on our 50th anniversary. This was a very special moment her cream Brulé is indescribably delicious. But all the entrées and side dishes were exceptional and flavorful and delightful. In your bucket list do not overlook this place. it is outstanding and worth, the value you receive from everyone. My love to my in-laws for being so generous for this wonderful occasion. The initial and final experience that was over the top was our valet Jaden, who was exceptional, kind, considerate employee of this fantastic establishment. Everyone of these people deserve to be recognized for their exceptional professional love for this establishment again thank you for making our 50th wedding anniversary celebration, a wonderful event, I will never forget you",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURyaElLUnhnRRAB!2m1!1s0x0:0xec6603a85df213c0!3m1!1s2@1:CIHM0ogKEICAgIDrhIKRxgE%7CCgsIlrfRtAYQ6Jn7Ug%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPWFbxAwpvRrw_BMDkngkhaSBHbe3CC58njtDM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOYk_2Ccnw_Q01Pk9sSQBlLQNb7bJov31vD1jQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNG7PS1zhRLSfLNjaMj8k3X-D7GtM9gsaAG5Ow=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM6ID5H1IHbQZeFNgpB8gZHpHAXDoLOj3tIXHI=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMbbqAI5Ox6N8IaFcErQzMRqNdPtKhGtyE5rh0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPWihlAp3VkUhOdHxs-u3Gv5ibHG6igJm6pCGg=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPbxdwgHNfoUaP5WBs8-IM-AB8kTvog6HcFL_s=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Tony Apperson",
+                "rating": 5,
+                "contributor_id": "101923914749601897694",
+                "description": "We had a great experience here! From the service to the food, everything was amazing. I loved the atmosphere as well. It really brings in the history of the old train station. I'm glad we went to Oasis because we probably never would have tried this place. You should definitely check the place out yourself, I'm sure you won't regret it. Thank you again for the great food and service.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM5N09IU0N3EAE!2m1!1s0x0:0xec6603a85df213c0!3m1!1s2@1:CIHM0ogKEICAgIC97OHSCw%7CCgwI-qqUrwYQyJbYnQI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPI21JByLuv1cg28vMYjzhHcEIoDmIyyHqDOGjU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMsI7YVStKILsm5ZSCr3Ae4rovYweSLtOZJVMgu=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMst5BHmc_8TDaIcZiXkQMss7WgXMkopZut77Yy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNxJqSAUnrDsQQqh1eQAEsdPASqPoNtZHNauh6-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPG0ZVc36kWp7t-4eF67Sro1Jqm1-yqfFFa2Pfq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPkOBHZF_0Me0Ora6ay9YBS3N4t17EA4avV5iNo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMNI_2qrXQzhSap0HI_fkJ2q8kSiycIXGfN60EF=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPOy5ZD_7tce1Xj531me1fGIkaO4ERxka1d98Wa=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNiLwOJGo6CUjDekF9qfym0KmdgGjD8iSQQWfWb=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMjJOBR7AabNjjPY6bG8iINQDKVZTiD9jukuYBQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipORHMeF_tftzFMypA_N1rL2XID2Q3lBWmU4DnEV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMgLVSqZT2BegcmidjAPlQH6npybPxIMwAc4EMh=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPeGlg3Ep3mhXI1M4Fx4j8JwP5O3qIkhW57TEcy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP5-RUW1oJlSeAxL2dm1EwT0yskg9-fmBShYoAo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNUiadTELVSxxwqSw-Vs9RWuOcmG6_0-KJJj8Lj=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPviB3lHZQ47Zfsp0N021SqznAvJp_9dl3OSX2o=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPZrMEQzXH05h-S0Gm0EEOmWsY9ibn6nzTU8liP=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMgdiPJiAGlq5GLRqlRHTyu1WnF_ElalNDdw4lG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOLywtqPFrB67t_IwYVT6pd0KfgHG5D4gZ1-uXM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMe-1dbh7vdI2d3kjoH44PG0OU0EIyGdJVpwLbC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMjizJ91H1UnCeW5Rv8i3lSYrGa1XLecfMHCh0S=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN98UyLLPRDE2vzoXQFrWKjNT5XLm43TEC-QPrJ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN5AuC2DYMof3hX_IVIYm8dp6jn7juwZe5IEWBx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNP1ue_nkmCO7_NZad2gfDlmY1Suwqjm4C_VDps=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP-uiLRLjclMIuiMQwNT7byrzwSXwaVwwjZkx4T=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPJm97CZO9wgoujX7cN0hrph_29n_9ea80nC4Vf=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPnZEHekA8k1x9H5Y0jZcMzeuUvOjnROiuhxc6j=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMZlfOAfxXWyFUtuISyzSb7bc0wyNIjy7omZhSQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPViloSkYlFITOGndlnDQWGZvp5ZvFmEAsVMjYc=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMM6HOBYthE8DESz5sdlXL-mkK3Z5FxFDv_1-MY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNjifeiOJ1dNVmPAu4WOyJsumS2DbjN26_yFKWl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM8DUTNvn7T7ZI-27ArUSmrt-EDK25fKWfPKo-Y=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPO02AG_-x5u9-aDFGE8PXZzUtqyCBUJiMhZziC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMB7T-oUD2FsvLxu8VRa_zgM-xMigkuVeBNEPPO=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO8YZ4xtUPVf6fdCHeBx9UJ0MFhYs3znkKrcWc4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPk3vj8fgfoubEhTbLNfaXdtDBSvITiu_QjWGD1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOdg6fcTcKtz6y-R0Utf0iNftXBkVsQk6MUzywu=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "David Habegger",
+                "rating": 2,
+                "contributor_id": "114180199444733386357",
+                "description": "I came here for dinner the week of the U of M spring graduation. We had a reservation for Wednesday before the big graduation ceremony on the weekend. We made a reservation over the phone a few weeks prior for five people.\n\nThe only good thing about this restaurant is that I learned the meaning behind the term \"Gandy Dancer\". The food was not good and the service matched. To say the least, they over cooked our steaks and no one seemed to care. This restaurant is also pretty expensive. It’s odd to me that people question what they should wear to a restaurant that does not show up for them.\n\nI would not go back, and would not recommend. Do not waste your money.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqbzRDRkFnEAE!2m1!1s0x0:0xec6603a85df213c0!3m1!1s2@1:CIHM0ogKEICAgIDjo4CFAg%7CCgwIiv3lsQYQ4M_q8QI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPx6R-awPKZt-fUnOemosG_W3tVQqla3VwTC9XA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMiie8uE3BiPjcswWUvVakpxQ6Is64h7FMv6xsu=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMZSWNy80blInrD8-44As-NZ7RQlsWn0P6zaRz3=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNiRLkt0tQIb2dY9kj-Sn-7HlryQpbZWmnOCnDO=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPe4hZRpci5YFDWccLcrswACpVjqWfC9Hnb5Rgh=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP3NMMhAk-RoClPWUYA8WL4HftJCMXLDrXCMTjs=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": true
+    }
+}
