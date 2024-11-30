@@ -1,0 +1,313 @@
+<!--Author: Prithvijit Dasgupta-->
+<!doctype html>
+<html>
+
+<head>
+    <title>SI650 Project - Restaurant Search</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css"
+        integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap"
+        rel="stylesheet">
+</head>
+
+<style>
+    .header {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .left-pad {
+        width: 25%
+    }
+
+    .page-mid {
+        width: 50%;
+    }
+
+    .right-pad {
+        width: 25%;
+    }
+
+    .header-text {
+        font-size: 30;
+        text-align: center;
+    }
+
+    .page {
+        display: flex;
+        flex-direction: column;
+        font-family: 'Fira Sans';
+    }
+
+    .search-bar {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .search-box {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .results-area {
+        display: flex;
+        flex-direction: row;
+        flex-shrink: 0;
+    }
+
+    .search-mid {
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+    }
+
+    .lds-hourglass {
+        display: inline-block;
+        position: relative;
+        width: 100px;
+        height: 100px;
+    }
+
+    .lds-hourglass:after {
+        content: " ";
+        display: block;
+        border-radius: 50%;
+        width: 0;
+        height: 0;
+        margin: 8px;
+        box-sizing: border-box;
+        border: 32px solid #000;
+        border-color: #000 transparent #000 transparent;
+        animation: lds-hourglass 1.2s infinite;
+    }
+
+    .center {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        padding: 10px;
+    }
+
+    @keyframes lds-hourglass {
+        0% {
+            transform: rotate(0);
+            animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+        }
+
+        50% {
+            transform: rotate(900deg);
+            animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+        }
+
+        100% {
+            transform: rotate(1800deg);
+        }
+    }
+</style>
+
+<body>
+    <div class="page">
+        <div class="header">
+            <div class="left-pad"></div>
+            <div class="page-mid">
+                <h1 class="header-text">SI650 Project - Restaurant Search</h1>
+            </div>
+            <div class="right-pad"></div>
+        </div>
+        <div class="search-bar">
+            <div class="left-pad"></div>
+            <div class="page-mid">
+                <div class="search-box">
+                    <h3 style="width: 13%;">Search query: </h3>
+                    <input style="width: 70%; padding: 10px; height:fit-content; margin-top: 10px;" type="text"
+                        id="query" />
+                    <div style="width: 17%;">
+                        <button class="pure-button pure-button-primary" style="margin-top: 8%; margin-left: 10%;"
+                            onclick="doSearch('/search', 'POST')">Search!</button>
+                    </div>
+                </div>
+            </div>
+            <div class="right-pad"></div>
+        </div>
+        <div class="results-area" id="results-area">
+            <div class="left-pad"></div>
+            <div class="search-mid">
+                <div class="lds-hourglass center" id="load-spinner" hidden></div>
+                <div class="results" id="results" hidden>
+                    <h2 style="text-align: center;" id="no-res-text">No results found!</h2>
+                </div>
+            </div>
+            <div class="right-pad"></div>
+        </div>
+        <div class="footer">
+            <div class="left-pad">
+                <button class="pure-button" style="float: right;" id="prev" onclick="getCache(prev, 'GET')"
+                    hidden>Previous</button>
+            </div>
+            <div class="page-mid" id="footer-mid" style="text-align: center;">
+            </div>
+            <div class="right-pad">
+                <button class="pure-button pure-button-primary" id="next" onclick="getCache(next, 'GET')"
+                    hidden>Next</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script>
+    let prev = null;
+    let next = null;
+
+    document.getElementById('query').onkeypress = function (e) {
+        if (!e) e = window.event;
+        let keyCode = e.code || e.key;
+        if (keyCode == 'Enter') {
+            doSearch();
+        }
+    }
+
+    async function doSearch() {
+        const query = document.getElementById('query').value.trim();
+        if (!query) {
+            alert("Please enter a search query.");
+            return;
+        }
+
+        const searchResultsContainer = document.getElementById("results");
+        const loader = document.getElementById("load-spinner");
+        const noResultsText = document.getElementById("no-res-text");
+
+        loader.removeAttribute('hidden');
+        searchResultsContainer.setAttribute('hidden', true);
+        noResultsText.setAttribute('hidden', true);
+
+        try {
+            const response = await fetch('http://127.0.0.1:8000/search', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ query: query })
+            });
+
+            const results = await response.json();
+            console.log(results) // For debugging purposes
+
+            if (results.results.length > 0) {
+                const resultsList = document.createElement('ul');
+                resultsList.setAttribute('id', 'search-results');
+
+                results.results.forEach(item => {
+                    const listItem = document.createElement('li');
+                    const titleElement = document.createElement('h3');
+                    const descriptionElement = document.createElement('p');
+
+                    titleElement.textContent = item.title;
+                    descriptionElement.textContent = item.description;
+
+                    listItem.appendChild(titleElement);
+                    listItem.appendChild(descriptionElement);
+
+                    resultsList.appendChild(listItem);
+                });
+
+                const oldResultsList = document.getElementById('search-results');
+                if (oldResultsList) {
+                    searchResultsContainer.removeChild(oldResultsList);
+                }
+                searchResultsContainer.appendChild(resultsList);
+                updatePagination(results.page);
+            } else {
+                noResultsText.removeAttribute('hidden');
+            }
+
+        } catch (error) {
+            console.error('Error during search:', error);
+            alert('Search failed, please try again.');
+        } finally {
+            loader.setAttribute('hidden', true);
+            searchResultsContainer.removeAttribute('hidden');
+        }
+    }
+
+    async function getCache(url, method) {
+        const searchResultsContainer = document.getElementById("results");
+        const loader = document.getElementById("load-spinner");
+        const noResultsText = document.getElementById("no-res-text");
+
+        loader.removeAttribute('hidden');
+        searchResultsContainer.setAttribute('hidden', true);
+        noResultsText.setAttribute('hidden', true);
+
+        try {
+            const response = await fetch(`http://127.0.0.1:8000${url}`, {
+                method: method,
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
+
+            const results = await response.json();
+
+            if (results.results.length > 0) {
+                const resultsList = document.createElement('ul');
+                resultsList.setAttribute('id', 'search-results');
+
+                results.results.forEach(item => {
+                    const listItem = document.createElement('li');
+                    const titleElement = document.createElement('h3');
+                    const descriptionElement = document.createElement('p');
+
+                    titleElement.textContent = item.title;
+                    descriptionElement.textContent = item.description;
+
+                    listItem.appendChild(titleElement);
+                    listItem.appendChild(descriptionElement);
+
+                    resultsList.appendChild(listItem);
+                });
+
+                const oldResultsList = document.getElementById('search-results');
+                if (oldResultsList) {
+                    searchResultsContainer.removeChild(oldResultsList);
+                }
+                searchResultsContainer.appendChild(resultsList);
+                updatePagination(results.page);
+            } else {
+                noResultsText.removeAttribute('hidden');
+            }
+
+        } catch (error) {
+            console.error('Error retrieving cache:', error);
+            alert('Failed to retrieve cache, please try again.');
+        } finally {
+            loader.setAttribute('hidden', true);
+            searchResultsContainer.removeAttribute('hidden');
+        }
+    }
+
+    function updatePagination(page) {
+        if (page.prev) {
+            prev = page.prev;
+            document.getElementById('prev').removeAttribute('hidden');
+        } else {
+            document.getElementById('prev').setAttribute('hidden', true);
+        }
+
+        if (page.next) {
+            next = page.next;
+            document.getElementById('next').removeAttribute('hidden');
+        } else {
+            document.getElementById('next').setAttribute('hidden', true);
+        }
+    }
+</script>
+
+</html>
