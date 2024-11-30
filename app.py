@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse
 from threading import Timer
 import math
@@ -17,6 +18,8 @@ CACHE_TIME = 3600
 
 # Initialize FastAPI
 app = FastAPI()
+app.mount("/static", StaticFiles(directory="."), name="static")
+
 
 # Cache deletion function
 def delete_from_cache(query):
@@ -70,7 +73,7 @@ async def doSearch(body: QueryModel) -> APIResponse:
 async def getCache(query: str, page: int) -> APIResponse:
     if query in pagination_cache:
         max_page = pagination_cache[f'{query}_max_page']
-        
+
         # Boundary checks
         if page < 0:
             page = 0
@@ -78,7 +81,7 @@ async def getCache(query: str, page: int) -> APIResponse:
         next_page = f'/cache/{query}/page/{page + 1}' if page < max_page else ""
 
         results = pagination_cache[query][page * PAGE_SIZE:(page + 1) * PAGE_SIZE]
-        
+
         print(f"Cache hit for query: {query}, page: {page}, Results: {results}")
 
         return APIResponse(
