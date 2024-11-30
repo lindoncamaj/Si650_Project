@@ -20,7 +20,7 @@ DATASET_PATH = DATA_PATH
 
 
 class SearchEngine(BaseSearchEngine):
-    def __init__(self, max_docs: int = -1, ranker: str = 'WordCountCosineSimilarity') -> None:
+    def __init__(self, max_docs: int = -1, ranker: str = 'BM25') -> None:
         # This is the pipeline of the search engine. Feel free to modify this code.
         # For reference, the pipeline consists of the following steps:
         # 1. Create a document tokenizer using document_preprocessor Tokenizers
