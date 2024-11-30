@@ -1,17 +1,21 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
+from fastapi.staticfiles import StaticFiles
+from elasticsearch import Elasticsearch, exceptions
 from threading import Timer
 import math
-import json
-
-from models import BaseModel, QueryModel, APIResponse, PaginationModel
-from typing import Optional
-from pipeline import initialize
-from pathlib import Path
+from models2 import QueryModel, APIResponse, SearchResult, PaginationModel
 
 
-# Some global variables
-algorithm = initialize()
+# Initialize the Elasticsearch client
+ELASTIC_CLOUD_ID = "My_deployment:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvJDhjZTQyMzBhNTM3MzQzN2ViMGI2NmQ3NWE0ZmIzY2JmJDkyM2FkNDkxYzc4ZDQ5YWI5YWM0ZmU0YWQzMDMwYTYy"
+ELASTIC_API_KEY = "WjE2NlpwTUJxYW9xczQySU5IQ2c6X2ZyTWRId2hTY3Fzd20tRElBamxvZw=="
+
+# Global variables
+client = Elasticsearch(
+    cloud_id=ELASTIC_CLOUD_ID,
+    api_key=ELASTIC_API_KEY,
+)
 pagination_cache = {}
 timer_mgr = {}
 
@@ -21,6 +25,8 @@ CACHE_TIME = 3600
 
 # Initialize FastAPI
 app = FastAPI()
+app.mount("/static", StaticFiles(directory="."), name="static")
+
 
 # Cache deletion function
 def delete_from_cache(query):
@@ -30,29 +36,53 @@ def delete_from_cache(query):
         del timer_mgr[query]
         print(f"Cache for query '{query}' has been deleted.")
 
+
 @app.get('/', response_class=HTMLResponse)
 async def home():
-    with open('./web/home.html') as f:
+    with open('./web/home2.html') as f:
         return f.read()
 
 
-@app.post('/search')
+@app.post('/search', response_model=APIResponse)
 async def doSearch(body: QueryModel) -> APIResponse:
     request_query = body.query
-    response = algorithm.search(request_query)
     global pagination_cache, timer_mgr
 
-    # Debug information
-    print(f"Search Query: {request_query}")
-    print(f"Search Results: {response}")
+    # Perform search in Elasticsearch
+    try:
+        response = client.search(
+            index="elser-example-restaurants",
+            size=20,
+            query={
+                "text_expansion": {
+                    "description_embedding": {
+                        "model_id": ".elser_model_2",
+                        "model_text": request_query,
+                    }
+                }
+            },
+        )
 
-    if not response:
-        print(f"No results found for query: {request_query}")
+        results = [
+            SearchResult(
+                docid=hit["_id"],
+                title=hit["_source"].get("Title"),
+                description=hit["_source"].get("Description"),
+                score=hit["_score"]
+            ) for hit in response["hits"]["hits"]
+        ]
+    except exceptions.ElasticsearchException as e:
+        print(f"Search Query:{request_query}, Error: {str(e)}")
+        return APIResponse(results=[], page=None)
+
+
+
+    if not results:
         return APIResponse(results=[], page=None)  # Handle no results case
 
     # Store search results and calculate max_page
-    pagination_cache[request_query] = response
-    pagination_cache[f'{request_query}_max_page'] = math.floor((len(response) - 1) / PAGE_SIZE)
+    pagination_cache[request_query] = results
+    pagination_cache[f'{request_query}_max_page'] = math.floor((len(results) - 1) / PAGE_SIZE)
     max_pages = pagination_cache[f'{request_query}_max_page']
     print(f"Max Page for query '{request_query}': {max_pages}")
 
@@ -64,60 +94,19 @@ async def doSearch(body: QueryModel) -> APIResponse:
     # Return first page of results
     next_page = f'/cache/{request_query}/page/1' if max_pages > 0 else ""
     return APIResponse(
-        results=response[:PAGE_SIZE],
+        results=results[:PAGE_SIZE],
         page=PaginationModel(
             prev="",
             next=next_page
         )
     )
 
-DATA_PATH = Path("~/Desktop/project").expanduser() 
-INDEX_FILE = DATA_PATH / "index.jsonl"
 
-# Load index.jsonl into a dictionary mapping docid to filename
-def load_index():
-    index = {}
-    with INDEX_FILE.open("r", encoding="utf-8") as f:
-        for line in f:
-            entry = json.loads(line)
-            index[entry["docid"]] = entry["filename"]
-    return index
-
-# Use a cached index to avoid reloading for each request
-file_index = load_index()
-
-# Retrieve file by docid
-def get_file_by_docid(docid: str):
-    # Check if the docid exists in the index
-    filename = file_index.get(docid)
-    if not filename:
-        return None
-
-    # Construct the file path based on the filename in the index
-    file_path = DATA_PATH / filename
-    if not file_path.exists():
-        return None
-
-    # Read and return file content
-    with file_path.open("r", encoding="utf-8") as f:
-        content = f.read()
-    
-    return content
-
-@app.get('/items/{docid}')
-async def get_item(docid: str):
-    content = get_file_by_docid(docid)
-    if content is None:
-        raise HTTPException(status_code=404, detail="File not found")
-
-    return {"docid": docid, "content": content}
-
-
-@app.get('/cache/{query}/page/{page}')
+@app.get('/cache/{query}/page/{page}', response_model=APIResponse)
 async def getCache(query: str, page: int) -> APIResponse:
     if query in pagination_cache:
         max_page = pagination_cache[f'{query}_max_page']
-        
+
         # Boundary checks
         if page < 0:
             page = 0
@@ -125,7 +114,7 @@ async def getCache(query: str, page: int) -> APIResponse:
         next_page = f'/cache/{query}/page/{page + 1}' if page < max_page else ""
 
         results = pagination_cache[query][page * PAGE_SIZE:(page + 1) * PAGE_SIZE]
-        
+
         print(f"Cache hit for query: {query}, page: {page}, Results: {results}")
 
         return APIResponse(
@@ -138,6 +127,7 @@ async def getCache(query: str, page: int) -> APIResponse:
     else:
         print(f"Cache miss for query: {query}. Performing a new search.")
         return await doSearch(QueryModel(query=query))
+
 
 @app.on_event('shutdown')
 def timer_shutdown():
