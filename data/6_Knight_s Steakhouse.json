@@ -1,0 +1,274 @@
+{
+    "docid": 6,
+    "Title": "Knight's Steakhouse",
+    "Price": "$$",
+    "Place ID": "ChIJdcsH-OmxPIgRfXkIKrGHszw",
+    "Type ID": [],
+    "Type": [
+        "Steak house",
+        "Restaurant"
+    ],
+    "Menu": {
+        "link": "http://www.knightsrestaurants.com/ann-arbor/",
+        "source": "knightsrestaurants.com"
+    },
+    "Address": "2324 Dexter Ave, Ann Arbor, MI 48103",
+    "GPS Coordinates": {
+        "latitude": 42.2849685,
+        "longitude": -83.7781454
+    },
+    "Phone Number": "(734) 665-8644",
+    "Rating": 4.6,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 41
+        },
+        {
+            "stars": 2,
+            "amount": 51
+        },
+        {
+            "stars": 3,
+            "amount": 121
+        },
+        {
+            "stars": 4,
+            "amount": 358
+        },
+        {
+            "stars": 5,
+            "amount": 1480
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11 AM–11 PM"
+        },
+        {
+            "saturday": "11 AM–11 PM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "11 AM–11 PM"
+        },
+        {
+            "tuesday": "11 AM–11 PM"
+        },
+        {
+            "wednesday": "11 AM–11 PM"
+        },
+        {
+            "thursday": "11 AM–11 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "Old-school outfit serving a variety of steaks, seafood & burgers in a comfy setting with a full bar.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Great dessert",
+                "Sports"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Late-night food",
+                "Private dining room",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Historic"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Dinner reservations recommended",
+                "Accepts reservations",
+                "Usually a wait"
+            ]
+        },
+        {
+            "payments": [
+                "Checks",
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Can't beat the pours great service and def that home town feeling\""
+            },
+            {
+                "snippet": "\"Superb selection of wine, cheese and homemade dishes.\""
+            },
+            {
+                "snippet": "\"The waiter forget our bread and it took them an hour to bring our food.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Maria from Michigan",
+                "rating": 5,
+                "contributor_id": "116567480273660221040",
+                "description": "NY Strip came out perfect. Was able to order it medium rare/rare. Love that they let you do that. Sometimes just ordering medium rare turns into medium by the time it gets to your table.\n\nmake sure you come in on your birthday for a free dessert!\n\npeach cobbler was great, french onion soup came out fast, and even the roll was fluffy.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqbWJUeVp3EAE!2m1!1s0x0:0x3cb387b12a08797d!3m1!1s2@1:CIHM0ogKEICAgIDjmbTyZw%7CCgsIyJfbsQYQ8JioAw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMLW_pDxncoUkBWJ0HPHFkaFcxRUidqjTxg_lyU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQS0poxD6l_jPolVq9okx1xoL3IXrlyt0OOwQU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN8x5uzaBb6UPXTntpr3w8sjf-3GUAaRrpvTRdh=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "Ryan Klobucar",
+                "rating": 3,
+                "contributor_id": "104604126985631294457",
+                "description": "This was our first time vising after living in Michigan for over 10+ years and I had pretty high expectations based on the reviews.\n\nThe service was great overall. The waitress was kind and attentive to our requests. I feel like the food took a little while to get as other tables around us that ordered after us got theirs first.\n\nThe atmosphere was a little different than what I expected. It wasn't unnecessarily loud but we were going to celebrate our anniversary and it was little different than what I had imagined it being.\n\nThe bread that was served before our food was buttery, hot and top notch.  Also the clam chowder and French onion soups were on point. These were probably the highlights of the meal that we received.\n\nThe rest of the food...was just. fine. Not what I expected at all for the prices.\nThe Prime rib came out more medium rare than medium which was fine but the biggest problem was it lacked flavor overall. For the price I felt like the quality and flavor should be at a different level than I had.\nI felt the same about the vegetables that were served everything just lacked flavor.  I also had to ask for extra Au jus (which has come with every other prime rib I have had - even sandwich's). Also I had to ask for a steak knife (kind of weird as the only other one I had was a butter knife). Not dealbreakers just kind of strange for what I had pictured being the overall experience like. The fresh horseradish was OK but I was surprised at how muted it was for being fresh.\n\nMy wife got the Chicken sandwich which from the menu was what I was going to order initially and her review was similar as just lacking flavor. It was just an ordinary chicken sandwich without much flavor / sticking out points to warrant the cost.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR6b3U3aUdBEAE!2m1!1s0x0:0x3cb387b12a08797d!3m1!1s2@1:CIHM0ogKEICAgIDzou7iGA%7CCgwI1-CSswYQkND_igE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPjYjVJYuxWSg_iGQPSQAO-y9UD84FqCnG9fjRX=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Malik Hadley",
+                "rating": 3,
+                "contributor_id": "111932920590970088777",
+                "description": "My wife and I ordered two different cut of steak and asked for one to be cooked medium and the other to be cooked medium well. Both of our steaks were medium RARE. Our server, Jenn, was phenomenal and very knowledgeable, and as we were cutting our steaks, she knew immediately that the steaks were rare. Instead of giving us a new piece of meat, they took our steaks and placed them back on the grill, essentially drying them out to where there was no flavor.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMzeVo2a1h3EAE!2m1!1s0x0:0x3cb387b12a08797d!3m1!1s2@1:CIHM0ogKEICAgIC3yZ6kXw%7CCgwImoavuQYQ6I-Y_AI%7C?hl=en-US",
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Jairet Storie",
+                "rating": 5,
+                "contributor_id": "107535781522627910397",
+                "description": "My wife and I had dinner here tonight to celebrate our anniversary, the experience was wonderful from start to finish! The service was fast, all of the staff were very friendly and the food was delicious! I would definitely recommend dining here if you have not, they have a great food and cocktail selection! It is a little bit of a drive for us but we will definitely be back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURibi03R3ZnRRAB!2m1!1s0x0:0x3cb387b12a08797d!3m1!1s2@1:CIHM0ogKEICAgIDbn-7GvgE%7CCgwIsNTftQYQ4M--0wM%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Daniel Bologna",
+                "rating": 3,
+                "contributor_id": "100494044972027556713",
+                "description": "My first time here. So strange, all the hype for this place. We were there on a busy Monday evening. From sitting down to leaving, our meal took close to three hours. Great if you're looking for a leisurely time, not so great if you're hungry and waiting on food.\n\nThe dining room was loud and tight. The food was okay. I had the spicy crunch chicken sandwich which was fine. Devoid of much that could be called spice though. Had some of the sirloin leftover (probably not a great representation) and it wasn't anything special.\n\nOur server was very kind to my son and great overall.\n\nWe were here for a birthday celebration; I'd return at someone else's request. I wouldn't come back on my own decision.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNiOTkycmpnRRAB!2m1!1s0x0:0x3cb387b12a08797d!3m1!1s2@1:CIHM0ogKEICAgICb992rjgE%7CCgsI8MKmtQYQsNDNLw%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Chris McConnell",
+                "rating": 5,
+                "contributor_id": "107862587821307127212",
+                "description": "Absolutely loved our first time there. The staff, especially our server,  were amazing.  The food was incredibly good and fresh from the start to the end.\n\nHighly recommend the French dip as well as the potato skins. Delicious!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3X3JUbmFBEAE!2m1!1s0x0:0x3cb387b12a08797d!3m1!1s2@1:CIHM0ogKEICAgID7_rTnaA%7CCgwImsOptgYQ2K_juwI%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Reni Allajbeu",
+                "rating": 4,
+                "contributor_id": "113237211107530385144",
+                "description": "Absolutely loved the lobster bisque! Really really delicious! The steak was okay as I found the meat to be a little tough (I usually order medium/well for reference). The service was fast and the staff was friendly and prompt. The bread was really good as well! I was definitely not a fan of the Vegetables filling the plate. They were mostly uncooked and unseasoned.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNyaWFTSjlnRRAB!2m1!1s0x0:0x3cb387b12a08797d!3m1!1s2@1:CIHM0ogKEICAgICriaSJ9gE%7CCgsIruqvtAYQyN3CWg%7C?hl=en-US",
+                "date": "4 months ago"
+            },
+            {
+                "username": "Tina Zapata",
+                "rating": 5,
+                "contributor_id": "103513184857922271695",
+                "description": "My server took our table when the person assigned to us did not take our order. He was attentive,  professional and friendly.  He earned that 5 stars for service.  Food arrived quickly. The steak was perfectly cooked. Absolutely delicious meal! Will definitely return.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURydk9fSGtRRRAB!2m1!1s0x0:0x3cb387b12a08797d!3m1!1s2@1:CIHM0ogKEICAgIDrvO_HkQE%7CCgwIi7HXtAYQuIv21AE%7C?hl=en-US",
+                "date": "4 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+    }
+}

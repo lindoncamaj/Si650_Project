@@ -1,0 +1,280 @@
+{
+    "docid": 168,
+    "Title": "Pancheros Mexican Grill - Ann Arbor",
+    "Price": [],
+    "Place ID": "ChIJn_kuSUSuPIgRcBiDCV5-9lg",
+    "Type ID": [],
+    "Type": [
+        "Restaurant",
+        "Burrito restaurant",
+        "Fast food restaurant",
+        "Mexican restaurant",
+        "Taco restaurant"
+    ],
+    "Menu": {
+        "link": "https://www.pancheros.com/menu",
+        "source": "pancheros.com"
+    },
+    "Address": "1208 S University Ave, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2748056,
+        "longitude": -83.7341924
+    },
+    "Phone Number": "(734) 996-9580",
+    "Rating": 4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 57
+        },
+        {
+            "stars": 2,
+            "amount": 22
+        },
+        {
+            "stars": 3,
+            "amount": 50
+        },
+        {
+            "stars": 4,
+            "amount": 128
+        },
+        {
+            "stars": 5,
+            "amount": 261
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "10:30 AM–3 AM"
+        },
+        {
+            "saturday": "10:30 AM–3 AM"
+        },
+        {
+            "sunday": "10:30 AM–2 AM"
+        },
+        {
+            "monday": "10:30 AM–2 AM"
+        },
+        {
+            "tuesday": "10:30 AM–2 AM"
+        },
+        {
+            "wednesday": "10:30 AM–2 AM"
+        },
+        {
+            "thursday": "Closed (Thanksgiving)"
+        }
+    ],
+    "Description": "Burritos, tacos & quesadillas are made with freshly pressed tortillas at this Mexican chain outpost.",
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Comfort food",
+                "Late-night food",
+                "Quick bite",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Counter service",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Good people good prices good atmosphere service is also good\""
+            },
+            {
+                "snippet": "\"Tasty Mexican food, fresh pressed tortillas, quick service most times.\""
+            },
+            {
+                "snippet": "\"Great food for a cheap price, always having great deals for customers and fresh.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Mahaveera Pushparaju",
+                "rating": 4,
+                "contributor_id": "108838725918271777939",
+                "description": "Great value, similar to other Mexican fast casual restaurants - burrito bowls, tacos, quesadillas. Tried veggie bowl - rice, beans, veggies, queso,- good quality & value for money in a college town.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3NXVqOFh3EAE!2m1!1s0x0:0x58f67e5e09831870!3m1!1s2@1:CIHM0ogKEICAgID75uj8Xw%7CCgwI_sSstgYQuOeowgM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPQCiPDhQ-mmGprWmVi0Q3xZv76wh5thgj0meKm=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Maurielle C",
+                "rating": 3,
+                "contributor_id": "102013884837832721376",
+                "description": "The food is mediocre that’s for sure. Pricing isn’t bad, on the cheaper side. However the process of employees making it was really painful to watch. They aren’t very clean when making the food, they are just kind of going through the motions, and they weren’t very friendly at all. I understand food service can become mundane, especially at later times in the day, but to keep good reviews, customer service, and business, employees must be friendly & management might want to check on food safety skills. I wouldn’t come back per se.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNSaktHWm1RRRAB!2m1!1s0x0:0x58f67e5e09831870!3m1!1s2@1:CIHM0ogKEICAgICRjKGZmQE%7CCgwIvKiCoQYQuNDQ1gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMd6ED_ZHq19IaV8WO7mHmFdjPS5fxC-QOqd1SK=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOy7h5Zxu1NFnqC_p1OLQ6ZQ2mZN10oCX_T25cy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMgE0-NpPjDlHhqVCEMkKbVcYfdoezlaka0_NYw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN-2ROE57ANeA6GBeZPQpqbmrA0qYq70Y4KXJ7q=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNWrOLBquRm-AKY-O_k9vnl_bQg5gpx6tgPyQ0p=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNEUfUYqXlcrkIAuLlL2ySoaeoY6Rjxs7qjmKmM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNkbaRxhq7KptKjUoYCafWb7RgQiFXUDbK68jz_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOtGOpKzRcc2F6_At0t8Pd3BmPTdO5_mDeorx1y=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "The Flixta",
+                "rating": 5,
+                "contributor_id": "114764008900966062061",
+                "description": "Do you love burritos but those pesky ones in the freezer section always don't itch the scratch quite right? Then come here where you can get a burrito that actually weighs as much as a newborn while being too big for you handle in even 2 sittings, where you can laugh at the peasants eating their overpriced pizza and they still aren't satisfied while you'll be stuffed and praying to God your stomachs elasticity is enough to hold this monster. The price for these bad bois is low in comparison of what you get and will still be cheaper than that garbage taco bell order you had last night after the bar kicked you out.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNuaE0tUkt3EAE!2m1!1s0x0:0x58f67e5e09831870!3m1!1s2@1:CIHM0ogKEICAgICnhM-RKw%7CCgsIt_7BtwYQ4LeHcQ%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Vikram Bala",
+                "rating": 4,
+                "contributor_id": "118263460813448768909",
+                "description": "Not the best service but I like that it's open late into the night 🌃 Perfect for a late night munch. Pretty solid and not too expensive - good value.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqcG9mRGVREAE!2m1!1s0x0:0x58f67e5e09831870!3m1!1s2@1:CIHM0ogKEICAgIDjpofDeQ%7CCgsI7Me-tQYQwN7aFg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMWQ2OxEQAaMEWPEu3tVr8e51DVfDr3VL-b2XCL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPnnAMx7zbb7MKEsfGAGK-61XWDETy2jZsO8hcu=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Shelly Miller",
+                "rating": 1,
+                "contributor_id": "112960711631980559750",
+                "description": "We're from out of town staying at the hospital with our grandson so we did door dash. The driver was half hour late picking up the order. By the time we got our food it was stone cold and almost $10 worth of food was missing! Restaurants phone isn't working and driver won't text back. Extremely disappointed and would not recommend ordering on line! Two pissed off customers !",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6c0xEbHlRRRAB!2m1!1s0x0:0x58f67e5e09831870!3m1!1s2@1:CIHM0ogKEICAgIDzsLDlyQE%7CCgwI4ZeJswYQwPH5zAE%7C?hl=en-US",
+                "date": "5 months ago"
+            },
+            {
+                "username": "Kim Batchelor",
+                "rating": 3,
+                "contributor_id": "101120730957607554766",
+                "description": "Edit: they play the music way too loud. Its like a club. Cant hear myself think. Instant headache. I had to leave.\n\nEdit: its somehow gotten even louder. I cant eat through this. Why is it so loud? Its 10pm and i just want to chill after work with a burrito not fet a headache.\n\nThey are so nice. One time a lady their gave me a deal since I didnt get any meat.\nAffordable and yummy. Always get the order right.\nBest queso.\n(Only complaint is that the chips are a little too salty)",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNXd19xS0VREAE!2m1!1s0x0:0x58f67e5e09831870!3m1!1s2@1:CIHM0ogKEICAgICWw_qKEQ%7CCgwIsIzPsgYQ4KTq1wM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHaqP1ziOxFSoc8rtUUms5NhTcWk3wj0clnTlj=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "clover cobbler",
+                "rating": 2,
+                "contributor_id": "111108443518840866307",
+                "description": "Pancheros serves a purpose- with that purpose being that they serve mostly decent food that fills the void when Condado’s is already closed.\n\nWith that being said, they are not great at reading fairly straightforward orders and executing on those orders with fumbling the basics.\n\nMy fiance and I are vegan. Is it really that troublesome to just not toss cheese on every order mindlessly? Apparently lol.\n\nPancheros is the halfway point between taco bell and every other decent mexican joint in town. Make of that what you will lol.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYLTdXbHRBRRAB!2m1!1s0x0:0x58f67e5e09831870!3m1!1s2@1:CIHM0ogKEICAgICX-7WltAE%7CCgwIvJnXuAYQ4JT6jgM%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Maria Cristini",
+                "rating": 2,
+                "contributor_id": "102027432554144058853",
+                "description": "Would you like any meat with your sour cream? First of all I ordered two crunchy tacos and got these pathetic freezing cold soft tacos with a tablespoon of meat versus a half a cup of sour cream that was on them! Of course that made them freezing cold and it was just disgusting!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNtcTdPX2RREAE!2m1!1s0x0:0x58f67e5e09831870!3m1!1s2@1:CIHM0ogKEICAgICmq7O_dQ%7CCgwI2tDtjgYQiNmI0wI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNb-5gvd9I86xYoxnE1kwHJmYrpd0S8HLbzDG-j=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPaXHO158ix1sUz6oTnFL4aDnGHhIPu2hZkz9OX=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOwzAHxki2JeRlANcJBM0g-1deWQmHg2Kve0mu6=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "docid": 148,
+    "Title": "Le Dog = La Soup",
+    "Price": [],
+    "Place ID": "ChIJSwZfYDyuPIgRs-M9EhTGEWg",
+    "Type ID": [],
+    "Type": [
+        "Soup restaurant",
+        "Latin American restaurant",
+        "South American restaurant",
+        "Venezuelan restaurant"
+    ],
+    "Menu": [],
+    "Address": "306 South MAIN Street Suite #1-E, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.279211,
+        "longitude": -83.748967
+    },
+    "Phone Number": "(734) 327-0091",
+    "Rating": 4.8,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 2
+        },
+        {
+            "stars": 2,
+            "amount": 4
+        },
+        {
+            "stars": 3,
+            "amount": 1
+        },
+        {
+            "stars": 4,
+            "amount": 8
+        },
+        {
+            "stars": 5,
+            "amount": 180
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11:30 AM–2:30 PM"
+        },
+        {
+            "saturday": "Closed"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "11:30 AM–2:30 PM"
+        },
+        {
+            "tuesday": "11:30 AM–2:30 PM"
+        },
+        {
+            "wednesday": "11:30 AM–2:30 PM"
+        },
+        {
+            "thursday": "11:30 AM–2:30 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "Hot dogs & homestyle soup are offered with lemonade at this basic window-serve lunch place.",
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance"
+            ]
+        },
+        {
+            "offerings": [
+                "Comfort food",
+                "Healthy options",
+                "Quick bite",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "crowd": [
+                "College students"
+            ]
+        },
+        {
+            "payments": [
+                "Checks",
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Wonderful service, quality ingredients, unique vibe, and fair prices.\""
+            },
+            {
+                "snippet": "\"Hot dog and polish sausage round out the menu!\""
+            },
+            {
+                "snippet": "\"Just wished there was a place to sit down to enjoy the food, though.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Lily Lee",
+                "rating": 5,
+                "contributor_id": "116634703802744507575",
+                "description": "2023 June\nSoups here are comfort food... chicken tortilla, creamy and slight kick that warms you on a chilly day. Bavarian potato, broth chock full of sausage, potatoes, and mixed vegetables... don't forget to order the bread to go with it! Then if you still have room, have a hot dog or sausage with some sauerkraut!\n\n2022\nFrom the original stall back to my campus days to the little spot in downtown Ann Arbor, Le Dog is another iconic spot that locals love! Freshly made soups each day, with lobster bisque (my personal fave) additionally offered on Thursdays and Fridays. Hot dog and polish sausage round out the menu!\n\nChicken tortilla is the family fave! Tried the salmon shrimp corn chowder today too ... light in flavor, not too salty. Zingerman's bread was great to soak up with the soup!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQyNEsyNjJRRRAB!2m1!1s0x0:0x6811c614123de3b3!3m1!1s2@1:CIHM0ogKEICAgID24K262QE%7CCgsI9IWdpAYQgLyFSw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOrvQzUiQ9HJjtcV1ufv2h5lpupX-lM4z4N_RKi=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOXWIH1aqx-gHl2lxbsTLFTK0ibLHCc0T2ZjPOe=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHurH2sjVT688U92EtJIVrUyBXMcAZjbJYBVQo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM607z728DSI9MTFalry2x52OB7dJNlHdO_18a6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOsNuaNS8D-skFU1nTGVtvMFD6rGggYpYxKgBwB=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNNkeeA16AyLqUBF4QIHlDQVr6Yj7zeGJH58TkV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPb8lwhdIL5JzvUcGxfNi5maO4GKTKosm-tCGhy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNIf2JCjX_QwIR_rOo5mfGYXXxCVMrVCEUX7pLB=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMcje9g0lz-XW4JxwXhayjg5nJFakqYiKFzqOB-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO5t-08FtXZw92z4KZw1TKq7tcTTTc_A7k1hPKb=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOvPBBozaBwMsymlusW3R2JqzQMxm9BkL866upp=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Kay",
+                "rating": 5,
+                "contributor_id": "113759555653621361699",
+                "description": "Amazing hole in the wall! Only downside is the odd hours and lack of seating. I would recommend checking hours before you go and going on a nice day where you can eat outside or walk around and eat. Absolutely delicious and very affordable!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYOGR1TGNBEAE!2m1!1s0x0:0x6811c614123de3b3!3m1!1s2@1:CIHM0ogKEICAgIDX8duLcA%7CCgwIsOP-uAYQ-KfTngE%7C?hl=en-US",
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Lorelle Pennington",
+                "rating": 3,
+                "contributor_id": "114846635184022555175",
+                "description": "A little bit of a mixed bag, the service is always pretty solid when I go in and the hot dogs are pretty cheap for a good amount of food, I usually order the chicken tortilla soup and it's very flavorful.\nMy biggest issue with the soups is that they are a little overpriced for ordering from a stand with no seating (mine was $8) and they are EXTREMELY salty. I love salt so I was alright with it but I wouldn't recommend it to someone with sodium issues.\nOverall not bad and a more affordable lunch spot for Ann Arbor.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6Z0xQTlR3EAE!2m1!1s0x0:0x6811c614123de3b3!3m1!1s2@1:CIHM0ogKEICAgICzgLPNTw%7CCgwIv8bdsgYQuIn4mQI%7C?hl=en-US",
+                "date": "5 months ago"
+            },
+            {
+                "username": "Isabella Preissle",
+                "rating": 5,
+                "contributor_id": "116183418579840282209",
+                "description": "I’ve lived in Ann Arbor my entire life and made the mistake of never visiting Le Dog. Tried it for the first time this week and I have gone back every day for more soup! Absolutely delicious, it a great soup counter and a great lunch every time.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNGcDlIMUVREAE!2m1!1s0x0:0x6811c614123de3b3!3m1!1s2@1:CIHM0ogKEICAgICFp9H1EQ%7CCgsInMuUqgYQsK7zNA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOrr-Bxqk-OYCp8FViPx4vRrJIanoBmelIccdao=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Sherry Deng",
+                "rating": 5,
+                "contributor_id": "113144804990937185215",
+                "description": "Hotdog and soup are all very delicious, price is fair. Take away only.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNicXFEZkNnEAE!2m1!1s0x0:0x6811c614123de3b3!3m1!1s2@1:CIHM0ogKEICAgICbqqDfCg%7CCgwI5riKtQYQyO6BzwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP7sF_2Qt-SGqyy6_qpTRC5SN39IaOZGXfssoyA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMBuldDpefNEc35GJ20c7lUcv40gTKe13QBKnsy=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Kailee Haddock",
+                "rating": 5,
+                "contributor_id": "100825533211487398935",
+                "description": "tried this place for the first time , the chicken tortilla soup is amazing. I had to go back right after eat my first bowl to buy another bowl and bring home other types of soups for my family to try. The girls behind the counter are nice and friendly. I’ll definitely be back soon more!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURqOGJ1UGdBRRAB!2m1!1s0x0:0x6811c614123de3b3!3m1!1s2@1:CIHM0ogKEICAgIDj8buPgAE%7CCgsIraXZsQYQwK2YaQ%7C?hl=en-US",
+                "date": "6 months ago"
+            },
+            {
+                "username": "Andy Raeder",
+                "rating": 5,
+                "contributor_id": "111316599353271195344",
+                "description": "How do they make so many good soups?  And best-priced lunch downtown.  Marked down a star for atmosphere only because they're not in the kiosk any more.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURUNExyRTRnRRAB!2m1!1s0x0:0x6811c614123de3b3!3m1!1s2@1:CIHM0ogKEICAgIDT4LrE4gE%7CCgsItv2xsgYQ0JfNHQ%7C?hl=en-US",
+                "date": "6 months ago"
+            },
+            {
+                "username": "Miriam Iglesias",
+                "rating": 5,
+                "contributor_id": "102086606223195878795",
+                "description": "After many years, I came back and had my favorite: lobster bisque. As fantastic as I remembered. This place is a must! Jules, the owner, was there and it was so nice to reminisce.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURxNTllbUxBEAE!2m1!1s0x0:0x6811c614123de3b3!3m1!1s2@1:CIHM0ogKEICAgIDq59emLA%7CCgwI4cjMhwYQiJmxhwI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP5Wzx07VaLM3Mkifiowjiu-mx2uxM2vNCly-ho=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 years ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+    }
+}

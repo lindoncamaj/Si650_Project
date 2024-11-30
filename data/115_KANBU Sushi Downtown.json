@@ -1,0 +1,331 @@
+{
+    "docid": 115,
+    "Title": "KANBU Sushi Downtown",
+    "Price": [],
+    "Place ID": "ChIJgwPltO6vPIgRPHbn-kwcNFE",
+    "Type ID": [],
+    "Type": [
+        "Sushi restaurant",
+        "Japanese restaurant"
+    ],
+    "Menu": {
+        "link": "https://www.kanbusushidowntown.com/order/",
+        "source": "kanbusushidowntown.com"
+    },
+    "Address": "241 E Liberty St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2797032,
+        "longitude": -83.7466494
+    },
+    "Phone Number": "(734) 369-3272",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 11
+        },
+        {
+            "stars": 2,
+            "amount": 5
+        },
+        {
+            "stars": 3,
+            "amount": 10
+        },
+        {
+            "stars": 4,
+            "amount": 36
+        },
+        {
+            "stars": 5,
+            "amount": 193
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11:30 AM–9:30 PM"
+        },
+        {
+            "saturday": "11:30 AM–9:30 PM"
+        },
+        {
+            "sunday": "11:30 AM–9:30 PM"
+        },
+        {
+            "monday": "11:30 AM–9:30 PM"
+        },
+        {
+            "tuesday": "11:30 AM–9:30 PM"
+        },
+        {
+            "wednesday": "11:30 AM–9:30 PM"
+        },
+        {
+            "thursday": "11:30 AM–9:30 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "Standard Japanese restaurant serving sushi, poke bowls & seafood noodle soups in relaxed surrounds.",
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Healthy options",
+                "Small plates",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Environment, service, decor, food quality are great!\""
+            },
+            {
+                "snippet": "\"The spicy seafood Udon soup was so generous and even had a small lobster tail.\""
+            },
+            {
+                "snippet": "\"2 roll or 3 roll lunch specials are great deals, they come with soup and salad.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Lio Saylor",
+                "rating": 5,
+                "contributor_id": "104076024611365789320",
+                "description": "The best experience I've had at any restaurant in downtown A2. The food was amazing, our server was great and attentive, and the general atmosphere of the place was super chill but also a modern twist on casual dining! I've been to a lot of sushi/poke places and this was hands-down the best",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNINnJlOVpnEAE!2m1!1s0x0:0x51341c4cfae7763c!3m1!1s2@1:CIHM0ogKEICAgICH6re9Zg%7CCgsI1trdtgYQqM-kcA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMWLBSZ4dKrYw2bLuCWHCugWETInQ2dssej58B8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0OqcNkAOlXrTpN4sVefWxusiyGbWVlEu3a_WC=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Scott Houck",
+                "rating": 5,
+                "contributor_id": "116131448573894909014",
+                "description": "Jun24 - Well priced, good presentation and tasted great. Will return again. Definitely recommend trying the tonkotsu ramen.\n\nUpdate Oct24: Went back today and the food was still great and the waitresses are delightful. I tried the Shoyu ramen and the gyoza, and the gyoza were fantastic, and the ramen was perfect. I can't wait to come back again.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN6d1phdnNBRRAB!2m1!1s0x0:0x51341c4cfae7763c!3m1!1s2@1:CIHM0ogKEICAgICzwZavsAE%7CCgwI1fCFuQYQ6Mmv4AI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOACX-zCVWNfUQdci47i_eCC7WiYtFXEm3f2fyX=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Aniko",
+                "rating": 5,
+                "contributor_id": "115722378642094411152",
+                "description": "I have celiac disease and a dairy allergy and the gluten free menu is so refreshing and makes it so much easier to navigate! I’ve never been sick from eating here and I order from here roughly once a week! Always amazing!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURiNWV6X2JBEAE!2m1!1s0x0:0x51341c4cfae7763c!3m1!1s2@1:CIHM0ogKEICAgIDb5ez_bA%7CCgsInKLOtQYQwO3lZA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOL9yIPCuf6y03WOmvZvBOZUa7-onwSlnMAGMO0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNE9h-E5SHlS1SOz0Eq0QMna2wGPo_zmT3RILml=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Zee Mattingly",
+                "rating": 5,
+                "contributor_id": "106957093267934966603",
+                "description": "Probably my favorite sushi restaurant in Ann Arbor. I've come here with family, friends, on dates, and by myself and have never been disappointed. They have a ton of good vegetarian options! Super cute atmosphere also, and it's not usually too too crowded. Really good quality for the price!! If you get two sushi rolls you get salad or soup for free and the salad is to die for.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURENC1DSXJBRRAB!2m1!1s0x0:0x51341c4cfae7763c!3m1!1s2@1:CIHM0ogKEICAgIDD4-CIrAE%7CCgwIq4jrsAYQ8NmQ4gE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPAqLJcW7-oHPIl8uf5W45Nm2vZ6GFDUKiZendx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrjJwXCAVt3m4rfc-SVmQEqM1_F00Q-TGBeOaD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOE2SnVT6NanAkqMGIaCeqbRsfKptN6Vb_NzPWt=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "Zahraa D",
+                "rating": 5,
+                "contributor_id": "104322666569143591068",
+                "description": "One of the best sushi places in the Ann Arbor area!! I tried it for the first time last week and it did not disappoint. Staff are very professional and the food is super fresh and goood!\nWe got the avocado shrimp & cucumber roll, fireball Roll, and Scotland roll. They all tasted amazing but my fav was the fireball. I highly recommend it if you like spicy.\nOverall I would definitely go back again!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURSNGNTc0pnEAE!2m1!1s0x0:0x51341c4cfae7763c!3m1!1s2@1:CIHM0ogKEICAgIDR4cSsJg%7CCgsI7pyFowYQwK2fPQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNDAZP5EOwLrDPwhcqyNAQS7y7e266y7QarCKAa=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0dDM9u-a6SCPvQw6TMBDAlYx-TKMKLnMqB42k=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOznGg88o2Ma9f3J7UK6GO5xUcx2I4mfrBUgNMl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNyxRCEm_7w2PDJznlh3vYe9V2vtehokVuZrVFK=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPXS0FLekmuf3NW7rZCQK9M0jTZsgO-CgT7SBu9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOJ8sxkQa5crkejwakBdHvlJ3pYXmD4hz7e3R3p=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPH9GKTn3Um1S7rHiuvWUlvtX76HdfDdbRXq0DE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPWRrDYi03kaXcHfFJ7pn3Tz5gaKStIpomJH0su=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Maurielle C",
+                "rating": 5,
+                "contributor_id": "102013884837832721376",
+                "description": "Easily the best sushi restaurant I’ve been to yet. Friendly staff, clean dining area and bathroom, reasonable prices and wait time, and just great sushi! The menu is extremely extensive, it’s almost overwhelming (in a good way) due to all of the options!! Everything around us was cozy and the food others ordered looked great, as well. Would definitely recommend coming if you like sushi or other Asian cuisine.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURlX3VyaG9BRRAB!2m1!1s0x0:0x51341c4cfae7763c!3m1!1s2@1:CIHM0ogKEICAgIDe_urhoAE%7CCgwI64SWmgYQ4MaMwQE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOtmC3RVexJxouFqSn2W2jGI518VPhv9dDbbwIW=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOkJp3v2Yxk5OTQ2fyhmLBVrXP1TsrDOP2mjLD4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPbfT5bqjhre0ENPQr7PhGBJenEKkrRY-mkD2mj=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMNnm8QS0F7qPTWwLiD8ymM2cn9R5Ud7ZgwQnuq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNdwMzT6tHZuEALeTKdj-O73lN5yaTwVdS3E0RG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOWLPZ2zB2-RyntJUwQDfg1KdedSHyg9sL0jqBo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOczgE_ZRPMwbwboExEFidgOFtPexuw5p7X5weB=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOVG-bIihECNCEyGygb1VBZcq0L9xEBk6lDHqRe=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMxwKjnwD1nCkptTmnuxzSSFgxIDVMqR9m7C44O=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPoTUM-Q68LF4g_YsxWv_eR8pr0ANkHAIRkqFxL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOOD-q-DWG-7AWPJSwmoLhiUFgx4sx1-wqKS6FR=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOrkCi5PZTeiBEP9ferGYZJK4uEsHwt_UrITj2X=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPF1a3g-SjKkCFVg1J_TzWOdscP62K1NkeG5yjy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOXwCCGtbOf2s7p75HxPJMGLcg41IKJHCXndbrn=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOK3LaEAZ4nB7gDHnR0ed_1jngWfuv0-F7CywXk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOkSLd0Ha7rpfrctiDnQ0YxpqTg96Al1yLJNDvR=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNfJOFa0LjaEeXJIFli81IPxwW4664uonyss_tt=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            },
+            {
+                "username": "Hannah Madaus",
+                "rating": 5,
+                "contributor_id": "114761358100795011113",
+                "description": "2 roll or 3 roll lunch specials are great deals, they come with soup and salad. The fish tasted fresh and restaurant is clean. The rolls are a great size, definitely not skimpy. Staff was very accommodating, attentive, and friendly. I noticed solo eaters as well as young couples eating comfortably, safe to say it would also be good for small groups.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURGOWU2UmpRRRAB!2m1!1s0x0:0x51341c4cfae7763c!3m1!1s2@1:CIHM0ogKEICAgIDF9e6RjQE%7CCgwI-YyxqgYQiNukgQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO5dxvuEdU5cTc8nnqJtWtsN3qe1iJA0fLaH8qI=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Brian Thomas",
+                "rating": 5,
+                "contributor_id": "109225969389838629755",
+                "description": "Solid Japanese food. The broth on the spicy ramen was good, but not quite great. The bento on the other hand had a great variety packed into a small box. Overall, I would definitely come back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNkbzZLbVVBEAE!2m1!1s0x0:0x51341c4cfae7763c!3m1!1s2@1:CIHM0ogKEICAgICdo6KmUA%7CCgwI2LTErgYQ0JadtQI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMX893ySkWtS3ZQLF6qqRAcmUoPMdWZcnv1Ftyv=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPmJDsNdO5BJWYStsE2xYMeW1FQ7qCRY4a7GkwD=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "9 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "docid": 194,
+    "Title": "Sweetwaters Coffee & Tea",
+    "Price": [],
+    "Place ID": "ChIJO4hAez-uPIgRS14xSs3zP8M",
+    "Type ID": [],
+    "Type": [
+        "Coffee shop",
+        "Breakfast restaurant",
+        "Cafe",
+        "Tea house"
+    ],
+    "Menu": {
+        "link": "https://www.sweetwaterscafe.com/menu/coffee/",
+        "source": "sweetwaterscafe.com"
+    },
+    "Address": "604 E Liberty St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.279211,
+        "longitude": -83.7416989
+    },
+    "Phone Number": "(734) 929-2398",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 9
+        },
+        {
+            "stars": 2,
+            "amount": 6
+        },
+        {
+            "stars": 3,
+            "amount": 25
+        },
+        {
+            "stars": 4,
+            "amount": 88
+        },
+        {
+            "stars": 5,
+            "amount": 219
+        }
+    ],
+    "Opening Hours": [],
+    "Description": "Local chain serving coffee, tea & shakes, plus pastries & light eats, in a stylish, relaxed space.",
+    "Details": [
+        {
+            "from_the_business": [
+                "Identifies as women-owned"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Coffee",
+                "Comfort food",
+                "Prepared foods"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Gender-neutral restroom",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "LGBTQ+ friendly"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"I ordered myself the Roasted Pistachio Latte, with almond milk to make it vegan.\""
+            },
+            {
+                "snippet": "\"There’s a lot of seating to work or read and the service was friendly and fast!\""
+            },
+            {
+                "snippet": "\"The barista gave me a great suggestion on a cooling summer iced tea!\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Phoebe Matthews",
+                "rating": 5,
+                "contributor_id": "117200966031915698530",
+                "description": "Every time I visit it has been an amazing experience. The atmosphere is calming, which always picks up my spirits after attending my classes. The music definitely matches the calm vibes as well as the interior design too. The staff have always done an amazing job, quickly delivering my order to me. Every now and then I'll get a doodle from the baristas, which makes my day. While it can be a bit busy around late afternoon, it's worth the wait for a good cup of chai or coffee.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChRDSUhNMG9nS0VJQ0FnSUN6eDQ0YhAB!2m1!1s0x0:0xc33ff3cd4a315e4b!3m1!1s2@1:CIHM0ogKEICAgICzx44b%7CCgwIt_aCswYQ4Orq7gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMIYHRJN3UosIZsA3HQzbm2-r4Dj_TCuZhPL4DR=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMreb-Ml_181oHpKXgl_RdU_I479HGtEEqnJ-rA=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "danicajhey",
+                "rating": 4,
+                "contributor_id": "103162754583557699675",
+                "description": "Very cute, busy place. Prices above average, which necessitates an absolutely perfect latte. It was good, not spectacular. I’d still go back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREaUplOEN3EAE!2m1!1s0x0:0xc33ff3cd4a315e4b!3m1!1s2@1:CIHM0ogKEICAgIDDiJe8Cw%7CCgwIzO28sAYQoOjdwgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOnsGghNxvzFtnf1onkT24oF27U5Hh8tRQRFlwj=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPCn-T9NaiiJXYK3wJdC6bb_ftxfneSd2BnKGHy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPPOL-hnx8O_p-MC0rCA-4m0wFeUIE3LoejhXd9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM7BxYgCbuEvphx3R1nnoJBvfrmr-TwEmEDUKCN=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMRLzXt2Ss9YqhjJBNfcFzR9yMj7cnpyNwnRotC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMFf_jJC-5OHv6K3B1zK2YAErDdZhbDCzMZegNC=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "Martina Landolt",
+                "rating": 5,
+                "contributor_id": "105840737777320508226",
+                "description": "A great tasting lavender latte provided the right touch on a windy colder day. Just around the main campus at the University of Michigan. This sweetwater coffee & tea shop will not disappoint. Can’t speak on all that they offer, but the coffee is great. First time coming to this chain store. Much preferred over larger chains.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSdkxHSlV3EAE!2m1!1s0x0:0xc33ff3cd4a315e4b!3m1!1s2@1:CIHM0ogKEICAgICRvLGJUw%7CCgwI6qyIoQYQuKutygI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPZHXj_e2p41eYcPSYJb3qbKLWkvwqzNR65IPx3=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0MlnE1qVgEoss4ZtAtjQvovInpQJFPwzLGbwA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO96YPVTaw-CDSMl5bcXrXQGIWLAd176S6A9C2L=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNhpdRxCcrYr1PVpSbauIPJEfTLXtqg-D_hzZWE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMDjMep9gfgI56-SNkNOamYTw_Yl-Kp0rpjzCnq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMafO9S0FO3txHjfNOz7nGClRgIKHX7hXrQwAA5=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNnHtS3NGGqrhAh-TOat-LmheHg6OlfrbUQSPT_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMDY_KYWvMzyb4-bGpC0pncdEALfJbtNOY_46gG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNdthhM6vB5Ibgfl7mIfb2wDO3u4q7u7yDa4zUS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPJ7eKGtzLBySE67k6AoeKXLxSPCDnnCEoX8VJ2=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPLrspU3W1QKLVjvqiDIFXMuMySFRbE1jw03r9Z=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN1TOOCiu0RXRyYsklz8RRggdVEjF5uL3VD-XpI=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Gurleen Kaur",
+                "rating": 5,
+                "contributor_id": "115510005265661826798",
+                "description": "Nice little coffee/tea shop! There’s a lot of seating to work or read and the service was friendly and fast! I got the matcha latte which was amazing. I could really taste the matcha (which was good quality) so I would definitely recommend. We also got the ice passion fruit tea that was great too. I would definitely recommend stopping in if you’re in the area.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKbFlPVUN3EAE!2m1!1s0x0:0xc33ff3cd4a315e4b!3m1!1s2@1:CIHM0ogKEICAgICJlYOUCw%7CCgwIiN6BpQYQsKCtuQI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMyXVPuhpDs07Ve66PQR_er_JStx6pBTcuNlX1g=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMEGPL__PY1OyO311aLR_BWJl4PjOiVAs5FhE60=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO4hVBNfwZJc-KZ2xPomnx5DcpipsvkwOlBIW1R=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "James",
+                "rating": 5,
+                "contributor_id": "103709142064275707609",
+                "description": "Was in Ann Arbor for vacation, and felt the need to start my day with a jolt of caffeine.  After a bit of looking around, I decided on Sweetwaters Coffee & Tea to kickstart my engine.  I ordered myself the Roasted Pistachio Latte, with almond milk to make it vegan.  The drink had a really nutty flavor, but softened just enough by the milk to be a lovely, warm sipper to wake up to.\n\nThe atmosphere inside felt just as warm and cozy as the drink in my hand, with local art along the walls and comfortable seats to cradle you close.  By the time I finished my drink and headed out the door I was more than ready for the day.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSd3B1ZUNBEAE!2m1!1s0x0:0xc33ff3cd4a315e4b!3m1!1s2@1:CIHM0ogKEICAgICRwpueCA%7CCgsIxtyLoQYQwJauAw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMm7RrOeFiLxT2qjNLmU53B2GvSVHDvSR_XJZWe=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrMcVlsQ3hmt0mfX-m1yJg0VWrvX-PwGSEhv7P=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Katarína Kmeťová",
+                "rating": 5,
+                "contributor_id": "109840439722701664593",
+                "description": "visiting sweetwaters made my day today, they are always in goid mood and happy to explain what is in the drinks. and i got my pastry in a bag with this cute hand drawen picture. thank you sweetwaters!\ni love the atmosphere in this particular location, it is tiny, but somehow it feels cosy, and they have a pretty wall covered in pothos, it makes it feel more cosy.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUROLUszWHdRRRAB!2m1!1s0x0:0xc33ff3cd4a315e4b!3m1!1s2@1:CIHM0ogKEICAgIDN-K3XwQE%7CCgwI-6awrQYQqMWT1QI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM8abOB-t5RCYO92n0sJvAQ8MTyYfL1V05VSnvw=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "10 months ago"
+            },
+            {
+                "username": "Jeremiah Zug",
+                "rating": 4,
+                "contributor_id": "104475311213183269073",
+                "description": "Sweetwaters is a great place to get a decent cup of coffee and have a clean and bright environment to go! One thing I would appreciate more of is bigger macaroons. A plus of this location is that sitting by the door doesn't mean freezing to death.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN3bWJLaVp3EAE!2m1!1s0x0:0xc33ff3cd4a315e4b!3m1!1s2@1:CIHM0ogKEICAgICwmbKiZw%7CCgwIxprixQUQwKvBmwM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMT7RUq6kxS3g0ltd1URR7se5uDhxcGlpPZlYL8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyRRb2xB2KP5cfbCxAt4dqp_Ney8aGLgIRYzDy=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 years ago"
+            },
+            {
+                "username": "Karina Evora",
+                "rating": 4,
+                "contributor_id": "112457249358587685719",
+                "description": "I ordered a double hot lavender oat milk latte which came out fairly quick. So tasty! Friendly staff, nice music and good volume. Lots of seating options even though it's a small space. Not too crowded either, they did a good job with arranging furniture. The high top seats are not very comfortable though. Overall good space for studying or reading.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ1c2I3bnlBRRAB!2m1!1s0x0:0xc33ff3cd4a315e4b!3m1!1s2@1:CIHM0ogKEICAgID5sb7nyAE%7CCgwIlvPmqQYQ2PirjgI%7C?hl=en-US",
+                "date": "a year ago"
+            }
+        ]
+    },
+    "Services": {
+        "curbside_pickup": true,
+        "no_contact_delivery": true,
+        "delivery": true,
+        "takeout": true,
+        "dine_in": true
+    }
+}

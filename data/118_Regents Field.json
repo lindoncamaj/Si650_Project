@@ -1,0 +1,319 @@
+{
+    "docid": 118,
+    "Title": "Regents Field",
+    "Price": [],
+    "Place ID": "ChIJp_JZj1-vPIgRx2NNahirKl8",
+    "Type ID": [],
+    "Type": [
+        "Bar & grill",
+        "Restaurant",
+        "Sports bar"
+    ],
+    "Menu": {
+        "link": "http://regentsfield.com/",
+        "source": "regentsfield.com"
+    },
+    "Address": "204 S Main St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.280235999999995,
+        "longitude": -83.748953
+    },
+    "Phone Number": "(734) 800-4143",
+    "Rating": 4.3,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 17
+        },
+        {
+            "stars": 2,
+            "amount": 6
+        },
+        {
+            "stars": 3,
+            "amount": 17
+        },
+        {
+            "stars": 4,
+            "amount": 28
+        },
+        {
+            "stars": 5,
+            "amount": 145
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "5 PM–2 AM"
+        },
+        {
+            "saturday": "11 AM–2 AM"
+        },
+        {
+            "sunday": "12:30 PM–12 AM"
+        },
+        {
+            "monday": "5 PM–2 AM"
+        },
+        {
+            "tuesday": "5 PM–2 AM"
+        },
+        {
+            "wednesday": "Closed"
+        },
+        {
+            "thursday": "Closed (Thanksgiving)"
+        }
+    ],
+    "Description": "",
+    "Details": [
+        {
+            "highlights": [
+                "Bar games",
+                "Fast service",
+                "Sports"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Arcade games",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Food",
+                "Food at bar",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Late-night food",
+                "Quick bite",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Nice staff, little bit of people watching, and good drinks.\""
+            },
+            {
+                "snippet": "\"Food was great, friendly service, cool atmosphere.\""
+            },
+            {
+                "snippet": "\"We got beers quickly and ordered burgers.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Samuel “Sam I Am” Kline",
+                "rating": 5,
+                "contributor_id": "101787366704718866278",
+                "description": "Nicest Michigan High School football field I've ever been to. This is a site to behold. When we walked in, I thought I was at a D3 football field. Very nice facilities and well thought out.\nThe only thing I'd add is bathrooms on both sides of the field.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYX2FMTDZRRRAB!2m1!1s0x0:0x5f2aab186a4d63c7!3m1!1s2@1:CIHM0ogKEICAgICX_aLL6QE%7CCgwI_f7PuAYQuPDGvQE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMxiI1zr0S8744Xin0_I6Nk4k86KUvBkcbp0wII=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMXzphbGsc6k8AkgMaUseeEwAdUN92uiuC7UEND=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOHX221nKr5WU7OqdQDzfeFyN4rNQiOaqMpjC2y=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPh_K6VgzUk0YXFR62lY24ER-Ck4dnKReq_gTIT=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMR1Q9tFVzr_noRzt3QKmQyPWepWnKVpcOs4ATX=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPAhE42ZSdugT3iz-fWowRVZbtU8BuzU6L1qGP3=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOHbXXk1aLJTmvzVlUFXJi6xLcldgiqSdriMf_5=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Rob Fawcett",
+                "rating": 5,
+                "contributor_id": "111031704446081485141",
+                "description": "Awesome spot, good food, great drink selection,  things to do and a nice patio.\nFood was really good we got a little of everything over the weekend.  It was so good we went back the next night.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURualptWlhREAE!2m1!1s0x0:0x5f2aab186a4d63c7!3m1!1s2@1:CIHM0ogKEICAgIDnjZmZXQ%7CCgwIlu-UuAYQ2NSYwgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPuilGZiAi0gN6fmSHTW5hD4P4iyjQJb3VrG9PX=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMMCj83VGEt-nAToxFIy-Hv_uXezlBvSrAtzy4-=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Stephanie O'Callaghan",
+                "rating": 5,
+                "contributor_id": "100055521378631372330",
+                "description": "Fun spot! Came to watch the Um v OSU game , staff was great, they were hustling and working hard. Food was good, enjoyed the wings and chili cheese fries. Wings were great, loved the blue cheese sauce! Prices were good too. Good spot on Main Street!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQtNnN5SjdnRRAB!2m1!1s0x0:0x5f2aab186a4d63c7!3m1!1s2@1:CIHM0ogKEICAgID-6syJ7gE%7CCgwI4paLnAYQ-L-L3QE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNNG5SFOVTlQkK4hMdnuDAjyc-R65HdbA_m2218=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN_3TStEHBYj1Wwtn1HFBypPgTrYIZxpdXq2q3h=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOerJYcJbQ9dMAGDa5AAREBxM3Di2jO4OnO3cIq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO9dxIxvLoKs94ZJvt6-CaKrBd8jRhzK0IbfXGb=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMNdCT2DSUH5s3qEZpihCzKS1ihrw-gD85EMwTe=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMMC21XQnsiz-_BxZxXpHwZi2PLQozkk6iASxP-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMAup5SHV_Um62cScgWM7hMLA8IMI5WSKz-zckU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPyxdHS7pdrgeDxe9J2H9harGkVZ3C4q0z8oyRU=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Rashid Ali",
+                "rating": 5,
+                "contributor_id": "111498203606251713045",
+                "description": "Regents Field, a place that truly embodies the spirit of patience, courage, success, love, friendship, growth, and fun. So, let's dive right in!\nWe recently visited Regents Field, a popular spot on Main Street, to watch the Red Wings game. And let me tell you, it was an incredible experience. The staff was absolutely amazing, working hard and hustling to make sure everyone had a great time. The food was fantastic, with delicious wings and chili cheese fries. The wings were particularly outstanding, and the blue cheese sauce was the cherry on top. The prices were also reasonable, making it a great spot for a fun night out.\nBut what really stood out to us was the manager. This guy is a true hero, working hard and knowing exactly what he's doing. He's smart, intelligent, and dedicated to making sure everyone has a great time. His hard work and dedication are truly inspiring.\nRegents Field is a great spot to catch a game, have some delicious food, and enjoy some quality time with friends. It's a place where you can feel the love and friendship in the air, and it's a testament to the power of patience, courage, success, and growth.\nSo, if you're looking for a fun spot to catch a game and enjoy some great food, Regents Field is definitely worth a visit. And if you're in the area, be sure to stop by and show your support for this fantastic establishment.\nThank you so much for joining us today, and we hope you enjoyed our little review of Regents Field. If you did, please give this video a thumbs up, and don't forget to follow and subscribe for more great content. Until next time, stay patient, courageous, and keep growing!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURuNnR1NDZBRRAB!2m1!1s0x0:0x5f2aab186a4d63c7!3m1!1s2@1:CIHM0ogKEICAgIDn6tu46AE%7CCgwItt2CuAYQ8J7qkAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM4zf5wYRXnYAoDsLssJCVpypTQU0BgIAfAmPuk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMlyOsPoFlUc84_wMszWz2hGj3lcFhOnhUNKqLO=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMHDnFabJqgslu9HSTR7zRr-Di43ptopEYbkxyO=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Atøm",
+                "rating": 5,
+                "contributor_id": "100293909302333942769",
+                "description": "Best Sports Bar in A2 ! Food Allergy Friendly ! Nice Staff ! Chicken Tender and Fries are Very Good  !",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuMGFiN0RnEAE!2m1!1s0x0:0x5f2aab186a4d63c7!3m1!1s2@1:CIHM0ogKEICAgIDn0ab7Dg%7CCgwI8J-MuAYQgPaD3gE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMm9bSZF7QcChRvSYOCbk8nieSElSUlHWkqpVdj=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "James Hines",
+                "rating": 5,
+                "contributor_id": "100225074796620020116",
+                "description": "This is my fifth stop of my Ann Arbor tour. Really cool place. The male bartenders just bent over backwards to make sure I had the proper game that I wanted to watch and planning to drink. The Mail patrons were a lot of fun to talk to. The female problems is getting worse. As I watch the interaction it feels like the women are trying not to laugh or be happy. So weird.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURiLXRhLXVRRRAB!2m1!1s0x0:0x5f2aab186a4d63c7!3m1!1s2@1:CIHM0ogKEICAgIDb-ta-uQE%7CCgwIpeW-tQYQiNn52gE%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Derek Morin",
+                "rating": 1,
+                "contributor_id": "109084899276903589541",
+                "description": "Got seated for a table.  Waited 12 minutes and not a single server stopped by so we left.  I guess service is optional here.  Went across the street to the ravens club and had a water in front of us in under 30 seconds of being sat.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMzX05XVUdnEAE!2m1!1s0x0:0x5f2aab186a4d63c7!3m1!1s2@1:CIHM0ogKEICAgIC3_NWUGg%7CCgwI2ZKguQYQ8Ia2pAI%7C?hl=en-US",
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Jon Polanich",
+                "rating": 5,
+                "contributor_id": "101851408383668051936",
+                "description": "Great sports bar and surprisingly great food… it can get busy on major game days but it is clear the management cares about your experience.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuNGVLVGRREAE!2m1!1s0x0:0x5f2aab186a4d63c7!3m1!1s2@1:CIHM0ogKEICAgIDn4eKTdQ%7CCgwIzLGLuAYQgMfVtwI%7C?hl=en-US",
+                "date": "a month ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+    }
+}

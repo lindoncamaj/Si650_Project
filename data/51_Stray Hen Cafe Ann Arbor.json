@@ -1,0 +1,349 @@
+{
+    "docid": 51,
+    "Title": "Stray Hen Cafe Ann Arbor",
+    "Price": [],
+    "Place ID": "ChIJB2qvvzGvPIgRzTGc31cT2t4",
+    "Type ID": [],
+    "Type": [
+        "Restaurant"
+    ],
+    "Menu": {
+        "link": "https://www.strayhencafe.com/ann-arbor-menu",
+        "source": "strayhencafe.com"
+    },
+    "Address": "403 E Washington St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.280494499999996,
+        "longitude": -83.743747
+    },
+    "Phone Number": "(734) 929-2590",
+    "Rating": 4.6,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 18
+        },
+        {
+            "stars": 2,
+            "amount": 10
+        },
+        {
+            "stars": 3,
+            "amount": 32
+        },
+        {
+            "stars": 4,
+            "amount": 70
+        },
+        {
+            "stars": 5,
+            "amount": 411
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "8 AM–3 PM"
+        },
+        {
+            "saturday": "8 AM–3 PM"
+        },
+        {
+            "sunday": "8 AM–3 PM"
+        },
+        {
+            "monday": "8 AM–3 PM"
+        },
+        {
+            "tuesday": "8 AM–3 PM"
+        },
+        {
+            "wednesday": "Closed"
+        },
+        {
+            "thursday": "8 AM–3 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "",
+    "Details": [
+        {
+            "highlights": [
+                "Great coffee"
+            ]
+        },
+        {
+            "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Coffee",
+                "Comfort food",
+                "Healthy options",
+                "Quick bite",
+                "Vegan options",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Usually a wait"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid street parking",
+                "Somewhat difficult to find a space"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Atmosphere is so well done, food and service were both perfection!\""
+            },
+            {
+                "snippet": "\"Super friendly staff and lots of space to sit!\""
+            },
+            {
+                "snippet": "\"Prices seem competitive for the area, wait was minimal.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Yuki Pao",
+                "rating": 5,
+                "contributor_id": "112412400048054427425",
+                "description": "Stopped in for an amazing brunch on Sunday. The line was quite long so be prepared to wait for at least 30+ mins. You order at the counter and they'll bring your food out to your table. The breakfast tacos were amazing as well as the waffles. Overall a cute, fun, and upscale restaurant!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMzZ042cS1nRRAB!2m1!1s0x0:0xdeda1357df9c31cd!3m1!1s2@1:CIHM0ogKEICAgIC3gN6q-gE%7CCgwIiZCUuQYQiPHl2wI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNf8AknJ7kQVt7idlOdhe-G1xS8lafeZmmKEEVD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNoiRtxQWrNaSSQsPu_qjEdEWudwV-qJ8lLeCRh=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPMsLs5Q-KbRe9gMCtJ6gH2O7l7PG55FXvPmVWu=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Buffy Warren",
+                "rating": 5,
+                "contributor_id": "102140063834105782817",
+                "description": "Great food & atmosphere!  You go to the counter to order, have a seat anywhere, & they bring your food to you.\nEverything we ordered was so good!!!\nWe ordered the traditional breakfast-eggs w/cheese, bacon, potatoes, & toast and the lemon blueberry pancakes!  Definitely recommend 10/10!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURINmRIV1F3EAE!2m1!1s0x0:0xdeda1357df9c31cd!3m1!1s2@1:CIHM0ogKEICAgIDH6dHWQw%7CCgwI6eOmtwYQuM6V3AI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMWSFzkXcaUjJzIkvCR4NW8NtQfA4fibgAjEKxZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNox9XYc_Aylyka7p-H7zGN6zilC55dm2y9pwr6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOCeBFFl1SLkADV53-Nk3Tyeu0WF1FmPQiEWmGP=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPmWIuRGjdzF5U1uAgq-Vw0PAccq24XiwOc-Fi7=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOVM5XfmGMQhk-hiS6VFXcqhLrNynchXrpbHhc0=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Kelly Butera",
+                "rating": 5,
+                "contributor_id": "106092099394857594045",
+                "description": "Let me start with....the sandwiches (see photos) were $5.!!! The atmosphere was clean, modern, inviting, and happy. Order at the counter and take a seat. Food comes on a real plate, real flatware.....for the price you would expect paper and baskets...HIGHLY recommend! Every dish coming out of the kitchen was gorgeous and plentiful. I had the \"Zeus on Fire\" avacado, spicy feta, eggs, baby spinach & tomato....beautiful and very satisfying.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURyLS1LNDBBRRAB!2m1!1s0x0:0xdeda1357df9c31cd!3m1!1s2@1:CIHM0ogKEICAgIDr--K40AE%7CCgsI-MrvtAYQuNDVBw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPfhzIseUHtdkRtAoDrAqt4TFVOkjEAAk3ATZ5-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN5Kv6rR0x-tEbzNZngcQrGQ8ayWGvrBBElTaKh=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMuySXiIV0tYzSDZwE0UcFh7oJN6vGM0lJHK8ob=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPp4FayN7Mrjok4kcK5Jo3rPs8d6bY9_lmKQFdh=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Nalini V",
+                "rating": 5,
+                "contributor_id": "107905904369912567036",
+                "description": "We were here on the weekend for brunch and there was a line to order and pay at the counter. But that gave us enough time to go through the menu (~ 15 mins).\nThe place was packed but they took care of the seating.\nFood was delicious and was served within 10 minutes after we ordered.\nThe ambiance and service is great. Lots of healthy options are available. Will definitely come back again!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMdTZQTzh3RRAB!2m1!1s0x0:0xdeda1357df9c31cd!3m1!1s2@1:CIHM0ogKEICAgICLu6PO8wE%7CCgwI4MPgswYQkL2XkAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOlXKCtYeXHDEsst63JMB7YGn8bUZQZluo8ccsA=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Manal Ali",
+                "rating": 5,
+                "contributor_id": "101754750741336144350",
+                "description": "Beautiful aesthetically pleasing cafe. The staff is welcoming and patient during ordering. The staff that bring the food are also very kind! We loved our food and the price is just right. Parking was a bit hectic.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURyZ0w3c1FREAE!2m1!1s0x0:0xdeda1357df9c31cd!3m1!1s2@1:CIHM0ogKEICAgIDrgL7sQQ%7CCgwIt-DFtAYQsPXWlwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNzN36r7GSMltloSTlehza1Bb6og1CpOcV4VK1V=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMLlQ1E8rWBlOwrZ5aTPYiwC5W9Yoph2PAhSo2r=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM-gmfX_p2SBNgqoxBztD6Dxwz-LXfWEaumz_zu=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMHORqPH4Cexdbw3bI-qz65axmlPX1IgVimLxr6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQv41qi4HPTUNSXgGpMNk-NF_X5p0YZnjc5ujg=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNGUnUzem5wR-4P5mjywWZaHZzc7VkJwemAxjnr=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Nicholas Kang",
+                "rating": 5,
+                "contributor_id": "100224230793259242575",
+                "description": "Came here for a Mother’s Day breakfast and the food and atmosphere here is great!\n\nDelicious food, beautifully plated, and very spacious & lively decor.\n\nReally enjoyed the North Side scrambler and Avocado Toast. Pancakes come in huge portions!\n\nIt gets crowded really fast on the weekends so I recommend coming in early to order and get a table.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURUOHJyM0dREAE!2m1!1s0x0:0xdeda1357df9c31cd!3m1!1s2@1:CIHM0ogKEICAgIDT8rr3GQ%7CCgsIvK2-sgYQiKCOCg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPQyy0WtRSf1GkNPi9ByKbYRVvTVr0_KJV2-Zpt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOKcpKcK8-XB-Ki5cyrArFGu1SIhvefgTjvpi32=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOuOvYeu-N6evBgu89vNtXGsxo6SYXN9i2VB3eL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOiZeHQcAOBkYT9SMvOvY-CpnZ64naKxOINlWtK=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Leslie Touassi",
+                "rating": 5,
+                "contributor_id": "104512413397771473585",
+                "description": "Great breakfast and I loved the Blueberry Hibiscus tea!\n\nBreakfast burrito was the perfect amount of food. The North Side scramble was a lot of food and excellent!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURua3NENXFRRRAB!2m1!1s0x0:0xdeda1357df9c31cd!3m1!1s2@1:CIHM0ogKEICAgIDnksD5qQE%7CCgwIgqiAuAYQwLaBvQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMUcfa-MC2xkmBMshopuYelhYqg9x7ysJNIAI0f=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM3vBZoufpHzk-_r3f7gyVoKkTs9XPctnItKLnO=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "James Berry",
+                "rating": 5,
+                "contributor_id": "116961779742299783029",
+                "description": "Good quality food, and I enjoyed the vibe while on the line. The Michigan cards as the table cards is a nice touch. Also I saw Will Johnson there, the footballer who shopped at Puffer Reds last year! He's a legend!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIOU1Ycm9RRRAB!2m1!1s0x0:0xdeda1357df9c31cd!3m1!1s2@1:CIHM0ogKEICAgICH9MXroQE%7CCgwIlp3TtgYQwMW__QI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMWez6z9wdnefU2HUBalhFDG3q0iXmoKMMxsU_m=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMi898oLBabwf8AAZ9a06z-53JS51vnvG0MIqcQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOI8b7yqbo9h9i4ZTQB1AWx1xt7vNVFOIT0unD7=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMad4xZ3J9ujtXhbDe9AxpA8avPClCKxpy3gMZ1=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+    }
+}

@@ -1,0 +1,343 @@
+{
+    "docid": 95,
+    "Title": "Detroit Pizza Pub",
+    "Price": [],
+    "Place ID": "ChIJGY0dLI-nPIgRCsf8vNqcS6k",
+    "Type ID": [],
+    "Type": [
+        "Pizza restaurant",
+        "Bar",
+        "Event venue",
+        "Italian restaurant",
+        "Lounge"
+    ],
+    "Menu": {
+        "link": "https://www.detroitpizzapub.com/menu/?y_source=1_OTM4NjEzMTItNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "detroitpizzapub.com"
+    },
+    "Address": "207 N Main St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.282647,
+        "longitude": -83.74880399999999
+    },
+    "Phone Number": "(734) 780-7344",
+    "Rating": 4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 18
+        },
+        {
+            "stars": 2,
+            "amount": 9
+        },
+        {
+            "stars": 3,
+            "amount": 4
+        },
+        {
+            "stars": 4,
+            "amount": 13
+        },
+        {
+            "stars": 5,
+            "amount": 78
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11 AM–11 PM"
+        },
+        {
+            "saturday": "11 AM–11 PM"
+        },
+        {
+            "sunday": "12–10 PM"
+        },
+        {
+            "monday": "11 AM–10 PM"
+        },
+        {
+            "tuesday": "11 AM–10 PM"
+        },
+        {
+            "wednesday": "11 AM–10 PM"
+        },
+        {
+            "thursday": "11 AM–10 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Sports"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Comfort food",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Late-night food",
+                "Quick bite",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Counter service",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "Has changing table(s)",
+                "High chairs",
+                "Kids' menu"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Food, drinks, atmosphere,service, everything perfect.\""
+            },
+            {
+                "snippet": "\"Man, this place beats the pants off any Brooklyn style pizza.\""
+            },
+            {
+                "snippet": "\"The staff honored the $7.99 price, which I appreciated.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Jill Myers",
+                "rating": 5,
+                "contributor_id": "110026135941220976625",
+                "description": "What an amazing experience! This was our first visit and we were incredibly impressed. Our server was Sol. She was helpful, kind, and knowledgeable. Our order included bruchetta, pistachio pesto pasta, veggie pizza, and garlic knots. The ingredients were fresh and flavorful. The in house made sangria is the best we have tasted anywhere. We were also given a private tour of the downstairs speak easy. The atmosphere is so hip and entertaining. A full cigar bar is also available. We learned that the site bakes all breads and doughs fresh, too. I highly recommend adding this to your must visit list.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIXzhUNDlBRRAB!2m1!1s0x0:0xa94b9cdabcfcc70a!3m1!1s2@1:CIHM0ogKEICAgICH_8T49AE%7CCgwI-OWCtwYQ2J2rowM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOnbVXh9B4AJlJ6ESP0vQLKX4cSg7emFeOabv_x=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNUisUovKo1sUD5AR4SRXo1Zn662IbhnVurqz_e=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPwq7HFvNWzhSPxEmJ13oi4yd_YeS9UC81PX1yt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPvXrXp6QdL5T6A6tp2kMycrdPA-2PngRozmbnP=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOml3tmJkp0U7XGd5Vau4fRG3IAIskibrSuuV06=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNlhhhPeP_pickuMt-UR66T4suZ18WkETu3Y2Hr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMG25P53PCxnfXR1SbRITsKvpC8yOgBbHKDuT5T=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPpDGwcd6-tICHG_VQoVQEqwkOgygZvSLU-ohJN=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM3PfKZB0g1OCZfJ97ZH5oh10WAgrM8InmwFTjZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMKgu1MrweiLqzCm3R2z4h8lOe40sEUA11VdnkK=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNpxJ8v8EynJzZydSNDgD2VLiMbLtCAHMxzIf59=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOvz_XDEHtPypoiX374vGwRaVFwcg5R63Mh4CL6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPaq6Blbu-2KP2ZzsQirKjN48ntt_7ZLJtaUBTk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOW8-NLQw7d7PMXewxyvpNjllEsQHvPjTUYCi7w=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNnyDs9sIUKcBLdpQZqo0a5NhiKpXxXb_NQvfLe=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPnUV_h7uimy1YkXBjSIa4JjH9jTdkGun1j2k5V=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNEKmETApFfjcX0HDOSYADUNhlhZ170x4fF8TXG=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Jean Torrance",
+                "rating": 5,
+                "contributor_id": "114154762261277285178",
+                "description": "Service was GREAT - two waited on us, one brought food and one took are orders - great team. Ordered the sweet heat pizza 4 slice and a caprese salad to split. Salad was great - gone before I even thought about a picture🤷‍♀️ Tried the pizza - was a bit too rich for me but very tasty, will try others next time. Very flavorful with a nice bite. Tastefully decorated smaller restaurant - will be back for sure! Waitress was nice and checked on us often - very nice evening and then visited the speakeasy in the basement thru the secret passage:) 👍🏼👍🏼",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURiNHNUT0h3EAE!2m1!1s0x0:0xa94b9cdabcfcc70a!3m1!1s2@1:CIHM0ogKEICAgIDb4sTOHw%7CCgwI_ZW5tQYQgK6fsAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP2egPUNFE8HwQIYlxv-rjAiCpssI1g_8f46tWl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMBBFYmhIm22bpauP1b_X8fHUhGFWZwmevS6iIr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNhQDGNcWSsc45XQwKJZMcaXprKvJvZdqEnkcCC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMzjJ0WfO2mNHT_p9sGRt0QwgzlDhkqk27nux-V=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPPXdxfqK74XZdtHTpkS_UHj-F8GVkZJ0fat6YF=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Brandon Scott Rumsey",
+                "rating": 4,
+                "contributor_id": "101676013278456192253",
+                "description": "$7.99 lunch specials are a great deal in downtown Ann Arbor. Service was good, pizza was excellent, especially for the price. I’ll definitely be back. However, lunch specials are only good on weekdays, which they say are Mon–Thurs, but this isn’t specified anywhere (see photos of the menu). I ordered on Friday and was initially charged a higher price. The staff honored the $7.99 price, which I appreciated.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNyc3FIMXJ3RRAB!2m1!1s0x0:0xa94b9cdabcfcc70a!3m1!1s2@1:CIHM0ogKEICAgICrsqH1rwE%7CCgsI14-htAYQ4M_rTQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQJSMpIhhRNG0oz2lyG2WEVvaGC0B_3jxJmtDy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMkJZgCisaNJtweu-pDGLl_21OrUe-tGlovCL0O=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNVPFu0QY1ZFheIMySmpWVUuVZ1cC-4xbiX7OYx=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Vivianne Swart",
+                "rating": 5,
+                "contributor_id": "104084941697231506562",
+                "description": "We hosted a day-after-wedding celebration for 100 people and reserved their lower-level space, which had an amazing speakeasy vibe. Maxx, the owner, and Carlos, the head chef, were incredibly accommodating and so helpful throughout the whole process, especially with figuring out how much food we’d need for a group that size. The food was absolutely incredible—everyone we talked to raved about it! The pickle pizza, which we didn’t expect to be such a hit, ended up being a crowd favorite, and the calamari was just as popular.\n\nOur guests loved the wide selection of drinks and beers on draft, and the team was great about providing vegan options to meet our requests (amazing cauliflower wings!!). We also wanted to catch some college football during the event, and this place delivered! It had plenty of TVs, but without feeling like your typical sports bar, which was perfect for us.\n\nThe bartenders in our area were fast, super friendly, and so easy to work with.\n\nOverall, we couldn’t have been happier with how the day turned out. The amazing staff and incredible food made it unforgettable!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYNzRDTGZ3EAE!2m1!1s0x0:0xa94b9cdabcfcc70a!3m1!1s2@1:CIHM0ogKEICAgICX74CLfw%7CCgsI8e7cuAYQ6Iz_YA%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Megan DeGeer",
+                "rating": 2,
+                "contributor_id": "110024633092466094544",
+                "description": "My original review was great for this place. But after many months of ordering, I am not pleased. Every single time we order from here, our pizza comes out different. This time, a tbsp of sauce was just plopped on top of the toppings on the end of each piece. The prices also differ for placing an online order vs. calling to place an order. Also, despite living a 4 minute walk/one block from the restaurant, our pizza always comes lukewarm, if not cold. Way too inconsistent and will not be coming back anymore",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM5MU5EZEVnEAE!2m1!1s0x0:0xa94b9cdabcfcc70a!3m1!1s2@1:CIHM0ogKEICAgIC91NDdEg%7CCgwIw8qHuAYQ4JiVzgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNQXR_Xr0NxNqSpqSpSe9SjmOBk3LaWCOUsq0Ia=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNIpv2NUODeefJAk2vhhpf1FVLW6GTY5AGyahPb=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Kirsten Madrid",
+                "rating": 5,
+                "contributor_id": "113657488148045392806",
+                "description": "Came in on the later side to Ann Arbor and still on CA time with a kiddo. Staff was so awesome. Wish I caught his name (rude of me) but was really cool and showed us the Speakeasy as my husband and I wanted one of the beers they had on tap downstairs which was closed. Then made a Shirley Temple with my son (actually involved my son in making it).  Love having a kiddo but its rare to have the opportunity to go to someplace cool for adults and kids. And then to boot the pizza was excellent! Thanks for the cool experience and exceptional food. My husband comes to Ann Arbor for work several times so will definitely come back and recommend to  others.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNuX0wzaHJ3RRAB!2m1!1s0x0:0xa94b9cdabcfcc70a!3m1!1s2@1:CIHM0ogKEICAgICn_L3hrwE%7CCgwI9cbItwYQyOqTgQI%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Georgiana Carlton (Georgi)",
+                "rating": 5,
+                "contributor_id": "116203856882013918051",
+                "description": "What a great place!! The food was delicious, the service was great! The speakeasy cigar bar downstairs was pretty cool! Will definitely be back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURIam96N1ZBEAE!2m1!1s0x0:0xa94b9cdabcfcc70a!3m1!1s2@1:CIHM0ogKEICAgIDHjoz7VA%7CCgwI0cadtwYQkITNrgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOaUOnCD0ItBpqge6LKxULI3RpurCqUpOUSJ7RS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNDvkAUOjHUDMQ2JGUoO5Vj97HiuWKMxpsJvRNP=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Janiya Cherry",
+                "rating": 5,
+                "contributor_id": "114190397120253024781",
+                "description": "Such a great atmosphere if you want to have some good pizza, drinks and chill. All of the bartenders and kitchen staff were so kind! My only regret is that I did not get everyone’s names. Also, I highly recommend going downstairs to chill with Eddie and the staff upstairs.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYN09qZ1JBEAE!2m1!1s0x0:0xa94b9cdabcfcc70a!3m1!1s2@1:CIHM0ogKEICAgICX7OjgRA%7CCgwIm_CxuAYQoKG-8AI%7C?hl=en-US",
+                "date": "a month ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+    }
+}

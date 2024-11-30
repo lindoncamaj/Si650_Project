@@ -1,0 +1,185 @@
+{
+    "docid": 189,
+    "Title": "Jet's Pizza",
+    "Price": [],
+    "Place ID": "ChIJxcDdpnmuPIgR8ZsNRt3YfWU",
+    "Type ID": [],
+    "Type": [
+        "Pizza delivery",
+        "Catering food and drink supplier",
+        "Caterer",
+        "Delivery service",
+        "Delivery Restaurant",
+        "Takeout Restaurant",
+        "Pizza restaurant",
+        "Pizza Takeout",
+        "Restaurant"
+    ],
+    "Menu": {
+        "link": "https://www.jetspizza.com/menu/?utm_source=GMB&utm_medium=GMB-SEO&utm_campaign=MI-149&utm_content=Menu",
+        "source": "jetspizza.com"
+    },
+    "Address": "1749 Plymouth Rd, Ann Arbor, MI 48105",
+    "GPS Coordinates": {
+        "latitude": 42.2983184,
+        "longitude": -83.7214173
+    },
+    "Phone Number": "(734) 332-1300",
+    "Rating": 3.7,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 47
+        },
+        {
+            "stars": 2,
+            "amount": 7
+        },
+        {
+            "stars": 3,
+            "amount": 10
+        },
+        {
+            "stars": 4,
+            "amount": 28
+        },
+        {
+            "stars": 5,
+            "amount": 109
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "10 AM–11 PM"
+        },
+        {
+            "saturday": "10 AM–11 PM"
+        },
+        {
+            "sunday": "11 AM–10 PM"
+        },
+        {
+            "monday": "10 AM–10 PM"
+        },
+        {
+            "tuesday": "10 AM–10 PM"
+        },
+        {
+            "wednesday": "10 AM–10 PM"
+        },
+        {
+            "thursday": "Closed (Thanksgiving)"
+        }
+    ],
+    "Description": "Counter-serve chain offering Detroit-style pizza with flavored crusts, plus wings & subs.",
+    "Details": [
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"So much bread, cheese, crispy crust, totally devine.\""
+            },
+            {
+                "snippet": "\"Ordered 2 slices and received 2 middle pieces.\""
+            },
+            {
+                "snippet": "\"Soon to be new owner of this location was very kind.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Sandy Klocinski",
+                "rating": 5,
+                "contributor_id": "115480602971643952379",
+                "description": "Yum! And such nice people! I was down today after I ordered from a completely DIFFERENT separate Jets that didn't honor what they said they would regarding my vegetarian diet restrictions. I was worried I wouldn't be able to eat Jets again, but luckily I called this location, and the woman I spoke with was so nice and understanding. She sympathized with my situation immediately, and assured me that diet restrictions like vegetarianism and veganism are something they take very seriously, and that they have a lot of vegetarian and vegan clients, and it's just something that I could tell was important to them. I really wish I'd gotten her name, I spoke with her about 45 minutes ago, she was so great, and we are definitely switching to this Jets! The pizza came so quickly too, and was so tasty!!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNyOXZDZXp3RRAB!2m1!1s0x0:0x657dd8dd460d9bf1!3m1!1s2@1:CIHM0ogKEICAgICr9vCezwE%7CCgwIudKntAYQgKLfnwE%7C?hl=en-US",
+                "date": "4 months ago"
+            },
+            {
+                "username": "Anthony Liu",
+                "rating": 1,
+                "contributor_id": "112733344584104062131",
+                "description": "Terrible service. I ordered pizza for pickup before hand and they kept telling me it'd be ready in 5 minutes when I arrived, until finally they admitted they lost the order. I finally got my pizza after waiting like a chump at the store for 30 minutes. Was the pizza worth it? Overly oily and salty like my feelings toward \"mr. Jet\". Just order Domino's instead or get no thai next door",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURucnFEME1BEAE!2m1!1s0x0:0x657dd8dd460d9bf1!3m1!1s2@1:CIHM0ogKEICAgIDnrqD0MA%7CCgwIspyHuAYQuNDXqgI%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "jessie bowersock",
+                "rating": 3,
+                "contributor_id": "107010024351005949514",
+                "description": "First time ordering at the jets. Ordered 2 slices and received 2 middle pieces.  I have probably order this 100 times and it's always one corner and one middle.  Still best pizza around.  Better luck next time.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUd05TQk93EAE!2m1!1s0x0:0x657dd8dd460d9bf1!3m1!1s2@1:CIHM0ogKEICAgICTwNSBOw%7CCgwIoO3zsQYQyMe7vQI%7C?hl=en-US",
+                "date": "6 months ago"
+            },
+            {
+                "username": "Heather K",
+                "rating": 5,
+                "contributor_id": "107724984316455324476",
+                "description": "I ordered from Jets on Valentine's Day and I should have known it would be one of their busiest nights.  One of their delivery cars broke down so everything got backed up over an hour and our pizza was cold when it arrived. I was upset. I called and they immediately zeroed out the charges, no questions asked.   Later, the owner texted me directly to apologize and explain what happened -- and he automatically added a discount to our next order. I was so impressed with Joe's thoughtfulness and personal outreach and tried to pay retroactively-- he wouldn't let me. I also tipped the driver.  My hope is that, going forward, we can all have a bit of grace - myself included- especially for small businesses. p.s.  We popped the cold pizza into a toaster oven and it was as good as new.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNkdjlQMFpBEAE!2m1!1s0x0:0x657dd8dd460d9bf1!3m1!1s2@1:CIHM0ogKEICAgICdv9P0ZA%7CCgwIyIfPrgYQ6LHJ2gI%7C?hl=en-US",
+                "date": "9 months ago"
+            },
+            {
+                "username": "Yuliang Hu",
+                "rating": 5,
+                "contributor_id": "110046364390822301973",
+                "description": "Tried their pizza at multiple locations, with take out and dine in. They have always been satisfying. Perfect crispy crust with multiple flavors to choose from and plenty of toppings.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6c3BTNnh3RRAB!2m1!1s0x0:0x657dd8dd460d9bf1!3m1!1s2@1:CIHM0ogKEICAgIDzspS6xwE%7CCgwIq-6TswYQkO2oggM%7C?hl=en-US",
+                "date": "5 months ago"
+            },
+            {
+                "username": "Will Scott",
+                "rating": 4,
+                "contributor_id": "116552163585774682621",
+                "description": "These guys are typically very consistent, today however was a bit frustrating.  **Note to self.  If delivery says 45 minutes and it takes an hour and 45 minutes - do yourself a favor and ask them to make fresh pizzas.  Normally though I’d give these guys 5 stars all the way!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREeU9lMVN3EAE!2m1!1s0x0:0x657dd8dd460d9bf1!3m1!1s2@1:CIHM0ogKEICAgIDDyOe1Sw%7CCgwIy7-9sAYQyJOLtwI%7C?hl=en-US",
+                "date": "7 months ago"
+            },
+            {
+                "username": "Laura Locke",
+                "rating": 5,
+                "contributor_id": "117386257678072228440",
+                "description": "I absolutely love Jet's Pizza! The dough is so good and delicious it makes me start to salivate just thinking about it. Today was the first day I tried the Italian Jetzee and added white onions to it! The crust is somewhat crunchy but not too crunchy. They put just the right amount of meats in lettuce Etc to feel your tummy and make a smile 😄👍! If you haven't tried it I would suggest you try it at least one time cuz it's the bomb💣💣",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURJdy1HR0hBEAE!2m1!1s0x0:0x657dd8dd460d9bf1!3m1!1s2@1:CIHM0ogKEICAgIDIw-GGHA%7CCgwIlcyJ4gUQvOOj-QE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNSnIyemWP5NO2vyfgJ71HyzowmpEoR8JLJeHCx=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 years ago"
+            },
+            {
+                "username": "Erik Rausch",
+                "rating": 1,
+                "contributor_id": "101177005774798963015",
+                "description": "Completely unacceptable for management not to have the restaurant ready for the biggest Lion’s game of the year. Only 4 employees working, missing tickets, and making customers wait 20 minutes after their order is supposed to be done. This is NOT on the employees but management should be ashamed.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN0aFB6RlV3EAE!2m1!1s0x0:0x657dd8dd460d9bf1!3m1!1s2@1:CIHM0ogKEICAgICthPzFUw%7CCgsIuMzbrQYQqICVYg%7C?hl=en-US",
+                "date": "9 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "curbside_pickup": true,
+        "no_contact_delivery": true,
+        "dine_in": false
+    }
+}

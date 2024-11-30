@@ -1,0 +1,162 @@
+{
+    "docid": 186,
+    "Title": "Main Street Ann Arbor",
+    "Price": [],
+    "Place ID": "ChIJTYfCOQmuPIgR34P_xewZSeM",
+    "Type ID": [],
+    "Type": [
+        "Non-profit organization"
+    ],
+    "Menu": [],
+    "Address": "15 Research Dr, Ann Arbor, MI 48103",
+    "GPS Coordinates": {
+        "latitude": 42.2976629,
+        "longitude": -83.7479412
+    },
+    "Phone Number": "(734) 668-7112",
+    "Rating": 4.8,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 0
+        },
+        {
+            "stars": 2,
+            "amount": 0
+        },
+        {
+            "stars": 3,
+            "amount": 1
+        },
+        {
+            "stars": 4,
+            "amount": 1
+        },
+        {
+            "stars": 5,
+            "amount": 13
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "9 AM–12 AM"
+        },
+        {
+            "saturday": "9 AM–12 AM"
+        },
+        {
+            "sunday": "10 AM–12 AM"
+        },
+        {
+            "monday": "9 AM–12 AM"
+        },
+        {
+            "tuesday": "9 AM–12 AM"
+        },
+        {
+            "wednesday": "9 AM–12 AM"
+        },
+        {
+            "thursday": "9 AM–12 AM (Thanksgiving)"
+        }
+    ],
+    "Description": "",
+    "Details": [
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "most_relevant": [
+            {
+                "username": "Veronica Mars",
+                "rating": 5,
+                "contributor_id": "112432147992134294765",
+                "description": "Lovely place for a morning and evening dog walk, people watching, drink en plein air, tacos, etc ...sometimes they even host a silent disco in the summer",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMeU1PV3VRRRAB!2m1!1s0x0:0xe34919ecc5ff83df!3m1!1s2@1:CIHM0ogKEICAgICLyMOWuQE%7CCgwI2fWwswYQgKzWkwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNY8cZEzmYJTe0uqOrhildlMS7gF7IputIZPu-G=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMccOYJsU2ruF05SYZKPStHgepD8ai3dLFEPR1j=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Chandni Sahgal",
+                "rating": 5,
+                "contributor_id": "118132225279996569238",
+                "description": "This is the most pulsating street of downtown Ann Arbor Michigan. There are several gourmet Food&B outlets from every part of the world. We chose a Cuban Burger place...The street was lit up for the Chinese New year adding to the festive look and a University Town energy",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNvb3FlUEF3EAE!2m1!1s0x0:0xe34919ecc5ff83df!3m1!1s2@1:CIHM0ogKEICAgICooqePAw%7CCgsI9cP04gUQ8NSXfw%7C?hl=en-US",
+                "date": "5 years ago"
+            },
+            {
+                "username": "Matthew Sian",
+                "rating": 5,
+                "contributor_id": "109752769531970555468",
+                "description": "Great place to visit always friendly people",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM2bU9PV3FnRRAB!2m1!1s0x0:0xe34919ecc5ff83df!3m1!1s2@1:CIHM0ogKEICAgIC6mOOWqgE%7CCgsI5eKwiQYQkNiBRA%7C?hl=en-US",
+                "date": "3 years ago"
+            },
+            {
+                "username": "Crystal Thurman",
+                "rating": 5,
+                "contributor_id": "108719356621225681094",
+                "description": "Awesome place",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQzekxxZl9RRRAB!2m1!1s0x0:0xe34919ecc5ff83df!3m1!1s2@1:CIHM0ogKEICAgID3zLqf_QE%7CCgwIr5HPuQYQyM3x0QM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOjpYEjeezII85i6V3FW4h0FrRCSXcQv5Wh7Gyj=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO_M9cp1UvHxtXgMtj7zBgreYFH83mKGzlPZ-jX=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a week ago"
+            },
+            {
+                "username": "Yaz Rojas",
+                "rating": 5,
+                "contributor_id": "112382012453626276611",
+                "description": "Lindo lugar para caminar y compartir en familia. En Halloween puedes ir a pedir caramelos en las tiendas temprano.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURGMFk3aGhRRRAB!2m1!1s0x0:0xe34919ecc5ff83df!3m1!1s2@1:CIHM0ogKEICAgIDF0Y7hhQE%7CCgwIq9-rqgYQgLOMmgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOs0wujdRONkgXS4iXsPgWME2h3LdtP-PKNYUZ6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPATT6TDJZTeCcdKvINxI-oPI6VCPrwDWN1H9SX=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Farhan Ayaz",
+                "rating": 5,
+                "contributor_id": "116072990393456040847",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQzOHFYVkJ3EAE!2m1!1s0x0:0xe34919ecc5ff83df!3m1!1s2@1:CIHM0ogKEICAgID38qXVBw%7CCgwIoN_UuQYQiMv1zAI%7C?hl=en-US",
+                "date": "a week ago"
+            },
+            {
+                "username": "Mike Culp",
+                "rating": 3,
+                "contributor_id": "110055977257809221219",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYZ0otUmVnEAE!2m1!1s0x0:0xe34919ecc5ff83df!3m1!1s2@1:CIHM0ogKEICAgIDXgJ-Reg%7CCgwIxavfuAYQqKPdzgI%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Ahmed Abdelrahim",
+                "rating": 5,
+                "contributor_id": "107915320274553224667",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuaHBmTWFREAE!2m1!1s0x0:0xe34919ecc5ff83df!3m1!1s2@1:CIHM0ogKEICAgIDnhpfMaQ%7CCgwI-ISEuAYQsLmmhAE%7C?hl=en-US",
+                "date": "a month ago"
+            }
+        ]
+    },
+    "Services": []
+}

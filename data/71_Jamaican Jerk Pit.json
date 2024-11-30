@@ -1,0 +1,257 @@
+{
+    "docid": 71,
+    "Title": "Jamaican Jerk Pit",
+    "Price": [],
+    "Place ID": "ChIJTYG980CuPIgRWvX_1FIM7gA",
+    "Type ID": [],
+    "Type": [
+        "Jamaican restaurant",
+        "Restaurant"
+    ],
+    "Menu": {
+        "link": "http://www.jamaicanjerkpit.com/menu",
+        "source": "jamaicanjerkpit.com"
+    },
+    "Address": "314 S Thayer St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2790921,
+        "longitude": -83.73978029999999
+    },
+    "Phone Number": "(734) 585-5278",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 27
+        },
+        {
+            "stars": 2,
+            "amount": 19
+        },
+        {
+            "stars": 3,
+            "amount": 26
+        },
+        {
+            "stars": 4,
+            "amount": 114
+        },
+        {
+            "stars": 5,
+            "amount": 537
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11:30 AM–9 PM"
+        },
+        {
+            "saturday": "12–9 PM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "11:30 AM–9 PM"
+        },
+        {
+            "tuesday": "11:30 AM–9 PM"
+        },
+        {
+            "wednesday": "11:30 AM–9 PM"
+        },
+        {
+            "thursday": "11:30 AM–9 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "Quaint, colorful cafe featuring Caribbean eats such as jerk chicken nachos, plus vegetarian options.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Coffee",
+                "Comfort food",
+                "Halal food",
+                "Healthy options",
+                "Quick bite",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid parking lot",
+                "Paid street parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Delicious food, good service, very nice staff, and cozy dining.\""
+            },
+            {
+                "snippet": "\"I ordered jerk chicken and curry chicken roti spicy.\""
+            },
+            {
+                "snippet": "\"Loved it ..authentic Jamaican food and great ambience in a small setting\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Biiana Rojas",
+                "rating": 5,
+                "contributor_id": "117536069320001386140",
+                "description": "Fantastic food and great service. I had the goat curry and could not be happier with the choice! Wonderful experience overall. Totally recommended.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURMaXNmXzVBRRAB!2m1!1s0x0:0xee0c52d4fff55a!3m1!1s2@1:CIHM0ogKEICAgIDLisf_5AE%7CCgwI6MvxswYQyNmgxAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN4se4VUisDfxZmOF4oZM7ampuGhgW3YTftTLz0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP0xutUHvd5pqznww-cpQznbv3uJGn0D0DJmlEr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPkDtTCMlXKao_21NObK8WA9yATnj0C-fetIGtn=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Lena Bouwens",
+                "rating": 5,
+                "contributor_id": "103473566691780910152",
+                "description": "Incredibly delicious! We each ordered our own meal and ended up sharing, so we could try a bit of everything. Our favorite was the jerk chicken pasta! Our server was lovely and the restaurant has a fun island vibe",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURkZ00zQ2hBRRAB!2m1!1s0x0:0xee0c52d4fff55a!3m1!1s2@1:CIHM0ogKEICAgIDdgM3ChAE%7CCgwItfrPrgYQgI2p1wM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOVa_1zlp5kt9aRSLFlrx1XH19VCFskDmaTyRbE=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "9 months ago"
+            },
+            {
+                "username": "Yuliang Hu",
+                "rating": 5,
+                "contributor_id": "110046364390822301973",
+                "description": "Deliciously spiced food with many vegetarian options and decent price for the generous portion.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQzemFQZHh3RRAB!2m1!1s0x0:0xee0c52d4fff55a!3m1!1s2@1:CIHM0ogKEICAgID3zaPdxwE%7CCgwIp6HouQYQ-JOengM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNttAx0Y6f8NH-ZsCMZrqco1DS_gdWRlTgT8Cey=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 days ago"
+            },
+            {
+                "username": "Timothy Forbush",
+                "rating": 4,
+                "contributor_id": "111045611219267675651",
+                "description": "Absolutely delicious, very helpful staff.  It's a little weird, nothing but empty tables when you walk in...everything is downstairs. But it's worth it.  That's the jerk chicken, we got it w low spice.  There was heat, but just there for flavor",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNENU5hWEtBEAE!2m1!1s0x0:0xee0c52d4fff55a!3m1!1s2@1:CIHM0ogKEICAgICD5NaXKA%7CCgwIp8uBsAYQ0KjNowI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP2cf6UiecuVO4_V7FOU9uf3x_a_pV1vRNCdeZ6=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "Joseph Burey",
+                "rating": 5,
+                "contributor_id": "114574093901786057521",
+                "description": "Authentic and incredible. From the chicken curry patties to the jerk chicken plate with huge portions. Full satisfaction from some delicious food.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNyMDl1X1dnEAE!2m1!1s0x0:0xee0c52d4fff55a!3m1!1s2@1:CIHM0ogKEICAgICr09u_Wg%7CCgsIiuy8tAYQoPG4fQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPKINYa1RrGNAcPR6XqJOywWuguXL4pKr1jvD70=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Vikram Bala",
+                "rating": 5,
+                "contributor_id": "118263460813448768909",
+                "description": "This place is amazing 🇯🇲!! It's really small so there's not much seating, but the food is spectacular!! The spice 🌶️ is on point, the seasoning is brilliant, and the flavors are absolutely beautiful. The portions are ginormous too. Just note that the wait time is always super long, so make sure to order well in advance.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUROeXVqeFVREAE!2m1!1s0x0:0xee0c52d4fff55a!3m1!1s2@1:CIHM0ogKEICAgIDNyujxUQ%7CCgwI2r-0rQYQ0ITm9QE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOtjzbKr846bm0IsUzNm8gBHwXWKdkO0MeWPGax=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "10 months ago"
+            },
+            {
+                "username": "Zach L",
+                "rating": 4,
+                "contributor_id": "110889598591884695918",
+                "description": "Great food, filled with spice and seasonings. One of the most authentic Jamaican restaurants in AA and the Metro Detroit area. However for the price customers should receive more meat when ordering dinners. Tons of rice and veggies but don't skimp on the meat! Also $5 for a beverage is highway robbery. Service is friendly and the food is always fresh.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3X09PanNBRRAB!2m1!1s0x0:0xee0c52d4fff55a!3m1!1s2@1:CIHM0ogKEICAgIC7_OOjsAE%7CCgwI4oTvtQYQ0OLdsAM%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "brian mcnish",
+                "rating": 5,
+                "contributor_id": "115599589034902670551",
+                "description": "Everything I have tried here has been fantastic. We usually order carry out as there isn't much seating but today 3 of us ate in. As usual the food was fantastic and the waitress was also great. Chicken was so tender with the perfect amount of spice. Rice & peas (beans), sauteed vegetables, and plantains were also great. One of my favorite places to eat in A2.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURUeXMzMTh3RRAB!2m1!1s0x0:0xee0c52d4fff55a!3m1!1s2@1:CIHM0ogKEICAgIDTys318wE%7CCgwIm_6-sgYQuPT0wwM%7C?hl=en-US",
+                "date": "5 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+    }
+}

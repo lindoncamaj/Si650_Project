@@ -1,0 +1,254 @@
+{
+    "docid": 60,
+    "Title": "The Seoul",
+    "Price": [],
+    "Place ID": "ChIJEQubAT-vPIgRYtouEfjETuc",
+    "Type ID": [],
+    "Type": [
+        "Korean restaurant"
+    ],
+    "Menu": [],
+    "Address": "620 E Liberty St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.279167099999995,
+        "longitude": -83.7413406
+    },
+    "Phone Number": "(734) 585-0472",
+    "Rating": 4.1,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 15
+        },
+        {
+            "stars": 2,
+            "amount": 9
+        },
+        {
+            "stars": 3,
+            "amount": 16
+        },
+        {
+            "stars": 4,
+            "amount": 23
+        },
+        {
+            "stars": 5,
+            "amount": 97
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11:30 AM–10 PM"
+        },
+        {
+            "saturday": "12–10 PM"
+        },
+        {
+            "sunday": "12–10 PM"
+        },
+        {
+            "monday": "11:30 AM–10 PM"
+        },
+        {
+            "tuesday": "11:30 AM–10 PM"
+        },
+        {
+            "wednesday": "11:30 AM–10 PM"
+        },
+        {
+            "thursday": "11:30 AM–10 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Comfort food",
+                "Hard liquor",
+                "Healthy options",
+                "Small plates"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy"
+            ]
+        },
+        {
+            "crowd": [
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Good quality Korean bbq with a relatively cheap price and large portions.\""
+            },
+            {
+                "snippet": "\"My only gripe with this place was the service….i mean our waiter disappeared.\""
+            },
+            {
+                "snippet": "\"The bulgogi soup was tasty (a bit sweet) and overall a very satisfying meal.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Yuliang Hu",
+                "rating": 5,
+                "contributor_id": "110046364390822301973",
+                "description": "The Bossam was a pleasant surprise. The pickled radish, sauce and pork belly that melts in your mouth creates a nice balance of texture and flavors. I wouldn't have ordered it just looking at the description on the menu, so it's worth asking the server for more details if one is not familiar with some of the dishes. Would come back and try a few more items.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURiZ2NqM3JRRRAB!2m1!1s0x0:0xe74ec4f8112eda62!3m1!1s2@1:CIHM0ogKEICAgIDbgcj3rQE%7CCgsIhqPGtQYQsJjzbg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM5ltXg28kbOf8a5E7NDMLJWMTuoz7WWp9tSFI2=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNfUCt3ZpI8M1fWX383YrvTI7I-f-aor7k8PC7e=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOJU9gqvx-GEw2WOszf_lK7u4fSNCbthzf8137w=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Jean Weinrich",
+                "rating": 5,
+                "contributor_id": "108160196041240097575",
+                "description": "This was incredible. We had the bibimbop, garlic soy wings and the bulgogi. I want to move to Ann Arbor just so I can eat here again. There was some delicious side dishes that I have no idea what they were but they were super flavorful and delicious.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYNW9LSVV3EAE!2m1!1s0x0:0xe74ec4f8112eda62!3m1!1s2@1:CIHM0ogKEICAgIDX5oKIUw%7CCgsIqbH1uAYQsOHDaA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMmgSfJyO8j0SKqW5lQaPzUU4Uk_m5JG2NQ3nMV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONvcDV8VWishPoK5XJFl_FjcdItQy80JAA_6R1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMXTQsZKPw46nI6fR384lUwWjMaJP7KfGXHUfTK=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Lauren B",
+                "rating": 5,
+                "contributor_id": "114381769926587863376",
+                "description": "I was looking for good Korean restaurant near Ann Arbor and saw some really good reviews so I was curious and went on Wednesday night. This place my first time and perfect deserve all the hype. Cooking your own food was fun and amazing experience. Customer service was excellent and manager was super sweet great attitude. Happy to answer any questions about the menu how to use the grill. It was really fun and definitely I will go again.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMzNE1tUmt3RRAB!2m1!1s0x0:0xe74ec4f8112eda62!3m1!1s2@1:CIHM0ogKEICAgIC34MmRkwE%7CCgwI_pWVuQYQ6JaemAI%7C?hl=en-US",
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Fatoumata Fofana",
+                "rating": 5,
+                "contributor_id": "112772031032527153432",
+                "description": "Soon as an open the door the host was super nice smile . She led us to the table very kindly. She made us feel real special. She explained the menu which made it easy to understand. I really enjoyed my best friend birthday on Saturday . I highly recommend",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQzeDZqREdBEAE!2m1!1s0x0:0xe74ec4f8112eda62!3m1!1s2@1:CIHM0ogKEICAgID3x6jDGA%7CCgwI36zyuQYQ8KL3pAM%7C?hl=en-US",
+                "date": "3 days ago"
+            },
+            {
+                "username": "Youngsoon Jang",
+                "rating": 5,
+                "contributor_id": "118045012711956086333",
+                "description": "Love this place!\nThe best Korean food in Ann Arbor. Everything I had was authentic and delicious; the fresh BBQ meat was so special and the soup and cold noodles have full of flavors.\nManager was so friendly and servers also were nice. I will definitely go there again.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYcFB5eXJ3RRAB!2m1!1s0x0:0xe74ec4f8112eda62!3m1!1s2@1:CIHM0ogKEICAgICXpPyyrwE%7CCgwI5NauuAYQ-IuCxwI%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Mica Novohc",
+                "rating": 5,
+                "contributor_id": "102328948064922516185",
+                "description": "I went there for dinner on Tuesday with a couple of friends. Owner or manager was very nice and kind. Sat and greeted us warmly. The food took a while to arrive but it didn’t matter too much because it was busy. All server were smile and the service was excellent. If you are looking for good Korean restaurant, you should defe Check this place out. Great atmosphere service was fantastic!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYaWNlcG1RRRAB!2m1!1s0x0:0xe74ec4f8112eda62!3m1!1s2@1:CIHM0ogKEICAgICXicepmQE%7CCgwI0MzGuAYQ0MzzvwE%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Vikram Bala",
+                "rating": 5,
+                "contributor_id": "118263460813448768909",
+                "description": "We went in the afternoon and it was pretty empty. Food was awesome though! It took a while to come out but everything was super delish 😋 also note that it is a bit on the higher side price-wise. Definitely still worth a try though!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ5dHBXeURREAE!2m1!1s0x0:0xe74ec4f8112eda62!3m1!1s2@1:CIHM0ogKEICAgID9tpWyDQ%7CCgwIk-HWrwYQ2LWl0gE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNq5etypypM-cG6cvpwa6fPKnYJrycr5_xOqPlL=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "Alyssa Manimtim",
+                "rating": 5,
+                "contributor_id": "114679721650490324113",
+                "description": "Amazing place and amazing food. Was visiting Ann Arbor and passed this place a few times and finally decided to walk in. This was my first time experiencing Korean bbq. Our server was very helpful how to cook the meat. The bulgogi was fantastic!!!! Also not sure how they make the egg, but it was delicious. Got the cheapest combo and it came with a lot of food plus leftovers. Can’t wait to come back again!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNwNS0tbm1nRRAB!2m1!1s0x0:0xe74ec4f8112eda62!3m1!1s2@1:CIHM0ogKEICAgICp5--nmgE%7CCgwI06zbpgYQqILW0QM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOu5jjhzZZeF9dqzJ_aoAG8YFJN2SwbsLsPX-dm=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP8Hgsd_c8ztCNS2lRKPfqUMXzOXgMFX7aARUx_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMtkaXIBIPNQ4R8OjQHmOxzHdLwWWOO6EO7FAib=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "docid": 190,
+    "Title": "Toarmina's Pizza (Ann Arbor West)",
+    "Price": [],
+    "Place ID": "ChIJifmX1CCxPIgRH8VbmdQeono",
+    "Type ID": [],
+    "Type": [
+        "Pizza delivery",
+        "Chicken restaurant",
+        "Chicken shop",
+        "Chicken wings restaurant",
+        "Delivery service",
+        "Pizza restaurant",
+        "Pizza Takeout",
+        "Salad shop",
+        "Sandwich shop"
+    ],
+    "Menu": {
+        "link": "https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=636ee0ca-ef41-42b6-ac1d-21f43d54c690&client_is_mobile=true&glfa_cid=56378825.1579445813&glfa_t=1579456985540",
+        "source": "foodbooking.com"
+    },
+    "Address": "2145 W Stadium Blvd, Ann Arbor, MI 48103",
+    "GPS Coordinates": {
+        "latitude": 42.2723975,
+        "longitude": -83.7764771
+    },
+    "Phone Number": "(734) 800-2424",
+    "Rating": 4.1,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 13
+        },
+        {
+            "stars": 2,
+            "amount": 2
+        },
+        {
+            "stars": 3,
+            "amount": 7
+        },
+        {
+            "stars": 4,
+            "amount": 21
+        },
+        {
+            "stars": 5,
+            "amount": 66
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11 AM–12 AM"
+        },
+        {
+            "saturday": "11 AM–12 AM"
+        },
+        {
+            "sunday": "12–9 PM"
+        },
+        {
+            "monday": "11 AM–10 PM"
+        },
+        {
+            "tuesday": "11 AM–10 PM"
+        },
+        {
+            "wednesday": "11 AM–10 PM"
+        },
+        {
+            "thursday": "11 AM–10 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "Counter-serve pizzeria chain offering a sweet sauce, flavored crusts & a 24-inch option.",
+    "Details": [
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot"
+            ]
+        },
+        {
+            "payments": [
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Great staff, great food, cheesy bread is delicious, wings are excellent.\""
+            },
+            {
+                "snippet": "\"Not greasy and the amount of cheese, toppings, and sauce is just right.\""
+            },
+            {
+                "snippet": "\"After ordering the family deal, they told us they were out of Italian sausage.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Nick Nuechterlein",
+                "rating": 5,
+                "contributor_id": "100326297592838056015",
+                "description": "Moral was high in the car. We’d just seen an eclipse! Totality! Dinner time was near and we thought, “Pasta or pizza?” “Pizza!,” we said, and a lot of it. Ten minutes out from home, I called Toarmina’s from the back seat and said, “I would like a giant pizza.” They said, “Toppings?” I said, “half pep, half cheese.” They said, “10-15 minutes.” What were we about to get??? How big is giant?? Large is 14”ish? Large < Giant? What a mystery! I thought, “Surely, Giant is a rebranding of Large?” No sir! Giant is 24”! 24”!! Could hardly get it in the car! Could hardly get it in the front door! Delicious, too!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREMmZxV09nEAE!2m1!1s0x0:0x7aa21ed4995bc51f!3m1!1s2@1:CIHM0ogKEICAgIDD2fqWOg%7CCgwI8e3fsAYQoOPBvgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPtVI0OmFk60-CEEDnroKMRYQ8po5s2cQmrTuk6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN0uyHCLEyIEObgxd2oZgB9X-IkVDAspOcMEAOw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOBoiopZUL7EDvlvlHMUEidaVtAczL9PRSvLSTK=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOXGCDcUbQKGZ8ZVKK9X7sgfEEH8-VmQlceexe8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMoc0p8KmecIRIuVfP0TOQl_0DN1LjJ9u-tOG8s=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP5o8_Ec-5TtmGGFqAy_jtNMBHhJq0CLBAejHbN=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOQraOQRmIZ-az5RqQRHJCg36I_tcVNxv87wZls=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN4AgA5uQDTR1pQ8y5gq6MaqUvhX4jt3k2QlrEo=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "David Thorne",
+                "rating": 4,
+                "contributor_id": "101494851102734096399",
+                "description": "A very good pizza place in Ann Arbor. It’s not ‘life-changing’ pizza, but it is a very good go-to option.\n\nThe cheese, sauce, and crust were all good. I’d say sauce was #1, followed by cheese, and then crust.\n\nWe bought a hand-tossed and a deep dish. Both were distinct enough that I’d probably buy both again.\n\nIt is in the expensive side.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3MUt6RmxRRRAB!2m1!1s0x0:0x7aa21ed4995bc51f!3m1!1s2@1:CIHM0ogKEICAgIC71KzFlQE%7CCgwI8I_qtQYQ-KrhlgI%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Emilia Fichter",
+                "rating": 4,
+                "contributor_id": "112187198778265025540",
+                "description": "A good 4-ish stars pizza place. We ordered the deluxe pizza and we'll, it was really loaded! I liked the taste of the dough which was well cooked, not dry. The price was ok given the tons of toppings and I was wondering if by reducing them just a little the pizza could get more affordable and easy to eat (it was so loaded that the toppings were too much weight for the bread).\n\nStaff was super kind, polite, even giving free cookies to my kids. I didn't have any issue ordering, it was straightforward, and the waiting time was really short for ordering take out at the counter (about 10 to 15 min).",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN1OWFHb0N3EAE!2m1!1s0x0:0x7aa21ed4995bc51f!3m1!1s2@1:CIHM0ogKEICAgICu9aGoCw%7CCgwIk9WnlwYQ4OXR7AE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNc2o2ILGQLFYCHZP3kWq8liGpC2yuOox92p7mU=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            },
+            {
+                "username": "Lily Lee",
+                "rating": 4,
+                "contributor_id": "116634703802744507575",
+                "description": "A little pricey in my opinion for what we ordered. Deluxe 16\" pizza plus one pound of traditional wings in Italian (which was about 8 wings). Even after $10 Groupon, it was still $33, which included a tip.\n\nHowever, food was decent! I'll go back to check out other items on menu and try a different 🍕 to make my way through the list.\n\nCalled in order but there was still about an additional 15-20 minute wait upon arrival. A gentleman in line ahead of me waited to order but eventually left.\n\n4 stars for the wait and pricing 😋",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNHbW9mZXZBRRAB!2m1!1s0x0:0x7aa21ed4995bc51f!3m1!1s2@1:CIHM0ogKEICAgICGmofevAE%7CCgsI793giwYQiKTZNg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNUAcD-cWcCDByslbdUYDyZRINPqy_UIQUv5NGN=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPpDqd3FztbcOzVInwZ_FLIPalh7-DS8s96xnER=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 years ago"
+            },
+            {
+                "username": "Miesha Carey",
+                "rating": 5,
+                "contributor_id": "104983384853985314914",
+                "description": "Great pizza, very friendly and helpful staff! Was visiting from out of town and will definitely come back in the future!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYX3ZyZGxRRRAB!2m1!1s0x0:0x7aa21ed4995bc51f!3m1!1s2@1:CIHM0ogKEICAgIDX_vrdlQE%7CCgsIu_H6uAYQoNiKIA%7C?hl=en-US",
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "John McQue",
+                "rating": 5,
+                "contributor_id": "110079588489129513937",
+                "description": "They are Great and follow directions as they should.I am at this eating a piece of pizza and getting ready to enjoy the great subs I have been ordering for almost a year now, when I order pizza I order from here!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3NXNpOWhRRRAB!2m1!1s0x0:0x7aa21ed4995bc51f!3m1!1s2@1:CIHM0ogKEICAgID75si9hQE%7CCgwIvPektgYQ6MeLjgE%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Bob",
+                "rating": 4,
+                "contributor_id": "107011252345884169953",
+                "description": "Delicious pizza!  Very pleased with it and they were ready at exactly the time I asked for them to be.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3b3ZmQmlnRRAB!2m1!1s0x0:0x7aa21ed4995bc51f!3m1!1s2@1:CIHM0ogKEICAgID7ovfBigE%7CCgwIoJeetgYQ8Pbo-QE%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Bruce DeBruyn",
+                "rating": 4,
+                "contributor_id": "101454095641598137613",
+                "description": "A great place for take out pizza. Love their vegan options in both round and deep dish styles. Service has always been too notch and friendly. I recommend ordering you pizza well done.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqX1B6SkpBEAE!2m1!1s0x0:0x7aa21ed4995bc51f!3m1!1s2@1:CIHM0ogKEICAgIDj_PzJJA%7CCgwIhvjEsQYQgL-4jQE%7C?hl=en-US",
+                "date": "6 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "curbside_pickup": true,
+        "no_contact_delivery": true,
+        "dine_in": false
+    }
+}

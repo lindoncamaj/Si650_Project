@@ -1,0 +1,315 @@
+{
+    "docid": 119,
+    "Title": "CoreLife Eatery",
+    "Price": [],
+    "Place ID": "ChIJ35EGhzGxPIgRInByq4hDrxY",
+    "Type ID": [],
+    "Type": [
+        "Restaurant",
+        "Gluten-free restaurant",
+        "Health food restaurant",
+        "Salad shop",
+        "Soup restaurant",
+        "Vegan restaurant",
+        "Vegetarian restaurant"
+    ],
+    "Menu": {
+        "link": "https://order.eatatcore.com/menu/corelife-ann-arbor",
+        "source": "order.eatatcore.com"
+    },
+    "Address": "205 N Maple Rd Suite 26, Ann Arbor, MI 48103",
+    "GPS Coordinates": {
+        "latitude": 42.2835955,
+        "longitude": -83.7813424
+    },
+    "Phone Number": "(734) 412-4101",
+    "Rating": 4.3,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 34
+        },
+        {
+            "stars": 2,
+            "amount": 17
+        },
+        {
+            "stars": 3,
+            "amount": 24
+        },
+        {
+            "stars": 4,
+            "amount": 38
+        },
+        {
+            "stars": 5,
+            "amount": 288
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11 AM–8 PM"
+        },
+        {
+            "saturday": "11 AM–8 PM"
+        },
+        {
+            "sunday": "11 AM–8 PM"
+        },
+        {
+            "monday": "11 AM–8 PM"
+        },
+        {
+            "tuesday": "11 AM–8 PM"
+        },
+        {
+            "wednesday": "11 AM–8 PM"
+        },
+        {
+            "thursday": "11 AM–8 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "",
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Coffee",
+                "Comfort food",
+                "Healthy options",
+                "Organic dishes",
+                "Quick bite",
+                "Vegan options",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"I ordered the spicy Thai chicken bowl online for pickup.\""
+            },
+            {
+                "snippet": "\"Price are better, better food, and service is very good for the same style food.\""
+            },
+            {
+                "snippet": "\"Good portions, friendly staff, and quality ingredients.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Janette L.",
+                "rating": 4,
+                "contributor_id": "111358790956367277276",
+                "description": "Pleasant first experience. Original Lemonade is the perfect balance of tart and sweet. Food was super tasty and delicious, but I wish the portions were a tad larger.. especially the protein! $15-20 and your bowl is mostly carbs. Otherwise, solid place for healthier options.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURMeWZxamZBEAE!2m1!1s0x0:0x16af4388ab727022!3m1!1s2@1:CIHM0ogKEICAgIDLyfqjfA%7CCgwI_dn7swYQyOjQ2QM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNxwWtH-3nAXMnKPWlGK9Jho9_JYs4JBl1TwZIK=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Mariko Ito",
+                "rating": 5,
+                "contributor_id": "104956679114253125320",
+                "description": "One of the best spots in Ann Arbor for a wholesome, healthy meal! Reminds me of a more customizable, and creative version of chipotle.\n\nPros:\nlots of signature bowls and make your own bowls!, affordable,\nlots of healthy options,\nnice employees\n\nCons:\nthe noodles in the Thai peanut bowl today were very hard (surprising because I’ve never had this issue before),\nlocation isn’t ideal for most students in Ann Arbor but that’s barely a real con\n\nPRO TIP:  get the core life app for $5 off first order!\n\nHighly recommend! The flavors have never disappointed and I always go here after one too many unhealthy meal",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNhNS0tTVdBEAE!2m1!1s0x0:0x16af4388ab727022!3m1!1s2@1:CIHM0ogKEICAgICa5--MWA%7CCgwIhLnMiAYQ6LHOiAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPlnlt5b92VTZUoKZqpvUDeUjWg31FqCeqQJdS9=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 years ago"
+            },
+            {
+                "username": "Trooper Long",
+                "rating": 3,
+                "contributor_id": "107113811241149314474",
+                "description": "We just had dinner for the 1st time at the newly opened CoreLife Eatery located in Ann Arbor’s Westgate Shopping Center. They have many healthy options, including salads and bowls... they offer suggested bowls, plus build-your-own options — more than any other spot in town. Because it is a new place I am willing to try it a few times to give them time to get everything right. I ordered the Korean barbecue pork rice bowl, only they ran out of pork so we substituted beef. The steak in my bowl was warm, not hot. The food assembly was good until the last station, they forgot to add the house made BBQ sauce. And I only noticed that because the bowl was rather dry. So I had to go back for that. The beef was well done and a bit chewy. The drinks are all natural and quite refreshing. Everything is competitively priced. All in all it was a better than average experience with room for some improvements. Next time I’ll try the Cobb salad and see if I can adjust my rating up.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM0OE0yeE13EAE!2m1!1s0x0:0x16af4388ab727022!3m1!1s2@1:CIHM0ogKEICAgIC48M2xMw%7CCgwItfPB5wUQiKLM-gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPL16oPD1CjlVKtXDYxr-6Et__DLN74JPCbjJT_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNvZ-7TXpTX9HN_8Axkjk3buLH1-VxV88E_7_zI=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPXJ8KQnZCG1SF0ukt88Rkoo65a5y4Cl8i60ip5=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOAChLi6Og-YnSrI-7_X_oadPVe0S_UUElxJ7WM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOOpNADmVAZb62diDEuPdxNYPASyH7ylJcubX89=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNikIL-KMi9Y8cwbvNjFsgF33XF3pe9oDfjv_Hr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPnOMY0kw8A6Bnvv8mAHuPh4tXmOyyalVLoy0bL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO2E7Hd0-9n-z0Tri40Hm0NIg3-muvvv_-BavWo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOl7quVCjl5yO6Hc4ntbyjZdZqq-zA4lzgN6p3B=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPNIBsuKoB9MXK0r8Z3bauady4wq8kYKJQukKCE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQLpdpE_U0PlflIEd_XuS8pjVFQvZWckEr3Yee=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPAXRlb6qcKbPI2bpE8WZjmKOQuuoQ-MwWN9MVk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMMXcJzWolzu-0Y9zg3GEpcFdnu4htCYFHYv4Xg=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 years ago"
+            },
+            {
+                "username": "Ameen Sarsour",
+                "rating": 5,
+                "contributor_id": "113110494849087780631",
+                "description": "Glad I found this spot, reminds me of protein bar in Chicago. Healthy options, the Large bowl is really large and the price is very reasonable. Had the BBQ chicken ranch and it was delicious. Can’t wait to try the other options.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNaXzhPeklREAE!2m1!1s0x0:0x16af4388ab727022!3m1!1s2@1:CIHM0ogKEICAgICZ_8OzIQ%7CCgwIuuuxqAYQ4P-bjAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP4pXXfDIlPd8or0YXTQ_nr17IFccqhgZ2RWjCu=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "AJ",
+                "rating": 1,
+                "contributor_id": "118180038700745521524",
+                "description": "I had been fairly pleased with take out from this establishment until Saturday when I had my girlfriend pick up a bowl for me. I was at home isolating, recuperating from Covid. Having eaten about one third of my bowl I suddenly bit into a bean-sized piece of what turned out to be very hard plastic. The impact vibrated my jaw and I was very fortunate not to break a tooth. Needless to say I was stunned and pissed!\n\nI sat motionless for a few moments contemplating my intended actions. Had I been well I might stormed into the store and thrown the plastic at one of the workers! I even considered the possibility of a lawsuit. But sanity prevailed, I got up, tossed the remainder of the bowl into the trash. And, vowed to “NEVER FREQUENT THIS ESTABLISHMENT AGAIN!”  I recommend the same to others.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3OE1EUGlBRRAB!2m1!1s0x0:0x16af4388ab727022!3m1!1s2@1:CIHM0ogKEICAgID78MDPiAE%7CCgsIrJGStgYQqNCQPw%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Christina LePard",
+                "rating": 5,
+                "contributor_id": "116236957176354647002",
+                "description": "This atmosphere is practical, it's not done to flatter or create a mood.  Nice bright and earthy colors. But this food is AMAZING!! Food is high quality, reasonably priced and so so so good! It's actually my favorite  restaurant!! The fountain drinks are special too. I enjoy each flavor but my very favorite is the mandarin orange and cardamom. To eat healthy and treat yourself at the same time ! Well that just does not happen very often. But it has happened for me each time I visited...",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqcUxlU09BEAE!2m1!1s0x0:0x16af4388ab727022!3m1!1s2@1:CIHM0ogKEICAgIDjqLeSOA%7CCgwIz-O6sQYQ2IOYyAM%7C?hl=en-US",
+                "date": "6 months ago"
+            },
+            {
+                "username": "Tori Brady",
+                "rating": 5,
+                "contributor_id": "106969376914764994306",
+                "description": "Nice little find for a healthy, filling, quick-serve place. My husband and I lived in California for a few years and this place reminds me of a lot of the restaurants there. The coconut curry soup was really tasty (was only lukewarm, though) and my Korean BBQ bowl was good too. I wasn't ready for it to be as spicy as it was but I can't wait to go back and try something else.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURNanVqRWVBEAE!2m1!1s0x0:0x16af4388ab727022!3m1!1s2@1:CIHM0ogKEICAgIDMjujEeA%7CCgwI5tCk8AUQsOK1rAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMREB_9zqaY3TvrpKFvvKMv8XdrC_3briPkegLS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMsRGkYEv0E4qMoveGWHegRAvm-2hBBBfR9E8FM=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 years ago"
+            },
+            {
+                "username": "Grace Su Ming",
+                "rating": 3,
+                "contributor_id": "105329286212731930164",
+                "description": "The food felt fresh and ingredients nice. The portions were small. I got the Sriracha ginger tofu and it was okay. The sauce was tasty but it didn't feel like a complete meal. The broccoli cheddar soup was disgusting, worse I've ever had. Overall okay experience.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNCczcyX1p3EAE!2m1!1s0x0:0x16af4388ab727022!3m1!1s2@1:CIHM0ogKEICAgICBs72_Zw%7CCgwItfvSnQYQ6P3IxwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPrw_QlZWsDvfCgmiY1ubVTxMeYewCMpToDMKTP=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN3301KUrpq84OCaN4cD3weWiKazivzBuWocY4H=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+    }
+}

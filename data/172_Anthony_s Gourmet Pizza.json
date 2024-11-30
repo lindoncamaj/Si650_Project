@@ -1,0 +1,269 @@
+{
+    "docid": 172,
+    "Title": "Anthony's Gourmet Pizza",
+    "Price": [],
+    "Place ID": "ChIJsZ_EYvKxPIgRoCd0SXzrPzI",
+    "Type ID": [],
+    "Type": [
+        "Pizza restaurant"
+    ],
+    "Menu": [],
+    "Address": "1508 N Maple Rd, Ann Arbor, MI 48103",
+    "GPS Coordinates": {
+        "latitude": 42.295567,
+        "longitude": -83.7803861
+    },
+    "Phone Number": "(734) 213-2500",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 11
+        },
+        {
+            "stars": 2,
+            "amount": 9
+        },
+        {
+            "stars": 3,
+            "amount": 11
+        },
+        {
+            "stars": 4,
+            "amount": 46
+        },
+        {
+            "stars": 5,
+            "amount": 194
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11 AM–9:30 PM"
+        },
+        {
+            "saturday": "11 AM–9:30 PM"
+        },
+        {
+            "sunday": "1–9 PM"
+        },
+        {
+            "monday": "11 AM–9:30 PM"
+        },
+        {
+            "tuesday": "11 AM–9:30 PM"
+        },
+        {
+            "wednesday": "11 AM–9:30 PM"
+        },
+        {
+            "thursday": "11 AM–9:30 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "",
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Comfort food",
+                "Quick bite"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "crowd": [
+                "College students"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Plenty of parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Great people, good food, decent service.\""
+            },
+            {
+                "snippet": "\"Called and ordered a pizza 3 hours ago and was quoted an hour until delivery.\""
+            },
+            {
+                "snippet": "\"Little bit pricey but the pizza weights as much as multiple hot'n'ready pizzas.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "JD",
+                "rating": 2,
+                "contributor_id": "103865149781032918455",
+                "description": "I was excited to try Anthony’s (Maple) and finally end my search for good pizza in the area.  Granted, only 1 sample size, but my 1 experience was poor.  Got a New York 16” with 2 (skimpy) toppings for $32 plus $2 in the jar.  The NY was not a NY.  It was a “thin crust” but that’s it.  Rather than the edges having a nice, chewy crust border…this pizza faded into a crunchy, cracker-like, ragged-edge, thinness.  It was overcooked and the edges were burnt.  Don’t know what the hype is about?  Maybe the Chicago, but not the NY.  I don’t mind spending on a quality product.  My NY was below average and way overpriced.  One and done.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYMHVIaXJnRRAB!2m1!1s0x0:0x323feb7c497427a0!3m1!1s2@1:CIHM0ogKEICAgICX0uHirgE%7CCgwI24-2uAYQoNq67gE%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "David Russell",
+                "rating": 5,
+                "contributor_id": "101491778566487933000",
+                "description": "Pizza takes 45 minutes - but it is worth it!!!!!\n\nThey have slices you can get heated at lunch.  Plain inside.  Salads have always been very fresh and ingredients seem high quality.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMza1BiX0x3EAE!2m1!1s0x0:0x323feb7c497427a0!3m1!1s2@1:CIHM0ogKEICAgIC3kPb_Lw%7CCgwI2caVuQYQ2J6xlgI%7C?hl=en-US",
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Ralphie",
+                "rating": 4,
+                "contributor_id": "114712733606591540654",
+                "description": "Order: small \"The All American - Chicago Style Stuffed\" pizza. Hearty deep dish pizza with good flavoring over all.  The pizza was the winner of the business. The rest of the experience was adequate.\n\n45 minute wait for pick-up and was on time.  Location was tucked in a plaza and not easily seen from the road.\n\nOnce and a while treat due to the price ($30 for this small pizza)\n\nInterior, unwelcoming which included all but one staff member.  Did not seem the employees enjoyed their job and the dining room was blah.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNtbzVUU2ZnEAE!2m1!1s0x0:0x323feb7c497427a0!3m1!1s2@1:CIHM0ogKEICAgICmo5TSfg%7CCgsI253ijgYQiNaZKg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNZm1qRSrCtReonHdfKFXHtA96DorCTiR6b1lWu=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPmLg1yys3WxAQx03-6jteLNgA0QEgLzKw2Gd2v=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMq10tgNR9oPaOquNmKlwmfWIUOy7svSoahlqeL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNPOc_17mmV_MEyOOgBNQLt4bo52UKBOU2UyaGH=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOZHSqOUErua0Kfp_1V85Ex6bDw23dwHjZ8x8YC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOtL-YAUunT6gjdn5KOum5oOLCGe-3xQs6Zj5wZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM_8PGremdT4anj-jXlW01n95r8AHU2hx44rybt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPkWD8ZI-d41X5QT0gM80Ch9ttDAXCD25P9F7RG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPhJbhAU3G_IrxM7idhoQxqFDMJ_kgEy8zURjqK=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMa8PskP9anWuEDL2eMJsFB5D-V2WZKKz1JYMzL=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            },
+            {
+                "username": "Nishek Kumar",
+                "rating": 5,
+                "contributor_id": "114019358560142487050",
+                "description": "We had an awesome Chicago style dip dish pizza. We placed a medium size order. It was a no meat pizza. It had lot of olives, pineapples,peppers, jalapenos,onions and awesome amount of cheese. The size of pizza was more than enough for  four of us adults. Each slice was like humangous. We ordered online and took a takeout. They let you order ahead. And the staffs were wearing masks while handing out orders.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNpXzdQRGl3RRAB!2m1!1s0x0:0x323feb7c497427a0!3m1!1s2@1:CIHM0ogKEICAgICi_7PDiwE%7CCgsIyM7i_QUQsODOHw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOLlZyJdLhstZVWoUXjeTB51Wuw-0W6iGWHaoZw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOFHwMe2oDg6c0T_whV2Hg1_qzBQeD1WN-OtYnr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNIZs2UYlFmVeN6pOKgV8yh02zrGt2TGrNearld=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPZ3uhwTdncNjdCNXo0QFyM8Z-G9EgrzI7Rz0H_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPzTDXYsCsVRKdb9vGh5YhuLnmLfFf0hTNTs30t=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 years ago"
+            },
+            {
+                "username": "Sara Smelser",
+                "rating": 5,
+                "contributor_id": "112727919482648427820",
+                "description": "The Chicago Style Deep Dish was wonderful.  The crust was light, the sauce had great flavor and the cheese pulled perfectly on each slice. Highly recommend.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUROak1mY3p3RRAB!2m1!1s0x0:0x323feb7c497427a0!3m1!1s2@1:CIHM0ogKEICAgIDNjMfczwE%7CCgwIodGwrQYQqKn0mQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOdJCr7p9IYQqSfRpQ1A-tfwwEFGU4vk8KGJALd=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "10 months ago"
+            },
+            {
+                "username": "Timothy Turner",
+                "rating": 5,
+                "contributor_id": "114025265534711369192",
+                "description": "Full disclosure, I used to be an employee back in the 1995. I used to live to in the Chicago suburbs afterwards and could not find pizza as good as what I remember eating at Anthony's. Peqoud's is a close second, which really says something. Don't take my word for it though, try it yourself. The owner and his family are stand up people who care about what they are serving up.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNyeElibU1REAE!2m1!1s0x0:0x323feb7c497427a0!3m1!1s2@1:CIHM0ogKEICAgICrxIbmMQ%7CCgwIgqOYtAYQqKvv0gM%7C?hl=en-US",
+                "date": "4 months ago"
+            },
+            {
+                "username": "Ariel Wan",
+                "rating": 5,
+                "contributor_id": "102397713774078151726",
+                "description": "There's a debate on whether Anthony's pizza is worth it's price. My opinion is that it's DEFINITELY worth it. A medium All American deep dish pie can feed a family of 3 with left over slices for 2 the next day. That's $30 for dinner and a lunch snack the next day. If you go out to dinner, you could pay that if not more. The pizza is always delicious. I love the sauce!! They do curbside which is wonderful.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN5cF82Y1RnEAE!2m1!1s0x0:0x323feb7c497427a0!3m1!1s2@1:CIHM0ogKEICAgICyp_6cTg%7CCgwIqaKrgQYQ8KeqzgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOHIUgda3GxgyUctHTH-nlKhztNqBpEcbyHiDYp=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 years ago"
+            },
+            {
+                "username": "Thomas Harriot",
+                "rating": 5,
+                "contributor_id": "102398343197801608071",
+                "description": "My son and I stopped in here for a quick pizza while we were on the road.  The ambiance won't blow you away, but the pizza will.  I don't write this lightly, it was the best pizza I've ever had.  We ordered a NY style pizza with pepperoni, I recommend!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ5dVpyVnl3RRAB!2m1!1s0x0:0x323feb7c497427a0!3m1!1s2@1:CIHM0ogKEICAgID9uZrVywE%7CCgsI95LirwYQ0JSNCQ%7C?hl=en-US",
+                "date": "8 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+    }
+}

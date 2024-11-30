@@ -1,0 +1,385 @@
+{
+    "docid": 65,
+    "Title": "Miss Kim",
+    "Price": [],
+    "Place ID": "ChIJLaSH1hWuPIgRw6F8GUKBM6k",
+    "Type ID": [],
+    "Type": [
+        "Korean restaurant",
+        "Asian restaurant"
+    ],
+    "Menu": {
+        "link": "https://misskimannarbor.com/order",
+        "source": "misskimannarbor.com"
+    },
+    "Address": "415 N 5th Ave, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.284622999999996,
+        "longitude": -83.7462414
+    },
+    "Phone Number": "(734) 275-0099",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 28
+        },
+        {
+            "stars": 2,
+            "amount": 31
+        },
+        {
+            "stars": 3,
+            "amount": 50
+        },
+        {
+            "stars": 4,
+            "amount": 91
+        },
+        {
+            "stars": 5,
+            "amount": 479
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11:30 AM–9:30 PM"
+        },
+        {
+            "saturday": "11 AM–9:30 PM"
+        },
+        {
+            "sunday": "11:30 AM–9 PM"
+        },
+        {
+            "monday": "11:30 AM–9 PM"
+        },
+        {
+            "tuesday": "Closed"
+        },
+        {
+            "wednesday": "11:30 AM–9 PM"
+        },
+        {
+            "thursday": "Closed (Thanksgiving)"
+        }
+    ],
+    "Description": "Trendy spot for traditional Korean fare with a modern, seasonal twist in contemporary surrounds.",
+    "Details": [
+        {
+            "from_the_business": [
+                "Identifies as women-owned"
+            ]
+        },
+        {
+            "highlights": [
+                "Fast service"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Comfort food",
+                "Hard liquor",
+                "Healthy options",
+                "Small plates",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Gender-neutral restroom",
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking lot",
+                "Paid street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Fresh food, great people and place, tips are included in the price.\""
+            },
+            {
+                "snippet": "\"Went for a work party and we were thrilled with the quality and service.\""
+            },
+            {
+                "snippet": "\"Highly recommend the smashed potatoes, KFC, and the street style tteokbokki\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "PD Wilks",
+                "rating": 5,
+                "contributor_id": "102872299377186423799",
+                "description": "Recent dinner was very good.  Broccolini appetizer was excellent. Fried chicken and red snapper entrees also very good. Its a little pricey but everything was delicious and is a gourmet Korean experience. Service was great and outdoor dining quite enjoyable on a nice evening.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3M3N2NUZBEAE!2m1!1s0x0:0xa9338142197ca1c3!3m1!1s2@1:CIHM0ogKEICAgID73sv5FA%7CCgwIx_yotgYQuInQ0AI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNN0PqZbzXM7GVGpPritWtUhKFJsM1aBLRSRpVG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM3FRdgKp0yirgkXfgVQY7MkZ0ezxMWsubeCOMC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP4vFQ8ZXwpc7Mav4akHU8AfuY1eOIeCK0VwQEF=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Jamie Ginsberg",
+                "rating": 5,
+                "contributor_id": "115497336455740083403",
+                "description": "Ann Arbor, I want to try half the items on the menu! There are multiple options for me as a Vegan, the Silken Tofu Fried is delicious, you can choose sweet to medium to spicy, my spicy choice was DELICIOUS. The appetizers were delicious, I’ve had some issues with broccolini this Summer and this dish instantly restored my faith! The char was balanced flavor and crunch, we got two sauces on the side so the Vegans had an option, we all loved this. The mushroom noodle dish was split by all of us, with subtle murmurs of enjoyment as each person tried it. The meat eaters LOVED their dishes, they looked good before they disappeared in a swirl of metal chopsticks. Yes, I can’t wait to return and get the tofu sandwich!!! Note: service was great, friendly and prompt.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3elBQM3NRRRAB!2m1!1s0x0:0xa9338142197ca1c3!3m1!1s2@1:CIHM0ogKEICAgID7zPP3sQE%7CCgwIr9eatgYQiJztwwM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMsEg4cKg8cJelzSxw-ld3gfBdOco_YuB1wL-8c=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMnaL1WCoWz2rVyYT90lpiVQR4hfhKg6SBnmpYL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP2MPDicJkbjmBYqO6PurzGksHBK2pzKkUjVKON=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHkrFN7nWn3jMgNyrBYQ5pMvTqpTIHMy1-7iZZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNkaDnet3--ebGgVcKCnf7q9WKAkA5ZU1tL86Qf=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Ahmed",
+                "rating": 4,
+                "contributor_id": "109902249534369525206",
+                "description": "Lovely Korean spot in Kerrytown-\n\nStopped by Miss Kim while exploring Kerrytown and first impressions were that this spot was a little on the higher end of dining.\n\nWent for the fried tofu sandwich and honestly, I wish I could have had more. The sandwich just burst with flavour, and was honestly solid. The shredded carrot appetizer was also just so rich. The staff here were incredibly friendly and the overall ambiance was just calm and relaxed.\n\nThe prices over here are a little steep, and part of me wished the portion sizes were slightly larger.\nBut an overall great experience otherwise.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNIenRMMmJBEAE!2m1!1s0x0:0xa9338142197ca1c3!3m1!1s2@1:CIHM0ogKEICAgICHztL2bA%7CCgwIxrPktgYQwJqDgAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOZp_1dz7GZjkJHsI6txkgCViaGqmqElIwZqLkK=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMe8u4rhTXKnXd4wk7cvBGcTo76Sio-goXIgeXo=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Syed Ashrafulla",
+                "rating": 2,
+                "contributor_id": "109064557960791093228",
+                "description": "Fun menu. I recommend the crispy potatoes for their use of corn starch (I think) to create a crispy outside and a moist inside. In the same thread, the tteokbokki also has a crispy outside and a moist inside for the rice cakes, although the flavor could use more punch.\n\nThen the rest of the dishes had no punch. The kalbi was lacking in caramelization (so no deep sweet taste) and marination (so no deep salty taste). The little gem lettuce had too much fruit that contrasted with the expectation of a leafy side. The kimchi was softer and felt older. Same for the carrot salad.\n\nSo a chance at highlights but in the end not to the standard of solid Korean fare.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIdmJlbjZnRRAB!2m1!1s0x0:0xa9338142197ca1c3!3m1!1s2@1:CIHM0ogKEICAgICHvben6gE%7CCgsIzoj0tgYQ2J2CEA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO2SrKewo-pAS7w4htyFcoy9wlmJgJui9WDO0RZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHg2ZJ9Fpaiuz4EHWIrjJGKxf8TfrC3kiEv5J3=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMLKAJZZsaTwFX1bbPFa8vj1kq_zjuNTRhhGGBt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNpxMsjXERWFsTV3EGZYd45mS-QzlCVr2wNx_S0=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMkewXCWXFNJsWRpfBxDx6DO72lf7qqj48QlWFE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPVUAkepifPZwwBrrXAmLBD9TK6A2tENzZtAteo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMInFpuWeIALOIMXzwTzr9qEmnoybxDNqxT67by=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOVHocimz_WGDE4rna1S7DoZ3eV06TDDHwVmcY4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO1gtB498wPdu2Ei6OXStGYpb5LIir2O_4Nc5XD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMLr5wPrfUgMw1WGoIH9YKJikvgZKPJ2TuSDNYJ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNYZhBsk0lrA7BSpjpicWNxpW6cAphADXbDOsW7=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNstOidH0CB7i1jx_MEYxczAtY63Xe4UCktFM89=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPbcweprEUK_s_x5UjbuZHhgZ157vifgLCPDFIS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPe20zSPaudm0HN00B8DWmu6vpfMGPwcItdhoOg=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Lydia Song",
+                "rating": 4,
+                "contributor_id": "107542614105033958026",
+                "description": "If you’re visiting Ann Arbor and would like to taste Korean Fusion, go to Miss Kim! All ingredients taste very fresh. Also, I must say this is a perfect place to introduce others to Asian food without being too adventurous!\n\nSmashed potatoes are a must get! So crispy and the seasoning is sweet and salty.\n\nTteokbokki which is rice cakes with a soy sauce base. The mushrooms with asparagus went very well with the dish!\n\nDuck was very tender! Watermelon radish was very refreshing.\n\nFriend chicken-The meat was fried so well and very tender/juicy. I do wish it had more spice to it!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNMNlp6OFFBEAE!2m1!1s0x0:0xa9338142197ca1c3!3m1!1s2@1:CIHM0ogKEICAgICL6Zz8QA%7CCgwIt4nxtAYQoN_JoAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN6O-7RO9XpXABMRzQ49SxiNFFp75z36L2vWU4T=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNs2PlFEU7HkPcDnsXghp9KiCmrZ6JUpW2T_rfA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipORpfVYYWdW52B7dO3hfmsrfH-_3vbfw93eRdT-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOv5oda1NxS2F5TXPmbD1oSQra_15jjzGRAy5v9=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "soyeon klouds",
+                "rating": 3,
+                "contributor_id": "101219790469582673102",
+                "description": "Overall, the food is fresh and flavorful, although it's not authentic. The atmosphere is beautiful and the service is great. However, the portions are very small for the high prices. I won't be returning.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNuMEpleEpREAE!2m1!1s0x0:0xa9338142197ca1c3!3m1!1s2@1:CIHM0ogKEICAgICn0JexJQ%7CCgsIha29twYQsPDhCQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMymNvYrwErcjD6AW3E355KKoSAuhACAgw3nIIk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNfwgbdvCPLA8DWWPvE6GWH6zAyWMPwq9MHohRF=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNe96f3t62-aJRU2FILeEV5PB_S7GX6px8lE0oH=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Natasha Wesson",
+                "rating": 5,
+                "contributor_id": "104644356160894882505",
+                "description": "This place is AMAZING - the food, the drinks, the service. If you haven't tried it - this place is a must. Their pork belly is the best I've ever had and their carrot salad was such a delicious treat!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURyeVkyVUh3EAE!2m1!1s0x0:0xa9338142197ca1c3!3m1!1s2@1:CIHM0ogKEICAgIDryY2UHw%7CCgwI6uvjtAYQ-Le1vAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM-yuBealAp0Fp_NvG3co5zt1ZSRsNsAQNvKLBV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOcYELo8Vls7OOnY6InsgB610Tex5AI7ogw8cqq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOoaTfBsFZCUC0Iy7Q00Xdf83Q3Rm8A8-hk846A=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNQnq1vpLWLhjHN_DkdEn3RUZk-eWu35zFLaDaO=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOlL6eXnT2lCRndCCHrjDNeh70wZ2W22yifnHjf=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOm8tTSgvMHxyfrnpNYyRYtrEfQJyfdAAMCfEm4=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Y. Lin",
+                "rating": 5,
+                "contributor_id": "104550841309860700786",
+                "description": "Tried two dishes: beef bibimba and sautee snapper. Need a little salt on beef & fish + more veggies on both dishes.\nService is very good and fast.\nThis is not really traditional Korean food. But the food is very unique and a bit higher price than most Korean restaurants in town.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURIOEpmNF9BRRAB!2m1!1s0x0:0xa9338142197ca1c3!3m1!1s2@1:CIHM0ogKEICAgIDH8Jf4_AE%7CCgsI8a6HtwYQkMnoTQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyh6Zx-6rGvDRzPi1lvJXkowiFHsSDADPfS0wx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNxsZ1ZR3KxjdSz-mfOIhkRkTnSk9VGT5UkIH-a=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "drive_through": true,
+        "no_contact_delivery": true
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "docid": 193,
+    "Title": "QDOBA Mexican Eats",
+    "Price": [],
+    "Place ID": "ChIJE3sZtu2vPIgRstKowKfp-qY",
+    "Type ID": [],
+    "Type": [
+        "Mexican restaurant",
+        "Bar & grill",
+        "Box lunch supplier",
+        "Brunch restaurant",
+        "Caterer",
+        "Delivery service",
+        "Fast food restaurant",
+        "Restaurant",
+        "Tex-Mex restaurant"
+    ],
+    "Menu": {
+        "link": "https://www.qdoba.com/menu-nutrition?utm_source=Listings",
+        "source": "qdoba.com"
+    },
+    "Address": "530 S State St Student Union, Ann Arbor, MI 48109",
+    "GPS Coordinates": {
+        "latitude": 42.2751271,
+        "longitude": -83.741547
+    },
+    "Phone Number": "(734) 356-8484",
+    "Rating": 2.9,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 7
+        },
+        {
+            "stars": 2,
+            "amount": 1
+        },
+        {
+            "stars": 3,
+            "amount": 2
+        },
+        {
+            "stars": 4,
+            "amount": 1
+        },
+        {
+            "stars": 5,
+            "amount": 6
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "10:30 AM–10 PM"
+        },
+        {
+            "saturday": "10:30 AM–10 PM"
+        },
+        {
+            "sunday": "10:30 AM–10 PM"
+        },
+        {
+            "monday": "10:30 AM–10 PM"
+        },
+        {
+            "tuesday": "10:30 AM–10 PM"
+        },
+        {
+            "wednesday": "10:30 AM–10 PM"
+        },
+        {
+            "thursday": "Closed (Thanksgiving)"
+        }
+    ],
+    "Description": "A menu of customizable Mexican food served in a modern restaurant, plus takeout & catering.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Comfort food",
+                "Healthy options",
+                "Quick bite",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Great service and good tasting food!\""
+            },
+            {
+                "snippet": "\"I would much rather walk two blocks down the street to Chipotle.\""
+            },
+            {
+                "snippet": "\"The bowl was delicious and the staff was really helpful!\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Justin Day",
+                "rating": 1,
+                "contributor_id": "103648785315038929693",
+                "description": "I want to start by saying I am normally a HUGE fan of QDoba and think they typically offer a better product than Chipotle... But this QDoba needs help. I realize they just opened but their service and care is incredibly lacking. The place is FILTHY and it just opened a few weeks ago. There was food spilled everywhere and no one seems to care. In addition, they still don't offer all of their products so I just ordered chips and queso.... I don't mean to sound stingy but this cup is not even close to filled up. I hope they can figure it out because I was very excited about having QDoba in the Michigan Union and as of right now I can never go back to this particular location. I would much rather walk two blocks down the street to Chipotle.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURaMWFPOWpBRRAB!2m1!1s0x0:0xa6fae9a7c0a8d2b2!3m1!1s2@1:CIHM0ogKEICAgIDZ1aO9jAE%7CCgwInM37qAYQuMS4jwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOI-C_rEJo2agxRjdKvZDZ4WdeQSaY4_-WmNij_=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Addiena Nicolaou",
+                "rating": 5,
+                "contributor_id": "100686700935262713635",
+                "description": "To the employee who was so kind today, I wish I knew his name; people like you restore my faith in humanity.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYcnVXYnh3RRAB!2m1!1s0x0:0xa6fae9a7c0a8d2b2!3m1!1s2@1:CIHM0ogKEICAgICXruWbxwE%7CCgwIyKLAuAYQ0OvCuwI%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Kevin Mcmahan",
+                "rating": 1,
+                "contributor_id": "100927339848046064931",
+                "description": "Went for the second time ever today to a Qdoba. Wow, do those workers inside the Union dislike their jobs and it's clear this is not a one off. Yelling and arguing with each other (both times I visited) and skimping on food - big time. Ordered a steak bowl both times and each time she filled a spoon with steak, leveled it and dumped out half back into the container.  The bowl had hardly anything in it for $13.  It will be a short walk, but I'll be going to Chipotle from now on.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNsLXRYQ2R3EAE!2m1!1s0x0:0xa6fae9a7c0a8d2b2!3m1!1s2@1:CIHM0ogKEICAgICl-tXCdw%7CCgwI9sPaqgYQ-Mm2kwI%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Isaiah Thomas",
+                "rating": 1,
+                "contributor_id": "112071533939314614085",
+                "description": "Regrettably, it's time to don the critic's hat for this culinary adventure, though I must say, it had more twists and surprises than a soap opera plot! I ventured into this establishment with high hopes, having ordered a bowl of deliciousness.\n\nPicture this: I'm savoring every bite, reveling in the flavors, when suddenly, a produce sticker makes an unexpected cameo on one of my peppers! Yes, my dear reader, I couldn't help but wonder if I had stumbled into a culinary version of Willy Wonka's chocolate factory, only with a produce twist.\n\nSummoning my courage, I marched back to the cashier, sticker in hand, and showed him the star of the show. The staff promptly took center stage, recreating my order. It was like a live-action performance, and I was the honored audience member.\n\nEagerly, I returned to my apartment, ready to give the meal another whirl. This time, as I indulged, I felt a peculiar sensation in my mouth. Lo and behold, it was a hair that decided to join the dinner party! It was as though the universe conspired to turn my meal into a culinary circus act.\n\nWhile I appreciate the establishment's commitment to providing surprise entertainment, I must confess that I came for a meal, not a magic show. Alas, I left with my taste buds bewildered and my sense of adventure fully satisfied. In the end, this dining experience was more eventful than a rollercoaster ride – a real hair-raising experience, you might say!\n\n1 out of 5.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM1MFktVDlBRRAB!2m1!1s0x0:0xa6fae9a7c0a8d2b2!3m1!1s2@1:CIHM0ogKEICAgIC50Y-T9AE%7CCgsIpZatqQYQoJmCfQ%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Nathalie O'Hernandez",
+                "rating": 3,
+                "contributor_id": "112087282047083624695",
+                "description": "Place is on the rise, doing what they can with a learning staff and being just opened. So be kind. Gary did a great job and go to him for all your bowl and burrito needs!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURaeHBPajZRRRAB!2m1!1s0x0:0xa6fae9a7c0a8d2b2!3m1!1s2@1:CIHM0ogKEICAgIDZxpOj6QE%7CCgwIw-rcqAYQqJ7EzAE%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Ace Place",
+                "rating": 5,
+                "contributor_id": "112635742603826925321",
+                "description": "Very friendly, patient, and accommodating employees. Food is just as fantastic too! 10/10 would eat again",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNqME11YzdBRRAB!2m1!1s0x0:0xa6fae9a7c0a8d2b2!3m1!1s2@1:CIHM0ogKEICAgICj0Muc7AE%7CCgwI6KL8sAYQ4J_AsQI%7C?hl=en-US",
+                "date": "7 months ago"
+            },
+            {
+                "username": "love yourself",
+                "rating": 4,
+                "contributor_id": "106499540275367936674",
+                "description": "short walk and conveniently in the union.  place is pretty good and staff is nice!  don’t know about the previous reviews since i just started going pretty recently but not nearly as bad as people make it out to be 😭",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM5ck1tWU1REAE!2m1!1s0x0:0xa6fae9a7c0a8d2b2!3m1!1s2@1:CIHM0ogKEICAgIC9rMmYMQ%7CCgwI8Z-TrwYQ-Jug1wI%7C?hl=en-US",
+                "date": "8 months ago"
+            },
+            {
+                "username": "Lauren fernando",
+                "rating": 1,
+                "contributor_id": "104441616586197137361",
+                "description": "I ordered a chicken bowl and got about 4 pieces of chicken in it even after asking the worker to add a little more. On top of that my food was completely cold - like just pulled leftovers out of the fridge cold.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURsbTZUbkRnEAE!2m1!1s0x0:0xa6fae9a7c0a8d2b2!3m1!1s2@1:CIHM0ogKEICAgIDlm6TnDg%7CCgwImsa0qwYQiJD1mwI%7C?hl=en-US",
+                "date": "11 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true
+    }
+}

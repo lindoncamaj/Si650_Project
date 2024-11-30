@@ -1,0 +1,344 @@
+{
+    "docid": 38,
+    "Title": "Café Zola",
+    "Price": [],
+    "Place ID": "ChIJk7vkqz2uPIgR4_zqa2G5SBI",
+    "Type ID": [],
+    "Type": [
+        "Eclectic restaurant",
+        "Bar",
+        "Breakfast restaurant",
+        "Restaurant"
+    ],
+    "Menu": [],
+    "Address": "112 W Washington St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2806056,
+        "longitude": -83.7493361
+    },
+    "Phone Number": "(734) 769-2020",
+    "Rating": 3.8,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 166
+        },
+        {
+            "stars": 2,
+            "amount": 99
+        },
+        {
+            "stars": 3,
+            "amount": 135
+        },
+        {
+            "stars": 4,
+            "amount": 288
+        },
+        {
+            "stars": 5,
+            "amount": 592
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "8 AM–11 PM"
+        },
+        {
+            "saturday": "8 AM–11 PM"
+        },
+        {
+            "sunday": "8 AM–10 PM"
+        },
+        {
+            "monday": "8 AM–10 PM"
+        },
+        {
+            "tuesday": "8 AM–10 PM"
+        },
+        {
+            "wednesday": "8 AM–10 PM"
+        },
+        {
+            "thursday": "Closed (Thanksgiving)"
+        }
+    ],
+    "Description": "Eclectic fare & global wines are served amid a rustic space with high ceilings & exposed brick.",
+    "Details": [
+        {
+            "from_the_business": [
+                "Identifies as women-owned"
+            ]
+        },
+        {
+            "highlights": [
+                "Great coffee",
+                "Great tea selection"
+            ]
+        },
+        {
+            "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Halal food",
+                "Happy hour drinks",
+                "Hard liquor",
+                "Healthy options",
+                "Organic dishes",
+                "Small plates",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Romantic",
+                "Trendy",
+                "Upscale"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Dinner reservations recommended",
+                "Accepts reservations",
+                "Usually a wait"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "children": [
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking lot",
+                "Paid street parking",
+                "Somewhat difficult to find a space"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed",
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Excellent atmosphere, quality food, great service.\""
+            },
+            {
+                "snippet": "\"Ordered Bread, Small plate Shakshuka and Kale Salad.\""
+            },
+            {
+                "snippet": "\"A tasty blend of spices, eggs and sauce, absolutely delicious.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Sushi Mellon",
+                "rating": 4,
+                "contributor_id": "107474156140099202885",
+                "description": "While the overall experience was satisfactory, there were areas for improvement. The staff was incredibly helpful and friendly, contributing significantly to a positive atmosphere. The dark chocolate cake, with its nuanced flavor profile, was a highlight.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYOS1YMmZREAE!2m1!1s0x0:0x1248b9616beafce3!3m1!1s2@1:CIHM0ogKEICAgIDX9-X2fQ%7CCgwIzPGQuQYQqKX7qAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNBJRmOILqROCoPX66Wwu9v95u7In_5jzdesrET=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNVFMfMuT3fpekZ506uqPjg7LEpu1h8W7uZFD6z=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Negin",
+                "rating": 3,
+                "contributor_id": "108405855699998735757",
+                "description": "I have been to this location of Zola few times and I really like the location and vibe of it especially in summertime. Service is really good too and waiters are always friendly and considerate of our needs. We had few kids with us with severe allergies and they were very accommodating. That being said I give the food only three stars, but let me break it down for you. Their brunch menu is great, quite versatile and good portions. But their lunch and dinner options are too petite in portions for the price. It’s to the point that one main dish is not enough to feel full, and I usually can’t finish my meal at restaurants so I don’t need a gigantic meal to get full. Also their lamb and chicken are halal.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR6aW9LTER3EAE!2m1!1s0x0:0x1248b9616beafce3!3m1!1s2@1:CIHM0ogKEICAgIDzioKLDw%7CCgwIwMyUswYQyM611wM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOcAh6ckd848cAvwVjR68uRpPL9zCz2HCDJBHtq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPg7LDRC9L8QWyV5JdTBM_LQLwjs5ZiwB99VtrR=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Ahmed",
+                "rating": 5,
+                "contributor_id": "109902249534369525206",
+                "description": "Came in for a coffee and a crepe and enjoyed it-\n\nCafe Zola’s got a decent coffee selection, which they serve late into the night, ideal for when all the coffee shops around close at 6. The crepe itself was light, airy, and had a perfect blend of sweet syrup and sour citrus. The waiter who tended to us was also super nice and just professional overall. Bonus points for the lovely outdoor dining area that takes over Washington St during the summer.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNyOXE3b3hRRRAB!2m1!1s0x0:0x1248b9616beafce3!3m1!1s2@1:CIHM0ogKEICAgICr9q7oxQE%7CCgsI9OyntAYQ6IX1cg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMdOA2Zl6TcXW8sajuryiHg0qZqn6wgd-5Hivfi=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOO3hoRTyPvZQupsdTgB3uQzFPlr3qfswLhqWQj=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "s e s h a",
+                "rating": 4,
+                "contributor_id": "113985324405359572368",
+                "description": "I dined here two times in the same week for business meetings.  One was a Thursday evening for dinner and the other was Saturday for brunch.  It was crowded on Thursday but was easy to get seating but it was completely packed on Saturday (see pic).  All the food I’ve eaten at this restaurant has been really good.  I recommend this place but will say it’s a little too loud for me on Saturdays and you have to speak really loud for the people at your table to hear you.  I’d probably only dine here on week nights only because I tend to like it a bit quieter for meals.  The staff are very friendly here.  There is plenty of paid parking in a lot around the corner.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREOHNlTU5BEAE!2m1!1s0x0:0x1248b9616beafce3!3m1!1s2@1:CIHM0ogKEICAgIDD8seMNA%7CCgwIhOPLsAYQiOPrpgE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipODe8VMptDTxGbGTBHwnDlIJ7b3Jr6SwSN8XSm3=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPazaY3tNc0VO0bljZpzQ5TecWSfQ39i_M-xFYV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOIjVB87KWAgdSr9IJLDJ8B75KM-7_XUTFkSN5P=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPTmlSvHBU9feIT7NSSr0YlcgnjoSVVcNFSC1T1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMYLV8IuFs-jPuPmF9F6DP9WZDaX1Ta3nmhJrNo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO_ZFisMuskuPCblzJOz7NbbKe8wkg6qSjCRUUe=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMwii1xZ-j5nTxke0GlReztY-4AzCQumxLhj2T5=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPxrGOQORQEpuS_qs5QZTn72nn3xytzbvWqppgH=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMg4BVURaeL_IGsitJwXfO_mdXMaHDlShL0x1zB=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "Franklin Deaner-Rogers",
+                "rating": 5,
+                "contributor_id": "114407786423182040381",
+                "description": "Great little find!  The food was delicious (I recommend the Monte Cristo), and our waitress Charlotte was great!  Can’t believe this place is only rated 3.8 stars! Definitely deserves to be rated higher based off my experience!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNibHZiXzdBRRAB!2m1!1s0x0:0x1248b9616beafce3!3m1!1s2@1:CIHM0ogKEICAgICblvb_7AE%7CCgwIq9SPtQYQoID0uwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMXMb0xZZAF64FduntzdhU-Gq9PhWFgraiO0FT-=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Hasnain Baxamoosa",
+                "rating": 4,
+                "contributor_id": "107876652234420346924",
+                "description": "We visited after the Texas versus Michigan football game. Nice place to hang out with outdoor seating.\n\nHowever their servers were overwhelmed and super slow.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNIOF9fOFVBEAE!2m1!1s0x0:0x1248b9616beafce3!3m1!1s2@1:CIHM0ogKEICAgICH8__8UA%7CCgsI2-P3tgYQ6Jr2HA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNOq4BC1Y2xJcdtUxRMc7X3dp4AHvfKFtiCVlhR=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOR3gqD3x15_gwL5OoDS1jrz5teHpaH3kRQbq1s=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Jerry Basta",
+                "rating": 2,
+                "contributor_id": "102775951631333938676",
+                "description": "I hate to do this. I want to love Zola but she continues to disappoint. At least half if the time I walk away sad. And I have tried numerous times. Sunday brunch was not good, not hot and too expensive. $21 for two very tiny crab cakes listed as a main course. They were smaller in diameter than the lime next to them. The presentation was boring, they were cool and tasted very average. $14 for a caesar salad, unless you want chicken breast. Then you are paying $26. $12 for a very slight pour glass of rose (the bottle costs $12 retail). I love the wine list so my suggestion is to always buy the bottle. Glass pours are always ridiculously small. Way too much going on in the omelet. The Rosemary overpowered the rest of the fillings that overpowered the eggs. Stewed tomatoes do not belong in an omelet. That’s the food. The server was not present. I can’t really blame her because she had tables outside, tables at the front and tables in the back. We unfortunately were in back. But even still when she visited us she didn’t look at the table. Asked for refills on the water. She refilled t out of 3 empty glasses. Later came to ask if we needed anything and if everything was all right. Nit noticing the three empty water glasses or the empty plates. We had already finished eating so I mentioned that nothing was hot when it was served and that we had waited a very long time. She asked if there was anything she could do and I replied it was too late. She offered to take my $12 half-glass of wine off the bill and I said I didn’t intend to get a discount, I just wanted to make her aware that the entire experience was disappointing. I have had great meals at Zola. I have been disappointed too. I am a Francophile. I live close enough to walk. I love the concept and I want Zola to succeed. But I am gonna give it some time to try again.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREN19MdFlBEAE!2m1!1s0x0:0x1248b9616beafce3!3m1!1s2@1:CIHM0ogKEICAgIDD7_LtYA%7CCgwIiqj3sAYQoLfJ2QM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM3GNnpRNj0nHS-9uW-ENqGA_28R56k1SCsVTQL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNhWE5kredyrebFiTMgYCJBWSO9aadXWYoChmQN=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMGEwj70HhzgXcIbyrpXC5XcTg4xGXxSQ2-jB0N=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "Eve",
+                "rating": 2,
+                "contributor_id": "113972173030267971738",
+                "description": "The place is really busy & loud on a weekend, you're practically shouting across a small table to have a conversation. Food was ok, and service was terrible. Not sure if they're understaffed, but our waitress was no where to be seen after we got our food, and took over forever to get our bills.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6b2Rud2NREAE!2m1!1s0x0:0x1248b9616beafce3!3m1!1s2@1:CIHM0ogKEICAgICzodnwcQ%7CCgwI9LfysgYQ2OmdwQE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOO_pFuRdMp2OnQaWbu4T1vyKdPabIwNiLhR4PK=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "delivery": false
+    }
+}

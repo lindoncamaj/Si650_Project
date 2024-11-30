@@ -1,0 +1,237 @@
+{
+    "docid": 142,
+    "Title": "Mash Bar",
+    "Price": [],
+    "Place ID": "ChIJS8Ss1j2uPIgR5dCe6-QFSTM",
+    "Type ID": [],
+    "Type": [
+        "Bar",
+        "Cocktail bar",
+        "Dance restaurant",
+        "Live music bar",
+        "Lounge",
+        "Pub"
+    ],
+    "Menu": {
+        "link": "https://mashbar.net/annarbor/#menu",
+        "source": "mashbar.net"
+    },
+    "Address": "211 E Washington St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2805702,
+        "longitude": -83.7467432
+    },
+    "Phone Number": "(734) 222-4095",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 11
+        },
+        {
+            "stars": 2,
+            "amount": 9
+        },
+        {
+            "stars": 3,
+            "amount": 35
+        },
+        {
+            "stars": 4,
+            "amount": 93
+        },
+        {
+            "stars": 5,
+            "amount": 272
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "8 PM–2 AM"
+        },
+        {
+            "saturday": "8 PM–2 AM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "Closed"
+        },
+        {
+            "tuesday": "Closed"
+        },
+        {
+            "wednesday": "8 PM–12 AM"
+        },
+        {
+            "thursday": "8 PM–12 AM (Thanksgiving)"
+        }
+    ],
+    "Description": "Speakeasy-style bar serving whiskey, bourbon & craft beer, as well as casual American bites.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Great beer selection",
+                "Great cocktails",
+                "Live music",
+                "Live performances",
+                "Sports"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Dancing",
+                "Happy hour drinks",
+                "Hard liquor",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid street parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Great place to catch some live music with much cheaper beer than main street.\""
+            },
+            {
+                "snippet": "\"Cool place but it's hard to get table service on a weekend night\""
+            },
+            {
+                "snippet": "\"Good selection of booze and cool basement vibe.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Steven Smeltz-Zapata",
+                "rating": 5,
+                "contributor_id": "103997815468690675971",
+                "description": "This was a really cool spot! Whiskey selection was pretty good and I had several while there. The bartender made a couple decent cocktails.\n\nThe atmosphere is really cool and it was live music on a Thursday!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURiajhDYmNnEAE!2m1!1s0x0:0x334905e4eb9ed0e5!3m1!1s2@1:CIHM0ogKEICAgIDbj8Cbcg%7CCgwI7JLetQYQsIy4_QI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNJ7OGCzH_g_sfQqcZNBSnwyEg4rFCo-gguiBM2=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM3bgfLu_LRWnKaVIn1TAkteoPeO4dIq0LjlIEG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOye8J91Fqu1VegOX7L90iNeT3jTjHlkWbrXKYn=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Candace Winslow",
+                "rating": 5,
+                "contributor_id": "107031535556652009384",
+                "description": "In basement, with an authentic dive bar vibe. Good band playing covers when I was there. Small, but active dance floor. Some interesting craft beers. Order at the bar. Presume you can order food from Pretsel Bell upstairs. I didn't check the bathrooms.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYeGMzZ1NREAE!2m1!1s0x0:0x334905e4eb9ed0e5!3m1!1s2@1:CIHM0ogKEICAgIDXxc3gSQ%7CCgwIj6SYuQYQgOnzxQI%7C?hl=en-US",
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Paul",
+                "rating": 5,
+                "contributor_id": "111173309149263772385",
+                "description": "Great place to catch some live music with much cheaper beer than main street.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYN3RuRjZ3RRAB!2m1!1s0x0:0x334905e4eb9ed0e5!3m1!1s2@1:CIHM0ogKEICAgICX7tnF6wE%7CCgwIy93AuAYQ0JSi_AE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMG7InKWPehVGqxRkFQwMP19akwurTFRuYaWSrl=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Stuart Taylor",
+                "rating": 5,
+                "contributor_id": "118331289229154490048",
+                "description": "The bartenders are great. The reason for 4 stars is that they need more perhaps. I've been there several times when it's so crowded it can take a long time to get a drink. Also, sometimes hard to get seat. But that shows you how popular they are. Good selection of booze and cool basement vibe.\nThe building used to be my dad's office building and I used to work in the basement (now Mash). So it's kind of a trip for me to be down there drinking now. LOL",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNqaV8zdWpnRRAB!2m1!1s0x0:0x334905e4eb9ed0e5!3m1!1s2@1:CIHM0ogKEICAgICji_3ujgE%7CCgwIjcmqsQYQoMTMogI%7C?hl=en-US",
+                "date": "6 months ago"
+            },
+            {
+                "username": "Ruby Kaufmann",
+                "rating": 5,
+                "contributor_id": "103516106829655972096",
+                "description": "Always a good time at Mash with friends. Drink deals are good, I recommend the Grandpa combo :) music is pretty much always excellent, there’s something for everyone. Security cares about maintaining a safe environment.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUelBLM2JBEAE!2m1!1s0x0:0x334905e4eb9ed0e5!3m1!1s2@1:CIHM0ogKEICAgICTzPK3bA%7CCgsIyaL_sQYQoMPPNQ%7C?hl=en-US",
+                "date": "6 months ago"
+            },
+            {
+                "username": "Jacob Grizzy",
+                "rating": 1,
+                "contributor_id": "115416384205408546332",
+                "description": "It was $20 for one shot of whiskey and I went across the street and I got the same thing at sidetrack for eight dollars. I will never come back to this place.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYLXRyZ3l3RRAB!2m1!1s0x0:0x334905e4eb9ed0e5!3m1!1s2@1:CIHM0ogKEICAgIDX-trgywE%7CCgwItNTzuAYQqNbO-gE%7C?hl=en-US",
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Jsa Grev",
+                "rating": 5,
+                "contributor_id": "107382755435257861297",
+                "description": "Amazing staff and selection. Live music from Root Station was awesome tonight!!! Look forward to going back",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURycmREcHRnRRAB!2m1!1s0x0:0x334905e4eb9ed0e5!3m1!1s2@1:CIHM0ogKEICAgIDrrdDptgE%7CCgwIouzntAYQkOvDmwE%7C?hl=en-US",
+                "date": "4 months ago"
+            },
+            {
+                "username": "Tanya Osorio-Cruz",
+                "rating": 3,
+                "contributor_id": "105932657563289026931",
+                "description": "This bar has such a cool vibe. The bouncer was nice and the line wasn’t that bad for a Saturday night. He also let you in with the people you came with so you won’t have 1 person stuck outside by themselves or anything. The bartenders were prompt and quick but not necessarily friendly or chatty. The worst part is that the women’s bathroom is a single bathroom (yikes...always a line) and there aren’t very many places to sit. The live music was nice. Not a bad place to hang out by any means but Ann Arbor definitely has cooler spots.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNva1pPeHJBRRAB!2m1!1s0x0:0x334905e4eb9ed0e5!3m1!1s2@1:CIHM0ogKEICAgICokZOxrAE%7CCgwIu7Cx4wUQiLqirwM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNWw4_nuopIq7w7pe1YByPG6jyGbdMNBsFkul9v=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 years ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": false,
+        "takeout": false,
+        "delivery": false
+    }
+}

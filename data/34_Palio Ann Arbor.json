@@ -1,0 +1,319 @@
+{
+    "docid": 34,
+    "Title": "Palio Ann Arbor",
+    "Price": [],
+    "Place ID": "ChIJee-WejyuPIgRiskpGQ48cww",
+    "Type ID": [],
+    "Type": [
+        "Southern Italian restaurant",
+        "Italian restaurant",
+        "Restaurant"
+    ],
+    "Menu": {
+        "link": "http://paliorestaurant.com/",
+        "source": "paliorestaurant.com"
+    },
+    "Address": "347 S Main St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.278268,
+        "longitude": -83.748481
+    },
+    "Phone Number": "(734) 930-6156",
+    "Rating": 4.1,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 82
+        },
+        {
+            "stars": 2,
+            "amount": 78
+        },
+        {
+            "stars": 3,
+            "amount": 151
+        },
+        {
+            "stars": 4,
+            "amount": 290
+        },
+        {
+            "stars": 5,
+            "amount": 630
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "4–11 PM"
+        },
+        {
+            "saturday": "4–11 PM"
+        },
+        {
+            "sunday": "4–9 PM"
+        },
+        {
+            "monday": "5–10 PM"
+        },
+        {
+            "tuesday": "5–10 PM"
+        },
+        {
+            "wednesday": "5–10 PM"
+        },
+        {
+            "thursday": "5–10 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "Country Italian fare served in an eclectic space along with a rooftop patio with its own kitchen.",
+    "Details": [
+        {
+            "highlights": [
+                "Great dessert",
+                "Rooftop seating"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Hard liquor",
+                "Healthy options",
+                "Private dining room",
+                "Small plates",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Romantic",
+                "Trendy",
+                "Upscale"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Dinner reservations recommended",
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid parking lot",
+                "Paid street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Great food, good service, nice atmosphere in the main dining area.\""
+            },
+            {
+                "snippet": "\"They forgot to send the salad, pasta was dry and smushed, chicken burnt.\""
+            },
+            {
+                "snippet": "\"A nice environment but the food quality leaves a bit to be desired for the price\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Prasanth Ganesan",
+                "rating": 4,
+                "contributor_id": "111227196604666105014",
+                "description": "Great relaxed atmosphere for hanging out with friends and family. The food was tasty, but didn't stick out from other Italian restaurants in Ann Arbor. They had some creative mock tails that tasted great.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURyNTlMZGF3EAE!2m1!1s0x0:0xc733c0e1929c98a!3m1!1s2@1:CIHM0ogKEICAgIDr59Ldaw%7CCgwIoYjxtAYQ2IqgjQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNufkcgCVFBjMg_hWqnjS4YuyLlN-m1jv2F6WAT=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMFPC_WZtYele4hq_SLWY5WLAeag_pCyiiayD45=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN1g_K49IJ--m93aomNMNR77-b0KPu2Pr58BWeh=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO27ujTD8EqPA0wBUQiC8_iKcVUA5UgXRpYxZp7=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Vicki",
+                "rating": 4,
+                "contributor_id": "110755660457140091938",
+                "description": "Very good Italian restaurant. The bread was warm and delicious. The wine was fantastic. The star of the show, the pasta was very good as well. I got the eggplant parm and it was simply delicious. After eating so much bread and salad, I definitely had some to take home.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYOTl6QWdnRRAB!2m1!1s0x0:0xc733c0e1929c98a!3m1!1s2@1:CIHM0ogKEICAgICX99zAggE%7CCgsImuLauAYQ4LrpUA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPqDCCDox8UwYavyL0_KjukVnnhKwFj6q2YEBUn=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Gino Carlini",
+                "rating": 5,
+                "contributor_id": "100606607520069843719",
+                "description": "Went here for my birthday! This was my first time eating here. The decor is old world Italian, very laid back atmosphere. I had the “Ravioli di Vitello alla Palio” (Veal stuffed 'half moon' ravioli with sauteed mushrooms, spinach & a creamy veal demi-glace sauce). I thought it was very good and that is coming from someone who grew up eating home made Italian food made by my family who are from Italy. Abigail our server was super friendly, and very prompt with making sure we had everything we needed. She even put a candle on my espresso cake, and brought me a shot of espresso too! It was a perfect Birthday! Thanks!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMZ3U2NV9nRRAB!2m1!1s0x0:0xc733c0e1929c98a!3m1!1s2@1:CIHM0ogKEICAgICLgu65_gE%7CCgwImb-9swYQ-Oeh6gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipODa_Og-gmNic-8BDGgZqq8yl8F0blnmxxniLAA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNLc_BEsNtpZOkDvlYIa2tBSWHc1chVE3lUv6DG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNSV1iGINUjx6is31jpB1VwEsFcSTzoEdt_dJAO=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Maurielle C",
+                "rating": 4,
+                "contributor_id": "102013884837832721376",
+                "description": "Lovely restaurant with great food! The staff was nice and accommodating despite the crowd they had that day. The nice thing is you can have a classy atmosphere but choose a more/less expensive meal. For example, a pizza is about 14.99, which is relatively average pricing. You can opt for a fuller, more expensive meal as well. I recommend trying it out casually or for an occasion— but definitely make a reservation!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqOXRYMEx3EAE!2m1!1s0x0:0xc733c0e1929c98a!3m1!1s2@1:CIHM0ogKEICAgIDj9tX0Lw%7CCgwIqsLRsQYQ4KfQjAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPlAUYwTycZcacLG8kEorDyGXqoI1H119HqMfpY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMu1dAsIjjJhzDGE5Y4QzuTObCXh8jvqxvMTWGx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPOGF_YqL-OtUMSc7Kw8VZzA3JMgFJ9yNJCbTNt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNf1JRnNhHmgJbW_7P4723nrRYna_teyT62Jcjl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPdxXkhxX0Azan3VqTPeLzaHSA6fVJ0FXiaCcS9=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "John Rennels",
+                "rating": 5,
+                "contributor_id": "118333112541938309688",
+                "description": "Our server, Maggie, was amiable, attentive, and knowledgeable.  The rooftop seating made the evening special.  The scampi was perfect, and the sauce made it an outstanding meal.  Our two delicious meals were under $50.00.  Amazing.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURMNGF1T0x3EAE!2m1!1s0x0:0xc733c0e1929c98a!3m1!1s2@1:CIHM0ogKEICAgIDL4auOLw%7CCgsIsOT6swYQ2NT2fA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMF-XjrwF6zSrGmnL06Hj6J42jA5fLGL8JWPyFt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPjhX-B6tVX5YiVf-4RPaTW_0HPRiXPJf5BK3q0=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Bryne Broderick",
+                "rating": 5,
+                "contributor_id": "117582697853243701531",
+                "description": "Our waiter, Wyatt was amazing! He took such great care of us and we had our food to the table quickly (we were in a hurry) I had the spaghetti and meatballs which was wonderful. When you're paying more to eat out, great service makes it worth it! We will go there again.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuaTgzZ2RnEAE!2m1!1s0x0:0xc733c0e1929c98a!3m1!1s2@1:CIHM0ogKEICAgIDni83gdg%7CCgwI4emcuAYQ2O2UjAE%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "ashlee couture",
+                "rating": 5,
+                "contributor_id": "114211017630559646907",
+                "description": "Amazing food and environment.  We went for my daughter's birthday 🎂 to celebrate. She wanted to sit on the rooftop. It was gorgeous!! The meatball appetizer was fantastic along with all our meals. Everything is made fresh. We will  definitely will be back. This will be our new go to italian restaurant. Worth the drive from Toledo :)",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURwdmFEb2FBEAE!2m1!1s0x0:0xc733c0e1929c98a!3m1!1s2@1:CIHM0ogKEICAgIDpvaDoaA%7CCgsI3pCtpwYQ4IOyIw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNeVic92ui_aJyU3mycsnMfNRrSD0fUuGcfI8ic=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSrIrMZFK3Kj0LQcSGKb43a7EqjZI00DzfbE-t=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPiMQ37hsAkOWm8jJrUoi4EhOvvh5b5d4WDGyL-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNgDsukBKYHg4GQivVQkB5bAgtAkkvWJXWyH90-=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Eli Z. Titus",
+                "rating": 5,
+                "contributor_id": "111994717159060215966",
+                "description": "Always enjoy coming here. Beautiful setting. Surprisingly, it wasn't as cold inside as it usually is. We got seated pretty quickly, and we understand they were busy. We got passed up a few times, and I worked in the industry, so I understand. Delicious food, the wine was great. Thank you, we will for sure be back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNId0tuRHZ3RRAB!2m1!1s0x0:0xc733c0e1929c98a!3m1!1s2@1:CIHM0ogKEICAgICHwKnDvwE%7CCgwI2ZzItgYQuMLQowE%7C?hl=en-US",
+                "date": "2 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+    }
+}

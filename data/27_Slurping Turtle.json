@@ -1,0 +1,358 @@
+{
+    "docid": 27,
+    "Title": "Slurping Turtle",
+    "Price": [],
+    "Place ID": "ChIJu9W4fD-uPIgRKLcd_YjV04s",
+    "Type ID": [],
+    "Type": [
+        "Japanese restaurant",
+        "Ramen restaurant",
+        "Sushi restaurant"
+    ],
+    "Menu": {
+        "link": "http://slurpingturtle.com/annarbor/",
+        "source": "slurpingturtle.com"
+    },
+    "Address": "608 E Liberty St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.27915,
+        "longitude": -83.74154999999999
+    },
+    "Phone Number": "(734) 887-6868",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 44
+        },
+        {
+            "stars": 2,
+            "amount": 45
+        },
+        {
+            "stars": 3,
+            "amount": 108
+        },
+        {
+            "stars": 4,
+            "amount": 403
+        },
+        {
+            "stars": 5,
+            "amount": 1283
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11:30 AM–11 PM"
+        },
+        {
+            "saturday": "11:30 AM–11 PM"
+        },
+        {
+            "sunday": "11:30 AM–9 PM"
+        },
+        {
+            "monday": "11:30 AM–10 PM"
+        },
+        {
+            "tuesday": "11:30 AM–10 PM"
+        },
+        {
+            "wednesday": "11:30 AM–10 PM"
+        },
+        {
+            "thursday": "11:30 AM–10 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "Industrial-chic Japanese choice with long communal tables for tapas, noodles & sushi, plus sake.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Great tea selection"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Healthy options",
+                "Small plates",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Dinner reservations recommended",
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid street parking",
+                "Somewhat difficult to find a space"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Food is a bit over priced, but the service and drinks are great.\""
+            },
+            {
+                "snippet": "\"Ordered Tonkotsu Ramen, With Chachu pork and marinated soft boiled eggs.\""
+            },
+            {
+                "snippet": "\"The chicken was fried crispy and the spicy broth was so delicious.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Marlene Mackens",
+                "rating": 5,
+                "contributor_id": "100961476974406608898",
+                "description": "Great food. Everything was delicious.\n\nOne of my kids forgot a toy on the table and one of the staff members noticed and brought it over to us before we left. Great service, we'll definitely keep coming back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNObU1POUJREAE!2m1!1s0x0:0x8bd3d588fd1db728!3m1!1s2@1:CIHM0ogKEICAgICNmMO9BQ%7CCgwIw9GPuAYQoKG78QI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPk6sGkIFxkhmVtSYcwZ50yyKXfG-q6QeiXpF0W=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOYCeEPIzt3h1PJ4Fqlk3v8Z7vEFNNLRULfafmo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMmWU1OYTmfGGlpWos3ItxoneCKgYOarpcMIcnH=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNkPZ2CTdRZJR_0-48dRWeE0ltqFpREd207QjFm=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Sammy Drayton",
+                "rating": 5,
+                "contributor_id": "118387073938553412083",
+                "description": "Everything here is very organized, which was pleasant because I came here on Labor Day weekend and they were well equipped for the surge in business. The food here is really good, I thought the braised pork wasn’t as tender as I would like but the broth was rich, complex, and delicious. The noodles were springy and cooked perfectly al dente! The atmosphere here was really fun for a party of five and we could all hear each other clearly, so it’s good for catching up with friends.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYeHBYSzBRRRAB!2m1!1s0x0:0x8bd3d588fd1db728!3m1!1s2@1:CIHM0ogKEICAgICXxpXK0QE%7CCgwIsPC7uAYQ0LzsywM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipObbH0AbJ6lYAnM9IbdrEOa7LcckArWZxyf-uV6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOzWgRkQ2m-n_kCya2LOPgyIVRnAAy0mYOX4-w8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNIY1OHOSvam1F4luYdrKJVADsl4FvRm3yyWOfi=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPPhgUwz3RdHenMMHL9WFBCmH82opRYLsCI4A7P=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipORJUu5K2CvCbSGgzuW7_P7dCN-cHjPzymjewMj=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNkFhiq68aiLaYzRjBzEPcxta1xvm4ye8OYIsKE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN8BqPbQ95YiO3qgfVjhefc_b_OfC9hwwbrXBJh=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Alysia Bulluck",
+                "rating": 5,
+                "contributor_id": "117479542104598601728",
+                "description": "Took my son here for his pre-birthday celebration dinner. He got the children’s ramen and added an egg & duck fat fried chicken. I thought the portion size was great 😊 The food was so good I didn’t get great photos because we were so busy eating. Our server was great despite being tired from her long shift. She kept a positive attitude and answered all the questions we had. I personally did not like the setup of this spot which is why I gave the atmosphere. I recommend this spot for date nights. The food is really good! 👍🏼",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIMnB2OXZ3RRAB!2m1!1s0x0:0x8bd3d588fd1db728!3m1!1s2@1:CIHM0ogKEICAgICH2pv9vwE%7CCgwIndLetgYQiL3z6gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOLcwsQ_xK8sf3ra3VEtKD3FiYYfgMU3u7W7OlO=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPFeQxezrbp0pxnPOA0KJ-JMrQI_WFQYSEJOQik=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMcZi1E8711qHrppS_2BglSIc0XnJw8qYBTI54B=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMiEUfsVARiGGw2YqhhZhpyDRTj7XUz5U1Fe1l_=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHbSmYdf2v1Ya8rx4aaU5-bDaeD7dn2gtEflBX=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Sarah Mari",
+                "rating": 4,
+                "contributor_id": "115181824120153644168",
+                "description": "This was my second time at Slurping Turtle, and the frist time since Covid. II was not let down, I got the California poke bowl and one of the seasonal beverages. It was quite loud in there and it was very busy. We did wait about 30 minutes for a table, but they had a callback (or textback) service, so we were able to walk around a bit while we waited and the host was very friendly.\nMy food was fresh and tasted good, the drink was also good. The only downside I think I can list were the prices, I know it's downtown Ann Arbor, but I thought my entree was a dollar or two overpriced.\nI would definitely eat here again, the duck fat fried chicken ramen looked tempting and I did think the ramen prices were a little more fair. I think I would probably have an even more enjoyable experience during non-peak times.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMzNTUtY1BnEAE!2m1!1s0x0:0x8bd3d588fd1db728!3m1!1s2@1:CIHM0ogKEICAgIC355-cPg%7CCgoIzp3AuQYQwONH%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNpHbcGr4n0idCZPluBrxU4vc-T69mLu2GsVwRw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNVm3CRtRJqJ8zK0Aabrb6P1TFJFBaZWvv7E9LW=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a week ago"
+            },
+            {
+                "username": "Phuong Tran",
+                "rating": 5,
+                "contributor_id": "114908182072625639094",
+                "description": "We had the ramen, a Tiger roll and baos, and they were fantastic! The ramen had rich, deep flavors with perfectly cooked noodles, and the broth was incredibly satisfying. The baos were soft, fluffy, and packed with delicious fillings. The atmosphere was cozy, and the service was friendly and attentive.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURyZ0xHQkZnEAE!2m1!1s0x0:0x8bd3d588fd1db728!3m1!1s2@1:CIHM0ogKEICAgIDrgLGBFg%7CCgwIm-TFtAYQ8KaWtgM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMVC2XYH6FpAnshwKbX8gzH8Py0L4GGY6DmW1FW=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOLFSzZyRGdqKXKOAUCB7PSXlenj6-YVXXsivy2=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSHO48LMnIdM7ZTYx2bObXp6bxnxSOvBHMKPuF=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOYix1BtN3ElvD1Upr41ceZ1V3d_6E1XDfr994e=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPUM84ZUtgQqptGroegT4lztBz3dTYfgXTp6kkD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO2Y2dEI8FgFqKb4VOIV5ir5NlwtltwKTnO31Yb=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Lauren Bareiss",
+                "rating": 5,
+                "contributor_id": "116386142312742468973",
+                "description": "During our company retreat we reserved a spot for dinner here. We had 8 (was going to be 12) people with us and they seated us in this cool community table style spot on the lower floor. We worked with Melissa to plan and pre-selected our menu and it was very easy. They even printed a custom menu for our dinner!\n\nThe Bao was absolutely amazing. The Gyoza were amazing too. The heart of romaine salad was really unique and tasty. As a main we had two types of ramen, the classic pork belly was so good! We also had a vegetarian fried rice that was delicious. The assorted puff pasteries for dessert were wonderful and the overall atmosphere was great. We also really enjoyed that it wasnt too loud and we could all talk and hear each other.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYbS1yWEd3EAE!2m1!1s0x0:0x8bd3d588fd1db728!3m1!1s2@1:CIHM0ogKEICAgICXm-rXGw%7CCgsI4rXVuAYQkNrhCA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMhvQgPohsArOERKEOzT_9dBLCGhj8tOeBspyfd=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPkdKwfpo5OB4B_SFuhup9weE3aOaoMvq826gQz=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOH4vOG-E9ba3xJGnpIzZlQXoj9zIdALau8f_BO=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Tara Edwards",
+                "rating": 4,
+                "contributor_id": "117494986813262948230",
+                "description": "Hubby and I ate here in May 2024 and everything was tasty per usual! It was packed in a Saturday night and we sat at the bar instead of waiting for a table. Our server was new and learning but he was super accommodating. Love, love this place!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3aVppU01nEAE!2m1!1s0x0:0x8bd3d588fd1db728!3m1!1s2@1:CIHM0ogKEICAgID7iZiSMg%7CCgwIxe6stgYQ0MXkpgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO1rxzx48Fu782jSK7qP6nv8vS6NRZIbio6VYdY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPrycaXJWr6Atqoy4JNEgt1nsPlAkzt0TG9y89L=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Cameron Ledzianowski",
+                "rating": 5,
+                "contributor_id": "111186013177292459807",
+                "description": "This place is amazing! We shared the shrimp tempura bao, spicy tuna roll, tiger roll, and DFFC ramen. Everything was delicious, and the service was great. The manager even went out of his way to refill our drinks and gave us an extra bowl to split the ramen. We will definitely be coming back, and could not recommend this place enough!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN6bG9QZ3R3RRAB!2m1!1s0x0:0x8bd3d588fd1db728!3m1!1s2@1:CIHM0ogKEICAgICzloPgtwE%7CCgwIn6DusgYQ-JvslwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOC0noA5PoOZpEIHrHKddr0YoeUXqIqm_yHcuR5=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNvzWJUcBEsWQmk7ATbIhgG1GMChuRWEZL6W1dX=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPMAFzzbkeHpUSnF6HLLbbi3c-6dicvVBPSW3kn=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+    }
+}

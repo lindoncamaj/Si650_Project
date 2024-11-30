@@ -1,0 +1,364 @@
+{
+    "docid": 84,
+    "Title": "Tios Mexican Cafe and Tequila Bar",
+    "Price": [],
+    "Place ID": "ChIJL0nLAz-uPIgR9iMROI_YD7k",
+    "Type ID": [],
+    "Type": [
+        "Mexican restaurant",
+        "Family restaurant"
+    ],
+    "Menu": {
+        "link": "https://tiosa2.com/menu",
+        "source": "tiosa2.com"
+    },
+    "Address": "401 E Liberty St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.279682099999995,
+        "longitude": -83.74339549999999
+    },
+    "Phone Number": "(734) 761-6650",
+    "Rating": 4.1,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 72
+        },
+        {
+            "stars": 2,
+            "amount": 46
+        },
+        {
+            "stars": 3,
+            "amount": 92
+        },
+        {
+            "stars": 4,
+            "amount": 219
+        },
+        {
+            "stars": 5,
+            "amount": 496
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11 AM–2 AM"
+        },
+        {
+            "saturday": "11 AM–2 AM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "11 AM–12 AM"
+        },
+        {
+            "tuesday": "11 AM–12 AM"
+        },
+        {
+            "wednesday": "11 AM–12 AM"
+        },
+        {
+            "thursday": "11 AM–2 AM (Thanksgiving)"
+        }
+    ],
+    "Description": "Mexican joint offers late-night eats, a massive hot sauce collection & homemade salsa.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Late-night food",
+                "Organic dishes",
+                "Quick bite",
+                "Small plates",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Gender-neutral restroom",
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid street parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"The waiter did a great job, so between food and service this place gets a 5!!\""
+            },
+            {
+                "snippet": "\"Good tacos, yummy guacamole, happy hour drinks are good too!\""
+            },
+            {
+                "snippet": "\"I highly recommend the chips and queso, hot salsa, and wet burrito.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Hank Putter",
+                "rating": 1,
+                "contributor_id": "110004903601536251886",
+                "description": "Refried beans tasted straight outa the can. Vegetables did not taste fresh. We ordered the churros and they were raw and doughy inside, we tried to tell our server, I think she was the manager, and she gaslighted us into thinking the churros were supposed to be that way. MID MID MID would not reccomend worst Mexican food in Ann Arbor.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURyM05TbTBnRRAB!2m1!1s0x0:0xb90fd88f381123f6!3m1!1s2@1:CIHM0ogKEICAgIDr3NSm0gE%7CCgwIlMvWtAYQ6I-b-wI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOwDN685hgOcd-LqsheNYXfR4ZI6_GLyDVByq8c=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHB5KX45qLR6-znanDa1dtleiU4gBmpSzCysrd=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOcaF07w1pzRa9prLpHJRdveTyL_OmFABSAdaVD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM2rTul0x5UJLNvYvJnkk_7FI2X0vTTTbKy84dU=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Kathryn",
+                "rating": 5,
+                "contributor_id": "111223084433550088299",
+                "description": "Rare to find a patio in downtown Ann Arbor that isn't right next to the road! Loved that the patio was shady even on a sunny evening. Food was reasonably priced, not the best Mexican food I've had but not the worst. Drinks were delicious, especially liked the margarita with fresh fruit blended in. Had a few N/A non-alcoholic options, most were soda-based unfortunately, horchata was great though!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURMMV9fWE13EAE!2m1!1s0x0:0xb90fd88f381123f6!3m1!1s2@1:CIHM0ogKEICAgIDL1__XMw%7CCgsIrvaNtAYQwIeXNg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN170hzKdu4tNMnpOKvNWqiTdZ8IWG2tTUFgGwG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNgpcpOkfMmPEmO2JRplAmRerNjAlEZR1DUiP6D=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "David Elyea",
+                "rating": 5,
+                "contributor_id": "115280124823648975584",
+                "description": "Fantastic food and service. The salsa (hot) and the queso (with chorizo added) we're great. I tried a variety of tacos and they were all very good. Getting a margarita is a must as well!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNUa2ItcnlRRRAB!2m1!1s0x0:0xb90fd88f381123f6!3m1!1s2@1:CIHM0ogKEICAgICTkb-ryQE%7CCgsI5vKUsgYQ-IuMIA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP1ITPgCLaRK1ObRkWsOVi4u6Q0P9eHeQ8aHQ1d=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPJE9VpLP35Yc52ZUzwnHwcgnbejy6ojQCUxlla=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMgF5H-7FE7B_6m4PV6tDwBuauqP7Yas6bsFg_Q=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            },
+            {
+                "username": "Malina Pasek",
+                "rating": 2,
+                "contributor_id": "105796599786634219603",
+                "description": "I was not impressed, and I usually don’t have things to complain about. Dirty dishes, a margarita served in a tall glass, wine served in a dirty glass, water served in a dirty glass. This is my first experience here and it did not leave a good impression. The food was okay? I was not really enthused by the food. It seemed low quality for the price. The rice for my fajitas seemed under done, the fajita vegetables were lack luster really only being onion that didn’t have any char. My partner want happy with his food and for us spending almost 70 bucks, I expected better.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNkOU1fVEtnEAE!2m1!1s0x0:0xb90fd88f381123f6!3m1!1s2@1:CIHM0ogKEICAgICd9M_TKg%7CCgwIjYqrrgYQ2OWR-gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM9D3kskI79FcdF39ng996VT5zO-HN0ENjj1vB7=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNq1Na2gypE6yyrB_gf83hlazC_GsZSOYel0xe1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPeFwGpx8NDE3C2pYwdWp5FAKp-UNprhBNjPq9E=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPtPCEgkXRgV4nxbOvjh0D6x_uG9drWVTbLgcqF=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "9 months ago"
+            },
+            {
+                "username": "Nicholas Klein",
+                "rating": 4,
+                "contributor_id": "103765778357847149139",
+                "description": "Fun atmosphere, attentive and friendly staff! I have mixed reviews on the food:\n\nGuacamole - Pretty much as good as guac gets, one of the best I've had. Super creamy!\n\nTaco Flight - I tried 4 different tacos and honestly just found the 3 with meat to be bland. They are SUPER loaded with meats and just didn't love any of them. My favorite was the meatless one (the \"Papa\"), which was potatoes/cheese/sauce and pretty good.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ1eUlDQmpBRRAB!2m1!1s0x0:0xb90fd88f381123f6!3m1!1s2@1:CIHM0ogKEICAgID5yICBjAE%7CCgwI5-_EqQYQqLDiwAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM7C3ubZIBxXVAeQF76Hxsq7ki8QS5cEJU08vCe=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMW4t1FnI7PgygvkxuU5HqxzRr83n5MWJ6QKmg3=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHN3eAtYOZIUQuwGlMfG1MQVJvlcp7qfdDMLTX=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNXrvnUQ7HlALwjdqVrpzuNFD_qiFE1KOBt3a13=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMWJ0MyXtMwWUlRwF_USnUczDg5RW1aytJR2I1Z=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQA_Vw5FBpSB4AGIamRo8XDVJmF89orxxYWYJ2=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Craig Hearn",
+                "rating": 5,
+                "contributor_id": "114984768658935673277",
+                "description": "Loved the HUGE nacho plate. Great place for food and drinks. Prices were good, atmosphere was good, food was great!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNub0k2RnNBRRAB!2m1!1s0x0:0xb90fd88f381123f6!3m1!1s2@1:CIHM0ogKEICAgICnoI6FsAE%7CCgwIivO7twYQ2ImCqwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNANEoqSYR_ifft4G0DHFasmtfL8zFnzN1IoDbo=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Lillian Hazel Pearce",
+                "rating": 5,
+                "contributor_id": "113191896521116340871",
+                "description": "Tíos is my favorite Mexican restaurant in Ann Arbor. I’ve been coming here for years now! The tacos are a great price and SUPER TASTY — my friends and I love the papa (potato) taco, the fish taco and the shrimp taco; if you eat pork, I also like the Al pastor taco. Their enchiladas, nachos and quesadillas are always delicious, too, as well as their drinks! I’m not kidding when I say I’ve had their margaritas delivered to my house before. I prefer the classic margarita, but the strawberry margarita is always a hit. This is getting long…but I’d be crazy to leave out the churros 🤤. Overall, great food and great price.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNwbW8yVjBRRRAB!2m1!1s0x0:0xb90fd88f381123f6!3m1!1s2@1:CIHM0ogKEICAgICpmo2V0QE%7CCgwIiqqmpgYQ4OaHxwM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNjV8_L9RoJDGbz-PVS728Lexp1rSJNO1FnyxOC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNNGHIVGsDQZTrhenkDMgCM6YOnsxEOajsCC2Nk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMkHc9sWnwivTA8gyPKF7xNwqJu0URFvMHS2Spq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOf5QP4DRLkRqgRpOQEujKb6TE6rFIYGELC-GgI=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM4-0F-3DowYfmmr1LxTsAWY-7hSPYiuwMzlkFn=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSc3lZdPanBeO0v9843ESSop_MaK8yatvd0izo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN28kCxi1-IjRQaAOkDMRTt3ORIGySl1y2MQgm9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOujUDGlQ_xiuBx4ELaKRLqoh7Bbwq-ieWzGBhY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMYkEkXOhF5V-y464JsPQYng6d6d7HsBx1YAHyV=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Sarah Klein",
+                "rating": 5,
+                "contributor_id": "101294004873674591917",
+                "description": "I was sad earlier today as I came just after noon and the doors were locked. A server came out to let us know they were closed as they had too many online orders and not enough staff to open, but that they would probably be open in an hour or so. Sadly, we left.\n\nWell, as fate would have it, our dinner choice didn't work out, so we came back here for dinner. And they were open! So glad, too! The prices are a bit more expensive than I'm used to (inflation? Yay...), but the food is worth it! ($12 for Guac.) I ordered guacamole that came with chips and salsa. The hot salsa was good,  but I preferred the sweetness of the medium (I didn't go for the mild as I wanted some heat). I have no regrets! So good! Husband ordered a wide selection of tacos. They were gone before I could snap a pic, lol. Highly recommend! And if they're closed, it's worth checking back later ;)",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM1ejRyeVN3EAE!2m1!1s0x0:0xb90fd88f381123f6!3m1!1s2@1:CIHM0ogKEICAgIC5z4rySw%7CCgsIpti8qQYQuOaSDQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMZW5c1vwJqdV4Y1PgLXee_A1DZ00qWyZel7aAo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNxne_C2BC4z6hfjVCTUgb5JwBNpMmChCJNyrR8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOYQe8nri29-qa1aMKMtsn_eZDHz4-Mg2r6z2U8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPV5o_eX_YeSwgF7W75rAjwnytMLasGGCbdEC8A=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+    }
+}

@@ -1,0 +1,442 @@
+{
+    "docid": 23,
+    "Title": "Union Rec",
+    "Price": [],
+    "Place ID": "ChIJdbTeCJivPIgRGEAoi20RTXY",
+    "Type ID": [],
+    "Type": [
+        "American restaurant",
+        "Latin American restaurant"
+    ],
+    "Menu": {
+        "link": "http://unionrec.com/",
+        "source": "unionrec.com"
+    },
+    "Address": "545 S Main St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2746371,
+        "longitude": -83.7481755
+    },
+    "Phone Number": "(734) 636-9999",
+    "Rating": 4.2,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 28
+        },
+        {
+            "stars": 2,
+            "amount": 25
+        },
+        {
+            "stars": 3,
+            "amount": 59
+        },
+        {
+            "stars": 4,
+            "amount": 74
+        },
+        {
+            "stars": 5,
+            "amount": 318
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "7 AM–11 PM"
+        },
+        {
+            "saturday": "7 AM–11 PM"
+        },
+        {
+            "sunday": "7 AM–9 PM"
+        },
+        {
+            "monday": "7 AM–9 PM"
+        },
+        {
+            "tuesday": "7 AM–9 PM"
+        },
+        {
+            "wednesday": "7 AM–9 PM"
+        },
+        {
+            "thursday": "7 AM–9 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Fireplace",
+                "Sports"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Happy hour drinks",
+                "Hard liquor",
+                "Late-night food",
+                "Small plates",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Gender-neutral restroom",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Drinks were good, service great and the food was tasty with good sized portions!\""
+            },
+            {
+                "snippet": "\"We mainly did tacos, queso, rice, beans, guacamole.\""
+            },
+            {
+                "snippet": "\"Very cool atmosphere, if I could rate the space alone it would be 5 stars.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "savana bellows",
+                "rating": 5,
+                "contributor_id": "112114193100204591469",
+                "description": "The place was absolutely amazing. Decor was outstanding. Service was great until the server said that his shift was ending and we were asked to  cash out. He stated that someone would be around to get us whatever we needed, being that we just received our dinner when we were asked to be cashed out.  No one checked on us. So, unfortunately, we had to get our own boxes. Other than that, everything was amazing. Where I work, we don't allow the servers to cash out guests until they are done eating even if it's shift change or not. They keep the table until the end of their dining experience.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYdU9lb3VRRRAB!2m1!1s0x0:0x764d116d8b284018!3m1!1s2@1:CIHM0ogKEICAgIDXuOeouQE%7CCgwImszmuAYQ2KiX5gE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOb4CLMcDEKG4dVlCNAalgpZd5kIw4XmhR96fRn=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOlfNdRM7pjqsp7eKTpxc67Z6HdwLWvrKrwV4xx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNM317SEZX6VE-kazxJMawrO0FEtF2fG4zPtROw=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 weeks ago"
+            },
+            {
+                "username": "Robert Jones",
+                "rating": 5,
+                "contributor_id": "110997553496686662654",
+                "description": "My wife and I had an amazing experience here and highly recommend to everyone. Depending on the day you might want to make a reservation as this establishment unless you don't ming waiting but they do a great job of getting you seated asap. Our waiter Steve was awesome, he walked us through the menu and let us know the meats and sauces were made in house and let us know a few of the more popular menu items. The food itself was incredible! All the meats were seasoned amazing and had incredible flavor! The mac and cheese was good too. Drinks were poured very generously. And everything was priced fairly. This establishment is perfect for a date night or night out with the family.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMzLTVPVWd3RRAB!2m1!1s0x0:0x764d116d8b284018!3m1!1s2@1:CIHM0ogKEICAgIC3-5OUgwE%7CCgwIv8u-uQYQuLWqvAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNWfaWIOcNs3ke-wWsCAg_eSpACod2LpINWYrY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNbKUn3kfaKTCcI7YNcRJSiJqy2O1Dq23JrM5c=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPwQtk9R566KydlnihqYs_ZGgguo7g6ESJnkmA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPe4YzZzDfrF2r-x0AuKbnqh17kRl37QuYvIDM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOFaVfGViPxL0eizQpSoO65-zmtsuEnJ1Mpp2M=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPCJYnXThvGXjViR9vVYUkcsSo7Off844jlLnU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOMEvYC4cj44dP-z6ugU1qG0hNLmlcwuCfyyxw=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a week ago"
+            },
+            {
+                "username": "Debby lopez",
+                "rating": 5,
+                "contributor_id": "116281977124630729506",
+                "description": "We came here after we eloped to enjoy dinner with our family (6 in total of people) and we came in around 8 pm. I felt SO bad  as they do close at 9 pm. However, the staff WAS so kind. They closed at 9 but still served us. Lyndsey, our server, was quick, and helpful! She then told us the manager told us to pick out two free desserts and have a sparkle! They congratulated us and went ABOVE and BEYOND. We didn’t call ahead and didn’t ask for any favors. They really put the customer first and they sealed our night on the best note possible. THANK YOU UNION REC!!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNucjh2U1JREAE!2m1!1s0x0:0x764d116d8b284018!3m1!1s2@1:CIHM0ogKEICAgICnr8vSRQ%7CCgwIiLTvtwYQ4M-j3wI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPCXH2nFLrMxxReswqox7iUeZHGyFyxS56ah7z4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMpndhxonq0Y2eATXXKJSFtUTGfHWQ9n9KJ3A8V=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Kelly Hyer",
+                "rating": 5,
+                "contributor_id": "109390192095581323198",
+                "description": "Great new addition to Union Joint options in the metro Detroit area. Of course I had to have a side of Union mac. A MUST!\n\nOnly stopped in for a to - go salad and cafe coffees and hit cocoa. All A++.\n\nI'll be back to dine in soon.\n\n(If you have not been in a Union Joints spot yet, you may not realize that theme and design is unique to each location. In true Union fashion, they created another cool, unique vibe which is another reason to stop. 👏 😍)",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIejdHRXRnRRAB!2m1!1s0x0:0x764d116d8b284018!3m1!1s2@1:CIHM0ogKEICAgICHz7GEtgE%7CCgwI6pmAtwYQ-LPi6wE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMp8XoF8g-EiNPel4YdkG5Q-VKPGk7liUtUzwn8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMi2bT7pzS0KcJNOM2FX4DwpzIekQA3-KunJbGM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOdPi2ttV26PWq57SZb9XdYojyT09n-48ePVaqn=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMpqGDgw6tC7uJew2TtC7lvjOVvi_nzwsvMIhb1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPfdWLwCQdWYfTvGCkHT9sa_UBMuibTFN1otbHi=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOdMbU0eCWagAxnbosDxclyFK_4hxZ48dyJCBlZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOhjwEBy04jPGmKWfHc_rgxAfhwromaO-Q3x2k5=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNzleEy2D3xCu7-btE9ezdUUo0e45fgJipGLNwn=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN-agcIQ12qjRZEa3PTDa7ZQdB7mYcrvJY_G-1q=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPHRcycT9nhvS3E_8jM0ELLW45qfEVWM7VBAzkP=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNBZQg0hRwI5ehWhUCi05n_6MGeJpc-OJnuCLfp=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOAd7AgN1MXYpvCfekcWjYBtQakWd5zMxoe4Wtr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNVFasKA8g0EVnAF-yAqOGd91JU3LWsxPeJyOa0=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Pannaphat Scott",
+                "rating": 5,
+                "contributor_id": "116036791199857321348",
+                "description": "We have a great time! 🥰❤️\n🍺🍸🍹🧉🥡\nThis place is really nice big open space and a lot of parking spot. Good for come with a big group have a nice dinner and drink or even just easy relax brunch.\nFood taste different in they own way but not bad.\nOverall I think it is another must try place in\n📍Ann Arbor and it’s actually good sometime to step out from busy downtown restaurant for a little.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNENF9EQ2lnRRAB!2m1!1s0x0:0x764d116d8b284018!3m1!1s2@1:CIHM0ogKEICAgICD4_DCigE%7CCgsIlt6osAYQuPLzFQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN1yT6RlG1TM4OVUKbJik7AUvf7lx6Lzip9vl_v=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPKIxeWeyoqYdpdVeapcXpYQu5PAM-OFELORTlW=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN4r64xQlvqBoCDfpS6_ODYH5X5E3M13Gq1Lv6g=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOKo9tt2iDsrsyk7qsTvf8ah-1n0ots4uT6sw_f=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMU9ysBUCHV6pgsX830a_Z9pIrB2sqJE7Hkzyln=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNE3Qp3AhBSKijVGW9ipbrlJ3D3N93TWxAUmafH=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNM_Ybr-RnJG78aclP_xshj-KnyhNmkS81aG6-I=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOhVPbj1y7bNzwBsabPFRJpHMAVooou9qX-myLr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMledkhiYwYrjECJBEs5x_WGXuJAdmqwkyzz_IR=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "Shounak Bapat",
+                "rating": 5,
+                "contributor_id": "117665998723336651609",
+                "description": "This is a really nice restaurant with great food. We went for dinner and tried their cauli taco and smoked chicken taco. Both were great. We also tried their bandeja bowl with BBQ cauliflowers. We couldn't decide which one we liked more. The ambience is nice and service was good as well.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM3cUxhWUR3EAE!2m1!1s0x0:0x764d116d8b284018!3m1!1s2@1:CIHM0ogKEICAgIC7qLaYDw%7CCgsI4cLltQYQ-LHMPg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP7QzaxZUBl8z50NyxQVLx-lqhIKiNeWs4XKgaV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPc3SuUCMnMrA2RGJl7zeOOzWaGNLRQmwajsmFa=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM2hg3LOzN9EwzhiV5N7wIPWIH-t1ICkfo-yDfZ=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Arbor Imaging",
+                "rating": 5,
+                "contributor_id": "103485767969527060263",
+                "description": "A great restaurant with a great vibe. It is definitely tucked away, looking like a warehouse bucked behind an auto repair shop, but once you find it you’ll be glad you did. Union Rec has a creative drink menu with food offerings that go beyond la comida Tez Méx. Joe, my bartender and the rest of the staff are fun, attentive and engaging. I devoured a set of tacos; the Chicken  Tinga, Korean Pulled Pork, and the Brazilian Brisket with a margarita to was it all down. Very yum.  They also have a private event room and coffee shop that opens at 7:00 am. If you haven’t, you need to check the place out. You can also enjoy free WiFi with electric outlets and hooks for your belongings at the bar. Always busiest on game day.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuX0s2SVFnEAE!2m1!1s0x0:0x764d116d8b284018!3m1!1s2@1:CIHM0ogKEICAgIDn_K6IQg%7CCgsIt9T-twYQgNfpeg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOnJ8f3cTstqK0fOOXG25Bm2mCQJn-4vyWunwW5=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM4U-b3AB9XsqZwNEC7MyA5XZ1KyLIUihmdSBuJ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPZMN4VofvnCs0w4QhQZngTN-wOtUj00H8eKe35=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM0SU7WZcOFDxfuhPrLYFLlJ-aXC4B624pcPsEx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMWTTvc81IBd_OfvtvsDtEqzMyL9L-4Cal7TiEC=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMPL8NQvW5i0fc-bk9y1FD_mWkwPbehazRfOa-c=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO34W5-MGdlMUYofFMOJU5ZyQu9w8rpHKQHudrS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPqpCDrmeqzJyi3hOdlP8FwJtBZSXtE9ewIcI91=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOPURNsPqfb1Gc6fkACb81hCy_Z0Vs1sGbvdnrd=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPEi1IToyeV9z0OTWipF5aNm4u827wlrIa4NIIL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOQng3GYXXzy7I3t0ztbXKeh90Qg6adM-ChRjl1=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPuu9ZjwxVlvkaNEmksAHczSYTq_YYFfgLyarvW=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPDCfzxf_rfzPO8QbCYR3-gs2anDXDHhxM-Qbvy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOuynwn45jVF9cthH3lSzX7i3RIAzbIjrDl_WEE=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Maryam Shulgan",
+                "rating": 4,
+                "contributor_id": "101782774774733274149",
+                "description": "Good place for large groups, as there is lots of seating. The food was pretty good but definitely on the steeper end. We went on Memorial Day so the place was relatively empty. We were able to seat ourselves and choose to sit where we liked to.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURUaS1xaGR3EAE!2m1!1s0x0:0x764d116d8b284018!3m1!1s2@1:CIHM0ogKEICAgIDTi-qhdw%7CCgsI5P7TsgYQgJLwLA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNqRwF7jbNYc-UBZ8Sh_X1d9_waC-8n2hRB4Qfl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMOIUoXYFvzOWOtzQtPtK732PSzJmgtM2HAI8Te=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNdbtggdAGHrjD_4SP9MvcAqf_4a_l8oeA4HT7K=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPbt7viIxKB4ahcOCLfeDqX2c5YOOnUdp9miLmQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPU55E164z80aAk6K1EIC2ztfuFcFNCDnjK2IzI=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+    }
+}

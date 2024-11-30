@@ -1,0 +1,218 @@
+{
+    "docid": 192,
+    "Title": "Plum Market",
+    "Price": [],
+    "Place ID": "ChIJE6DfqBusPIgRdbM5RCpnkfo",
+    "Type ID": [],
+    "Type": [
+        "Grocery store",
+        "Florist",
+        "Gourmet grocery store",
+        "Health and beauty shop",
+        "Natural goods store",
+        "Restaurant",
+        "Supermarket",
+        "Wine store"
+    ],
+    "Menu": [],
+    "Address": "3601 Plymouth Rd, Ann Arbor, MI 48105",
+    "GPS Coordinates": {
+        "latitude": 42.3059839,
+        "longitude": -83.6910989
+    },
+    "Phone Number": "(734) 545-7250",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 43
+        },
+        {
+            "stars": 2,
+            "amount": 23
+        },
+        {
+            "stars": 3,
+            "amount": 88
+        },
+        {
+            "stars": 4,
+            "amount": 295
+        },
+        {
+            "stars": 5,
+            "amount": 838
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "8 AM–10 PM"
+        },
+        {
+            "saturday": "8 AM–10 PM"
+        },
+        {
+            "sunday": "8 AM–10 PM"
+        },
+        {
+            "monday": "8 AM–10 PM"
+        },
+        {
+            "tuesday": "8 AM–10 PM"
+        },
+        {
+            "wednesday": "8 AM–10 PM"
+        },
+        {
+            "thursday": "8 AM–6 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "",
+    "Details": [
+        {
+            "highlights": [
+                "Great produce"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom"
+            ]
+        },
+        {
+            "offerings": [
+                "Organic products",
+                "Prepared foods",
+                "Salad bar"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "crowd": [
+                "LGBTQ+ friendly"
+            ]
+        },
+        {
+            "planning": [
+                "Quick visit"
+            ]
+        },
+        {
+            "recycling": [
+                "Glass bottles",
+                "Metal cans"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments",
+                "SNAP/EBT"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "On-site parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Great selection of lunch options, soup, salads, pizza, sandwiches, and more.\""
+            },
+            {
+                "snippet": "\"This is my first choice lately for beer, wine, meat, and gluten - free foods.\""
+            },
+            {
+                "snippet": "\"Very friendly staff and clientele, reasonable prices for high end products\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Grant Dervishi",
+                "rating": 4,
+                "contributor_id": "111157704330595086869",
+                "description": "Food and soft drinks are pricey but it’s a gourmet store. I buy wine for my customers there because of the amazing selection. The wine is reasonably priced. The front end manager is a young woman with multicolored hair and big glasses- I did not catch her name but she was very friendly and helpful when it came to cashing in my cans the recycling machine would not take",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURudHV6S09BEAE!2m1!1s0x0:0xfa91672a4439b375!3m1!1s2@1:CIHM0ogKEICAgIDntuzKOA%7CCgwIk9eFuAYQuLKM8wE%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Lizzy Masotta",
+                "rating": 5,
+                "contributor_id": "101341070840109172283",
+                "description": "The best market with high quality, curated products that you can’t find elsewhere. Lots of local products. Zingermans bakery bread and pies.\nPro tip: they have a seating area with napkins, plates, utensils - grab something for lunch from their deli counter and eat it there!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURiN3VxSXBBRRAB!2m1!1s0x0:0xfa91672a4439b375!3m1!1s2@1:CIHM0ogKEICAgIDb7uqIpAE%7CCgwI8v_DtQYQ8Lu8qgI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNSJjyr_tNFROwQhqDuarukiDj3xWTO2OUQV1pg=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Cossette Flynn",
+                "rating": 5,
+                "contributor_id": "100375805124105720241",
+                "description": "The holidays are always stressful but thanks to Torrey McEwen i have covered the food side of thanksgiving and put my mind at ease! i’ve never catered a holiday before and i won’t be doing it any other way again! Super fast email replies and only kind helpful messages. Thank you seriously! from an Ann Arbor mother ❤️",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQzOXUyLW1BRRAB!2m1!1s0x0:0xfa91672a4439b375!3m1!1s2@1:CIHM0ogKEICAgID39u2-mAE%7CCgwIhubauQYQoK_SzwE%7C?hl=en-US",
+                "date": "a week ago"
+            },
+            {
+                "username": "Rohan Chandratre",
+                "rating": 4,
+                "contributor_id": "105124568043136599345",
+                "description": "Has a lot of great good quality hand picked stuff but lacks variety and often is very expensive comparably. I especially like their fresh juices they sell in glass bottles. Also great bakery section. And I think they have one of the biggest variety for wine selection.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMNkpxV3RRRRAB!2m1!1s0x0:0xfa91672a4439b375!3m1!1s2@1:CIHM0ogKEICAgICL6JqWtQE%7CCgsIksqxswYQyKOCWg%7C?hl=en-US",
+                "date": "5 months ago"
+            },
+            {
+                "username": "william Caldwell",
+                "rating": 5,
+                "contributor_id": "104360159451790990537",
+                "description": "This was a quick on and out visit on my way to a family gathering, so I don't have much to comment on.  This store has a different floor plan than other Plum Market stores I've been in.  It seemed practical.  The store was clean and the staff was helpful and courteous.  I would say here frequently if I lived in the area.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN6MjZmZV9RRRAB!2m1!1s0x0:0xfa91672a4439b375!3m1!1s2@1:CIHM0ogKEICAgICz26fe_QE%7CCgwIoaWBswYQyP7D0wE%7C?hl=en-US",
+                "date": "5 months ago"
+            },
+            {
+                "username": "Teri Gogola",
+                "rating": 2,
+                "contributor_id": "116039309132270641695",
+                "description": "Well kept, clean, organized. High prices though. We bought food from the counter, overpriced and terrible tasting. My kid thought the chicken tenders were not any better than gas station tenders. The macaroni and cheese lacked flavor, the spinach pie should be named cheese pie for the thick sheet of mozzarella that took over the entire piece. The cabbage soup was tasty, but you can't really mess that up. Will not return, shot over to Panera for better taste and quality for food to go.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNIaXRERk9REAE!2m1!1s0x0:0xfa91672a4439b375!3m1!1s2@1:CIHM0ogKEICAgICHitDFOQ%7CCgwIqZXctgYQiPuNkwM%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Debra Gorney",
+                "rating": 5,
+                "contributor_id": "102466711332974213393",
+                "description": "Expensive but well stocked. One problem is that Florida's Best OJ sells for over $5 twice the price that Meijer sells it. That is really bad.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYd1BHbGx3RRAB!2m1!1s0x0:0xfa91672a4439b375!3m1!1s2@1:CIHM0ogKEICAgIDXwPGllwE%7CCgwI18vfuAYQ-JT79AE%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Elizabeth Harris",
+                "rating": 4,
+                "contributor_id": "113398443913597938262",
+                "description": "I love the different varieties of hot soup that they have and the fresh salad bar. The Fresh Meat Department has a variety of fresh meats. I love the lamb burgers.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNydF9hVE5nEAE!2m1!1s0x0:0xfa91672a4439b375!3m1!1s2@1:CIHM0ogKEICAgICrt_aTNg%7CCgsI77jCtAYQ4LjcHQ%7C?hl=en-US",
+                "date": "4 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "in_store_pickup": true,
+        "delivery": true
+    }
+}

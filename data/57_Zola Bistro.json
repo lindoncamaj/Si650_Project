@@ -1,0 +1,320 @@
+{
+    "docid": 57,
+    "Title": "Zola Bistro",
+    "Price": [],
+    "Place ID": "ChIJcyQhCR-vPIgRnBg_JipT_eg",
+    "Type ID": [],
+    "Type": [
+        "Bistro",
+        "Bar",
+        "Cafe",
+        "Restaurant"
+    ],
+    "Menu": {
+        "link": "https://www.bistrozola.com/our-menus/",
+        "source": "bistrozola.com"
+    },
+    "Address": "3030 Washtenaw Ave #101, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2570401,
+        "longitude": -83.6991415
+    },
+    "Phone Number": "(734) 477-8088",
+    "Rating": 3.7,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 139
+        },
+        {
+            "stars": 2,
+            "amount": 81
+        },
+        {
+            "stars": 3,
+            "amount": 104
+        },
+        {
+            "stars": 4,
+            "amount": 219
+        },
+        {
+            "stars": 5,
+            "amount": 430
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "8 AM–10 PM"
+        },
+        {
+            "saturday": "8 AM–10 PM"
+        },
+        {
+            "sunday": "8 AM–10 PM"
+        },
+        {
+            "monday": "8 AM–10 PM"
+        },
+        {
+            "tuesday": "8 AM–10 PM"
+        },
+        {
+            "wednesday": "8 AM–10 PM"
+        },
+        {
+            "thursday": "8 AM–10 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "Creative New American cuisine with a Mediterranean twist & cocktails in a sleek, minimalist setting.",
+    "Details": [
+        {
+            "from_the_business": [
+                "Identifies as women-owned"
+            ]
+        },
+        {
+            "highlights": [
+                "Fast service",
+                "Great coffee",
+                "Great dessert",
+                "Great tea selection"
+            ]
+        },
+        {
+            "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Happy hour drinks",
+                "Hard liquor",
+                "Healthy options",
+                "Organic dishes",
+                "Small plates",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Romantic",
+                "Trendy",
+                "Upscale"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Lunch reservations recommended",
+                "Dinner reservations recommended",
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "Has changing table(s)",
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"All the food was tasty but portions were a bit small for the price!\""
+            },
+            {
+                "snippet": "\"This place does not meet its price point in service or quality.\""
+            },
+            {
+                "snippet": "\"I love the atmosphere and the selection of crepes and espresso drinks\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Rima",
+                "rating": 1,
+                "contributor_id": "101386365179731836407",
+                "description": "Not the first time I’m served burnt chicken with pink on the inside when ordering the chicken & waffles. So unpalatable and disappointing. I always ask for a regular iced matcha and get a white/beige drink that doesn’t taste or look like matcha. I’ve come back despite my bad experiences hoping for an improved experience and I’m more disappointed everytime.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMZ1ozZzRBRRAB!2m1!1s0x0:0xe8fd532a263f189c!3m1!1s2@1:CIHM0ogKEICAgICLgZ3g4AE%7CCgsInPnMswYQwPK-Kw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOkGPXJIBmEGCFjpVSzUBLVU27HAF0N5ykfBMCU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP19L8XbtnOrOODWU76yaK0V89z2tCpSX0X7vxU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM976qHnxm4wWYlCUzkiVtzRw0Luclq6SDTkbKZ=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Anthony Perry",
+                "rating": 3,
+                "contributor_id": "111638083659334856991",
+                "description": "Food was okay.. My wife and I both ordered omelets. Her omelet was not impressive, before ordering,  she asked the waitress if she could exclude Bell peppers, and she told her unfortunately no, the peppers and onions were already put together. When we received our meals, potatoes were both cold and seemed like they had nothing but peppers in her omelets. My omelet was lacking cheese and was rather disappointed with the flavor. For $22.00 for each omelet I was expecting something grand, it was not anything to get excited about. Service was not great, waited over 10 minutes before we got our menus, Ten more minutes before getting water's. I would not go back again. Way overpriced for quality of food.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM1aWJHVk9BEAE!2m1!1s0x0:0xe8fd532a263f189c!3m1!1s2@1:CIHM0ogKEICAgIC5ibGVOA%7CCgsI5sGvqQYQwPHuKQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOVowYsJNTngvzVdviRAl_2KwhzVMTeo79AZu3E=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM7e6NnKfEqFRD_bPI7JUIKVHTDoq1O54igxnmG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM8L0n_7o5pXHNxLcVUHs5VTrRwmmtCrYX8W_VY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP8C7Pfi3gBoRNGfXeVVRMx8q3ScNEZC_LLGaQt=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "A W",
+                "rating": 5,
+                "contributor_id": "117428300408288630707",
+                "description": "I have been going to Zola Bistro for many years. Their food is consistently high quality and the service has been excellent. Recently there were problems with a carryout order that I received.  Because I value this business in our community, I decided to call and speak to management. Hedia, who I believe is the owner, spoke with me. She expressed gratitude for me calling, she was extraordinarily generous in her compensation for the mistakes. Every business has problem days or problem employees or problem products. But only some of the best businesses take quality assurance so seriously. We are lucky to have such a high quality business in Ann Arbor.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQzbkpISk9BEAE!2m1!1s0x0:0xe8fd532a263f189c!3m1!1s2@1:CIHM0ogKEICAgID3nJHJOA%7CCgwI5L_QuQYQgKfZ1QI%7C?hl=en-US",
+                "date": "a week ago"
+            },
+            {
+                "username": "Gregory Magee",
+                "rating": 5,
+                "contributor_id": "104422084025041097654",
+                "description": "Quickly became my cheers in ann arbor 🥂😁. The staff is very accommodating.  The Chefs are constantly amazing! Not a bad Chef shift on there schedule 🥂🥂🥂",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNua2VYY1lBEAE!2m1!1s0x0:0xe8fd532a263f189c!3m1!1s2@1:CIHM0ogKEICAgICnkeXcYA%7CCgwIxZnYtwYQwOCl3AE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOtZ9ZlsknWgxuekpjC0sfqhM-mx19Q22iomF1M=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMV9vdFvoblfQ00Dw7dBMKU6EmQox8tMeDsKlFq=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPNy1jsWeSBKBH4wD6xOe1werv6Csga7vj5TqJ-=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Doylean Laura",
+                "rating": 5,
+                "contributor_id": "118395557479797894384",
+                "description": "AMAZING!!! That's the best way to describe my experience here. I ordered the Caesar salad with blackened salmon. It is the most delicious salad I've had in years & the dressing was PERFECTION! The server, Ava, greeted me with a smile and was very helpful &knowledgeable. Can't wait to come back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYOGJieXhnRRAB!2m1!1s0x0:0xe8fd532a263f189c!3m1!1s2@1:CIHM0ogKEICAgICX8bbyxgE%7CCgwI4-vFuAYQoPTluwM%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Brian McMichael",
+                "rating": 5,
+                "contributor_id": "112716236794829532611",
+                "description": "We had a wonderful Sunday brunch here. The service by Danielle was wonderful. The Dutch baby was as good as I’ve ever had (it is by its very nature a type of fallen soufflé). The mixed fresh fruit was delightful. Please take this review in balance to a previous one.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNkdTVtQkRREAE!2m1!1s0x0:0xe8fd532a263f189c!3m1!1s2@1:CIHM0ogKEICAgICdu5mBDQ%7CCgwIiPfIrgYQ-PiGggI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOovYxLIxqMWqPpxc6qWJWgEPGQtX6C6DnaIRuY=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "9 months ago"
+            },
+            {
+                "username": "John Rennels",
+                "rating": 5,
+                "contributor_id": "118333112541938309688",
+                "description": "We were lucky to have Olivia as our server – she was so attentive and cheerful! And the classic French toast was delicious. Plus, there's nothing quite like enjoying it all while sitting outside in downtown Ann Arbor.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNyME5ueGx3RRAB!2m1!1s0x0:0xe8fd532a263f189c!3m1!1s2@1:CIHM0ogKEICAgICr0NnxlwE%7CCgwI-rCUtAYQkP_25gI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMzDLyhmlnRGN70QFgOlMDoI18mFQ1xiMaEqLU5=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Chantelle",
+                "rating": 5,
+                "contributor_id": "117044145371405329049",
+                "description": "Had the Keith's special latte. It was delightful. Loved the ambiance of this bistro. Keith was friendly & professional. Will be back",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3djctOTZBRRAB!2m1!1s0x0:0xe8fd532a263f189c!3m1!1s2@1:CIHM0ogKEICAgIC7v7-96AE%7CCgsIkryOtgYQsOKmOg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNbLa3isxRgBg9AYwdKoNNCJH5itksN6cj-WxHK=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyOGtbdWfmSreGZMaZLUVo_kheYcgga7IHFpE_=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "curbside_pickup": true
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "docid": 166,
+    "Title": "South Quad Dining Hall",
+    "Price": [],
+    "Place ID": "ChIJHSjF3pGvPIgRbf_hzPTu2vU",
+    "Type ID": [],
+    "Type": [
+        "Restaurant"
+    ],
+    "Menu": [],
+    "Address": "600 E Madison St, Ann Arbor, MI 48109",
+    "GPS Coordinates": {
+        "latitude": 42.273668799999996,
+        "longitude": -83.7421033
+    },
+    "Phone Number": [],
+    "Rating": 4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 2
+        },
+        {
+            "stars": 2,
+            "amount": 2
+        },
+        {
+            "stars": 3,
+            "amount": 2
+        },
+        {
+            "stars": 4,
+            "amount": 7
+        },
+        {
+            "stars": 5,
+            "amount": 12
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "7 AM–8 PM"
+        },
+        {
+            "saturday": "9 AM–2 PM, 4:30–8 PM"
+        },
+        {
+            "sunday": "9 AM–2 PM, 4:30–9 PM"
+        },
+        {
+            "monday": "7 AM–9 PM"
+        },
+        {
+            "tuesday": "7 AM–9 PM"
+        },
+        {
+            "wednesday": "7 AM–9 PM"
+        },
+        {
+            "thursday": "7 AM–9 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "",
+    "Details": [
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "All you can eat",
+                "Coffee",
+                "Comfort food",
+                "Halal food",
+                "Healthy options",
+                "Quick bite",
+                "Salad bar",
+                "Small plates",
+                "Vegan options",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Pleasantly surprised by the quality and variety of food.\""
+            },
+            {
+                "snippet": "\"Plenty of seating, clean stocked bathrooms, nice cozy ambience.\""
+            },
+            {
+                "snippet": "\"Excellent variety and overall food quality for a university dining hall.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Julia Han",
+                "rating": 4,
+                "contributor_id": "113868960040867445297",
+                "description": "Enjoyed a festive dinner at South Quad Dining Hall with friends after finals. Pleasantly surprised by the quality and variety of food. Despite a line for a popular dish, the quick service made the wait short. Delicious desserts and fruits added a sweet touch. Highly recommend for a campus dining experience in Ann Arbor!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURWMS1qLWNnEAE!2m1!1s0x0:0xf5daeef4cce1ff6d!3m1!1s2@1:CIHM0ogKEICAgIDV1-j-cg%7CCgsItY7_qwYQ8N6UcQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMGoniFZapgq2iYJd-zMm2a1YpQB5sQlAW8CHwd=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0pK4bBGFWTUp-EnbztE7CtmjNr1DM-HU0YOW9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPgVcyro24exbe-WAxV-VgDuVxs2iZO2zRVLzMM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOd4-Bh78MD3GFzxIu5oJt2rPLwPyCrpUCdDNXY=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP_Jw4nIAVTTUyJIf2fgwSRcT3wnSgTOgY7Ow6a=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "11 months ago"
+            },
+            {
+                "username": "Yuliang Hu",
+                "rating": 5,
+                "contributor_id": "110046364390822301973",
+                "description": "Excellent variety and overall food quality for a university dining hall. Great variety of desserts.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM5NmRiNHNBRRAB!2m1!1s0x0:0xf5daeef4cce1ff6d!3m1!1s2@1:CIHM0ogKEICAgIC96db4sAE%7CCgwI2c6krwYQsLmUigE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO9t9f9o7vAA3km1XE2Wmli4MIaGVMSNU2XMYKc=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "delmy quijada",
+                "rating": 5,
+                "contributor_id": "106274507196347539938",
+                "description": "They have many options, really good tasty food. Coffee, soda fountain, salad bar, pasta bar, an area for a vegan plate of the day, dessert (3 options for the day), yogurt and toppings, peanut butter sandwich area and bread with butter area. I found it really good!\nPlenty of seating, clean stocked bathrooms, nice cozy ambience.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNEdi1YbUx3EAE!2m1!1s0x0:0xf5daeef4cce1ff6d!3m1!1s2@1:CIHM0ogKEICAgICDv-XmLw%7CCgwIpNG3sAYQwNO3jAM%7C?hl=en-US",
+                "date": "7 months ago"
+            },
+            {
+                "username": "Ella Mendelson",
+                "rating": 2,
+                "contributor_id": "101524888163250983081",
+                "description": "Food is never as advertised on their app. Quality is lacking. Lines are long. Don’t expect dessert",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNuOHRiQ2FBEAE!2m1!1s0x0:0xf5daeef4cce1ff6d!3m1!1s2@1:CIHM0ogKEICAgICn8tbCaA%7CCgwIyevLtwYQgJSwzAE%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Jackson Bossenbroek",
+                "rating": 1,
+                "contributor_id": "112374803113883341905",
+                "description": "Service is great, love the workers, food is so lacking though, fell off as the year has progressed. I hope it gets better again, please, please, I’m Fr begging for this food to be decent, classes are rough enough as is, I just want some decent food after my class. Thank you!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURaZ0lmd3BBRRAB!2m1!1s0x0:0xf5daeef4cce1ff6d!3m1!1s2@1:CIHM0ogKEICAgIDZgIfwpAE%7CCgwIltayqAYQuJHK3AM%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Robin H",
+                "rating": 3,
+                "contributor_id": "101918384765861863373",
+                "description": "This place is mad overrated. Better than Bursley. It's a Michigan Dining hall, so keep your expectations low!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNodS1ELVJREAE!2m1!1s0x0:0xf5daeef4cce1ff6d!3m1!1s2@1:CIHM0ogKEICAgIChu-D-RQ%7CCgwIzr7bnwYQuIHw5QE%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Jason Shen",
+                "rating": 4,
+                "contributor_id": "108627937796265149756",
+                "description": "Supposedly the best dining hall but not very good.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM5N3JfWG9nRRAB!2m1!1s0x0:0xf5daeef4cce1ff6d!3m1!1s2@1:CIHM0ogKEICAgIC97r_XogE%7CCgwI48ierwYQ2JbRpQM%7C?hl=en-US",
+                "date": "8 months ago"
+            },
+            {
+                "username": "Sifan Xue",
+                "rating": 5,
+                "contributor_id": "101792149019687519861",
+                "description": "Way better than bursley",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNSLVlMNmdnRRAB!2m1!1s0x0:0xf5daeef4cce1ff6d!3m1!1s2@1:CIHM0ogKEICAgICR-YL6ggE%7CCgwIuNa4oQYQkOK8wgM%7C?hl=en-US",
+                "date": "a year ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+    }
+}

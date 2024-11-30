@@ -1,0 +1,326 @@
+{
+    "docid": 45,
+    "Title": "Cardamom Restaurant",
+    "Price": [],
+    "Place ID": "ChIJxxmItH-uPIgRDuvzf4RZ4BM",
+    "Type ID": [],
+    "Type": [
+        "Indian restaurant"
+    ],
+    "Menu": [],
+    "Address": "1739 Plymouth Rd, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.298564299999995,
+        "longitude": -83.7214494
+    },
+    "Phone Number": "(734) 662-2877",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 79
+        },
+        {
+            "stars": 2,
+            "amount": 50
+        },
+        {
+            "stars": 3,
+            "amount": 93
+        },
+        {
+            "stars": 4,
+            "amount": 317
+        },
+        {
+            "stars": 5,
+            "amount": 1015
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "5–10:30 PM"
+        },
+        {
+            "saturday": "5–10:30 PM"
+        },
+        {
+            "sunday": "5–10 PM"
+        },
+        {
+            "monday": "Closed"
+        },
+        {
+            "tuesday": "Closed"
+        },
+        {
+            "wednesday": "5–10 PM"
+        },
+        {
+            "thursday": "5–10 PM (Thanksgiving)"
+        }
+    ],
+    "Description": "Casual eatery serving up modern & traditional Indian cuisine in colorful environs.",
+    "Details": [
+        {
+            "highlights": [
+                "Fast service",
+                "Great dessert",
+                "Great tea selection"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Coffee",
+                "Comfort food",
+                "Halal food",
+                "Hard liquor",
+                "Healthy options",
+                "Small plates",
+                "Vegan options",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Gender-neutral restroom",
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations",
+                "Usually a wait"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Tasty food, great atmosphere and friendly service.\""
+            },
+            {
+                "snippet": "\"Good range of spicy and mild, vegetarian, vegan, meat and gluten free options.\""
+            },
+            {
+                "snippet": "\"Tables are closely placed and the place is small with low lighting.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Robert Capogreco",
+                "rating": 4,
+                "contributor_id": "114100169322380272794",
+                "description": "The food was good, don't know enough about great tasting Indian food. Nothing was to die for. Server was slow. we were there an extra hour, because of the service. Had a good time there, with company at our table. When busy, they need more of a sense of urgency . Not a bad place",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYLXJtbDZ3RRAB!2m1!1s0x0:0x13e059847ff3eb0e!3m1!1s2@1:CIHM0ogKEICAgIDX-rml6wE%7CCgsI2OfzuAYQsMyscg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPvvckmgc8ke92Men3tgB4L5rnz5ckzgEJswJrZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOckSj2WLf25Vz3rRM3CfrO6JJaU15Ej7fx83gA=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP9DOenTA1OUWmTiRmo2Pv42Si0LTxt8E4jJq1D=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Zee Mattingly",
+                "rating": 5,
+                "contributor_id": "106957093267934966603",
+                "description": "Probably one of my favorite Indian restaurants in Ann Arbor. I go here with my family pretty often and the food is always amazing. All the waiters are so nice, I felt so bad last time we visited since we got there maybe 20-30 minutes before the kitchen closed, but everyone who worked there was so nice about it. The mattar paneer is to die for, I get it literally every single time I go. Super cute atmosphere too, and there usually isn't too much of a wait which is nice. The naan is also so delicious. And the amount of food is great, I almost always have a bit of leftovers for the next day which I love.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNqMFBfRGd3RRAB!2m1!1s0x0:0x13e059847ff3eb0e!3m1!1s2@1:CIHM0ogKEICAgICj0P_DgwE%7CCgsIz6_8sAYQwJfAbA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMZL9-W7v9OZ2O8jGKCYUTxrKTmCjFHw0P6BsDw=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOuA9CZIS9uzaqFoLGlpo-4DVZDwfAAcMl6mbMk=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "Rutuja Sutar",
+                "rating": 5,
+                "contributor_id": "117791428470375229873",
+                "description": "Great Indian restaurant, and if you haven’t tried Indian food before I highly recommend trying it. We had Tandoori Chicken, Momos and Cardamom Cheesecake. The cheesecake reminded me of “Shreekhand” - which is a traditional Indian dessert popular in the state of Maharashtra. I’m originally from Maharashtra, so when I had the first bite it took me home- so thanks to the Chef!!  I really loved this interesting take on cheesecake. Momos were just perfect! Tandoori chicken was well balanced with spices. Overall it was good experience and I’ll definitely go back to try some other dishes.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNENmFMM3BRRRAB!2m1!1s0x0:0x13e059847ff3eb0e!3m1!1s2@1:CIHM0ogKEICAgICD6aL3pQE%7CCgsI9tudsAYQ2PjcVw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOIaKW2AC0geHqwXn8hiPLndhOQ0AzHt1GihwhV=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNKFM_NCXRTYNdehKNehV7hp_wC6javvUn87jrs=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPsp3SmVlx-zGWFwLzW_ycms_QoLLP_SJuwzBbt=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "Avram Liebowitz",
+                "rating": 5,
+                "contributor_id": "111350985183849275658",
+                "description": "Service was very pleasant and the food was delicious! I'm looking forwards to eating here again.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuMG9yZEJ3EAE!2m1!1s0x0:0x13e059847ff3eb0e!3m1!1s2@1:CIHM0ogKEICAgIDn0ordBw%7CCgwIzdqAuAYQ2Nb52QI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP2eVyB16mGf0Qu08yt2fYQRV0ffvfY9lV_Pc9t=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPhUoBbJ4NP5P2JqQfQN7OZnqPGKFMWWPxjpu5D=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOfauunSTG8Qemt5qG7HTcFWOXWPmyHPA8_yOs-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPXIP2qEZ60PhLfIhy-rwLs0dhU1N93SR9p3auH=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQRABDUS4DhART7VdkihEubpN6giahtMNngc5B=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMvYgPHDC6Z7RVQPder41idbgZz1Zvtm8rygADQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMoy_eIhSXpshbiJJXqrrwfVB-8n2JnvJf_CQ5-=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Kwak Family",
+                "rating": 5,
+                "contributor_id": "101623188971510202386",
+                "description": "Excellent (authentic per our Indian colleague) Indian food! I felt the deep, complex but well-balanced taste in all dishes! Steamed momos were good, which I think would be better if they were pan-fried. Mango Lassi was also excellent.\n\nWith opening for dinner only, the place was overflowing, an attestment to good food, we can attest to also.\n\nVery attentive service and ambiance aa well.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKb0tHTlVBEAE!2m1!1s0x0:0x13e059847ff3eb0e!3m1!1s2@1:CIHM0ogKEICAgICJoKGNUA%7CCgwIqIq9pAYQuPj2twI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMasZKbJcEcEIbaymVQAVz0gMcR-9FIO2DezArS=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN7XGrxEGeNBMcELwinT70Dy1SDg_2gYI37CjGm=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPK2X-dlezY0wLGwV0ubwUAQ0b6y4N6nNdQPDGN=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNPcFXJH-jF251phNr2XYZKMeoH0fRC4R_jpv3b=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Pun Punyasavatsut",
+                "rating": 3,
+                "contributor_id": "109023526755736912588",
+                "description": "Tasty Indian cuisine. The curry chicken was full of flavors and predominantly tomato based. Do you tandoori chicken, was well seasoned put a bit over cooked and dry. The restaurant is rather crowded and dimly lit.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM1eW9DNlNREAE!2m1!1s0x0:0x13e059847ff3eb0e!3m1!1s2@1:CIHM0ogKEICAgIC5yoC6SQ%7CCgsIwvufqQYQiJvUDw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPTluqMFyTmFO91NggAVh6G6KbZpOR1X1k8bOQv=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPz-KYOGwqDajIrSGxNsgXMD9hMyfMkxchZY23q=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPQhfJdwa62K4maEquSYZI1N2eZWlsDleW8G7Xy=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Aaron Salsitz",
+                "rating": 5,
+                "contributor_id": "109158573087798774430",
+                "description": "The best Indian in Ann Arbor. The seafood korma dining in was so tender and perfectly cooked. Damn fine food. The owner Binod is super cool.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM5cWZ5MEhnEAE!2m1!1s0x0:0x13e059847ff3eb0e!3m1!1s2@1:CIHM0ogKEICAgIC9qfy0Hg%7CCgwI9IikrwYQ4Mea0gM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO-AsBuqjS3EukPfXj4JnaoLBbDNjJHKN5u2EnO=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "Ada Zerhouni",
+                "rating": 5,
+                "contributor_id": "116523072116504836764",
+                "description": "I normally write really long reviews, but I'm not going to. I don't really need to, as this place was amazing!\nIt was super busy and despite that,  we got really great service. The atmosphere was amazing, and the food was absolutely to die for. We could taste that the hard work, and perfectly spiced dishes were a labour's of love!\nI will definitely come back again, and again, and again....\nI even got the owner/chef's autograph!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN6di1QQjVRRRAB!2m1!1s0x0:0x13e059847ff3eb0e!3m1!1s2@1:CIHM0ogKEICAgICzv-PB5QE%7CCgwIwLeHswYQqMrK0AI%7C?hl=en-US",
+                "date": "5 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": false
+    }
+}
