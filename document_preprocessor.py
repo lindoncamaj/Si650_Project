@@ -280,27 +280,35 @@ class Doc2QueryAugmenter:
 class RestaurantTokenizer(Tokenizer):
     def __init__(self, lowercase=True, multiword_expressions=None):
         super().__init__(lowercase, multiword_expressions)
+        self.tokenizer = RegexTokenizer(lowercase=self.lowercase, multiword_expressions=self.multiword_expressions)
 
-    def extract_relevant_text(self, doc):
-        # Extract only the relevant fields for indexing
-        fields = [
-            doc.get("Title", ""),
-            doc.get("Description", ""),
-            " ".join(doc.get("Type", [])),
-            " ".join(doc.get("Details", {}).get("highlights", [])),
-            " ".join(doc.get("Details", {}).get("from_the_business", [])),
-            " ".join(doc.get("Details", {}).get("popular_for", [])),
-            " ".join(doc.get("Details", {}).get("amenities", [])),
-            " ".join(doc.get("Details", {}).get("offerings", [])),
-            " ".join(doc.get("Details", {}).get("accessibility", [])),
-            " ".join([review["description"] for review in doc.get("User_Reviews", {}).get("most_relevant", [])]),
-            " ".join([summary["snippet"] for summary in doc.get("User_Reviews", {}).get("summary", [])])
-        ]
-        return " ".join(fields)
+    def flatten_data(self, data):
+        """
+        Recursively flattens a dictionary or a list into a single string.
+        """
+        flattened_str = ""
+
+        if isinstance(data, dict):
+            for key, value in data.items():
+                if isinstance(value, (dict, list)):
+                    flattened_str += self.flatten_data(value) + " "
+                else:
+                    flattened_str += f"{value} "
+        elif isinstance(data, list):
+            for item in data:
+                if isinstance(item, (dict, list)):
+                    flattened_str += self.flatten_data(item) + " "
+                else:
+                    flattened_str += f"{item} "
+
+        return flattened_str.strip()
 
     def tokenize_document(self, doc: dict) -> list[str]:
-        text = self.extract_relevant_text(doc)
-        return self.tokenize(text)
+        text = self.flatten_data(doc)
+        tokens = self.tokenizer.tokenize(text)
+        return tokens
+
+
 
 
 # Don't forget that you can have a main function here to test anything in the file
