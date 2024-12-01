@@ -1,0 +1,260 @@
+<!--Author: Prithvijit Dasgupta-->
+<!doctype html>
+<html>
+
+<head>
+    <title>SI650 Project - Restaurant Search</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css"
+        integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap"
+        rel="stylesheet">
+</head>
+
+<style>
+    .header {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .left-pad {
+        width: 25%
+    }
+
+    .page-mid {
+        width: 50%;
+    }
+
+    .right-pad {
+        width: 25%;
+    }
+
+    .header-text {
+        font-size: 30;
+        text-align: center;
+    }
+
+    .page {
+        display: flex;
+        flex-direction: column;
+        font-family: 'Fira Sans';
+    }
+
+    .search-bar {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .search-box {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .results-area {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .results-column {
+        width: 50%;
+        padding: 10px;
+    }
+
+    .lds-hourglass {
+        display: inline-block;
+        position: relative;
+        width: 100px;
+        height: 100px;
+    }
+
+    .lds-hourglass:after {
+        content: " ";
+        display: block;
+        border-radius: 50%;
+        width: 0;
+        height: 0;
+        margin: 8px;
+        box-sizing: border-box;
+        border: 32px solid #000;
+        border-color: #000 transparent #000 transparent;
+        animation: lds-hourglass 1.2s infinite;
+    }
+
+    .center {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        padding: 10px;
+    }
+
+    @keyframes lds-hourglass {
+        0% {
+            transform: rotate(0);
+            animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+        }
+
+        50% {
+            transform: rotate(900deg);
+            animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+        }
+
+        100% {
+            transform: rotate(1800deg);
+        }
+    }
+</style>
+
+<body>
+    <div class="page">
+        <div class="header">
+            <div class="left-pad"></div>
+            <div class="page-mid">
+                <h1 class="header-text">SI650 Project - Restaurant Search</h1>
+            </div>
+            <div class="right-pad"></div>
+        </div>
+        <div class="search-bar">
+            <div class="left-pad"></div>
+            <div class="page-mid">
+                <div class="search-box">
+                    <h3 style="width: 13%;">Search query: </h3>
+                    <input style="width: 70%; padding: 10px; height: fit-content; margin-top: 10px;" type="text"
+                        id="query" />
+                    <div style="width: 17%;">
+                        <button class="pure-button pure-button-primary" style="margin-top: 8%; margin-left: 10%;"
+                            onclick="doSearch()">Search!</button>
+                    </div>
+                </div>
+            </div>
+            <div class="right-pad"></div>
+        </div>
+        <div class="results-area">
+            <div class="results-column">
+                <h2 style="text-align: center;">Elasticsearch Results</h2>
+                <div class="lds-hourglass center" id="load-spinner-elastic" hidden></div>
+                <div class="results" id="results-elastic" hidden>
+                    <h3 style="text-align: center;" id="no-res-text-elastic">No results found!</h3>
+                </div>
+            </div>
+            <div class="results-column">
+                <h2 style="text-align: center;">BM25 Results</h2>
+                <div class="lds-hourglass center" id="load-spinner-bm25" hidden></div>
+                <div class="results" id="results-bm25" hidden>
+                    <h3 style="text-align: center;" id="no-res-text-bm25">No results found!</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script>
+    document.getElementById('query').onkeypress = function(e) {
+        if (!e) e = window.event;
+        let keyCode = e.code || e.key;
+        if (keyCode === 'Enter') {
+            doSearch();
+        }
+    }
+
+    async function doSearch() {
+        const query = document.getElementById('query').value.trim();
+        if (!query) {
+            alert("Please enter a search query.");
+            return;
+        }
+
+        const elasticsearchResultsContainer = document.getElementById("results-elastic");
+        const bm25ResultsContainer = document.getElementById("results-bm25");
+        const loaderElastic = document.getElementById("load-spinner-elastic");
+        const loaderBM25 = document.getElementById("load-spinner-bm25");
+        const noResultsTextElastic = document.getElementById("no-res-text-elastic");
+        const noResultsTextBM25 = document.getElementById("no-res-text-bm25");
+
+        loaderElastic.removeAttribute('hidden');
+        loaderBM25.removeAttribute('hidden');
+        elasticsearchResultsContainer.setAttribute('hidden', true);
+        bm25ResultsContainer.setAttribute('hidden', true);
+        noResultsTextElastic.setAttribute('hidden', true);
+        noResultsTextBM25.setAttribute('hidden', true);
+
+        try {
+            // Fetch Elasticsearch results
+            const elasticsearchResponse = await fetch('/search_elasticsearch', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ query: query })
+            });
+
+            const elasticsearchResults = await elasticsearchResponse.json();
+            if (elasticsearchResults.results.length > 0) {
+                displayResults(elasticsearchResults.results, "results-elastic", "Elasticsearch");
+            } else {
+                noResultsTextElastic.removeAttribute('hidden');
+            }
+        } catch (error) {
+            console.error('Error during Elasticsearch search:', error);
+            alert('Elasticsearch search failed, please try again.');
+        }
+
+        try {
+            // Fetch BM25 results
+            const bm25Response = await fetch('/search_bm25', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ query: query })
+            });
+
+            const bm25Results = await bm25Response.json();
+            if (bm25Results.results.length > 0) {
+                displayResults(bm25Results.results, "results-bm25", "BM25");
+            } else {
+                noResultsTextBM25.removeAttribute('hidden');
+            }
+        } catch (error) {
+            console.error('Error during BM25 search:', error);
+            alert('BM25 search failed, please try again.');
+        } finally {
+            loaderElastic.setAttribute('hidden', true);
+            loaderBM25.setAttribute('hidden', true);
+            elasticsearchResultsContainer.removeAttribute('hidden');
+            bm25ResultsContainer.removeAttribute('hidden');
+        }
+    }
+
+    function displayResults(results, containerId, source) {
+        const searchResultsContainer = document.getElementById(containerId);
+        const resultsList = document.createElement('ul');
+        resultsList.setAttribute('id', `search-results-${source.toLowerCase()}`);
+
+        results.forEach(item => {
+            const listItem = document.createElement('li');
+            const titleElement = document.createElement('h3');
+            const descriptionElement = document.createElement('p');
+
+            titleElement.textContent = item.title || 'No Title';
+            descriptionElement.textContent = item.description || 'No Description';
+
+            listItem.appendChild(titleElement);
+            listItem.appendChild(descriptionElement);
+            resultsList.appendChild(listItem);
+        });
+
+        const oldResultsList = document.getElementById(`search-results-${source.toLowerCase()}`);
+        if (oldResultsList) {
+            searchResultsContainer.removeChild(oldResultsList);
+        }
+        searchResultsContainer.appendChild(resultsList);
+    }
+</script>
+
+</html>
