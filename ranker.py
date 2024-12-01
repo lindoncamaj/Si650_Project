@@ -30,7 +30,7 @@ class Ranker:
             scorer: The RelevanceScorer object
         """
         self.index = index
-        self.tokenize = document_preprocessor.tokenize
+        self.tokenize = document_preprocessor.tokenizer.tokenize
         self.scorer = scorer
         self.stopwords = stopwords
         self.raw_text_dict = raw_text_dict
@@ -58,7 +58,6 @@ class Ranker:
         # 3. Run RelevanceScorer (like BM25 from below classes) (implemented as relevance classes)
 
         # 4. Return **sorted** results as format [(100, 0.5), (10, 0.2), ...]
-
         tokenized_query = self.tokenize(query)
 
         if not tokenized_query:
