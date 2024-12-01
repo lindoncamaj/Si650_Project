@@ -6,7 +6,7 @@ This file is a template code file for the Search Engine.
 # your library imports go here
 
 # project library imports go here
-from document_preprocessor import RegexTokenizer
+from document_preprocessor import RegexTokenizer, RestaurantTokenizer
 from indexing import Indexer, IndexType
 from ranker import *
 from models import BaseSearchEngine, SearchResponse
@@ -35,11 +35,12 @@ class SearchEngine(BaseSearchEngine):
                 self.stopwords.add(line.strip())
 
         print('Loading indexes...')
-        self.preprocessor = RegexTokenizer('\w+')
+        self.preprocessor = RestaurantTokenizer()
 
         self.main_index = Indexer.create_index(
             IndexType.BasicInvertedIndex, DATASET_PATH, self.preprocessor, # edited
-            self.stopwords, 0, text_key='Title', max_docs=max_docs
+            self.stopwords, 0,# text_key='Title',
+            max_docs=max_docs
         )
 
         print('Loading ranker...')
