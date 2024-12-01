@@ -1,0 +1,272 @@
+{
+    "docid": 127,
+    "Title": "Achilles Restaurant",
+    "Price": [],
+    "Place ID": "ChIJYXzw-hWvPIgREQnwUZbd7e8",
+    "Type ID": [],
+    "Type": [
+        "Diner",
+        "American restaurant",
+        "Breakfast restaurant",
+        "European restaurant",
+        "Greek restaurant",
+        "Mediterranean restaurant"
+    ],
+    "Menu": {
+        "link": "http://achillesdiner.com/kids-menu",
+        "source": "achillesdiner.com",
+        "items": "Check Doordash menu"
+    },
+    "Address": "3075 Packard St, Ann Arbor, MI 48108",
+    "GPS Coordinates": {
+        "latitude": 42.2453444,
+        "longitude": -83.6986167
+    },
+    "Phone Number": "(734) 971-2020",
+    "Rating": 4.6,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 9
+        },
+        {
+            "stars": 2,
+            "amount": 9
+        },
+        {
+            "stars": 3,
+            "amount": 29
+        },
+        {
+            "stars": 4,
+            "amount": 111
+        },
+        {
+            "stars": 5,
+            "amount": 395
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "7\u202fAM\u20134\u202fPM"
+        },
+        {
+            "saturday": "7\u202fAM\u20134\u202fPM"
+        },
+        {
+            "sunday": "8\u202fAM\u20133\u202fPM"
+        },
+        {
+            "monday": "7\u202fAM\u20134\u202fPM"
+        },
+        {
+            "tuesday": "7\u202fAM\u20134\u202fPM"
+        },
+        {
+            "wednesday": "7\u202fAM\u20134\u202fPM"
+        },
+        {
+            "thursday": "7\u202fAM\u20134\u202fPM (Thanksgiving)"
+        }
+    ],
+    "Description": "Enduring, family-friendly outpost for American diner classics like burgers, sandwiches & omelets.",
+    "Details": [
+        {
+            "highlights": [
+                "Great coffee"
+            ]
+        },
+        {
+            "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Coffee",
+                "Comfort food",
+                "Healthy options",
+                "Quick bite"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy"
+            ]
+        },
+        {
+            "crowd": [
+                "Groups"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"The staff refills your coffee quickly when dining in.\""
+            },
+            {
+                "snippet": "\"Good service, very good food, casual seat-yourself atmosphere.\""
+            },
+            {
+                "snippet": "\"Many daily specials, but a cannot beat breakfast for the price.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Blaine Benson",
+                "rating": 5,
+                "contributor_id": "116309236462344549820",
+                "description": "No frills breakfast oriented diner with exceptional service and very reasonable prices. One of the last of these restaurants around, really a staple of SE Ann Arbor.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6LXZIcE9nEAE!2m1!1s0x0:0xefeddd9651f00911!3m1!1s2@1:CIHM0ogKEICAgICz-vHpOg%7CCgwIgOrssgYQyPyMqAM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM3xiXqsx-FONcQC3-9Em5sK-nM361MEyAjv_HZ=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Thomas Deren",
+                "rating": 5,
+                "contributor_id": "110435672925493389268",
+                "description": "A neighborhood mainstay ever since I was a kid!  Can't go wrong with the menu, especially breakfast, coupled with a classic interior and vibes.  Wonderful staff, plenty of parking, and convenient location too!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYMjluNGV3EAE!2m1!1s0x0:0xefeddd9651f00911!3m1!1s2@1:CIHM0ogKEICAgICX29n4ew%7CCgsI7oPWuAYQqNqrJw%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Angie Tobias",
+                "rating": 5,
+                "contributor_id": "114714280805445678882",
+                "description": "I love this place! It has an old school diner look and feel. You can sit at the bar (no alcohol) or at a booth. The menu is big and you can't go wrong - I have never ordered something i didn't like in the 10+ years I've been going! I love the veggie omelette with American cheese, hash browns, and an english muffin for breakfast. The biscuits and gravy are great too, and the chicken lemon rice soup (daily!) and greek salads are perfect!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNwaGY3LURBEAE!2m1!1s0x0:0xefeddd9651f00911!3m1!1s2@1:CIHM0ogKEICAgICphf7-DA%7CCgsIgtvupgYQqJWaXg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO9ZYWKfZO7lvTTBTQ5ci0WKpq2QMgeod34SPvH=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Ken Cook",
+                "rating": 3,
+                "contributor_id": "114489457788507593433",
+                "description": "Passable lunch spot. Freezer-boxed chicken strips, onion rings to avoid.\nSalads were almost fresh, had to pick old lettuce & onions out.\nDogs were fine, burrito looked great.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIaXZ5dnpnRRAB!2m1!1s0x0:0xefeddd9651f00911!3m1!1s2@1:CIHM0ogKEICAgICHivyvzgE%7CCgsIjKHctgYQuJ-fVg%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Rob Meyer-Kukan",
+                "rating": 5,
+                "contributor_id": "114194404347784306068",
+                "description": "THE BEST service and GREAT staff.  PERFECT \"diner food\".  We especially love the hearty servings for breakfasts.  It's become a weekly regular for us!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNidl9HY2JnEAE!2m1!1s0x0:0xefeddd9651f00911!3m1!1s2@1:CIHM0ogKEICAgICbv_Gcbg%7CCgwI7riptQYQqOLjwgM%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "J B Moore",
+                "rating": 5,
+                "contributor_id": "110317749896432316028",
+                "description": "Always good food at reasonable prices with very friendly staff. Old-fashioned counter service is way-cool. Located in East Ann Arbor's old/original Dog 'n Suds location/building. Yum.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNXNDYySXN3RRAB!2m1!1s0x0:0xefeddd9651f00911!3m1!1s2@1:CIHM0ogKEICAgICW462IswE%7CCgwIj7WOkQYQ4PjwqAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMT9wlAO3aEWLLZm0AK4dgFryE2U-HYArtnLJqx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNUwogjM1LR-nqE6no42cJXcteIbn4L7aPUH9HM=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO5zGiz5ltoiFqpHcAQ3VEKpKcIk6FgKzKPtHgL=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOCxmJFYRLzXhJgbmx42IiS2i3UGbix5Ccu5U7U=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMTHIYfEHYzmVcB9KSgrs-B7kvhEuOzn9xCyrLl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOE0pwgbVKMEdaSk90k2pdzL2At5XhsyrqV6WZo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNKp1v556S7_s-LIcXg4BmC3ahLzAIwD26iE91v=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            },
+            {
+                "username": "K L",
+                "rating": 4,
+                "contributor_id": "103014378516678998880",
+                "description": "Went a few weeks ago\nOmelette was good but the vegetables could have been fresher.\n\nThe service was wonderful.\n\nThe place was nice.\n\nI would come back for the service and give them another go",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNidHVUZ0JREAE!2m1!1s0x0:0xefeddd9651f00911!3m1!1s2@1:CIHM0ogKEICAgICbtuTgBQ%7CCgwIwcmQtQYQyLDsyAM%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Carol Kremer",
+                "rating": 2,
+                "contributor_id": "108701629851548809789",
+                "description": "Love all the omelettes and thought I would try the Super omelette.  We got it to take out and it was terrible.  The meat tasted old, very little cheese and the chili was tasteless straight from a can chili with no beans. I remember when Achilles made their own homemade chili.  We still love all the other omelette and food choices so will continue to be loyal customers but maybe they could make improvements as needed.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNqenVTYU5BEAE!2m1!1s0x0:0xefeddd9651f00911!3m1!1s2@1:CIHM0ogKEICAgICjzuSaNA%7CCgsImfyUsQYQoOb0CQ%7C?hl=en-US",
+                "date": "7 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+    }
+}

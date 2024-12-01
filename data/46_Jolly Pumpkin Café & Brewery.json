@@ -1,0 +1,320 @@
+{
+    "docid": 46,
+    "Title": "Jolly Pumpkin Caf\u00e9 & Brewery",
+    "Price": "$$",
+    "Place ID": "ChIJzQ_7XDyuPIgReuoJA541_NA",
+    "Type ID": [],
+    "Type": [
+        "Restaurant",
+        "Bar",
+        "Brewery",
+        "Cafe",
+        "Gastropub",
+        "Pizza restaurant"
+    ],
+    "Menu": {
+        "link": "https://annarbor.jollypumpkin.com/menu/",
+        "source": "annarbor.jollypumpkin.com",
+        "items": "JALAPENO POPPERS\n\nsharp cheddar \u2014 bacon cream cheese \u2014 ranch\n\nPIMENTO DIP\n\ncheddar \u2014 jalapeno \u2014 piquillo pepper warm bread\n\nTRUFFLED FRENCH FRIES v\n\ncrisp shoestring fries \u2014 truffled sea salt rosemary aioli\n\nNACHOS\n\nred chili marinated chicken \u2014 pickled red onion black beans \u2014 house fontina & aged cheddar\ntomatillo salsa \u2014 sliced avocado \u2014 cilantro\n\nPOZOLE ROJO\n\nroasted pork \u2014 hominy \u2014 lime cilantro \u2014 tortilla chips\n\nBONELESS WINGS\n\nmild, hot, or buffalo \u2014 ranch\n\nCARROT & KALE SALAD vg\n\nkale \u2014 cauliflower \u2014 cranberry \u2014 cucumber spiced carrot \u2014 crispy brown rice \u2014 curry vinaigrette \u2014\nsumac\n\nGRAIN SALAD v\n\navocado \u2014 egg \u2014 quinoa \u2014 parsley \u2014 spiced chickpea \u2014 cucumber raita\n\nSPINACH SALAD\n\nsheeps milk feta \u2014 tomato \u2014 red onion \u2014 ciabatta croutons \u2014 bacon vinaigrette\nBACON PINEAPPLE\n\npickled pineapple \u2014 jalepehos mozzarella \u2014 cilantro\n\nLAMB\n\nbraised lamb \u2014 bechamel \u2014 feta \u2014 olives piquillo peppers \u2014 parmesan \u2014 rosemary\nJOLLY PEPPERONI\n\npepperino \u2014 red sauce \u2014 bacon jalapeno \u2014 red onion \u2014 basil\n\nTRUFFLE v\n\nbechamel \u2014 shiitake mushrooms goat cheese \u2014 parmesan \u2014 fresh mozzarella \u2014 truffle oil arugula\n\u2014 red wine vinaigrette\n\nTOMATO v\n\nroasted tomatoes \u2014 fresh mozzarella basil \u2014 maldon sea salt \u2014 olive oil\n\nBURGER\n\namerican cheese \u2014 crispy onion \u2014 au poivre mayo \u2014 shredded lettuce toasted brioche\nBROCCOLI REUBEN v\n\nroasted broccoli \u2014 slaw \u2014 gruyere russian dressing \u2014 zingerman\u2019s rye\n\nSTEAK FRITES\n\nsliced steak \u2014 truffle fries \u2014 gruyere rosemary aioli \u2014 folded pizza dough\n\nPO\u2019BOY\n\nwalleye \u2014 cauliflower \u2014 chow chow - lettuce tomato \u2014 tartar \u2014 ciabatta hoagie\n\nSALSA MACHA GRILLED CHEESE\n\ncheddar \u2014 fontina \u2014 bacon \u2014 honey tomato \u2014 salsa macha\n\nCRISPY CHICKEN\n\npastured chicken \u2014 sesame cilantro slaw sriracha \u2014 turmeric aioli \u2014 spicy pickle toasted brioche\nPAMBAZO\n\npotato \u2014 crema \u2014 lettuce \u2014 queso fresco chile consomme\u00e9 \u2014 choice of chorizo, pork, or lamb\nBIRRIA TACOS\n\nbraised lamb \u2014 oaxaca cheese chile consomme\u00e9 \u2014 rice\n\nHANGER STEAK\n\n12 oz hanger \u2014 seasonal vegetable potato \u2014 herbed butter\n\nFRIED CHICKEN & ORZO MAC & CHEESE\n\nfried brussels sprouts \u2014 honey\n\nFISH & CHIPS\n\ncrispy walleye \u2014 french fries \u2014 sesame cilantro slaw \u2014 tartar sauce\nSEASONAL FRUIT W. CORNMEAL CRISP v\n\nCOOKIES & MILK v\nICE CREAM SANDWICH v\n"
+    },
+    "Address": "311 S Main St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2791584,
+        "longitude": -83.7484618
+    },
+    "Phone Number": "(734) 913-2730",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 44
+        },
+        {
+            "stars": 2,
+            "amount": 30
+        },
+        {
+            "stars": 3,
+            "amount": 69
+        },
+        {
+            "stars": 4,
+            "amount": 242
+        },
+        {
+            "stars": 5,
+            "amount": 664
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11:30\u202fAM\u201311\u202fPM"
+        },
+        {
+            "saturday": "11:30\u202fAM\u201311\u202fPM"
+        },
+        {
+            "sunday": "11:30\u202fAM\u201310\u202fPM"
+        },
+        {
+            "monday": "11:30\u202fAM\u201310\u202fPM"
+        },
+        {
+            "tuesday": "11:30\u202fAM\u201310\u202fPM"
+        },
+        {
+            "wednesday": "11:30\u202fAM\u201310\u202fPM"
+        },
+        {
+            "thursday": "11:30\u202fAM\u201310\u202fPM (Thanksgiving)"
+        }
+    ],
+    "Description": "Local chain known for truffle fries serves upscale pub fare & pints of rustic craft beer.",
+    "Details": [
+        {
+            "highlights": [
+                "Rooftop seating",
+                "Sports"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Alcohol",
+                "Beer",
+                "Cocktails",
+                "Comfort food",
+                "Happy hour drinks",
+                "Happy hour food",
+                "Hard liquor",
+                "Private dining room",
+                "Vegetarian options",
+                "Wine"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Bar onsite",
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "LGBTQ+ friendly"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "Has changing table(s)",
+                "High chairs",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking garage",
+                "Paid parking lot",
+                "Paid street parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"The menu has a good selection of appetizers, sandwiches, pizza, and other stuff.\""
+            },
+            {
+                "snippet": "\"No place to rate Food so rated Decor and Service poor but really excellent.\""
+            },
+            {
+                "snippet": "\"Margherita pizza was cooked well but lacked flavor and sauce, so was overpriced.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Rob Macdonald",
+                "rating": 5,
+                "contributor_id": "105930198607344388396",
+                "description": "Stopped in on game day from a bite to eat before the night game. We were able to get a table upstairs without a wait.\n\nThe service was solid, and efficient. Couldn't ask for much more with them being busy. Most importantly the food came quickly, was served hot, and delicious.\n\nI would definitely recommend this restaurant. We will be back.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURIcVBySjdRRRAB!2m1!1s0x0:0xd0fc359e0309ea7a!3m1!1s2@1:CIHM0ogKEICAgIDHqPrJ7QE%7CCgsIvdWItwYQ4JTQJQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP8sjmGONnALYWz_dApyqxVCvzcfoRY258JRb5Y=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOYW2piDbCfhPYzLzaJQ1k2A701k2no1lcaIXln=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPuDPGPTBAXiBAxIrWgHP7E0NB8u9TPB9gbfTWR=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "BufferingTurtle",
+                "rating": 5,
+                "contributor_id": "101519822681866764221",
+                "description": "Jolly pumpkin has never disappointed. The red  chicken nachos are one of the best things on the menu and the Fried chicken with orzo mac & cheese was excellent. And our waiter Joe was great too.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNiOXZtQ1lnEAE!2m1!1s0x0:0xd0fc359e0309ea7a!3m1!1s2@1:CIHM0ogKEICAgICb9vmCYg%7CCgsIkqCRtQYQuJj7Rg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPDd5UrRFTKwirKQTN-RH4Z2RNYFsvIDQVuA_3z=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOo0ZvcFk5nLNcIOqT0stg_7BNaEI8vHGBnx_UN=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN9PjH8UA3zoMOXPVsh7MINkRIlLqvPzzAfqbSD=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMIYq4pDOr-3otHC0kyqgbORjfsZ-E3Bp6nGR0t=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Vikram Bala",
+                "rating": 5,
+                "contributor_id": "118263460813448768909",
+                "description": "I really liked this place! It felt cozy and the food was great. We got a bunch of pizzas \ud83c\udf55 and split them - all of them were tremendous! The chicken \ud83c\udf57 nachos were also brilliant \ud83d\udca1 Definitely worth a try if you're in the area!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNINi1MdFJ3EAE!2m1!1s0x0:0xd0fc359e0309ea7a!3m1!1s2@1:CIHM0ogKEICAgICH6-LtRw%7CCgwIs8f5tgYQ-LzVlQM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipODDZmJM1m84hwHzH-1IfLW1IO7RCUVv824Xx5F=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPO_5eDngyCl57pCyLSYJhT8HQIBjR8bTVFf-NV=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Alan Leung",
+                "rating": 5,
+                "contributor_id": "103016831710705848459",
+                "description": "The Jolly pumpkin is one of Ann Arbor\u2019s hidden gems. I went during lunch and it was the greatest experience.\n\nThe waitress was super nice and helpful in explaining the beer selections. The food itself was really good too. I had the ginger soy glazed salmon and it was beautifully made and absolutely delicious.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURieDlxbldnEAE!2m1!1s0x0:0xd0fc359e0309ea7a!3m1!1s2@1:CIHM0ogKEICAgIDbx9qnWg%7CCgwInoXbtQYQuKbY2wE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNC6WyvALo2qLEBlqVIdVaVr_i8l9bKMcCWAru0=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Lanie Alyssa",
+                "rating": 5,
+                "contributor_id": "106947732910566870405",
+                "description": "Sorry I forgot to take a pic sooner - I was so hungry! I had the Popeye pizza with a Calabaza Blanca beer. I know nothing about pairing beers with meals but this combo was on point.\nThe preserved lemons on this pizza were delicious. I'm not from Ann Arbor so I bought a jar of them to try and make my own version of this back home.\nOur service was also on point - our waitress realized the kitchen had put vegan cheese on one of our pizzas by the time she was setting it on the table and immediately called attention to it and they corrected it quickly. Excellent service!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNicV8ySGF3EAE!2m1!1s0x0:0xd0fc359e0309ea7a!3m1!1s2@1:CIHM0ogKEICAgICbq_2Haw%7CCgsIhZmhtQYQ6L-qTQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP4FtCQmSwZonfW5YnGrl0tEYK3uNl8cewJv8Zv=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Levente Klein",
+                "rating": 5,
+                "contributor_id": "109495186562177311042",
+                "description": "Great truffle pizzas and ginger coated salmon dish.They have a rooftop patio, but you need to ask for it. Great services and they are fast.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3c2UtQnJBRRAB!2m1!1s0x0:0xd0fc359e0309ea7a!3m1!1s2@1:CIHM0ogKEICAgID7se-BrAE%7CCgwIt7OstgYQsKL4hAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP67OmoEM3ZxIX6QGLZZZhobggmZZQNa5xA9O0T=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOI9kyHuBi0GP6YLXstG-oGIZ3X2qiSgmkmrLil=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Yoshi Kuronuma",
+                "rating": 4,
+                "contributor_id": "110891120322819999086",
+                "description": "Love the atmosphere.  They open for outside seating during the summer season.  Great place to hangout or drink with your friends, family, and/or someone special.  Good quality of food and beer. Their Truffle flies are my favorite. It's a great with beer.  Staff and service are great too.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN4ejVhSWJnEAE!2m1!1s0x0:0xd0fc359e0309ea7a!3m1!1s2@1:CIHM0ogKEICAgICxz5aIbg%7CCgsI9ZPQowYQkOLhFQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNsvg99Trxjjw_IgCpW68DYywVFKA1c7RFnK8rF=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPbbVwltsCB7oykv26hXknBMlMfJGB6D9n4SWKy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP1cziKPcdITMJXVxwwb-z5tSexZAxqoEeciovo=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNaqWDKdxAiFlEWzLbXFQN-Omfft_Vmuk74QPoa=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMeb5uBt1cS4IaIhKrb61ZOA7x3r8BlVK5SRfLU=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "R",
+                "rating": 4,
+                "contributor_id": "111053636218639042566",
+                "description": "Nice to finally visit the brewery that helped me get more into sours & saisons. The food on offer delicious and filling. The only disappointment was the taplist on the Jolly Pumpkin side was disappointing in that the taplist online was a month out date.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURUcUpqM1pBEAE!2m1!1s0x0:0xd0fc359e0309ea7a!3m1!1s2@1:CIHM0ogKEICAgIDTqJj3ZA%7CCgwI8-K0sgYQsL-argI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOZ1S_vc3PjZ31q_aPv40BmXtx6pxdhqqAeaxre=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM54WnM3UggLYxjAj2pSG9bOSVTG8PcmUvWIld9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPGfbRMLVpairtxW12-WuPx65ocNuKeeIroZHuA=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "docid": 150,
+    "Title": "One Bowl Asian Cuisine",
+    "Price": [],
+    "Place ID": "ChIJq_gjVESuPIgRuUJqLVPNMgE",
+    "Type ID": [],
+    "Type": [
+        "Asian restaurant",
+        "Chinese restaurant",
+        "Japanese restaurant",
+        "Korean restaurant",
+        "Pho restaurant",
+        "Vietnamese restaurant"
+    ],
+    "Menu": {
+        "link": "http://places.singleplatform.com/great-wall-restaurant-143/menu?ref=google",
+        "source": "places.singleplatform.com",
+        "items": "Check Doordash menu"
+    },
+    "Address": "Ann Arbor Plaza, 1220 S University Ave, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.2747318,
+        "longitude": -83.7332667
+    },
+    "Phone Number": "(734) 747-7006",
+    "Rating": 4.2,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 40
+        },
+        {
+            "stars": 2,
+            "amount": 26
+        },
+        {
+            "stars": 3,
+            "amount": 37
+        },
+        {
+            "stars": 4,
+            "amount": 101
+        },
+        {
+            "stars": 5,
+            "amount": 309
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11\u202fAM\u20139\u202fPM"
+        },
+        {
+            "saturday": "11\u202fAM\u20139\u202fPM"
+        },
+        {
+            "sunday": "11\u202fAM\u20139\u202fPM"
+        },
+        {
+            "monday": "11\u202fAM\u20139\u202fPM"
+        },
+        {
+            "tuesday": "11\u202fAM\u20139\u202fPM"
+        },
+        {
+            "wednesday": "11\u202fAM\u20139\u202fPM"
+        },
+        {
+            "thursday": "11\u202fAM\u20139\u202fPM (Thanksgiving)"
+        }
+    ],
+    "Description": "Pan-Asian cafe offering noodle soups, from pho to ramen, plus curries & Korean chow in casual digs.",
+    "Details": [
+        {
+            "from_the_business": [
+                "Identifies as veteran-owned",
+                "Identifies as women-owned"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Coffee",
+                "Comfort food",
+                "Healthy options",
+                "Quick bite",
+                "Vegan options",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Family-friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"They offer Chinese, Japanese, Korean and Vietnamese food.\""
+            },
+            {
+                "snippet": "\"I ordered spicy ramen and fried dumplings and a few egg rolls.\""
+            },
+            {
+                "snippet": "\"The chicken curry hot pot smelled like curry, but it tasted like water.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Hank Putter",
+                "rating": 5,
+                "contributor_id": "110004903601536251886",
+                "description": "Good food! Lady there is always super nice and never had to wait for a table. Been here many a time. The chicken katsu is my favorite thing. Something bout the siracha at this place just hits different too.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURKNklESXRRRRAB!2m1!1s0x0:0x132cd532d6a42b9!3m1!1s2@1:CIHM0ogKEICAgIDJ6IDItQE%7CCgwImpCupQYQiO7wqwM%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPj6BVVFgQXFpnQoQLc7ISu4iba-ZMq16T3Gw0C=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPrrcSdPVJNMrBwF219AgY1T8bKYy-2-MFLxITl=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPDUtmIi85yIgRwbl6F2osuUg37ozGFBEvlxFG8=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMrVH3l2M81Nh4zR3KyUqS4stjXjtYf2LUL5uPK=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMHryiCZ1LnWiOxv_ClM1uNRa9A_Cd4RPHiQXP-=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyXHUFi_XqAyjde0RNbrHVwa0DJomkP8py3-6w=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPvXiuRCNnnMWvtiCj0nDBtjf3DpH3Fb8rs_S2l=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPYeyFRosD1e_teBRhZ0EhG4G0VxoPijIRCo3Lv=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Andy He",
+                "rating": 1,
+                "contributor_id": "105681140178571964918",
+                "description": "It's very easy to tell if the ramen they serve you will or will not taste good by how it looks when they present it to you, and by taking a sip of the broth. Unfortunately, the chicken katsu ramen did not pass either of the two criteria. Despite this, though, it's still edible and I wanted to just leave this review with a 3 star rating. However, when they gave me the bill, they told me the ramen is 14.85, not 13.25 on their old menu from 6 years ago. Maybe they should have told me that before? To make matters worse, they then slap you a mandatory 18% \"gratuity fee\" without offering much of a service apart from serving you one cup of water. I think they confused \"basic restaurant hospitality\" with \"entitled tips\".\n\nWow.\n\nIt felt like they served you the bare minimum and then slap you across the face for it. I'm sorry, but that ramen and your \"service\" is definitely not worth $18.59.\n\nI will definitely not be coming back.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMzM3RMX253RRAB!2m1!1s0x0:0x132cd532d6a42b9!3m1!1s2@1:CIHM0ogKEICAgIC33tL_nwE%7CCgsIs8SuuQYQgKegbg%7C?hl=en-US",
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Venkatesh A",
+                "rating": 4,
+                "contributor_id": "115963391279706108611",
+                "description": "Food is decent quality, but nothing special compared to the variety of Asian food in Ann Arbor. Owner is Korean, so i assume the Korean food is better, but the pork katsu ramen I got was relatively good. Great for a quick and relatively inexpensive meal.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNOMmVTcG5nRRAB!2m1!1s0x0:0x132cd532d6a42b9!3m1!1s2@1:CIHM0ogKEICAgICN2eSpngE%7CCgwIwumWrQYQ8J6UhgE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNezWaznakxoP3YHS20iCijncT2C-758NnOh2m1=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "10 months ago"
+            },
+            {
+                "username": "Eric Lichtenberg",
+                "rating": 4,
+                "contributor_id": "116219700852915984549",
+                "description": "Great Food! Got one of the ramen bowls and the pork curry with coconut. Both came out extremely hot. Very good flavors. The restaurant itself has a nice feel. Lots of cozy signs hung up everywhere.\nOne thing that was interesting is there was an automatic gratuity on the bill of 18%. Not a big deal, just something to be aware of.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNoN2NmODV3RRAB!2m1!1s0x0:0x132cd532d6a42b9!3m1!1s2@1:CIHM0ogKEICAgICh7cf85wE%7CCgsIw9zJnwYQ8KWcSw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNqAuCSGxP3McxabU9Ixff0W-u7ZCq-oDfs0f8z=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNyB87Qqbj8SnFQqaUsxh25Xf30YjN9GnmDlJSs=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Jin-hyuk Yu",
+                "rating": 5,
+                "contributor_id": "100176217665148413003",
+                "description": "Good food and good service.\nMy friends used to coming here and have various korean foods, especially spicy pork with rice.\nI like their Kimbob. It is pretty delicious and worth ordering often.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNIeVBXQ1RBEAE!2m1!1s0x0:0x132cd532d6a42b9!3m1!1s2@1:CIHM0ogKEICAgICHyPWCTA%7CCgwI8bvMtgYQgMLw9AI%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "sam poirier",
+                "rating": 5,
+                "contributor_id": "118418181670705329707",
+                "description": "Just visited this place while I was in Ann Arbor, accidentally bought two family sized ramen for me and my partner lol. But the food was really good and the staff were super nice and helpful! Our food was served very fast after we ordered too!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMxc3I2aHdBRRAB!2m1!1s0x0:0x132cd532d6a42b9!3m1!1s2@1:CIHM0ogKEICAgIC1sr6hwAE%7CCgwImsitrAYQuP7iwAE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMVkpSu2Ai_iLm6BiedmfDmfaK9_0pugPT_1So=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "10 months ago"
+            },
+            {
+                "username": "OnllyCam",
+                "rating": 5,
+                "contributor_id": "110977769835725552824",
+                "description": "I was very thrilled how Soyeon was very kind and showed great hospitality. It made me and my friend feel welcome and happy that she cared about where we were from and even started a conversation with us. I think this restaurant deserves a higher rating than 4.2 not saying it\u2019s horrible. I do believe this restaurant is underrated and I\u2019ll be back here again to see Soyeon again:)",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM3cUtHeU5REAE!2m1!1s0x0:0x132cd532d6a42b9!3m1!1s2@1:CIHM0ogKEICAgIC7qKGyNQ%7CCgwI8crltQYQ-JDc4wE%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Rachel R.",
+                "rating": 5,
+                "contributor_id": "115060956044866388287",
+                "description": "Amazing Katsu Curry rice and the One Bowl Gimbap was delicious. Our server was very attentive with getting our drinks and orders in and the food came out hot and fresh. 10/10 recommended for lunch/dinner!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ3Z0xMTk9nEAE!2m1!1s0x0:0x132cd532d6a42b9!3m1!1s2@1:CIHM0ogKEICAgID7gLLNOg%7CCgsIgYmPtgYQgLudUQ%7C?hl=en-US",
+                "date": "3 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+    }
+}
