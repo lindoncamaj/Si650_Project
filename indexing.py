@@ -500,7 +500,7 @@ class Indexer:
     @staticmethod
     def create_index(index_type: IndexType, dataset_folder: str,
                      document_preprocessor: Tokenizer, stopwords: set[str],
-                     minimum_word_frequency: int, text_key="text",
+                     minimum_word_frequency: int,# text_key="text",
                      max_docs: int = -1, doc_augment_dict: dict[int, list[str]] | None = None) -> InvertedIndex:
         '''
         This function is responsible for going through the documents one by one and inserting them into the index after tokenizing the document
@@ -597,13 +597,14 @@ class Indexer:
                         if max_docs != -1 and doc_count >= max_docs:
                             break
                         if isinstance(doc, dict):
-                            text = doc.get(text_key, '')
+                            # print(doc)
+                            # text = doc.get(text_key, '')
 
                             if doc_augment_dict is not None and "docid" in doc:
                                 queries = " ".join(doc_augment_dict.get(doc["docid"], []))
                                 text += " " + queries
 
-                            tokens = document_preprocessor.tokenize(text)
+                            tokens = document_preprocessor.tokenize_document(doc)
 
                             # Remove stopwords and replace them with None to maintain positions
                             processed_tokens = []
