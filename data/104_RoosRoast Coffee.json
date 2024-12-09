@@ -1,0 +1,374 @@
+{
+    "docid": 104,
+    "Title": "RoosRoast Coffee",
+    "Price": [],
+    "Place ID": "ChIJQ33sG7GvPIgRD05MTWh1Mq0",
+    "Type ID": [],
+    "Type": [
+        "Coffee shop",
+        "Breakfast restaurant",
+        "Burrito restaurant",
+        "Espresso bar",
+        "Lunch restaurant",
+        "Sandwich shop",
+        "Tea store"
+    ],
+    "Menu": {
+        "link": "https://www.roosroast.com/pages/food-and-drink-menu",
+        "source": "roosroast.com",
+        "items": "12/1/24, 1:43 PM RoosRoast Food & Drink Menu: Lobster Butter Love & Breakfast Burritos\n\nDrink Menu\n\nRR long pull - $3 / $4\n\ndrip coffee - $2.5 / $3.5\n\nespresso - $3\n\nlatte, cappuccino - $4 / $4.75\n\ncortado - $3.5\n\nflat white - $3.75\n\namericano - $3.50 / $4.50\n\nhoney vanilla latte - $4.75 / $5.5\n\nmocha - $4.75 / $5.5\n\nancho pancho mocha - $4.75 / $5.5\n\nhot chocolate - $4 / $4.75\n\ncold brew - $4.25\n\nhttps://www.roosroast.com/pages/food-and-drink-menu?srsltid=AfmBOoqhQEQ_yP5jdACcEbas7 gdS4ODZDIAgN_PeOSQ2TMdW/JSgtSDEp 3/10\n12/1/24, 1:43 PM RoosRoast Food & Drink Menu: Lobster Butter Love & Breakfast Burritos\n\nhot chocolate cold brew - $5\n\nRR chai - $4 / $4.75\n\nmatcha latte - $4 / $4.75\n\nhot tea - $3\n\nginger lemon tea - $4 / $4.75\n\niced tea - $3\n\nfever buster tea - $4 / 4.75\n\njozo palmer - $4\n\nhttps://www roosroast.com/pages/food-and-drink-menu?srsltid=AfmBOoqhQEQ_yP5jdACcEbas7gdS40DZDIAgN_Pe0OSQ2TMdW/JSgt5DEp 4/10\n12/1/24, 1:43 PM RoosRoast Food & Drink Menu: Lobster Butter Love & Breakfast Burritos\n\nFood Menu\n\ncheesy p burrito: scrambled egg, potatoes,\ncheddar cheese, salsa, lime mayo, ancho\nsauce - $6.75\n\ncarnitas burrito: roasted pork, jasmine rice,\npickled onion, jalapeno, cilantro, lime mayo,\nsalsa, ancho sauce - $7.5\n\nvegan breakfast burrito: tofu scramble,\npotato, cashew cheese, spinach, salsa, red\nonion, jalapefo - $7.5\n\nduh bagel sandwich: everything bagel, butter,\ncheddar cheese, cream cheese - $4.5\n\ntrucker breakfast sandwich: english muffin,\nbutter, scrambled egg, bacon, spinach,\ncheddar cheese, ancho sauce - $6\n\negg bites: Rotating seasonal flavors $2.75 or\n2 for $5\n\nchocolate protein balls: made in house snack\nto keep you going - $1.6\n\nhttps://www.roosroast.com/pages/food-and-drink-menu?srsltid=AfmBOoqhQEQ_yP5jdACcEbas7 gdS4ODZDIAgN_PeOSQ2TMdW/JSgtSDEp 5/10\n12/1/24, 1:43 PM RoosRoast Food & Drink Menu: Lobster Butter Love & Breakfast Burritos\n\npastries: rotating selections, all local bakers,\nnew everyday!\n\nhousemade sauces: ancho chili, wicked\nsauce, the hot hot sauce.\n\nhttps://www roosroast.com/pages/food-and-drink-menu?srsltid=AfmBOoqhQEQ_yP5jdACcEbas7gdS40DZDIAgN_Pe0OSQ2TMdW/JSgt5DEp 6/10\n"
+    },
+    "Address": "1155 Rosewood St, Ann Arbor, MI 48104, United States",
+    "GPS Coordinates": {
+        "latitude": 42.2552228,
+        "longitude": -83.7341429
+    },
+    "Phone Number": "+1 734-222-9202",
+    "Rating": 4.8,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 12
+        },
+        {
+            "stars": 2,
+            "amount": 10
+        },
+        {
+            "stars": 3,
+            "amount": 21
+        },
+        {
+            "stars": 4,
+            "amount": 109
+        },
+        {
+            "stars": 5,
+            "amount": 967
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "7\u202fam\u20135\u202fpm"
+        },
+        {
+            "saturday": "7\u202fam\u20135\u202fpm"
+        },
+        {
+            "sunday": "7\u202fam\u20135\u202fpm"
+        },
+        {
+            "monday": "7\u202fam\u20135\u202fpm"
+        },
+        {
+            "tuesday": "7\u202fam\u20135\u202fpm"
+        },
+        {
+            "wednesday": "7\u202fam\u20135\u202fpm"
+        },
+        {
+            "thursday": "Closed (Thanksgiving)"
+        }
+    ],
+    "Description": "Artisanal java, tea & pastries in a chill, art-filled cafe with outdoor tables & a delivery bike.",
+    "Details": [
+        {
+            "from_the_business": [
+                "Small Business"
+            ]
+        },
+        {
+            "highlights": [
+                "Great coffee",
+                "Great tea selection",
+                "Live performances"
+            ]
+        },
+        {
+            "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Solo dining",
+                "Good for working on laptop"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair-accessible car park",
+                "Wheelchair-accessible entrance",
+                "Wheelchair-accessible seating",
+                "Wheelchair-accessible toilet"
+            ]
+        },
+        {
+            "offerings": [
+                "Coffee",
+                "Comfort food",
+                "Organic dishes",
+                "Prepared foods",
+                "Quick bite",
+                "Vegan options",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Toilets",
+                "Wi-Fi",
+                "Free Wi-Fi"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cosy",
+                "Trendy"
+            ]
+        },
+        {
+            "crowd": [
+                "Family friendly",
+                "Groups",
+                "LGBTQ+ friendly",
+                "Tourists",
+                "Transgender safe space",
+                "University students"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "Kids' menu"
+            ]
+        },
+        {
+            "parking": [
+                "Free of charge street parking",
+                "Free parking lot",
+                "Plenty of parking"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"You get fresh, tasty beans with a decent variety in roast styles and flavors.\""
+            },
+            {
+                "snippet": "\"I love the smell of roasting beans in the morning; smells like, Lobster Butter.\""
+            },
+            {
+                "snippet": "\"Loved the environment, super friendly staff dancing together with the music.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Harry",
+                "rating": 5,
+                "contributor_id": "111995896153963207597",
+                "description": "RoosRoast Coffee at Rosewood is an absolute gem. The coffee is top-notch, consistently rich and flavorful, whether you\u2019re sipping an espresso or enjoying a cold brew. The staff are friendly and welcoming, always making you feel at home. The patio is a great spot to relax, perfect for sunny mornings or cozy afternoons. Inside, there are cool nooks and creative decor, making it feel both vibrant and laid-back. It\u2019s a great place to bring a book or your laptop and settle in for a while. The overall atmosphere is inviting and fun. Definitely a spot I\u2019d recommend to any coffee lover!\n\nThe Journal book Idea is such an awesome idea, brought a smile when I read some pages.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYZzVQZWFnEAE!2m1!1s0x0:0xad3275684d4c4e0f!3m1!1s2@1:CIHM0ogKEICAgICXg5Peag%7CCgwI_MrQuAYQyMr40gI%7C?hl=en-GB",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPCa2-fqUalHJYeO-AekmQfDpKEXcpyya1sh3kr=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSPaumH5xbw5OGUeiYBU0YQypzSp2-lTanLlqJ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP--cg2EX528YLyFVPEjHAwJ__38gFvNZewLYzB=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOWsryZAM2A-E3Px2dpqjRe0NOiRsLO1gnuDz-L=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOuj-P9-3g7qi8oXAAW5QeWVFM2Xoca1SSj6XJQ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNvViAK6yE1L5MbIi0zsS15WF_J_G8ZNNTo24IR=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNjHuh-h2G3iBa7KD9bkHssvp5YJgOt3GmWyZY9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPj7wbWy61Wa6hl5qfZG43MdS6kIeK-ihTbkM2I=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMyveNQRiZv1MaWcUtLx36odYTOOYVakixx_p4s=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO-X0Lg09JotB_IeWHkpISQiYwmDDaCc_Dj7lj6=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPyxy5ItxdHJaRfVfQMG6k0QKYX8mNvtdiK-hbK=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            },
+            {
+                "username": "Gursimran Bedi",
+                "rating": 4,
+                "contributor_id": "111775714278959682694",
+                "description": "I loved the outdoors with flowers and the picnic benches giving a very laid back and relaxing vibe. We got an iced Vietnamese coffee and a hot mocha. Both drinks were great! The staff was very sweet as they entertained us even if we showed up when the shop was about to close in 10min(we were the last ones to place our order) but they did not make us feel so. The apple trees and extra seating on the side is nice but the apples are all infested and it would be ideal if it was taken care of but it was a good experience. I loved the old Remington typewriter they have kept next to the wait line, reminding us of simpler times.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3cU1QUmdRRRAB!2m1!1s0x0:0xad3275684d4c4e0f!3m1!1s2@1:CIHM0ogKEICAgIC7qMPRgQE%7CCgwIvt_ltQYQsJ2-igI%7C?hl=en-GB",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMeoSqvfobIwbwX1XPRzxmtKzNpyT05lyhu_0ik=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMAtDxBreia-CF_3ZYl_Al_o-kIS-4pEqqEKuRg=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPmbWirG38MP16AZNSom6zGrA8ntyl9lJCE_pQp=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP8C5rAB396G-YU5C0PRI1SO2T3yvontchiXE7L=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNui4yaarY8eq6p7PXMyUqWklfazJ5mqoGB_Hhb=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Ahmed",
+                "rating": 5,
+                "contributor_id": "109902249534369525206",
+                "description": "Just a great spot-\n\nRoos Roast coffee never disappoints. Lots of AA coffee shops serve coffee that originally comes from here, so to get it straight from the source is always nice. This branch also has a lovely outdoor patio, which is especially amazing right now. Staff here are super friendly too. Can\u2019t ask for anything more!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM3NktuUk13EAE!2m1!1s0x0:0xad3275684d4c4e0f!3m1!1s2@1:CIHM0ogKEICAgIC76KnRMw%7CCgwIj6DmtQYQ4M-C7QE%7C?hl=en-GB",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN62CX042CxfrtkFJe8rbQxkblQeOi3C4C2awzI=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPVUwIAvAmr4MzU_OB3dKsRzHyG6Is3bFU9WS_X=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNuldLQvXLif75oxYdR_UHxGKvpCrBvARda0RZx=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNXPfxG8BCjdsDPpTSGwWgNcQIHH_X0PG58AL_X=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO4F_sP4PENllpqQt6Eor3iztYB0wtkkXg4XEbP=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMiLfd_Q1mn7pTlBXujX_-1Ky1dpRRuCsy3c_KP=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 months ago"
+            },
+            {
+                "username": "Nabeel Ozman",
+                "rating": 5,
+                "contributor_id": "116641286645677398474",
+                "description": "Service, friendly, helpful, however not a fan of the matcha, it was more powdery rather than mixed it with a Japanese whisk before poured into the milk.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMzeE15bW1RRRAB!2m1!1s0x0:0xad3275684d4c4e0f!3m1!1s2@1:CIHM0ogKEICAgIC3xMymmQE%7CCgwIwrKauQYQ6J241AI%7C?hl=en-GB",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONadwCcg47n_7Yt3gpmluCYvbXTrWXenkWclr3=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP71-HoFk3x4CEpVar4HiR7pKaXGY3coQZ-BBUt=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNhD2enzfq3bv0tk0DSfSeZMZ0vpDsJnh9RMoEn=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMB4WqHvxZLi8poGjOr47R7WiuLjdrgFKRRDIqU=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMkzV6hhKniDY4UhmjrPliUlgemUt477kl8ALS7=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Cathy Pope",
+                "rating": 5,
+                "contributor_id": "117337509691023605768",
+                "description": "The coffee here is so good! I had the lavender latte with oat milk. They have other alternative milk options as well.\n\nThe roast is delicious and even their vegan bakery items are moist and perfected.\n\nWe also tried the hot cocoa and a latte with oat milk and honey. They have banana bread and cookies and other assortment of goods/foods.\n\nThere's plenty of outdoor seating, so on a nice day you can enjoy the shade and the sun.\n\nIt's perfect for families. And there's plenty of parking on the street and behind the building.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURUaWVYT1J3EAE!2m1!1s0x0:0xad3275684d4c4e0f!3m1!1s2@1:CIHM0ogKEICAgIDTieXORw%7CCgwIx7TIsgYQ8IvtnAM%7C?hl=en-GB",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNbjZIVpX-ut2f0X4cvpGZF2TFwMHDYM1rL-GBy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNE_5XFRtEySMVwCXN2ZdVtS4uK_34nPTyXqM3a=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMuynQ_ZBd9RzKMEO3DHDlg8pgM09O0aXucwAMd=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 months ago"
+            },
+            {
+                "username": "Nicole Welch",
+                "rating": 5,
+                "contributor_id": "108545273183732441865",
+                "description": "Awesome food and delicious drinks! The atmosphere is very artsy. They\u2019re able to accommodate lactose intolerance and decaf as well, which is always awesome! The baristas and everyone were super friendly and helpful too. Highly recommend!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURyd1BLWkxBEAE!2m1!1s0x0:0xad3275684d4c4e0f!3m1!1s2@1:CIHM0ogKEICAgIDrwPKZLA%7CCgsInJPGtAYQ6LzPQQ%7C?hl=en-GB",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNoVZn5jbHJrTMnhjvGRzs-40myPPt-8C_X4vKp=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOIVrtkDfzILm3orBiSBHDMwPTukGNlAy9-r2Et=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN4ubVPXbeaVIB7sPtwdG62uKUeNoTR2CiSft6U=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "4 months ago"
+            },
+            {
+                "username": "Saish Baliga",
+                "rating": 5,
+                "contributor_id": "102406456407824915139",
+                "description": "A very popular and busy spot for a tasty blend of coffee. Hot chocolate and cold brew was very good. Didn't try out their pastries and Toasts.  But Menu looked interesting and will cater to various tastes and preferences.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNINnJHNWV3EAE!2m1!1s0x0:0xad3275684d4c4e0f!3m1!1s2@1:CIHM0ogKEICAgICH6rG5ew%7CCgsIwsTdtgYQ-O_8NQ%7C?hl=en-GB",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMJ5HD8zKoqWaupPlZmOT_aFhL4iyI6DYBf1w2u=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 months ago"
+            },
+            {
+                "username": "Chris Groenendyk",
+                "rating": 5,
+                "contributor_id": "112146538485365172084",
+                "description": "What a fun atmosphere and local eclectic experience. They use a lot of local ingredients with sustainability in mind. Delicious coffee and pastries. The scones were wonderful!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYME51TXp3RRAB!2m1!1s0x0:0xad3275684d4c4e0f!3m1!1s2@1:CIHM0ogKEICAgICX0NuMzwE%7CCgwIn9qpuAYQwNWUzwM%7C?hl=en-GB",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPQVjjzc9Kb60dQl0yl9PCFX7QBWhJcN_ko5Ukb=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a month ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeaway": true,
+        "delivery": false
+    }
+}

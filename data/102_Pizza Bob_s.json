@@ -1,0 +1,199 @@
+{
+    "docid": 102,
+    "Title": "Pizza Bob's",
+    "Price": [],
+    "Place ID": "ChIJY7thGUiuPIgR_Y0N1iZ_0HU",
+    "Type ID": [],
+    "Type": [
+        "Pizza delivery",
+        "Pizza restaurant",
+        "Restaurant"
+    ],
+    "Menu": {
+        "link": "http://www.pizzabobs.net/",
+        "source": "pizzabobs.net",
+        "items": []
+    },
+    "Address": "800 S State St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.271752,
+        "longitude": -83.7408487
+    },
+    "Phone Number": "(734) 665-4517",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 11
+        },
+        {
+            "stars": 2,
+            "amount": 3
+        },
+        {
+            "stars": 3,
+            "amount": 7
+        },
+        {
+            "stars": 4,
+            "amount": 19
+        },
+        {
+            "stars": 5,
+            "amount": 115
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11\u202fAM\u201310\u202fPM"
+        },
+        {
+            "saturday": "11\u202fAM\u201310\u202fPM"
+        },
+        {
+            "sunday": "12\u201310\u202fPM"
+        },
+        {
+            "monday": "11\u202fAM\u201310\u202fPM"
+        },
+        {
+            "tuesday": "11\u202fAM\u201310\u202fPM"
+        },
+        {
+            "wednesday": "11\u202fAM\u201310\u202fPM"
+        },
+        {
+            "thursday": "11\u202fAM\u201310\u202fPM (Thanksgiving)"
+        }
+    ],
+    "Description": "Oven subs & pies with classic or whole wheat crusts share the menu with 15+ milkshake flavors.",
+    "Details": [
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot"
+            ]
+        },
+        {
+            "payments": [
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"This place is pretty good, the people are kind, and the food is alright.\""
+            },
+            {
+                "snippet": "\"The Caramel /Almond malt is an exquisite work of flavor art!\""
+            },
+            {
+                "snippet": "\"Enormous slices, hearty shakes, and monstrous sandwiches sure to wow anyone!\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Max Warschausky",
+                "rating": 5,
+                "contributor_id": "116513527615242126912",
+                "description": "First time I went to Pizza Bob\u2019s was 20 years ago with my Mom and Grandfather. I have been going back periodically over that time and have always ordered the Super Sub. I still believe it is one of the best sandwiches in Ann Arbor. I hear their pizza is good, but I always end up getting the Super Sub because it is so consistently delicious. If you buy a bottle of chapati sauce and pour it on a Super Sub, you will be brought tremendous joy. Shakes are my favorite too. Love this place.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQ5cDR2TEV3EAE!2m1!1s0x0:0x75d07f26d60d8dfd!3m1!1s2@1:CIHM0ogKEICAgID9p4vLEw%7CCgwI-PfyrwYQiPvOrQE%7C?hl=en-US",
+                "date": "8 months ago"
+            },
+            {
+                "username": "Melissa Barrow",
+                "rating": 5,
+                "contributor_id": "102441522019346630028",
+                "description": "I tried the Chipati sandwich today with the special dressing. Loved it! Like a salad in a fresh pita pocket heated in the oven and a dressing that has an Italian flavor.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURLcjgzUXh3RRAB!2m1!1s0x0:0x75d07f26d60d8dfd!3m1!1s2@1:CIHM0ogKEICAgIDKr83QxwE%7CCgwIoLechQYQwJfe3wE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPSIDA6JBZV7oX6qkuEXsFlLdd10FSCgOwlVu-r=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPGk6aK4XyclVxCystRIAxjJcc44XX4Rni3UDmE=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNDFAEk2spv1WrzMiTKbNi7Pua-OQsMXyLJ4gtk=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNgAhJvheFBU97sbAgTQgKQkEQc7S92Hflr4Y-Q=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "3 years ago"
+            },
+            {
+                "username": "Guy Beauregard",
+                "rating": 5,
+                "contributor_id": "118171284010421614053",
+                "description": "I've been visiting Pizza Bobs since 1975 and I love that everything I love about it has not changed in 44 years.  Classic 'hole in the wall' with pizza, subs, calzones and the wonderful, delightful, always pleasing, Chips to,  a salad in a pits.  If you have never had one, please treat yourself and try one.  I ordered a  'Super' and here's the photo.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNZeXBubkN3EAE!2m1!1s0x0:0x75d07f26d60d8dfd!3m1!1s2@1:CIHM0ogKEICAgICYypnnCw%7CCgwI_M645QUQsOvzxgE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNr6Y_6BaQVRtkPGcYUbpHremwF61bjGJI-IG-N=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "5 years ago"
+            },
+            {
+                "username": "Thomas Deren",
+                "rating": 5,
+                "contributor_id": "110435672925493389268",
+                "description": "An Ann Arbor staple for decades!  Enormous slices, hearty shakes, and monstrous sandwiches sure to wow anyone!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYNWFLZGFREAE!2m1!1s0x0:0x75d07f26d60d8dfd!3m1!1s2@1:CIHM0ogKEICAgIDX5aKdaQ%7CCgwI5cKEuQYQ0MaQtAI%7C?hl=en-US",
+                "date": "3 weeks ago"
+            },
+            {
+                "username": "Maulshree Sinha",
+                "rating": 5,
+                "contributor_id": "114023749500272892926",
+                "description": "They've best subs here! \ud83c\udf1f\nAlso, a lot of good vegetarian options!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURacWF5bGFREAE!2m1!1s0x0:0x75d07f26d60d8dfd!3m1!1s2@1:CIHM0ogKEICAgIDZqaylaQ%7CCgsI-8fxqAYQiMjvAQ%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNlvjOl2Ov1yvAGW-aYxkn8ubTBPqcyVhUdhMrK=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN8DHqDE4zIGMCQoPdcA_-76wI3gCjXGWncJZlg=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Brian C",
+                "rating": 4,
+                "contributor_id": "107646080864134735240",
+                "description": "The interior is not very clean but it does have its own college town charm.  Pizza is excellent and the price is reasonable.  The cheese on the pizza seems to have more flavor than other pizzas.\nAlso have outdoor seating which was good for us as we had a dog.\nParking is nightmare however.  Only 3 coin parking for entire strip so we had to park couple blocks away and walk.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNGc2RmeXlRRRAB!2m1!1s0x0:0x75d07f26d60d8dfd!3m1!1s2@1:CIHM0ogKEICAgICFsdfyyQE%7CCgsIlbP1qQYQ-MCocg%7C?hl=en-US",
+                "date": "a year ago"
+            },
+            {
+                "username": "Jerry Allen",
+                "rating": 2,
+                "contributor_id": "116036847979898276222",
+                "description": "Late delivery and it was cold. Dude had a broken foot and didnt leave his car. Way over priced. This little salad was $5.49. Plus they charged be $1.29 for dressing. Wow!!  Ill be here for a month. Someone please recommend a good delivery place",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURnaEw2SWRBEAE!2m1!1s0x0:0x75d07f26d60d8dfd!3m1!1s2@1:CIHM0ogKEICAgIDghL6IdA%7CCgwI3t7EzwUQgKrzzwE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOIgdIJZBDUCUF5oiISuxWTOvDUQzyG4jNMWt6-=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 years ago"
+            },
+            {
+                "username": "Ranae Beyerlein",
+                "rating": 4,
+                "contributor_id": "101434472540391085630",
+                "description": "Sadly, Pizza Bob's moved from its previous location and the city has eliminated any local parking so old memories were lost and older folks will have less access to foods from their past. All of the foods are still available. I suggest utilizing the pick up option.  Keep reading. I had the chipati, which was excellent and two pizzas, also delicious if you don't want the memorable, abundant, stretchy cheese.  The cheese and the toppings were scant, sadly. The sauce was ample and delicious. The dough was tasty.  Sizes are newly named. \"We have no medium,\" so ordering a large, gets you a medium. Shakes a \"dumbed\" down. Instead of actual hot fudge that clings to the side of the cup, you get a homogeneous shake.  :-(  Bob's old counter, lost to the dumpster.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURwamVpbE5BEAE!2m1!1s0x0:0x75d07f26d60d8dfd!3m1!1s2@1:CIHM0ogKEICAgIDpjeilNA%7CCgwIsrWopwYQiKOg0QI%7C?hl=en-US",
+                "date": "a year ago"
+            }
+        ]
+    },
+    "Services": {
+        "takeout": true,
+        "no_contact_delivery": true
+    }
+}

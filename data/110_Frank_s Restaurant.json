@@ -1,0 +1,314 @@
+{
+    "docid": 110,
+    "Title": "Frank's Restaurant",
+    "Price": [],
+    "Place ID": "ChIJdY6vQz-uPIgRhZ0NSAAVr34",
+    "Type ID": [],
+    "Type": [
+        "Diner",
+        "American restaurant"
+    ],
+    "Menu": {
+        "link": "https://orderfranksrestaurant.com/menu",
+        "source": "orderfranksrestaurant.com",
+        "items": "Check Doordash menu"
+    },
+    "Address": "334 Maynard St, Ann Arbor, MI 48104",
+    "GPS Coordinates": {
+        "latitude": 42.278259399999996,
+        "longitude": -83.742325
+    },
+    "Phone Number": "(734) 761-5699",
+    "Rating": 4.5,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 15
+        },
+        {
+            "stars": 2,
+            "amount": 9
+        },
+        {
+            "stars": 3,
+            "amount": 24
+        },
+        {
+            "stars": 4,
+            "amount": 84
+        },
+        {
+            "stars": 5,
+            "amount": 279
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "8\u202fAM\u20132\u202fPM"
+        },
+        {
+            "saturday": "8\u202fAM\u20133\u202fPM"
+        },
+        {
+            "sunday": "8\u202fAM\u20133\u202fPM"
+        },
+        {
+            "monday": "Closed"
+        },
+        {
+            "tuesday": "8\u202fAM\u20132\u202fPM"
+        },
+        {
+            "wednesday": "8\u202fAM\u20132\u202fPM"
+        },
+        {
+            "thursday": "8\u202fAM\u20132\u202fPM (Thanksgiving)"
+        }
+    ],
+    "Description": "Veteran diner serving signature French toast & pancakes, plus sandwiches & soups in old-school digs.",
+    "Details": [
+        {
+            "highlights": [
+                "Great coffee"
+            ]
+        },
+        {
+            "popular_for": [
+                "Breakfast",
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Coffee",
+                "Comfort food",
+                "Quick bite"
+            ]
+        },
+        {
+            "dining_options": [
+                "Breakfast",
+                "Brunch",
+                "Lunch",
+                "Dinner",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual",
+                "Cozy",
+                "Historic"
+            ]
+        },
+        {
+            "crowd": [
+                "College students",
+                "Groups",
+                "Tourists"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards",
+                "NFC mobile payments"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Paid parking lot",
+                "Paid street parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"The staff, prices and quality of food is excellent.\""
+            },
+            {
+                "snippet": "\"Great priced, delicious food, generous portions, and fantastic service.\""
+            },
+            {
+                "snippet": "\"Frank's is a cute little diner tucked away from the main crowd of people.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "jack b",
+                "rating": 4,
+                "contributor_id": "105999466160516036848",
+                "description": "Like breakfast joints?  Then this is your place.  Restaurant is straight out of a 1950\u2019s diner in a movie scene.  Definitely in contrast to Ann Arbor\u2019s trendy breakfast places.  Nothing fancy here, just good old American fare.  Food is good, portions are generous.  Not the cleanest restaurant I\u2019ve been in.  Service was attentive.  I will eat here again.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUREX2Etb193RRAB!2m1!1s0x0:0x7eaf1500480d9d85!3m1!1s2@1:CIHM0ogKEICAgIDD_a-o_wE%7CCgwIn9fpsAYQ8O2ruAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNC0pOhEbI1nNxwDBigadqX9WmMdcOo5dSaixiG=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOIylVnyc7MN9_IW4HMiDav6LQj789Ek0SQ8GSn=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "Samuel Rose",
+                "rating": 5,
+                "contributor_id": "102124435887070760928",
+                "description": "I've wanted to try Franks for a while now. I door dashed the Franks famous French Toast, Western Omelet with cheese and a side of hash browns. The Omelet was perfect. It had lots of fillings, very cheesey, and a great sized portion. The hash browns were uninspiring unfortunately. I wished they were a little crispier and they need more salt.  Now, the French Toast was the star of the show. Crispy exterior with a light doughy center, it was cooked perfectly. It's easily the best french toast I've had in Ann Abor. It's definitely worth going back.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNqLW9hMWlRRRAB!2m1!1s0x0:0x7eaf1500480d9d85!3m1!1s2@1:CIHM0ogKEICAgICj-oa1iQE%7CCgwIndOPsQYQwOH2swE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMRbb9IkXW5CIqJ0YHw3qsaHzQjVuWMUPGwjeBm=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMs6VQdMTyc5-FmvCf06c9ifkL_Eq1JdK-6uOum=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNNZPSB0BL_INT_9gF2JUc4TxMYlj3ofbiPY7xj=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "7 months ago"
+            },
+            {
+                "username": "Ebru Herzog Uras",
+                "rating": 5,
+                "contributor_id": "112771083822226644108",
+                "description": "I feel so fortunate to live, quite literally, next door to this Ann Arbor institution. They have excellent breakfast dishes, and if you see the Philly Cheesesteak on the lunch, you'd be greatly remiss not to order it. I've found their portions are very generous and the service incredibly efficient and polite. My secret tip? The delicious Greek lemon egg drop soup that is sometimes in the menu. And so. Very. Delicious.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN4bHF6WlBnEAE!2m1!1s0x0:0x7eaf1500480d9d85!3m1!1s2@1:CIHM0ogKEICAgICxlqzZPg%7CCgsIltSPowYQwNmTSg%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN86o2GQSKeNV87Uv7W5a9Wm_ofO79BxsrLzdeH=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOplNn7DAepY98JmVQfYTWUDKn5EkSMJ9vMrr6S=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP62Jdq7dPyskPtYngIH85OtFvAu_H1l8f2-z8H=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPui3qyKb6brO3PtSw2GG-UUdkOu_quk1EmG1d5=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Bigg O",
+                "rating": 5,
+                "contributor_id": "111809918248971464691",
+                "description": "Beautiful diner with a great staff. Glad to see some hard working people making some great food for a good value. Omelet was amazing and my wife and son loved the Philly",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNGMGRYR09REAE!2m1!1s0x0:0x7eaf1500480d9d85!3m1!1s2@1:CIHM0ogKEICAgICF0dXGOQ%7CCgwI9Yj1qQYQoK2TgAI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNDw7LAZNWkGjDnRd9bU18-VaCjPenRfxLkI8Ra=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP3pLnSbyLVrt--NCX76fv3bopts7VM8xDL8WAd=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM2XkCZPEE1qj_uRTZAIAJu6HqwF1zAdIqbs9dQ=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Gabriel Heinemann",
+                "rating": 5,
+                "contributor_id": "103274218513805690462",
+                "description": "Somehow I missed out on going to Franks for 25 years, what a fool I\u2019ve been. Great diner food, great prices, and great atmosphere. The patty melt was luxuriously soft and delicious and the spicy chicken sandwich was crispy and cooked well. I will be back many times to try all of the plates I saw people eating.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURwemVLd2lRRRAB!2m1!1s0x0:0x7eaf1500480d9d85!3m1!1s2@1:CIHM0ogKEICAgIDpzeKwiQE%7CCgwIy5appwYQyKr4ngI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNubXGmxDclcjipgQ1lsRreJs6ydCZK_sutGaiZ=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMA4vkXW35EYjw3AEWi113s1fdzP4vxY_J_VpNJ=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "a year ago"
+            },
+            {
+                "username": "Michelle Durant",
+                "rating": 5,
+                "contributor_id": "113010996453817764773",
+                "description": "Very cozy, family vibe! The French toast was PHENOMENAL!!! Sooo good!!!! 10/10! Everything was tasty and the service was great! I will be back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUM5cGZiNUxBEAE!2m1!1s0x0:0x7eaf1500480d9d85!3m1!1s2@1:CIHM0ogKEICAgIC9pfb5LA%7CCgwI4MWnrwYQuPPH4wI%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPeWNlEXBQdWwnabCA6t0ebdemFciBqCwASF109=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOXxIL0Was-XJGPix35ynfiwcGyEWe43dKlRE_A=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPUTyjmypdE8xY77QeaGRVfQLLvn_KuYKtiYfV9=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSEhfUoXAzVPewUtUL8cIDsvf-OZyDtncL4qb5=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "8 months ago"
+            },
+            {
+                "username": "Kim Batchelor",
+                "rating": 5,
+                "contributor_id": "101120730957607554766",
+                "description": "A classic diner! Casual vibes and good food. Some of the best hashbrowns I've ever had. Good prices too. Got a full brunch/lunch and leftovers for under $20. The hostess/waitress was killin' it. The staff are good at what they do and don't mess around. I'm definitely going to make this place a regular stop!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUROXzQtanZnRRAB!2m1!1s0x0:0x7eaf1500480d9d85!3m1!1s2@1:CIHM0ogKEICAgIDN_4-jvgE%7CCgsIwaLVrQYQkL37SA%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPJxS99YQpf_4Z4egwmXVSteHO6hTuWddF7Fdz8=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "9 months ago"
+            },
+            {
+                "username": "Eddi Haskell",
+                "rating": 5,
+                "contributor_id": "110039554614022765702",
+                "description": "Frank's is an nostalgic and  inexpensive old favorite diner that has not changed in a half century. It is located right off the central U of M Campus - near Nickel's Arcade. We visited in August 2018 - and found the huge portions and low prices refreshing -- just about everything else in the area has become expensive and rather \"chic\" as Ann Arbor becomes more upscale. I remember Frank's back from my student days and nothing much has changed. It is a favorite hangout for the football team, we ended up sitting next to three players on the team who clearly were beefing up on the huge portions. Our bill for lunch for two including beverages, tax, and tip under $25.00.  Highly recommended, even if you do not have memories that date back college days.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURRbjZpT1N3EAE!2m1!1s0x0:0x7eaf1500480d9d85!3m1!1s2@1:CIHM0ogKEICAgIDQn6iOSw%7CCgsI7tCr3QUQyIe5Lw%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMaYmfghjPYXvANSWISpVECn9jGLI103GxCDgy4=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNPtYpYxsDpWkBB2tt8-TeScIwt9GVS6L82bk_c=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP_aJ5Mndcuxu4c2QzaVUxxKZvuG58WgSokWENE=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "6 years ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "takeout": true,
+        "no_contact_delivery": true
+    }
+}

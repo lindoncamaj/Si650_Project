@@ -1,0 +1,254 @@
+{
+    "docid": 144,
+    "Title": "El Matador Mexican Cuisine (presented by Temas Taqueria)",
+    "Price": [],
+    "Place ID": "ChIJracBolmxPIgRR06nPZ1qGyY",
+    "Type ID": [],
+    "Type": [
+        "Mexican restaurant",
+        "Chicken restaurant",
+        "Delivery Restaurant",
+        "Takeout Restaurant",
+        "Mexican torta restaurant",
+        "Restaurant",
+        "Sandwich shop",
+        "Taco restaurant"
+    ],
+    "Menu": {
+        "link": "https://matador.ambassador.ai/",
+        "source": "matador.ambassador.ai",
+        "items": []
+    },
+    "Address": "2529 Dexter Ave, Ann Arbor, MI 48103",
+    "GPS Coordinates": {
+        "latitude": 42.285486999999996,
+        "longitude": -83.7817026
+    },
+    "Phone Number": "(734) 780-7225",
+    "Rating": 4.4,
+    "Rating Summary": [
+        {
+            "stars": 1,
+            "amount": 9
+        },
+        {
+            "stars": 2,
+            "amount": 8
+        },
+        {
+            "stars": 3,
+            "amount": 5
+        },
+        {
+            "stars": 4,
+            "amount": 10
+        },
+        {
+            "stars": 5,
+            "amount": 102
+        }
+    ],
+    "Opening Hours": [
+        {
+            "friday": "11\u202fAM\u201310\u202fPM"
+        },
+        {
+            "saturday": "11\u202fAM\u201310\u202fPM"
+        },
+        {
+            "sunday": "Closed"
+        },
+        {
+            "monday": "11\u202fAM\u201310\u202fPM"
+        },
+        {
+            "tuesday": "11\u202fAM\u201310\u202fPM"
+        },
+        {
+            "wednesday": "11\u202fAM\u201310\u202fPM"
+        },
+        {
+            "thursday": "11\u202fAM\u201310\u202fPM (Thanksgiving)"
+        }
+    ],
+    "Description": "",
+    "Details": [
+        {
+            "from_the_business": [
+                "Identifies as Latino-owned"
+            ]
+        },
+        {
+            "popular_for": [
+                "Lunch",
+                "Dinner",
+                "Solo dining"
+            ]
+        },
+        {
+            "accessibility": [
+                "Wheelchair accessible entrance",
+                "Wheelchair accessible parking lot",
+                "Wheelchair accessible restroom",
+                "Wheelchair accessible seating"
+            ]
+        },
+        {
+            "offerings": [
+                "Comfort food",
+                "Quick bite",
+                "Small plates",
+                "Vegetarian options"
+            ]
+        },
+        {
+            "dining_options": [
+                "Lunch",
+                "Dinner",
+                "Catering",
+                "Dessert",
+                "Seating"
+            ]
+        },
+        {
+            "amenities": [
+                "Restroom"
+            ]
+        },
+        {
+            "atmosphere": [
+                "Casual"
+            ]
+        },
+        {
+            "crowd": [
+                "Family-friendly",
+                "LGBTQ+ friendly",
+                "Transgender safespace"
+            ]
+        },
+        {
+            "planning": [
+                "Accepts reservations"
+            ]
+        },
+        {
+            "payments": [
+                "Credit cards",
+                "Debit cards"
+            ]
+        },
+        {
+            "children": [
+                "Good for kids",
+                "High chairs"
+            ]
+        },
+        {
+            "parking": [
+                "Free parking lot",
+                "Free street parking",
+                "Plenty of parking"
+            ]
+        },
+        {
+            "pets": [
+                "Dogs allowed",
+                "Dogs allowed inside",
+                "Dogs allowed outside"
+            ]
+        }
+    ],
+    "User Reviews": {
+        "summary": [
+            {
+                "snippet": "\"Awesome food, great service, the owner even stayed open late to make us a meal.\""
+            },
+            {
+                "snippet": "\"My daughter ordered al pastor tacos they were a weird color and tasted funny.\""
+            },
+            {
+                "snippet": "\"Really tasty, flavorful, soft tacos.\""
+            }
+        ],
+        "most_relevant": [
+            {
+                "username": "Mackenzie Leatherman",
+                "rating": 5,
+                "contributor_id": "112099951280019176750",
+                "description": "Stopped here for lunch, the food was AMAZING and the people working here were so nice. We ate in the restaurant and the vibes were great. We wish we had known this place existed sooner and will definitely be back!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuanVDbVlnEAE!2m1!1s0x0:0x261b6a9d3da74e47!3m1!1s2@1:CIHM0ogKEICAgIDnjuCmYg%7CCgwI-rWGuAYQ4O6voAI%7C?hl=en-US",
+                "date": "a month ago"
+            },
+            {
+                "username": "Frank Leone",
+                "rating": 5,
+                "contributor_id": "117749651069075237351",
+                "description": "It's a small place, but they serve up generous portions of delicious, authentic Mexican food that give you a real bang for your buck! My gorditas were filled to the brim with tender, flavorful al pastor, quality toppings, and sandwiched between crispy homemade tortillas, all washed down with an ice-cold tamarind Jarritos. Check them out!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMzM0t6MmZnEAE!2m1!1s0x0:0x261b6a9d3da74e47!3m1!1s2@1:CIHM0ogKEICAgIC33Kz2fg%7CCgwI6ZSfuQYQ-O7s7wE%7C?hl=en-US",
+                "date": "2 weeks ago"
+            },
+            {
+                "username": "Shawn Slone",
+                "rating": 5,
+                "contributor_id": "114617610432916103652",
+                "description": "The location and appearance belie how good this food really is. Do yourself a favor and get some tacos and don\u2019t forget to try some of the red and green sauce. The guacamole is very good, as well.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3d3FMQjF3RRAB!2m1!1s0x0:0x261b6a9d3da74e47!3m1!1s2@1:CIHM0ogKEICAgID7wqLB1wE%7CCgwIgcydtgYQoKvaqwM%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Sarah Brunette",
+                "rating": 5,
+                "contributor_id": "113781245872476862843",
+                "description": "First time visiting this little place, it was so great! The prices were reasonable and the food was delicious. Can't go wrong with the chipotle chicken tacos, highly recommend!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURydV9ySkJREAE!2m1!1s0x0:0x261b6a9d3da74e47!3m1!1s2@1:CIHM0ogKEICAgIDru_rJBQ%7CCgsI7aLvtAYQsOSQTw%7C?hl=en-US",
+                "date": "4 months ago"
+            },
+            {
+                "username": "Bez Kim",
+                "rating": 5,
+                "contributor_id": "105089722885385939900",
+                "description": "Yesssss!!! We moved from Chicago a year ago and are always looking for true Mexican, the carnitas are great!  The tamales were good, but a little on the soft side, tasted great though... Id definely recommend and we'll be back!!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNtckkySDlBRRAB!2m1!1s0x0:0x261b6a9d3da74e47!3m1!1s2@1:CIHM0ogKEICAgICmrI2H9AE%7CCgwI2rWEjgYQ4PLnggE%7C?hl=en-US",
+                "images": [
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOPD9F0TClv3_NYHQkJTBy5-YHWG9izRJNyUIcy=w150-h150-k-no-p"
+                    },
+                    {
+                        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMaZcH-4EDCRp2N8yfEbX9fL617EhbVgUtFZuNf=w150-h150-k-no-p"
+                    }
+                ],
+                "date": "2 years ago"
+            },
+            {
+                "username": "Christian Bayley",
+                "rating": 5,
+                "contributor_id": "102083211779922763406",
+                "description": "One of my favorite authentic Hispanic places for years. You can't go wrong. I would recommend the papusas the most!",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURiOFo2RHZ3RRAB!2m1!1s0x0:0x261b6a9d3da74e47!3m1!1s2@1:CIHM0ogKEICAgIDb8Z6DvwE%7CCgwI6aPJtQYQiNP_rAI%7C?hl=en-US",
+                "date": "3 months ago"
+            },
+            {
+                "username": "Toni Auker",
+                "rating": 5,
+                "contributor_id": "118418075414116207554",
+                "description": "This is my favorite quick lunch spot. The tacos are amazing and they have so many options.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNuNEotcGhRRRAB!2m1!1s0x0:0x261b6a9d3da74e47!3m1!1s2@1:CIHM0ogKEICAgICn4J-phQE%7CCgsIwri8twYQgOCzDg%7C?hl=en-US",
+                "date": "2 months ago"
+            },
+            {
+                "username": "Chelle Kilmury",
+                "rating": 5,
+                "contributor_id": "105552342627641691238",
+                "description": "There is a special hidden spot where you can find super delicious moist tamales.\nThey are just yum.  My go to treat\nThey are always so nice and caring about the food you are getting.",
+                "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUREdklHalRBEAE!2m1!1s0x0:0x261b6a9d3da74e47!3m1!1s2@1:CIHM0ogKEICAgIDDvIGjTA%7CCgsI37LHsAYQ0Jz-Gg%7C?hl=en-US",
+                "date": "7 months ago"
+            }
+        ]
+    },
+    "Services": {
+        "dine_in": true,
+        "curbside_pickup": true,
+        "no_contact_delivery": true
+    }
+}
