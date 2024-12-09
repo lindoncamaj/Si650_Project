@@ -26,3 +26,22 @@ class CombinedAPIResponse(BaseModel):
 class APIResponse(BaseModel):
     results: List[SearchResult]
     page: Optional[PaginationModel]
+
+class SearchResponse(BaseModel):
+    id: int
+    docid: int
+    score: float
+
+class BaseSearchEngine():
+    def __init__(self, path: str) -> None:
+        pass
+
+    def index(self):
+        pass
+
+    def search(self, query: str) -> list[SearchResponse]:
+        pass
+
+class ExperimentResponse(BaseModel):
+    ndcg: float
+    query: str
