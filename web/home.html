@@ -1,0 +1,373 @@
+<!--Author: Prithvijit Dasgupta-->
+<!doctype html>
+<html>
+
+<head>
+    <title>SI650 Project - Restaurant Search</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css"
+        integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap"
+        rel="stylesheet">
+</head>
+
+<style>
+    .header {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .left-pad {
+        width: 25%
+    }
+
+    .page-mid {
+        width: 50%;
+    }
+
+    .right-pad {
+        width: 25%;
+    }
+
+    .header-text {
+        font-size: 30;
+        text-align: center;
+    }
+
+    .page {
+        display: flex;
+        flex-direction: column;
+        font-family: 'Fira Sans';
+    }
+
+    .search-bar {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .search-box {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .results-area {
+        display: flex;
+        flex-direction: row;
+        justify-content: center; /* Center-align the results columns */
+        flex-shrink: 0;
+    }
+
+    .results-column {
+        width: 50%;
+        padding: 10px;
+    }
+
+    .center-column {
+        width: 50%; /* Adjust width for the centered column */
+        margin: 0 auto; /* Center-align the column */
+    }
+
+    .lds-hourglass {
+        display: inline-block;
+        position: relative;
+        width: 100px;
+        height: 100px;
+    }
+
+    .lds-hourglass:after {
+        content: " ";
+        display: block;
+        border-radius: 50%;
+        width: 0;
+        height: 0;
+        margin: 8px;
+        box-sizing: border-box;
+        border: 32px solid #000;
+        border-color: #000 transparent #000 transparent;
+        animation: lds-hourglass 1.2s infinite;
+    }
+
+    .center {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        padding: 10px;
+    }
+
+    @keyframes lds-hourglass {
+        0% {
+            transform: rotate(0);
+            animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+        }
+
+        50% {
+            transform: rotate(900deg);
+            animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+        }
+
+        100% {
+            transform: rotate(1800deg);
+        }
+    }
+</style>
+
+<body>
+    <div class="page">
+        <div class="header">
+            <div class="left-pad"></div>
+            <div class="page-mid">
+                <h1 class="header-text">SI650 Project - Restaurant Search</h1>
+            </div>
+            <div class="right-pad"></div>
+        </div>
+        <div class="search-bar">
+            <div class="left-pad"></div>
+            <div class="page-mid">
+                <div class="search-box">
+                    <h3 style="width: 13%;">Search query: </h3>
+                    <input style="width: 50%; padding: 10px; height: fit-content; margin-top: 10px;" type="text" id="query" />
+                    <div style="width: 17%;">
+                        <button class="pure-button pure-button-primary" style="margin-top: 8%; margin-left: 10%;" onclick="doSearch()">Search!</button>
+                    </div>
+                </div>
+                <div style="margin-top: 10px;">
+                    <label><input type="radio" name="version" value="elasticsearch" checked="checked" onclick="toggleResults('elasticsearch')"> Elasticsearch</label>
+                    <label><input type="radio" name="version" value="bm25" onclick="toggleResults('bm25')"> BM25</label>
+                    <label><input type="radio" name="version" value="combined" onclick="toggleResults('combined')"> Combined</label>
+                </div>
+            </div>
+            <div class="right-pad"></div>
+        </div>
+        <div class="results-area">
+            <div class="results-column center-column" id="elastic-column">
+                <h2 style="text-align: center;">Elasticsearch Results</h2>
+                <div class="lds-hourglass center" id="load-spinner-elastic" hidden></div>
+                <div class="results" id="results-elastic" hidden>
+                    <h3 style="text-align: center;" id="no-res-text-elastic">No results found!</h3>
+                </div>
+            </div>
+            <div class="results-column center-column" id="bm25-column">
+                <h2 style="text-align: center;">BM25 Results</h2>
+                <div class="lds-hourglass center" id="load-spinner-bm25" hidden></div>
+                <div class="results" id="results-bm25" hidden>
+                    <h3 style="text-align: center;" id="no-res-text-bm25">No results found!</h3>
+                </div>
+            </div>
+            <div class="results-column center-column" id="random-column">
+                <h2 style="text-align: center;">Random Documents</h2>
+                <div class="lds-hourglass center" id="load-spinner-random" hidden></div>
+                <div class="results" id="results-random" hidden>
+                    <h3 style="text-align: center;" id="no-res-text-random">No results found!</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+
+<script>
+    document.getElementById('query').onkeypress = function(e) {
+        if (!e) e = window.event;
+        let keyCode = e.code || e.key;
+        if (keyCode === 'Enter') {
+            doSearch('/search', 'POST');
+        }
+    }
+
+    function toggleResults(version) {
+        const elasticColumn = document.getElementById("elastic-column");
+        const bm25Column = document.getElementById("bm25-column");
+        const randomColumn = document.getElementById("random-column");
+
+        if (version === "elasticsearch") {
+            elasticColumn.style.display = "block";
+            bm25Column.style.display = "none";
+            randomColumn.style.display = "none"; // Hide random column
+            elasticColumn.classList.add("center-column");
+            bm25Column.classList.remove("center-column");
+            randomColumn.classList.remove("center-column"); // Remove class if present
+        } else if (version === "bm25") {
+            elasticColumn.style.display = "none";
+            bm25Column.style.display = "block";
+            randomColumn.style.display = "none"; // Hide random column
+            elasticColumn.classList.remove("center-column");
+            bm25Column.classList.add("center-column");
+            randomColumn.classList.remove("center-column"); // Remove class if present
+        } else if (version === "combined") {
+            elasticColumn.style.display = "block";
+            bm25Column.style.display = "block";
+            randomColumn.style.display = "block"; // Show random column
+            elasticColumn.classList.remove("center-column");
+            bm25Column.classList.remove("center-column");
+            randomColumn.classList.remove("center-column");
+        }
+    }
+
+    async function doSearch() {
+        const query = document.getElementById('query').value.trim();
+        const version = document.querySelector('input[name="version"]:checked').value;
+        if (!query) {
+            alert("Please enter a search query.");
+            return;
+        }
+
+        if (version === "combined") {
+            await doCombinedSearch(query);
+        } else {
+            await doSimpleSearch(query, version);
+        }
+    }
+
+    async function doSimpleSearch(query, version) {
+        const resultsContainer = version === "elasticsearch" ? document.getElementById("results-elastic") : document.getElementById("results-bm25");
+        const loader = version === "elasticsearch" ? document.getElementById("load-spinner-elastic") : document.getElementById("load-spinner-bm25");
+        const noResultsText = version === "elasticsearch" ? document.getElementById("no-res-text-elastic") : document.getElementById("no-res-text-bm25");
+
+        loader.removeAttribute('hidden');
+        resultsContainer.setAttribute('hidden', true);
+        noResultsText.setAttribute('hidden', true);
+
+        try {
+            const response = await fetch('http://127.0.0.1:8000/search', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ query: query, version: version })
+            });
+
+            const results = await response.json();
+
+            if (results.results && results.results.length > 0) {
+                displayResults(results.results, resultsContainer);
+            } else {
+                noResultsText.removeAttribute('hidden');
+            }
+        } catch (error) {
+            console.error(`Error during ${version} search:`, error);
+            alert(`${version.charAt(0).toUpperCase() + version.slice(1)} search failed, please try again.`);
+        } finally {
+            loader.setAttribute('hidden', true);
+            resultsContainer.removeAttribute('hidden');
+        }
+    }
+
+    async function doCombinedSearch(query) {
+        const elasticsearchResultsContainer = document.getElementById("results-elastic");
+        const bm25ResultsContainer = document.getElementById("results-bm25");
+        const randomResultsContainer = document.getElementById("results-random");
+        const loaderElastic = document.getElementById("load-spinner-elastic");
+        const loaderBM25 = document.getElementById("load-spinner-bm25");
+        const loaderRandom = document.getElementById("load-spinner-random");
+        const noResultsTextElastic = document.getElementById("no-res-text-elastic");
+        const noResultsTextBM25 = document.getElementById("no-res-text-bm25");
+        const noResultsTextRandom = document.getElementById("no-res-text-random");
+
+        loaderElastic.removeAttribute('hidden');
+        loaderBM25.removeAttribute('hidden');
+        loaderRandom.removeAttribute('hidden');
+        elasticsearchResultsContainer.setAttribute('hidden', true);
+        bm25ResultsContainer.setAttribute('hidden', true);
+        randomResultsContainer.setAttribute('hidden', true);
+        noResultsTextElastic.setAttribute('hidden', true);
+        noResultsTextBM25.setAttribute('hidden', true);
+        noResultsTextRandom.setAttribute('hidden', true);
+
+        try {
+            const response = await fetch('http://127.0.0.1:8000/search', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ query: query, version: 'combined' })
+            });
+
+            const results = await response.json();
+
+            clearResults('results-elastic');
+            clearResults('results-bm25');
+            clearResults('results-random');
+
+            if (results.elasticsearch_results && results.elasticsearch_results.length > 0) {
+                displayResults(results.elasticsearch_results, elasticsearchResultsContainer);
+            } else {
+                noResultsTextElastic.removeAttribute('hidden');
+            }
+
+            if (results.bm25_results && results.bm25_results.length > 0) {
+                displayResults(results.bm25_results, bm25ResultsContainer);
+            } else {
+                noResultsTextBM25.removeAttribute('hidden');
+            }
+
+            if (results.random_results && results.random_results.length > 0) {
+                displayResults(results.random_results, randomResultsContainer);
+            } else {
+                noResultsTextRandom.removeAttribute('hidden');
+            }
+        } catch (error) {
+            console.error('Error during combined search:', error);
+            alert('Combined search failed, please try again.');
+        } finally {
+            loaderElastic.setAttribute('hidden', true);
+            loaderBM25.setAttribute('hidden', true);
+            loaderRandom.setAttribute('hidden', true);
+            elasticsearchResultsContainer.removeAttribute('hidden');
+            bm25ResultsContainer.removeAttribute('hidden');
+            randomResultsContainer.removeAttribute('hidden');
+        }
+    }
+
+
+    function displayResults(results, container) {
+        const resultsList = document.createElement('ol');
+        resultsList.setAttribute('id', `search-results-${container.id}`);
+
+        results.forEach(item => {
+            const listItem = document.createElement('li');
+            const titleElement = document.createElement('a');
+            const descriptionElement = document.createElement('p');
+            const addressElement = document.createElement('p');
+
+            titleElement.textContent = item.title || 'No Title';
+            titleElement.href = item.link || '#';
+            titleElement.target = '_blank';
+
+            descriptionElement.textContent = item.description || 'No Description';
+            addressElement.textContent = item.address || "No Address"
+
+            listItem.appendChild(titleElement);
+            listItem.appendChild(descriptionElement);
+            listItem.appendChild(addressElement)
+            resultsList.appendChild(listItem);
+        });
+
+        const oldResultsList = document.getElementById(`search-results-${container.id}`);
+        if (oldResultsList) {
+            container.removeChild(oldResultsList);
+        }
+        container.appendChild(resultsList);
+    }
+
+    function clearResults(containerId) {
+        const container = document.getElementById(containerId);
+        const oldResultsList = document.getElementById(`search-results-${containerId}`);
+
+        if (oldResultsList) {
+            container.removeChild(oldResultsList);
+        }
+    }
+
+    // Initialize the view based on the default selected version
+    document.addEventListener('DOMContentLoaded', () => {
+        toggleResults(document.querySelector('input[name="version"]:checked').value);
+    });
+</script>
+
+</html>
