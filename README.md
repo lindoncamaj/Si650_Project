@@ -4,10 +4,6 @@ This is a Python 3.11 FastAPI project with the necessary requirements added to t
 
 ### Environment Setup
 
-After downloading the `HW1.zip` file from canvas, you will unzip the file, which gives you a `HW1` folder. You will also download `multi_word_expressions.txt` from canvas. Put it in the `HW1` folder. 
-
-Now, we will create a virtual environment for your search engine project.
-
 1. Install Python 3.11
 
     Follow the link [Python 3.11](https://www.python.org/downloads/release/python-3112/) to install Python 3.11. After installation, you can check the version of your Python by running the following command.
@@ -66,7 +62,7 @@ Now, we will create a virtual environment for your search engine project.
 After you have all of these files and the necessary Python requirements installed in your environment, run 
 
 ```
-python3 -m uvicorn app:app
+python3 app.py
 ```
 
 to start the server.
