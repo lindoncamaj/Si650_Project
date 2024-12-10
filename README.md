@@ -62,9 +62,19 @@ This is a Python 3.11 FastAPI project with the necessary requirements added to t
 After you have all of these files and the necessary Python requirements installed in your environment, run 
 
 ```
-python3 app.py
+python3 -m uvicorn app:app
 ```
 
 to start the server.
 
 It will give you an address that starts with `http://`. Copy and paste it in your browser. 
+
+### Deactivate the virtual environment
+
+After you are done running the server, you can use this command to deactivate the virtual environment:
+
+```
+deactivate
+```
+
+After running the deactivate command, your virtual environment will be deactivated, and you'll return to the global Python environment. You'll see that the virtual environment's name (in our case, `(si650)`) disappears from your command prompt, indicating that you are no longer in the virtual environment.
