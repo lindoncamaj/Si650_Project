@@ -68,19 +68,3 @@ python3 app.py
 to start the server.
 
 It will give you an address that starts with `http://`. Copy and paste it in your browser. 
-
-NOTE: To get a functioning search engine, you need to implement at least one of the preprocessor, indexer, and ranker. Otherwise you would get an empty page with no search results. 
-
-
-### Deactivate the virtual environment
-
-After you are done running the server, you can use this command to deactivate the virtual environment:
-
-```
-deactivate
-```
-
-After running the deactivate command, your virtual environment will be deactivated, and you'll return to the global Python environment. You'll see that the virtual environment's name (in our case, `(si650)`) disappears from your command prompt, indicating that you are no longer in the virtual environment.
-
-
-More comments are present in the code files themselves. And if you have trouble understanding parts of the code, please ping any of the GSIs for the course on Slack or create a post on Piazza. 
